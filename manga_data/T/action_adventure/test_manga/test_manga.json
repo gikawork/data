@@ -1,0 +1,20 @@
+{
+  "title": "Test Manga",
+  "description": "Manga de teste",
+  "author": "Test Author",
+  "artist": "Test Artist",
+  "status": "ongoing",
+  "chapters": {
+    "001": {
+      "title": "Capítulo 1",
+      "volume": "",
+      "last_updated": "1694000000",
+      "groups": {
+        "test_group": [
+          "url1.jpg",
+          "url2.jpg"
+        ]
+      }
+    }
+  }
+}
