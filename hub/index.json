@@ -1,4 +1,9 @@
 {
+  "metadata": {
+    "lastUpdated": 1758088359,
+    "totalMangas": 449,
+    "version": "1.0.3"
+  },
   "mangas": {
     "JP1021": {
       "title": "Where the Clouds Stop",
@@ -5388,13 +5393,5 @@
         }
       ]
     }
-  },
-  "metadata": {
-    "generated_at": "2025-09-17T05:32:57.322867",
-    "total_mangas": 449,
-    "rebuilt_from_lists": true,
-    "lastUpdated": 1758088082,
-    "version": "1.0.2",
-    "totalMangas": 449
   }
 }
