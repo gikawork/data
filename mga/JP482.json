@@ -6,34 +6,6 @@
   "cover": "https://cdn.mangaupdates.com/image/i376980.jpg",
   "status": "OnGoing",
   "chapters": {
-    "26": {
-      "title": "Capítulo 26",
-      "volume": "",
-      "last_updated": "1758919223",
-      "groups": {
-        "gikamura": [
-          "https://cdn.mangalivre.ru/manga_68813b53288bb/19f086ab31cd5afca9f8b6381979f675/01.webp",
-          "https://cdn.mangalivre.ru/manga_68813b53288bb/19f086ab31cd5afca9f8b6381979f675/02.webp",
-          "https://cdn.mangalivre.ru/manga_68813b53288bb/19f086ab31cd5afca9f8b6381979f675/03.webp",
-          "https://cdn.mangalivre.ru/manga_68813b53288bb/19f086ab31cd5afca9f8b6381979f675/04.webp",
-          "https://cdn.mangalivre.ru/manga_68813b53288bb/19f086ab31cd5afca9f8b6381979f675/05.webp",
-          "https://cdn.mangalivre.ru/manga_68813b53288bb/19f086ab31cd5afca9f8b6381979f675/06.webp",
-          "https://cdn.mangalivre.ru/manga_68813b53288bb/19f086ab31cd5afca9f8b6381979f675/07.webp",
-          "https://cdn.mangalivre.ru/manga_68813b53288bb/19f086ab31cd5afca9f8b6381979f675/08.webp",
-          "https://cdn.mangalivre.ru/manga_68813b53288bb/19f086ab31cd5afca9f8b6381979f675/09.webp",
-          "https://cdn.mangalivre.ru/manga_68813b53288bb/19f086ab31cd5afca9f8b6381979f675/10.webp",
-          "https://cdn.mangalivre.ru/manga_68813b53288bb/19f086ab31cd5afca9f8b6381979f675/11.webp",
-          "https://cdn.mangalivre.ru/manga_68813b53288bb/19f086ab31cd5afca9f8b6381979f675/12.webp",
-          "https://cdn.mangalivre.ru/manga_68813b53288bb/19f086ab31cd5afca9f8b6381979f675/13.webp",
-          "https://cdn.mangalivre.ru/manga_68813b53288bb/19f086ab31cd5afca9f8b6381979f675/14.webp",
-          "https://cdn.mangalivre.ru/manga_68813b53288bb/19f086ab31cd5afca9f8b6381979f675/15.webp",
-          "https://cdn.mangalivre.ru/manga_68813b53288bb/19f086ab31cd5afca9f8b6381979f675/16.webp",
-          "https://cdn.mangalivre.ru/manga_68813b53288bb/19f086ab31cd5afca9f8b6381979f675/17.webp",
-          "https://cdn.mangalivre.ru/manga_68813b53288bb/19f086ab31cd5afca9f8b6381979f675/18.webp",
-          "https://cdn.mangalivre.ru/manga_68813b53288bb/19f086ab31cd5afca9f8b6381979f675/19.webp"
-        ]
-      }
-    },
     "73.2": {
       "title": "Capítulo 73.2",
       "volume": "",
@@ -2524,6 +2496,34 @@
         ]
       }
     },
+    "26": {
+      "title": "Capítulo 26",
+      "volume": "",
+      "last_updated": "1758919223",
+      "groups": {
+        "gikamura": [
+          "https://cdn.mangalivre.ru/manga_68813b53288bb/19f086ab31cd5afca9f8b6381979f675/01.webp",
+          "https://cdn.mangalivre.ru/manga_68813b53288bb/19f086ab31cd5afca9f8b6381979f675/02.webp",
+          "https://cdn.mangalivre.ru/manga_68813b53288bb/19f086ab31cd5afca9f8b6381979f675/03.webp",
+          "https://cdn.mangalivre.ru/manga_68813b53288bb/19f086ab31cd5afca9f8b6381979f675/04.webp",
+          "https://cdn.mangalivre.ru/manga_68813b53288bb/19f086ab31cd5afca9f8b6381979f675/05.webp",
+          "https://cdn.mangalivre.ru/manga_68813b53288bb/19f086ab31cd5afca9f8b6381979f675/06.webp",
+          "https://cdn.mangalivre.ru/manga_68813b53288bb/19f086ab31cd5afca9f8b6381979f675/07.webp",
+          "https://cdn.mangalivre.ru/manga_68813b53288bb/19f086ab31cd5afca9f8b6381979f675/08.webp",
+          "https://cdn.mangalivre.ru/manga_68813b53288bb/19f086ab31cd5afca9f8b6381979f675/09.webp",
+          "https://cdn.mangalivre.ru/manga_68813b53288bb/19f086ab31cd5afca9f8b6381979f675/10.webp",
+          "https://cdn.mangalivre.ru/manga_68813b53288bb/19f086ab31cd5afca9f8b6381979f675/11.webp",
+          "https://cdn.mangalivre.ru/manga_68813b53288bb/19f086ab31cd5afca9f8b6381979f675/12.webp",
+          "https://cdn.mangalivre.ru/manga_68813b53288bb/19f086ab31cd5afca9f8b6381979f675/13.webp",
+          "https://cdn.mangalivre.ru/manga_68813b53288bb/19f086ab31cd5afca9f8b6381979f675/14.webp",
+          "https://cdn.mangalivre.ru/manga_68813b53288bb/19f086ab31cd5afca9f8b6381979f675/15.webp",
+          "https://cdn.mangalivre.ru/manga_68813b53288bb/19f086ab31cd5afca9f8b6381979f675/16.webp",
+          "https://cdn.mangalivre.ru/manga_68813b53288bb/19f086ab31cd5afca9f8b6381979f675/17.webp",
+          "https://cdn.mangalivre.ru/manga_68813b53288bb/19f086ab31cd5afca9f8b6381979f675/18.webp",
+          "https://cdn.mangalivre.ru/manga_68813b53288bb/19f086ab31cd5afca9f8b6381979f675/19.webp"
+        ]
+      }
+    },
     "25.2": {
       "title": "Capítulo 25.2",
       "volume": "",
@@ -3784,6 +3784,5 @@
         ]
       }
     }
-  },
-  "filePath": "/home/jhoorodr/Projetos/Projetos-code/MOE/reader_scraper/metadata/json/JP482.json"
+  }
 }
