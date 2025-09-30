@@ -6,15 +6,45 @@
   "cover": "https://cdn.mangaupdates.com/image/i392556.jpg",
   "status": "OnGoing",
   "chapters": {
-    "10": {
-      "title": "Capítulo 10",
+    "14": {
+      "title": "Capítulo 14",
+      "volume": "",
+      "last_updated": "1758910827",
+      "groups": {
+        "gikamura": [
+          "https://cdn.mangalivre.ru//223cc3cfff399d4ded2da700c988ee4a/1.webp",
+          "https://cdn.mangalivre.ru//223cc3cfff399d4ded2da700c988ee4a/2.webp"
+        ]
+      }
+    },
+    "13": {
+      "title": "Capítulo 13",
+      "volume": "",
+      "last_updated": "1758910827",
+      "groups": {
+        "gikamura": [
+          "https://cdn.mangalivre.ru//009338c0f964d2349c9fa9bf1eb2a697/1.webp"
+        ]
+      }
+    },
+    "12": {
+      "title": "Capítulo 12",
       "volume": "",
       "last_updated": "1758910828",
       "groups": {
         "gikamura": [
-          "https://cdn.mangalivre.ru//1c6265666ca6667f815496ed2c5eb48b/1.webp",
-          "https://cdn.mangalivre.ru//1c6265666ca6667f815496ed2c5eb48b/2.webp",
-          "https://cdn.mangalivre.ru//1c6265666ca6667f815496ed2c5eb48b/3.webp"
+          "https://cdn.mangalivre.ru//994d2ddb95730450621ed76c98c708e1/1.webp"
+        ]
+      }
+    },
+    "11.5": {
+      "title": "Capítulo 11.5",
+      "volume": "",
+      "last_updated": "1758910828",
+      "groups": {
+        "gikamura": [
+          "https://cdn.mangalivre.ru//a78576a71de52e7aad641eebfe96c042/1.webp",
+          "https://cdn.mangalivre.ru//a78576a71de52e7aad641eebfe96c042/2.webp"
         ]
       }
     },
@@ -29,45 +59,15 @@
         ]
       }
     },
-    "12": {
-      "title": "Capítulo 12",
+    "10": {
+      "title": "Capítulo 10",
       "volume": "",
       "last_updated": "1758910828",
       "groups": {
         "gikamura": [
-          "https://cdn.mangalivre.ru//994d2ddb95730450621ed76c98c708e1/1.webp"
-        ]
-      }
-    },
-    "13": {
-      "title": "Capítulo 13",
-      "volume": "",
-      "last_updated": "1758910827",
-      "groups": {
-        "gikamura": [
-          "https://cdn.mangalivre.ru//009338c0f964d2349c9fa9bf1eb2a697/1.webp"
-        ]
-      }
-    },
-    "14": {
-      "title": "Capítulo 14",
-      "volume": "",
-      "last_updated": "1758910827",
-      "groups": {
-        "gikamura": [
-          "https://cdn.mangalivre.ru//223cc3cfff399d4ded2da700c988ee4a/1.webp",
-          "https://cdn.mangalivre.ru//223cc3cfff399d4ded2da700c988ee4a/2.webp"
-        ]
-      }
-    },
-    "11.5": {
-      "title": "Capítulo 11.5",
-      "volume": "",
-      "last_updated": "1758910828",
-      "groups": {
-        "gikamura": [
-          "https://cdn.mangalivre.ru//a78576a71de52e7aad641eebfe96c042/1.webp",
-          "https://cdn.mangalivre.ru//a78576a71de52e7aad641eebfe96c042/2.webp"
+          "https://cdn.mangalivre.ru//1c6265666ca6667f815496ed2c5eb48b/1.webp",
+          "https://cdn.mangalivre.ru//1c6265666ca6667f815496ed2c5eb48b/2.webp",
+          "https://cdn.mangalivre.ru//1c6265666ca6667f815496ed2c5eb48b/3.webp"
         ]
       }
     },
@@ -279,6 +279,5 @@
         ]
       }
     }
-  },
-  "filePath": "/home/jhoorodr/Projetos/Projetos-code/MOE/reader_scraper/metadata/json/JP174.json"
+  }
 }
