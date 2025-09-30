@@ -1,0 +1,32 @@
+{
+  "title": "A Strict Gyaru to the Otaku",
+  "description": "",
+  "artist": "Kuga Tsuniya",
+  "author": "Kuga Tsuniya",
+  "cover": "https://mangadex.org/covers/0d038274-2f8c-48d2-8626-708eee360755/b92a2091-d8c5-4744-b6d9-a06699f3f725.jpg",
+  "status": "OnGoing",
+  "chapters": {
+    "02": {
+      "title": "Capítulo 2",
+      "volume": "",
+      "last_updated": "1758879019",
+      "groups": {
+        "gikamura": [
+          "https://cdn.mangalivre.ru/manga_67c01b179706a/609bd293fe674bc80ce8048fdd0adcec/1.webp",
+          "https://cdn.mangalivre.ru/manga_67c01b179706a/609bd293fe674bc80ce8048fdd0adcec/2.png"
+        ]
+      }
+    },
+    "01": {
+      "title": "Capítulo 1",
+      "volume": "",
+      "last_updated": "1758879015",
+      "groups": {
+        "gikamura": [
+          "https://cdn.mangalivre.ru//29a99620dc639067fd9ba170f990a1d9/1.webp",
+          "https://cdn.mangalivre.ru//29a99620dc639067fd9ba170f990a1d9/2.png"
+        ]
+      }
+    }
+  }
+}
