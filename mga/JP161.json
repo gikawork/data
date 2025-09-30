@@ -6,20 +6,6 @@
   "cover": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx121940-QMSYfoj2SbBW.jpg",
   "status": "OnGoing",
   "chapters": {
-    "10": {
-      "title": "Capítulo 10",
-      "volume": "",
-      "last_updated": "1758910566",
-      "groups": {
-        "gikamura": [
-          "https://cdn.mangalivre.ru/manga_68838275ded8b/c431edbebb25b84ebdfb2da53dba2352/1.webp",
-          "https://cdn.mangalivre.ru/manga_68838275ded8b/c431edbebb25b84ebdfb2da53dba2352/2.webp",
-          "https://cdn.mangalivre.ru/manga_68838275ded8b/c431edbebb25b84ebdfb2da53dba2352/3.webp",
-          "https://cdn.mangalivre.ru/manga_68838275ded8b/c431edbebb25b84ebdfb2da53dba2352/4.webp",
-          "https://cdn.mangalivre.ru/manga_68838275ded8b/c431edbebb25b84ebdfb2da53dba2352/5.webp"
-        ]
-      }
-    },
     "11": {
       "title": "Capítulo 11",
       "volume": "",
@@ -31,6 +17,20 @@
           "https://cdn.mangalivre.ru/manga_68838275ded8b/d5518ca9b6a44488ef46d5aec42c6864/3.webp",
           "https://cdn.mangalivre.ru/manga_68838275ded8b/d5518ca9b6a44488ef46d5aec42c6864/4.webp",
           "https://cdn.mangalivre.ru/manga_68838275ded8b/d5518ca9b6a44488ef46d5aec42c6864/5.webp"
+        ]
+      }
+    },
+    "10": {
+      "title": "Capítulo 10",
+      "volume": "",
+      "last_updated": "1758910566",
+      "groups": {
+        "gikamura": [
+          "https://cdn.mangalivre.ru/manga_68838275ded8b/c431edbebb25b84ebdfb2da53dba2352/1.webp",
+          "https://cdn.mangalivre.ru/manga_68838275ded8b/c431edbebb25b84ebdfb2da53dba2352/2.webp",
+          "https://cdn.mangalivre.ru/manga_68838275ded8b/c431edbebb25b84ebdfb2da53dba2352/3.webp",
+          "https://cdn.mangalivre.ru/manga_68838275ded8b/c431edbebb25b84ebdfb2da53dba2352/4.webp",
+          "https://cdn.mangalivre.ru/manga_68838275ded8b/c431edbebb25b84ebdfb2da53dba2352/5.webp"
         ]
       }
     },
@@ -154,6 +154,5 @@
         ]
       }
     }
-  },
-  "filePath": "/home/jhoorodr/Projetos/Projetos-code/MOE/reader_scraper/metadata/json/JP161.json"
+  }
 }
