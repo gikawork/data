@@ -1,0 +1,28 @@
+{
+  "title": "“Something” That Isn’t Santa Has Come",
+  "description": "Um garoto vê algo que não deveria durante o Natal…",
+  "artist": "Yamada Yuuka",
+  "author": "Yamada Yuuka",
+  "cover": "https://uploads.mangadex.org/covers/965f467b-3e9a-4c26-b5aa-14fae5b5e92a/ee77dac8-e2af-4e9d-901f-4a0a53d0370a.jpg",
+  "status": "Completed",
+  "chapters": {
+    "00": {
+      "title": "Oneshot",
+      "volume": "",
+      "last_updated": "1758926047",
+      "groups": {
+        "gikamura": [
+          "https://cdn.mangalivre.ru//134a391421cb73a733d401a287877e8d/1.webp",
+          "https://cdn.mangalivre.ru//134a391421cb73a733d401a287877e8d/2.webp",
+          "https://cdn.mangalivre.ru//134a391421cb73a733d401a287877e8d/3.webp",
+          "https://cdn.mangalivre.ru//134a391421cb73a733d401a287877e8d/4.webp",
+          "https://cdn.mangalivre.ru//134a391421cb73a733d401a287877e8d/5.webp",
+          "https://cdn.mangalivre.ru//134a391421cb73a733d401a287877e8d/6.webp",
+          "https://cdn.mangalivre.ru//134a391421cb73a733d401a287877e8d/7.webp",
+          "https://cdn.mangalivre.ru//134a391421cb73a733d401a287877e8d/8.webp"
+        ]
+      }
+    }
+  },
+  "filePath": "/home/jhoorodr/Projetos/Projetos-code/MOE/reader_scraper/metadata/json/JP797.json"
+}
