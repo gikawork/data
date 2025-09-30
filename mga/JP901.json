@@ -1,0 +1,24 @@
+{
+  "title": "The Older Sister Who Says “Ara Ara” to Everything",
+  "description": "",
+  "artist": "Hamita",
+  "author": "Hamita",
+  "cover": "https://uploads.mangadex.org/covers/5199198d-0add-478b-aede-046c4dd363ba/a719efde-0bfe-4e43-ae86-b78929238860.png",
+  "status": "Completed",
+  "chapters": {
+    "00": {
+      "title": "Oneshot",
+      "volume": "",
+      "last_updated": "1758928633",
+      "groups": {
+        "gikamura": [
+          "https://cdn.mangalivre.ru//b5264d843dd51887bec490544211f1e8/1.webp",
+          "https://cdn.mangalivre.ru//b5264d843dd51887bec490544211f1e8/2.webp",
+          "https://cdn.mangalivre.ru//b5264d843dd51887bec490544211f1e8/3.webp",
+          "https://cdn.mangalivre.ru//b5264d843dd51887bec490544211f1e8/4.webp"
+        ]
+      }
+    }
+  },
+  "filePath": "/home/jhoorodr/Projetos/Projetos-code/MOE/reader_scraper/metadata/json/JP901.json"
+}
