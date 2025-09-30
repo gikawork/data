@@ -6,19 +6,6 @@
   "cover": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/3150.jpg",
   "status": "Completed",
   "chapters": {
-    "10": {
-      "title": "Capítulo 10",
-      "volume": "",
-      "last_updated": "1758910484",
-      "groups": {
-        "gikamura": [
-          "https://cdn.mangalivre.ru//0d374e42a8b524532d7c91f62b7cfa5d/1.jpg",
-          "https://cdn.mangalivre.ru//0d374e42a8b524532d7c91f62b7cfa5d/2.jpg",
-          "https://cdn.mangalivre.ru//0d374e42a8b524532d7c91f62b7cfa5d/3.jpg",
-          "https://cdn.mangalivre.ru//0d374e42a8b524532d7c91f62b7cfa5d/4.jpg"
-        ]
-      }
-    },
     "11": {
       "title": "Capítulo 11 - FIM",
       "volume": "",
@@ -31,6 +18,19 @@
           "https://cdn.mangalivre.ru//ed9c24d5bb759cdcbd34726de72bb603/4.jpg",
           "https://cdn.mangalivre.ru//ed9c24d5bb759cdcbd34726de72bb603/5.jpg",
           "https://cdn.mangalivre.ru//ed9c24d5bb759cdcbd34726de72bb603/6.jpg"
+        ]
+      }
+    },
+    "10": {
+      "title": "Capítulo 10",
+      "volume": "",
+      "last_updated": "1758910484",
+      "groups": {
+        "gikamura": [
+          "https://cdn.mangalivre.ru//0d374e42a8b524532d7c91f62b7cfa5d/1.jpg",
+          "https://cdn.mangalivre.ru//0d374e42a8b524532d7c91f62b7cfa5d/2.jpg",
+          "https://cdn.mangalivre.ru//0d374e42a8b524532d7c91f62b7cfa5d/3.jpg",
+          "https://cdn.mangalivre.ru//0d374e42a8b524532d7c91f62b7cfa5d/4.jpg"
         ]
       }
     },
@@ -201,6 +201,5 @@
         ]
       }
     }
-  },
-  "filePath": "/home/jhoorodr/Projetos/Projetos-code/MOE/reader_scraper/metadata/json/JP156.json"
+  }
 }
