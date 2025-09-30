@@ -1,0 +1,25 @@
+{
+  "title": "The Solitary Gal Narumi-san Loves Cute Things",
+  "description": "Maruo Saeki, um estudante do segundo ano do ensino médio, encontra Narumi, uma garota de outra classe, no café onde ela trabalha.",
+  "artist": "Hiiro Ichi",
+  "author": "Hiiro Ichi",
+  "cover": "https://uploads.mangadex.org/covers/c39c08b0-aa36-46fa-8d6d-7a1bea10e392/f8c11a9c-c5a7-468e-acf7-903ed1c04136.jpg",
+  "status": "OnGoing",
+  "chapters": {
+    "01": {
+      "title": "Capítulo 01",
+      "volume": "",
+      "last_updated": "1758929253",
+      "groups": {
+        "gikamura": [
+          "https://cdn.mangalivre.ru/manga_67998ee4f3cbc/ba8b60e5b66168f4f43304f17286008d/1.jpg",
+          "https://cdn.mangalivre.ru/manga_67998ee4f3cbc/ba8b60e5b66168f4f43304f17286008d/2.webp",
+          "https://cdn.mangalivre.ru/manga_67998ee4f3cbc/ba8b60e5b66168f4f43304f17286008d/3.webp",
+          "https://cdn.mangalivre.ru/manga_67998ee4f3cbc/ba8b60e5b66168f4f43304f17286008d/4.webp",
+          "https://cdn.mangalivre.ru/manga_67998ee4f3cbc/ba8b60e5b66168f4f43304f17286008d/5.webp"
+        ]
+      }
+    }
+  },
+  "filePath": "/home/jhoorodr/Projetos/Projetos-code/MOE/reader_scraper/metadata/json/JP918.json"
+}
