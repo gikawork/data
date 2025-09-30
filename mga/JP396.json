@@ -6,484 +6,205 @@
   "cover": "https://cdn.myanimelist.net/images/manga/1/244141.jpg",
   "status": "OnGoing",
   "chapters": {
-    "10": {
-      "title": "Capítulo 10",
+    "49": {
+      "title": "Capítulo 49",
       "volume": "",
-      "last_updated": "1758917258",
+      "last_updated": "1758917259",
       "groups": {
         "gikamura": [
-          "https://cdn.mangalivre.ru/manga_688993b64a644/8c9247f1909d3055d7763fc97d6b3a0e/01.webp",
-          "https://cdn.mangalivre.ru/manga_688993b64a644/8c9247f1909d3055d7763fc97d6b3a0e/02.webp",
-          "https://cdn.mangalivre.ru/manga_688993b64a644/8c9247f1909d3055d7763fc97d6b3a0e/03.webp",
-          "https://cdn.mangalivre.ru/manga_688993b64a644/8c9247f1909d3055d7763fc97d6b3a0e/04.webp",
-          "https://cdn.mangalivre.ru/manga_688993b64a644/8c9247f1909d3055d7763fc97d6b3a0e/05.webp",
-          "https://cdn.mangalivre.ru/manga_688993b64a644/8c9247f1909d3055d7763fc97d6b3a0e/06.webp",
-          "https://cdn.mangalivre.ru/manga_688993b64a644/8c9247f1909d3055d7763fc97d6b3a0e/07.webp",
-          "https://cdn.mangalivre.ru/manga_688993b64a644/8c9247f1909d3055d7763fc97d6b3a0e/08.webp",
-          "https://cdn.mangalivre.ru/manga_688993b64a644/8c9247f1909d3055d7763fc97d6b3a0e/09.webp",
-          "https://cdn.mangalivre.ru/manga_688993b64a644/8c9247f1909d3055d7763fc97d6b3a0e/10.webp"
+          "https://cdn.mangalivre.ru/manga_688993b64a644/e4f6e1c87d548f1da45501bdd422f71e/01.webp",
+          "https://cdn.mangalivre.ru/manga_688993b64a644/e4f6e1c87d548f1da45501bdd422f71e/02.webp",
+          "https://cdn.mangalivre.ru/manga_688993b64a644/e4f6e1c87d548f1da45501bdd422f71e/03.webp",
+          "https://cdn.mangalivre.ru/manga_688993b64a644/e4f6e1c87d548f1da45501bdd422f71e/04.webp",
+          "https://cdn.mangalivre.ru/manga_688993b64a644/e4f6e1c87d548f1da45501bdd422f71e/05.webp",
+          "https://cdn.mangalivre.ru/manga_688993b64a644/e4f6e1c87d548f1da45501bdd422f71e/06.webp",
+          "https://cdn.mangalivre.ru/manga_688993b64a644/e4f6e1c87d548f1da45501bdd422f71e/07.webp",
+          "https://cdn.mangalivre.ru/manga_688993b64a644/e4f6e1c87d548f1da45501bdd422f71e/08.webp",
+          "https://cdn.mangalivre.ru/manga_688993b64a644/e4f6e1c87d548f1da45501bdd422f71e/09.webp",
+          "https://cdn.mangalivre.ru/manga_688993b64a644/e4f6e1c87d548f1da45501bdd422f71e/10.webp"
         ]
       }
     },
-    "11": {
-      "title": "Capítulo 11",
+    "48": {
+      "title": "Capítulo 48",
       "volume": "",
-      "last_updated": "1758917277",
+      "last_updated": "1758917259",
       "groups": {
         "gikamura": [
-          "https://cdn.mangalivre.ru/manga_688993b64a644/bd91406d509412975c146274df79aa01/01.webp",
-          "https://cdn.mangalivre.ru/manga_688993b64a644/bd91406d509412975c146274df79aa01/02.webp",
-          "https://cdn.mangalivre.ru/manga_688993b64a644/bd91406d509412975c146274df79aa01/03.webp",
-          "https://cdn.mangalivre.ru/manga_688993b64a644/bd91406d509412975c146274df79aa01/04.webp",
-          "https://cdn.mangalivre.ru/manga_688993b64a644/bd91406d509412975c146274df79aa01/05.webp",
-          "https://cdn.mangalivre.ru/manga_688993b64a644/bd91406d509412975c146274df79aa01/06.webp",
-          "https://cdn.mangalivre.ru/manga_688993b64a644/bd91406d509412975c146274df79aa01/07.webp",
-          "https://cdn.mangalivre.ru/manga_688993b64a644/bd91406d509412975c146274df79aa01/08.webp",
-          "https://cdn.mangalivre.ru/manga_688993b64a644/bd91406d509412975c146274df79aa01/09.webp",
-          "https://cdn.mangalivre.ru/manga_688993b64a644/bd91406d509412975c146274df79aa01/10.webp"
+          "https://cdn.mangalivre.ru/manga_688993b64a644/1cc3e81d9fb1b47894f3f1860218a8b1/1.webp",
+          "https://cdn.mangalivre.ru/manga_688993b64a644/1cc3e81d9fb1b47894f3f1860218a8b1/2.webp",
+          "https://cdn.mangalivre.ru/manga_688993b64a644/1cc3e81d9fb1b47894f3f1860218a8b1/3.webp",
+          "https://cdn.mangalivre.ru/manga_688993b64a644/1cc3e81d9fb1b47894f3f1860218a8b1/4.webp",
+          "https://cdn.mangalivre.ru/manga_688993b64a644/1cc3e81d9fb1b47894f3f1860218a8b1/5.webp",
+          "https://cdn.mangalivre.ru/manga_688993b64a644/1cc3e81d9fb1b47894f3f1860218a8b1/6.webp",
+          "https://cdn.mangalivre.ru/manga_688993b64a644/1cc3e81d9fb1b47894f3f1860218a8b1/7.webp",
+          "https://cdn.mangalivre.ru/manga_688993b64a644/1cc3e81d9fb1b47894f3f1860218a8b1/8.webp"
         ]
       }
     },
-    "12": {
-      "title": "Capítulo 12",
+    "47": {
+      "title": "Capítulo 47",
       "volume": "",
-      "last_updated": "1758917277",
+      "last_updated": "1758917259",
       "groups": {
         "gikamura": [
-          "https://cdn.mangalivre.ru/manga_688993b64a644/1cb872f584b6d20a243a879c9981a105/01.webp",
-          "https://cdn.mangalivre.ru/manga_688993b64a644/1cb872f584b6d20a243a879c9981a105/02.webp",
-          "https://cdn.mangalivre.ru/manga_688993b64a644/1cb872f584b6d20a243a879c9981a105/03.webp",
-          "https://cdn.mangalivre.ru/manga_688993b64a644/1cb872f584b6d20a243a879c9981a105/04.webp",
-          "https://cdn.mangalivre.ru/manga_688993b64a644/1cb872f584b6d20a243a879c9981a105/05.webp",
-          "https://cdn.mangalivre.ru/manga_688993b64a644/1cb872f584b6d20a243a879c9981a105/06.webp",
-          "https://cdn.mangalivre.ru/manga_688993b64a644/1cb872f584b6d20a243a879c9981a105/07.webp",
-          "https://cdn.mangalivre.ru/manga_688993b64a644/1cb872f584b6d20a243a879c9981a105/08.webp",
-          "https://cdn.mangalivre.ru/manga_688993b64a644/1cb872f584b6d20a243a879c9981a105/09.webp",
-          "https://cdn.mangalivre.ru/manga_688993b64a644/1cb872f584b6d20a243a879c9981a105/10.webp"
+          "https://cdn.mangalivre.ru/manga_688993b64a644/e9f9f6e31552aec6edbed1e2ec0f7378/1.webp",
+          "https://cdn.mangalivre.ru/manga_688993b64a644/e9f9f6e31552aec6edbed1e2ec0f7378/2.webp",
+          "https://cdn.mangalivre.ru/manga_688993b64a644/e9f9f6e31552aec6edbed1e2ec0f7378/3.webp",
+          "https://cdn.mangalivre.ru/manga_688993b64a644/e9f9f6e31552aec6edbed1e2ec0f7378/4.webp",
+          "https://cdn.mangalivre.ru/manga_688993b64a644/e9f9f6e31552aec6edbed1e2ec0f7378/5.webp",
+          "https://cdn.mangalivre.ru/manga_688993b64a644/e9f9f6e31552aec6edbed1e2ec0f7378/6.webp",
+          "https://cdn.mangalivre.ru/manga_688993b64a644/e9f9f6e31552aec6edbed1e2ec0f7378/7.webp"
         ]
       }
     },
-    "13": {
-      "title": "Capítulo 13",
+    "46": {
+      "title": "Capítulo 46",
       "volume": "",
-      "last_updated": "1758917277",
+      "last_updated": "1758917259",
       "groups": {
         "gikamura": [
-          "https://cdn.mangalivre.ru/manga_688993b64a644/48bc9ed0c151b2a8d8ac4dc656b0a026/01.webp",
-          "https://cdn.mangalivre.ru/manga_688993b64a644/48bc9ed0c151b2a8d8ac4dc656b0a026/02.webp",
-          "https://cdn.mangalivre.ru/manga_688993b64a644/48bc9ed0c151b2a8d8ac4dc656b0a026/03.webp",
-          "https://cdn.mangalivre.ru/manga_688993b64a644/48bc9ed0c151b2a8d8ac4dc656b0a026/04.webp",
-          "https://cdn.mangalivre.ru/manga_688993b64a644/48bc9ed0c151b2a8d8ac4dc656b0a026/05.webp",
-          "https://cdn.mangalivre.ru/manga_688993b64a644/48bc9ed0c151b2a8d8ac4dc656b0a026/06.webp",
-          "https://cdn.mangalivre.ru/manga_688993b64a644/48bc9ed0c151b2a8d8ac4dc656b0a026/07.webp",
-          "https://cdn.mangalivre.ru/manga_688993b64a644/48bc9ed0c151b2a8d8ac4dc656b0a026/08.webp",
-          "https://cdn.mangalivre.ru/manga_688993b64a644/48bc9ed0c151b2a8d8ac4dc656b0a026/09.webp",
-          "https://cdn.mangalivre.ru/manga_688993b64a644/48bc9ed0c151b2a8d8ac4dc656b0a026/10.webp"
+          "https://cdn.mangalivre.ru/manga_688993b64a644/2e1062d217639a3902d6c538ae8dc6c2/1.webp",
+          "https://cdn.mangalivre.ru/manga_688993b64a644/2e1062d217639a3902d6c538ae8dc6c2/2.webp",
+          "https://cdn.mangalivre.ru/manga_688993b64a644/2e1062d217639a3902d6c538ae8dc6c2/3.webp",
+          "https://cdn.mangalivre.ru/manga_688993b64a644/2e1062d217639a3902d6c538ae8dc6c2/4.webp",
+          "https://cdn.mangalivre.ru/manga_688993b64a644/2e1062d217639a3902d6c538ae8dc6c2/5.webp",
+          "https://cdn.mangalivre.ru/manga_688993b64a644/2e1062d217639a3902d6c538ae8dc6c2/6.webp",
+          "https://cdn.mangalivre.ru/manga_688993b64a644/2e1062d217639a3902d6c538ae8dc6c2/7.webp",
+          "https://cdn.mangalivre.ru/manga_688993b64a644/2e1062d217639a3902d6c538ae8dc6c2/8.webp"
         ]
       }
     },
-    "14": {
-      "title": "Capítulo 14",
-      "volume": "",
-      "last_updated": "1758917277",
-      "groups": {
-        "gikamura": [
-          "https://cdn.mangalivre.ru/manga_688993b64a644/576e9cb3dcb9b9f0160ea9fab8a8dcc8/01.webp",
-          "https://cdn.mangalivre.ru/manga_688993b64a644/576e9cb3dcb9b9f0160ea9fab8a8dcc8/02.webp",
-          "https://cdn.mangalivre.ru/manga_688993b64a644/576e9cb3dcb9b9f0160ea9fab8a8dcc8/03.webp",
-          "https://cdn.mangalivre.ru/manga_688993b64a644/576e9cb3dcb9b9f0160ea9fab8a8dcc8/04.webp",
-          "https://cdn.mangalivre.ru/manga_688993b64a644/576e9cb3dcb9b9f0160ea9fab8a8dcc8/05.webp",
-          "https://cdn.mangalivre.ru/manga_688993b64a644/576e9cb3dcb9b9f0160ea9fab8a8dcc8/06.webp",
-          "https://cdn.mangalivre.ru/manga_688993b64a644/576e9cb3dcb9b9f0160ea9fab8a8dcc8/07.webp",
-          "https://cdn.mangalivre.ru/manga_688993b64a644/576e9cb3dcb9b9f0160ea9fab8a8dcc8/08.webp",
-          "https://cdn.mangalivre.ru/manga_688993b64a644/576e9cb3dcb9b9f0160ea9fab8a8dcc8/09.webp",
-          "https://cdn.mangalivre.ru/manga_688993b64a644/576e9cb3dcb9b9f0160ea9fab8a8dcc8/10.webp"
-        ]
-      }
-    },
-    "15": {
-      "title": "Capítulo 15",
+    "45": {
+      "title": "Capítulo 45",
       "volume": "",
       "last_updated": "1758917276",
       "groups": {
         "gikamura": [
-          "https://cdn.mangalivre.ru/manga_688993b64a644/baa095f538e1ca04b4aafc17dcf0cd34/01.webp",
-          "https://cdn.mangalivre.ru/manga_688993b64a644/baa095f538e1ca04b4aafc17dcf0cd34/02.webp",
-          "https://cdn.mangalivre.ru/manga_688993b64a644/baa095f538e1ca04b4aafc17dcf0cd34/03.webp",
-          "https://cdn.mangalivre.ru/manga_688993b64a644/baa095f538e1ca04b4aafc17dcf0cd34/04.webp",
-          "https://cdn.mangalivre.ru/manga_688993b64a644/baa095f538e1ca04b4aafc17dcf0cd34/05.webp",
-          "https://cdn.mangalivre.ru/manga_688993b64a644/baa095f538e1ca04b4aafc17dcf0cd34/06.webp",
-          "https://cdn.mangalivre.ru/manga_688993b64a644/baa095f538e1ca04b4aafc17dcf0cd34/07.webp",
-          "https://cdn.mangalivre.ru/manga_688993b64a644/baa095f538e1ca04b4aafc17dcf0cd34/08.webp",
-          "https://cdn.mangalivre.ru/manga_688993b64a644/baa095f538e1ca04b4aafc17dcf0cd34/09.webp",
-          "https://cdn.mangalivre.ru/manga_688993b64a644/baa095f538e1ca04b4aafc17dcf0cd34/10.webp"
+          "https://cdn.mangalivre.ru/manga_688993b64a644/80b62132a97a65e1fccd263ded2c2b29/1.webp",
+          "https://cdn.mangalivre.ru/manga_688993b64a644/80b62132a97a65e1fccd263ded2c2b29/2.webp",
+          "https://cdn.mangalivre.ru/manga_688993b64a644/80b62132a97a65e1fccd263ded2c2b29/3.webp",
+          "https://cdn.mangalivre.ru/manga_688993b64a644/80b62132a97a65e1fccd263ded2c2b29/4.webp",
+          "https://cdn.mangalivre.ru/manga_688993b64a644/80b62132a97a65e1fccd263ded2c2b29/5.webp",
+          "https://cdn.mangalivre.ru/manga_688993b64a644/80b62132a97a65e1fccd263ded2c2b29/6.webp",
+          "https://cdn.mangalivre.ru/manga_688993b64a644/80b62132a97a65e1fccd263ded2c2b29/7.webp",
+          "https://cdn.mangalivre.ru/manga_688993b64a644/80b62132a97a65e1fccd263ded2c2b29/8.webp"
         ]
       }
     },
-    "16": {
-      "title": "Capítulo 16",
+    "44": {
+      "title": "Capítulo 44",
       "volume": "",
-      "last_updated": "1758917276",
+      "last_updated": "1758917260",
       "groups": {
         "gikamura": [
-          "https://cdn.mangalivre.ru/manga_688993b64a644/d462b0b262fb35f5141c807affae26da/1.webp",
-          "https://cdn.mangalivre.ru/manga_688993b64a644/d462b0b262fb35f5141c807affae26da/2.webp",
-          "https://cdn.mangalivre.ru/manga_688993b64a644/d462b0b262fb35f5141c807affae26da/3.webp",
-          "https://cdn.mangalivre.ru/manga_688993b64a644/d462b0b262fb35f5141c807affae26da/4.webp",
-          "https://cdn.mangalivre.ru/manga_688993b64a644/d462b0b262fb35f5141c807affae26da/5.webp",
-          "https://cdn.mangalivre.ru/manga_688993b64a644/d462b0b262fb35f5141c807affae26da/6.webp",
-          "https://cdn.mangalivre.ru/manga_688993b64a644/d462b0b262fb35f5141c807affae26da/7.webp",
-          "https://cdn.mangalivre.ru/manga_688993b64a644/d462b0b262fb35f5141c807affae26da/8.webp"
+          "https://cdn.mangalivre.ru/manga_688993b64a644/8aac285e5982594df5d301cf93789806/1.webp",
+          "https://cdn.mangalivre.ru/manga_688993b64a644/8aac285e5982594df5d301cf93789806/2.webp",
+          "https://cdn.mangalivre.ru/manga_688993b64a644/8aac285e5982594df5d301cf93789806/3.webp",
+          "https://cdn.mangalivre.ru/manga_688993b64a644/8aac285e5982594df5d301cf93789806/4.webp",
+          "https://cdn.mangalivre.ru/manga_688993b64a644/8aac285e5982594df5d301cf93789806/5.webp",
+          "https://cdn.mangalivre.ru/manga_688993b64a644/8aac285e5982594df5d301cf93789806/6.webp",
+          "https://cdn.mangalivre.ru/manga_688993b64a644/8aac285e5982594df5d301cf93789806/7.webp"
         ]
       }
     },
-    "17": {
-      "title": "Capítulo 17",
+    "43": {
+      "title": "Capítulo 43",
       "volume": "",
-      "last_updated": "1758917276",
+      "last_updated": "1758917277",
       "groups": {
         "gikamura": [
-          "https://cdn.mangalivre.ru/manga_688993b64a644/f14048c8a85298bd742802400d8246ee/1.webp",
-          "https://cdn.mangalivre.ru/manga_688993b64a644/f14048c8a85298bd742802400d8246ee/2.webp",
-          "https://cdn.mangalivre.ru/manga_688993b64a644/f14048c8a85298bd742802400d8246ee/3.webp",
-          "https://cdn.mangalivre.ru/manga_688993b64a644/f14048c8a85298bd742802400d8246ee/4.webp",
-          "https://cdn.mangalivre.ru/manga_688993b64a644/f14048c8a85298bd742802400d8246ee/5.webp",
-          "https://cdn.mangalivre.ru/manga_688993b64a644/f14048c8a85298bd742802400d8246ee/6.webp",
-          "https://cdn.mangalivre.ru/manga_688993b64a644/f14048c8a85298bd742802400d8246ee/7.webp",
-          "https://cdn.mangalivre.ru/manga_688993b64a644/f14048c8a85298bd742802400d8246ee/8.webp"
+          "https://cdn.mangalivre.ru/manga_688993b64a644/0ac43df86b1990d5674e834b7928d8cf/1.webp",
+          "https://cdn.mangalivre.ru/manga_688993b64a644/0ac43df86b1990d5674e834b7928d8cf/2.webp",
+          "https://cdn.mangalivre.ru/manga_688993b64a644/0ac43df86b1990d5674e834b7928d8cf/3.webp",
+          "https://cdn.mangalivre.ru/manga_688993b64a644/0ac43df86b1990d5674e834b7928d8cf/4.webp",
+          "https://cdn.mangalivre.ru/manga_688993b64a644/0ac43df86b1990d5674e834b7928d8cf/5.webp",
+          "https://cdn.mangalivre.ru/manga_688993b64a644/0ac43df86b1990d5674e834b7928d8cf/6.webp",
+          "https://cdn.mangalivre.ru/manga_688993b64a644/0ac43df86b1990d5674e834b7928d8cf/7.webp",
+          "https://cdn.mangalivre.ru/manga_688993b64a644/0ac43df86b1990d5674e834b7928d8cf/8.webp"
         ]
       }
     },
-    "18": {
-      "title": "Capítulo 18",
-      "volume": "",
-      "last_updated": "1758917275",
-      "groups": {
-        "gikamura": [
-          "https://cdn.mangalivre.ru/manga_688993b64a644/53787b56ff6f9bbb948258213125c2f2/01.webp",
-          "https://cdn.mangalivre.ru/manga_688993b64a644/53787b56ff6f9bbb948258213125c2f2/02.webp",
-          "https://cdn.mangalivre.ru/manga_688993b64a644/53787b56ff6f9bbb948258213125c2f2/03.webp",
-          "https://cdn.mangalivre.ru/manga_688993b64a644/53787b56ff6f9bbb948258213125c2f2/04.webp",
-          "https://cdn.mangalivre.ru/manga_688993b64a644/53787b56ff6f9bbb948258213125c2f2/05.webp",
-          "https://cdn.mangalivre.ru/manga_688993b64a644/53787b56ff6f9bbb948258213125c2f2/06.webp",
-          "https://cdn.mangalivre.ru/manga_688993b64a644/53787b56ff6f9bbb948258213125c2f2/07.webp",
-          "https://cdn.mangalivre.ru/manga_688993b64a644/53787b56ff6f9bbb948258213125c2f2/08.webp",
-          "https://cdn.mangalivre.ru/manga_688993b64a644/53787b56ff6f9bbb948258213125c2f2/09.webp",
-          "https://cdn.mangalivre.ru/manga_688993b64a644/53787b56ff6f9bbb948258213125c2f2/10.webp"
-        ]
-      }
-    },
-    "19": {
-      "title": "Capítulo 19",
-      "volume": "",
-      "last_updated": "1758917275",
-      "groups": {
-        "gikamura": [
-          "https://cdn.mangalivre.ru/manga_688993b64a644/6bbcd741bf538cd3f0c266314017102e/1.webp",
-          "https://cdn.mangalivre.ru/manga_688993b64a644/6bbcd741bf538cd3f0c266314017102e/2.webp",
-          "https://cdn.mangalivre.ru/manga_688993b64a644/6bbcd741bf538cd3f0c266314017102e/3.webp",
-          "https://cdn.mangalivre.ru/manga_688993b64a644/6bbcd741bf538cd3f0c266314017102e/4.webp",
-          "https://cdn.mangalivre.ru/manga_688993b64a644/6bbcd741bf538cd3f0c266314017102e/5.webp",
-          "https://cdn.mangalivre.ru/manga_688993b64a644/6bbcd741bf538cd3f0c266314017102e/6.webp",
-          "https://cdn.mangalivre.ru/manga_688993b64a644/6bbcd741bf538cd3f0c266314017102e/7.webp",
-          "https://cdn.mangalivre.ru/manga_688993b64a644/6bbcd741bf538cd3f0c266314017102e/8.webp"
-        ]
-      }
-    },
-    "20": {
-      "title": "Capítulo 20",
-      "volume": "",
-      "last_updated": "1758917275",
-      "groups": {
-        "gikamura": [
-          "https://cdn.mangalivre.ru/manga_688993b64a644/0b2c7b494411996501d76a7755569d18/1.webp",
-          "https://cdn.mangalivre.ru/manga_688993b64a644/0b2c7b494411996501d76a7755569d18/2.webp",
-          "https://cdn.mangalivre.ru/manga_688993b64a644/0b2c7b494411996501d76a7755569d18/3.webp",
-          "https://cdn.mangalivre.ru/manga_688993b64a644/0b2c7b494411996501d76a7755569d18/4.webp",
-          "https://cdn.mangalivre.ru/manga_688993b64a644/0b2c7b494411996501d76a7755569d18/5.webp",
-          "https://cdn.mangalivre.ru/manga_688993b64a644/0b2c7b494411996501d76a7755569d18/6.webp",
-          "https://cdn.mangalivre.ru/manga_688993b64a644/0b2c7b494411996501d76a7755569d18/7.webp",
-          "https://cdn.mangalivre.ru/manga_688993b64a644/0b2c7b494411996501d76a7755569d18/8.webp"
-        ]
-      }
-    },
-    "21": {
-      "title": "Capítulo 21",
-      "volume": "",
-      "last_updated": "1758917274",
-      "groups": {
-        "gikamura": [
-          "https://cdn.mangalivre.ru/manga_688993b64a644/d23282820a04808f58220d339eaf153c/1.webp",
-          "https://cdn.mangalivre.ru/manga_688993b64a644/d23282820a04808f58220d339eaf153c/2.webp",
-          "https://cdn.mangalivre.ru/manga_688993b64a644/d23282820a04808f58220d339eaf153c/3.webp",
-          "https://cdn.mangalivre.ru/manga_688993b64a644/d23282820a04808f58220d339eaf153c/4.webp",
-          "https://cdn.mangalivre.ru/manga_688993b64a644/d23282820a04808f58220d339eaf153c/5.webp",
-          "https://cdn.mangalivre.ru/manga_688993b64a644/d23282820a04808f58220d339eaf153c/6.webp",
-          "https://cdn.mangalivre.ru/manga_688993b64a644/d23282820a04808f58220d339eaf153c/7.webp",
-          "https://cdn.mangalivre.ru/manga_688993b64a644/d23282820a04808f58220d339eaf153c/8.webp",
-          "https://cdn.mangalivre.ru/manga_688993b64a644/d23282820a04808f58220d339eaf153c/9.webp"
-        ]
-      }
-    },
-    "22": {
-      "title": "Capítulo 22",
-      "volume": "",
-      "last_updated": "1758917274",
-      "groups": {
-        "gikamura": [
-          "https://cdn.mangalivre.ru/manga_688993b64a644/7b8afb8cd78b649f4300845867360cca/1.webp",
-          "https://cdn.mangalivre.ru/manga_688993b64a644/7b8afb8cd78b649f4300845867360cca/2.webp",
-          "https://cdn.mangalivre.ru/manga_688993b64a644/7b8afb8cd78b649f4300845867360cca/3.webp",
-          "https://cdn.mangalivre.ru/manga_688993b64a644/7b8afb8cd78b649f4300845867360cca/4.webp",
-          "https://cdn.mangalivre.ru/manga_688993b64a644/7b8afb8cd78b649f4300845867360cca/5.webp",
-          "https://cdn.mangalivre.ru/manga_688993b64a644/7b8afb8cd78b649f4300845867360cca/6.webp",
-          "https://cdn.mangalivre.ru/manga_688993b64a644/7b8afb8cd78b649f4300845867360cca/7.webp",
-          "https://cdn.mangalivre.ru/manga_688993b64a644/7b8afb8cd78b649f4300845867360cca/8.webp"
-        ]
-      }
-    },
-    "23": {
-      "title": "Capítulo 23",
-      "volume": "",
-      "last_updated": "1758917273",
-      "groups": {
-        "gikamura": [
-          "https://cdn.mangalivre.ru/manga_688993b64a644/15a04812a09aa7d0420e7ed1cfdf6283/01.webp",
-          "https://cdn.mangalivre.ru/manga_688993b64a644/15a04812a09aa7d0420e7ed1cfdf6283/02.webp",
-          "https://cdn.mangalivre.ru/manga_688993b64a644/15a04812a09aa7d0420e7ed1cfdf6283/03.webp",
-          "https://cdn.mangalivre.ru/manga_688993b64a644/15a04812a09aa7d0420e7ed1cfdf6283/04.webp",
-          "https://cdn.mangalivre.ru/manga_688993b64a644/15a04812a09aa7d0420e7ed1cfdf6283/05.webp",
-          "https://cdn.mangalivre.ru/manga_688993b64a644/15a04812a09aa7d0420e7ed1cfdf6283/06.webp",
-          "https://cdn.mangalivre.ru/manga_688993b64a644/15a04812a09aa7d0420e7ed1cfdf6283/07.webp",
-          "https://cdn.mangalivre.ru/manga_688993b64a644/15a04812a09aa7d0420e7ed1cfdf6283/08.webp",
-          "https://cdn.mangalivre.ru/manga_688993b64a644/15a04812a09aa7d0420e7ed1cfdf6283/09.webp",
-          "https://cdn.mangalivre.ru/manga_688993b64a644/15a04812a09aa7d0420e7ed1cfdf6283/10.webp"
-        ]
-      }
-    },
-    "24": {
-      "title": "Capítulo 24",
-      "volume": "",
-      "last_updated": "1758917273",
-      "groups": {
-        "gikamura": [
-          "https://cdn.mangalivre.ru/manga_688993b64a644/08470591571076b976856789c54f07d3/1.webp",
-          "https://cdn.mangalivre.ru/manga_688993b64a644/08470591571076b976856789c54f07d3/2.webp",
-          "https://cdn.mangalivre.ru/manga_688993b64a644/08470591571076b976856789c54f07d3/3.webp",
-          "https://cdn.mangalivre.ru/manga_688993b64a644/08470591571076b976856789c54f07d3/4.webp",
-          "https://cdn.mangalivre.ru/manga_688993b64a644/08470591571076b976856789c54f07d3/5.webp",
-          "https://cdn.mangalivre.ru/manga_688993b64a644/08470591571076b976856789c54f07d3/6.webp",
-          "https://cdn.mangalivre.ru/manga_688993b64a644/08470591571076b976856789c54f07d3/7.webp",
-          "https://cdn.mangalivre.ru/manga_688993b64a644/08470591571076b976856789c54f07d3/8.webp",
-          "https://cdn.mangalivre.ru/manga_688993b64a644/08470591571076b976856789c54f07d3/9.webp"
-        ]
-      }
-    },
-    "25": {
-      "title": "Capítulo 25",
-      "volume": "",
-      "last_updated": "1758917272",
-      "groups": {
-        "gikamura": [
-          "https://cdn.mangalivre.ru/manga_688993b64a644/4f2f0737061bf35a51103b6e71e63e8e/01.webp",
-          "https://cdn.mangalivre.ru/manga_688993b64a644/4f2f0737061bf35a51103b6e71e63e8e/02.webp",
-          "https://cdn.mangalivre.ru/manga_688993b64a644/4f2f0737061bf35a51103b6e71e63e8e/03.webp",
-          "https://cdn.mangalivre.ru/manga_688993b64a644/4f2f0737061bf35a51103b6e71e63e8e/04.webp",
-          "https://cdn.mangalivre.ru/manga_688993b64a644/4f2f0737061bf35a51103b6e71e63e8e/05.webp",
-          "https://cdn.mangalivre.ru/manga_688993b64a644/4f2f0737061bf35a51103b6e71e63e8e/06.webp",
-          "https://cdn.mangalivre.ru/manga_688993b64a644/4f2f0737061bf35a51103b6e71e63e8e/07.webp",
-          "https://cdn.mangalivre.ru/manga_688993b64a644/4f2f0737061bf35a51103b6e71e63e8e/08.webp",
-          "https://cdn.mangalivre.ru/manga_688993b64a644/4f2f0737061bf35a51103b6e71e63e8e/09.webp",
-          "https://cdn.mangalivre.ru/manga_688993b64a644/4f2f0737061bf35a51103b6e71e63e8e/10.webp"
-        ]
-      }
-    },
-    "26": {
-      "title": "Capítulo 26",
-      "volume": "",
-      "last_updated": "1758917272",
-      "groups": {
-        "gikamura": [
-          "https://cdn.mangalivre.ru/manga_688993b64a644/a8e97bb5685eacfd20b0387081cd2756/01.webp",
-          "https://cdn.mangalivre.ru/manga_688993b64a644/a8e97bb5685eacfd20b0387081cd2756/02.webp",
-          "https://cdn.mangalivre.ru/manga_688993b64a644/a8e97bb5685eacfd20b0387081cd2756/03.webp",
-          "https://cdn.mangalivre.ru/manga_688993b64a644/a8e97bb5685eacfd20b0387081cd2756/04.webp",
-          "https://cdn.mangalivre.ru/manga_688993b64a644/a8e97bb5685eacfd20b0387081cd2756/05.webp",
-          "https://cdn.mangalivre.ru/manga_688993b64a644/a8e97bb5685eacfd20b0387081cd2756/06.webp",
-          "https://cdn.mangalivre.ru/manga_688993b64a644/a8e97bb5685eacfd20b0387081cd2756/07.webp",
-          "https://cdn.mangalivre.ru/manga_688993b64a644/a8e97bb5685eacfd20b0387081cd2756/08.webp",
-          "https://cdn.mangalivre.ru/manga_688993b64a644/a8e97bb5685eacfd20b0387081cd2756/09.webp",
-          "https://cdn.mangalivre.ru/manga_688993b64a644/a8e97bb5685eacfd20b0387081cd2756/10.webp"
-        ]
-      }
-    },
-    "27": {
-      "title": "Capítulo 27",
-      "volume": "",
-      "last_updated": "1758917271",
-      "groups": {
-        "gikamura": [
-          "https://cdn.mangalivre.ru/manga_688993b64a644/1b4a8a91eb09e44b296957c1eb5a85c5/1.webp",
-          "https://cdn.mangalivre.ru/manga_688993b64a644/1b4a8a91eb09e44b296957c1eb5a85c5/2.webp",
-          "https://cdn.mangalivre.ru/manga_688993b64a644/1b4a8a91eb09e44b296957c1eb5a85c5/3.webp",
-          "https://cdn.mangalivre.ru/manga_688993b64a644/1b4a8a91eb09e44b296957c1eb5a85c5/4.webp",
-          "https://cdn.mangalivre.ru/manga_688993b64a644/1b4a8a91eb09e44b296957c1eb5a85c5/5.webp",
-          "https://cdn.mangalivre.ru/manga_688993b64a644/1b4a8a91eb09e44b296957c1eb5a85c5/6.webp",
-          "https://cdn.mangalivre.ru/manga_688993b64a644/1b4a8a91eb09e44b296957c1eb5a85c5/7.webp",
-          "https://cdn.mangalivre.ru/manga_688993b64a644/1b4a8a91eb09e44b296957c1eb5a85c5/8.webp"
-        ]
-      }
-    },
-    "28": {
-      "title": "Capítulo 28",
-      "volume": "",
-      "last_updated": "1758917270",
-      "groups": {
-        "gikamura": [
-          "https://cdn.mangalivre.ru/manga_688993b64a644/b3a95afb8db9fccb68d73762c082f686/1.webp",
-          "https://cdn.mangalivre.ru/manga_688993b64a644/b3a95afb8db9fccb68d73762c082f686/2.webp",
-          "https://cdn.mangalivre.ru/manga_688993b64a644/b3a95afb8db9fccb68d73762c082f686/3.webp",
-          "https://cdn.mangalivre.ru/manga_688993b64a644/b3a95afb8db9fccb68d73762c082f686/4.webp",
-          "https://cdn.mangalivre.ru/manga_688993b64a644/b3a95afb8db9fccb68d73762c082f686/5.webp",
-          "https://cdn.mangalivre.ru/manga_688993b64a644/b3a95afb8db9fccb68d73762c082f686/6.webp",
-          "https://cdn.mangalivre.ru/manga_688993b64a644/b3a95afb8db9fccb68d73762c082f686/7.webp",
-          "https://cdn.mangalivre.ru/manga_688993b64a644/b3a95afb8db9fccb68d73762c082f686/8.webp"
-        ]
-      }
-    },
-    "29": {
-      "title": "Capítulo 29",
-      "volume": "",
-      "last_updated": "1758917282",
-      "groups": {
-        "gikamura": [
-          "https://cdn.mangalivre.ru/manga_688993b64a644/af92387af411a68d108cbea7f71886b8/1.webp",
-          "https://cdn.mangalivre.ru/manga_688993b64a644/af92387af411a68d108cbea7f71886b8/2.webp",
-          "https://cdn.mangalivre.ru/manga_688993b64a644/af92387af411a68d108cbea7f71886b8/3.webp",
-          "https://cdn.mangalivre.ru/manga_688993b64a644/af92387af411a68d108cbea7f71886b8/4.webp",
-          "https://cdn.mangalivre.ru/manga_688993b64a644/af92387af411a68d108cbea7f71886b8/5.webp",
-          "https://cdn.mangalivre.ru/manga_688993b64a644/af92387af411a68d108cbea7f71886b8/6.webp",
-          "https://cdn.mangalivre.ru/manga_688993b64a644/af92387af411a68d108cbea7f71886b8/7.webp",
-          "https://cdn.mangalivre.ru/manga_688993b64a644/af92387af411a68d108cbea7f71886b8/8.webp"
-        ]
-      }
-    },
-    "30": {
-      "title": "Capítulo 30",
-      "volume": "",
-      "last_updated": "1758917283",
-      "groups": {
-        "gikamura": [
-          "https://cdn.mangalivre.ru/manga_688993b64a644/53d5f29caff7cf310dcf8e489b4e1719/1.webp",
-          "https://cdn.mangalivre.ru/manga_688993b64a644/53d5f29caff7cf310dcf8e489b4e1719/2.webp",
-          "https://cdn.mangalivre.ru/manga_688993b64a644/53d5f29caff7cf310dcf8e489b4e1719/3.webp",
-          "https://cdn.mangalivre.ru/manga_688993b64a644/53d5f29caff7cf310dcf8e489b4e1719/4.webp",
-          "https://cdn.mangalivre.ru/manga_688993b64a644/53d5f29caff7cf310dcf8e489b4e1719/5.webp",
-          "https://cdn.mangalivre.ru/manga_688993b64a644/53d5f29caff7cf310dcf8e489b4e1719/6.webp",
-          "https://cdn.mangalivre.ru/manga_688993b64a644/53d5f29caff7cf310dcf8e489b4e1719/7.webp",
-          "https://cdn.mangalivre.ru/manga_688993b64a644/53d5f29caff7cf310dcf8e489b4e1719/8.webp"
-        ]
-      }
-    },
-    "31": {
-      "title": "Capítulo 31",
-      "volume": "",
-      "last_updated": "1758917274",
-      "groups": {
-        "gikamura": [
-          "https://cdn.mangalivre.ru/manga_688993b64a644/198406ebff6d58e3e53ce2fd74bb2ac5/1.webp",
-          "https://cdn.mangalivre.ru/manga_688993b64a644/198406ebff6d58e3e53ce2fd74bb2ac5/2.webp",
-          "https://cdn.mangalivre.ru/manga_688993b64a644/198406ebff6d58e3e53ce2fd74bb2ac5/3.webp",
-          "https://cdn.mangalivre.ru/manga_688993b64a644/198406ebff6d58e3e53ce2fd74bb2ac5/4.webp",
-          "https://cdn.mangalivre.ru/manga_688993b64a644/198406ebff6d58e3e53ce2fd74bb2ac5/5.webp",
-          "https://cdn.mangalivre.ru/manga_688993b64a644/198406ebff6d58e3e53ce2fd74bb2ac5/6.webp",
-          "https://cdn.mangalivre.ru/manga_688993b64a644/198406ebff6d58e3e53ce2fd74bb2ac5/7.webp",
-          "https://cdn.mangalivre.ru/manga_688993b64a644/198406ebff6d58e3e53ce2fd74bb2ac5/8.webp"
-        ]
-      }
-    },
-    "32": {
-      "title": "Capítulo 32",
-      "volume": "",
-      "last_updated": "1758917269",
-      "groups": {
-        "gikamura": [
-          "https://cdn.mangalivre.ru/manga_688993b64a644/5f06ed8c3de0e5ed496eaebb8fd7c4b9/1.webp",
-          "https://cdn.mangalivre.ru/manga_688993b64a644/5f06ed8c3de0e5ed496eaebb8fd7c4b9/2.webp",
-          "https://cdn.mangalivre.ru/manga_688993b64a644/5f06ed8c3de0e5ed496eaebb8fd7c4b9/3.webp",
-          "https://cdn.mangalivre.ru/manga_688993b64a644/5f06ed8c3de0e5ed496eaebb8fd7c4b9/4.webp",
-          "https://cdn.mangalivre.ru/manga_688993b64a644/5f06ed8c3de0e5ed496eaebb8fd7c4b9/5.webp",
-          "https://cdn.mangalivre.ru/manga_688993b64a644/5f06ed8c3de0e5ed496eaebb8fd7c4b9/6.webp",
-          "https://cdn.mangalivre.ru/manga_688993b64a644/5f06ed8c3de0e5ed496eaebb8fd7c4b9/7.webp",
-          "https://cdn.mangalivre.ru/manga_688993b64a644/5f06ed8c3de0e5ed496eaebb8fd7c4b9/8.webp"
-        ]
-      }
-    },
-    "33": {
-      "title": "Capítulo 33",
+    "42": {
+      "title": "Capítulo 42",
       "volume": "",
       "last_updated": "1758917265",
       "groups": {
         "gikamura": [
-          "https://cdn.mangalivre.ru/manga_688993b64a644/48924e4a5ea862471ba4f7a012be58fe/1.webp",
-          "https://cdn.mangalivre.ru/manga_688993b64a644/48924e4a5ea862471ba4f7a012be58fe/2.webp",
-          "https://cdn.mangalivre.ru/manga_688993b64a644/48924e4a5ea862471ba4f7a012be58fe/3.webp",
-          "https://cdn.mangalivre.ru/manga_688993b64a644/48924e4a5ea862471ba4f7a012be58fe/4.webp",
-          "https://cdn.mangalivre.ru/manga_688993b64a644/48924e4a5ea862471ba4f7a012be58fe/5.webp",
-          "https://cdn.mangalivre.ru/manga_688993b64a644/48924e4a5ea862471ba4f7a012be58fe/6.webp",
-          "https://cdn.mangalivre.ru/manga_688993b64a644/48924e4a5ea862471ba4f7a012be58fe/7.webp",
-          "https://cdn.mangalivre.ru/manga_688993b64a644/48924e4a5ea862471ba4f7a012be58fe/8.webp"
+          "https://cdn.mangalivre.ru/manga_688993b64a644/3bad27d256c1c35cdc58f03e3ccff79b/1.webp",
+          "https://cdn.mangalivre.ru/manga_688993b64a644/3bad27d256c1c35cdc58f03e3ccff79b/2.webp",
+          "https://cdn.mangalivre.ru/manga_688993b64a644/3bad27d256c1c35cdc58f03e3ccff79b/3.webp",
+          "https://cdn.mangalivre.ru/manga_688993b64a644/3bad27d256c1c35cdc58f03e3ccff79b/4.webp",
+          "https://cdn.mangalivre.ru/manga_688993b64a644/3bad27d256c1c35cdc58f03e3ccff79b/5.webp",
+          "https://cdn.mangalivre.ru/manga_688993b64a644/3bad27d256c1c35cdc58f03e3ccff79b/6.webp"
         ]
       }
     },
-    "34": {
-      "title": "Capítulo 34",
+    "41": {
+      "title": "Capítulo 41",
       "volume": "",
-      "last_updated": "1758917266",
+      "last_updated": "1758917277",
       "groups": {
         "gikamura": [
-          "https://cdn.mangalivre.ru/manga_688993b64a644/c9df154d906ab35f9ca38488dca71d39/1.webp",
-          "https://cdn.mangalivre.ru/manga_688993b64a644/c9df154d906ab35f9ca38488dca71d39/2.webp",
-          "https://cdn.mangalivre.ru/manga_688993b64a644/c9df154d906ab35f9ca38488dca71d39/3.webp",
-          "https://cdn.mangalivre.ru/manga_688993b64a644/c9df154d906ab35f9ca38488dca71d39/4.webp",
-          "https://cdn.mangalivre.ru/manga_688993b64a644/c9df154d906ab35f9ca38488dca71d39/5.webp",
-          "https://cdn.mangalivre.ru/manga_688993b64a644/c9df154d906ab35f9ca38488dca71d39/6.webp",
-          "https://cdn.mangalivre.ru/manga_688993b64a644/c9df154d906ab35f9ca38488dca71d39/7.webp",
-          "https://cdn.mangalivre.ru/manga_688993b64a644/c9df154d906ab35f9ca38488dca71d39/8.webp"
+          "https://cdn.mangalivre.ru/manga_688993b64a644/299c944153225544ad1c733bc2cde294/1.webp",
+          "https://cdn.mangalivre.ru/manga_688993b64a644/299c944153225544ad1c733bc2cde294/2.webp",
+          "https://cdn.mangalivre.ru/manga_688993b64a644/299c944153225544ad1c733bc2cde294/3.webp",
+          "https://cdn.mangalivre.ru/manga_688993b64a644/299c944153225544ad1c733bc2cde294/4.webp",
+          "https://cdn.mangalivre.ru/manga_688993b64a644/299c944153225544ad1c733bc2cde294/5.webp",
+          "https://cdn.mangalivre.ru/manga_688993b64a644/299c944153225544ad1c733bc2cde294/6.webp",
+          "https://cdn.mangalivre.ru/manga_688993b64a644/299c944153225544ad1c733bc2cde294/7.webp",
+          "https://cdn.mangalivre.ru/manga_688993b64a644/299c944153225544ad1c733bc2cde294/8.webp"
         ]
       }
     },
-    "35": {
-      "title": "Capítulo 35",
+    "40": {
+      "title": "Capítulo 40",
       "volume": "",
-      "last_updated": "1758917266",
+      "last_updated": "1758917271",
       "groups": {
         "gikamura": [
-          "https://cdn.mangalivre.ru/manga_688993b64a644/a24f592d3ba319ec0e1f0198f0f1dadb/1.webp",
-          "https://cdn.mangalivre.ru/manga_688993b64a644/a24f592d3ba319ec0e1f0198f0f1dadb/2.webp",
-          "https://cdn.mangalivre.ru/manga_688993b64a644/a24f592d3ba319ec0e1f0198f0f1dadb/3.webp",
-          "https://cdn.mangalivre.ru/manga_688993b64a644/a24f592d3ba319ec0e1f0198f0f1dadb/4.webp",
-          "https://cdn.mangalivre.ru/manga_688993b64a644/a24f592d3ba319ec0e1f0198f0f1dadb/5.webp",
-          "https://cdn.mangalivre.ru/manga_688993b64a644/a24f592d3ba319ec0e1f0198f0f1dadb/6.webp",
-          "https://cdn.mangalivre.ru/manga_688993b64a644/a24f592d3ba319ec0e1f0198f0f1dadb/7.webp",
-          "https://cdn.mangalivre.ru/manga_688993b64a644/a24f592d3ba319ec0e1f0198f0f1dadb/8.webp"
+          "https://cdn.mangalivre.ru/manga_688993b64a644/a115efd55a7ee19e9f9c5e2c292f82e2/1.webp",
+          "https://cdn.mangalivre.ru/manga_688993b64a644/a115efd55a7ee19e9f9c5e2c292f82e2/2.webp",
+          "https://cdn.mangalivre.ru/manga_688993b64a644/a115efd55a7ee19e9f9c5e2c292f82e2/3.webp",
+          "https://cdn.mangalivre.ru/manga_688993b64a644/a115efd55a7ee19e9f9c5e2c292f82e2/4.webp",
+          "https://cdn.mangalivre.ru/manga_688993b64a644/a115efd55a7ee19e9f9c5e2c292f82e2/5.webp",
+          "https://cdn.mangalivre.ru/manga_688993b64a644/a115efd55a7ee19e9f9c5e2c292f82e2/6.webp",
+          "https://cdn.mangalivre.ru/manga_688993b64a644/a115efd55a7ee19e9f9c5e2c292f82e2/7.webp",
+          "https://cdn.mangalivre.ru/manga_688993b64a644/a115efd55a7ee19e9f9c5e2c292f82e2/8.webp"
         ]
       }
     },
-    "36": {
-      "title": "Capítulo 36",
+    "39": {
+      "title": "Capítulo 39",
       "volume": "",
       "last_updated": "1758917278",
       "groups": {
         "gikamura": [
-          "https://cdn.mangalivre.ru/manga_688993b64a644/a8de09dea21a9854cd25f5f9930c08b5/1.webp",
-          "https://cdn.mangalivre.ru/manga_688993b64a644/a8de09dea21a9854cd25f5f9930c08b5/2.webp",
-          "https://cdn.mangalivre.ru/manga_688993b64a644/a8de09dea21a9854cd25f5f9930c08b5/3.webp",
-          "https://cdn.mangalivre.ru/manga_688993b64a644/a8de09dea21a9854cd25f5f9930c08b5/4.webp",
-          "https://cdn.mangalivre.ru/manga_688993b64a644/a8de09dea21a9854cd25f5f9930c08b5/5.webp",
-          "https://cdn.mangalivre.ru/manga_688993b64a644/a8de09dea21a9854cd25f5f9930c08b5/6.webp",
-          "https://cdn.mangalivre.ru/manga_688993b64a644/a8de09dea21a9854cd25f5f9930c08b5/7.webp",
-          "https://cdn.mangalivre.ru/manga_688993b64a644/a8de09dea21a9854cd25f5f9930c08b5/8.webp"
+          "https://cdn.mangalivre.ru/manga_688993b64a644/dcebc4ac952f1a45a75b0d1ca1c414fb/1.webp",
+          "https://cdn.mangalivre.ru/manga_688993b64a644/dcebc4ac952f1a45a75b0d1ca1c414fb/2.webp",
+          "https://cdn.mangalivre.ru/manga_688993b64a644/dcebc4ac952f1a45a75b0d1ca1c414fb/3.webp",
+          "https://cdn.mangalivre.ru/manga_688993b64a644/dcebc4ac952f1a45a75b0d1ca1c414fb/4.webp",
+          "https://cdn.mangalivre.ru/manga_688993b64a644/dcebc4ac952f1a45a75b0d1ca1c414fb/5.webp",
+          "https://cdn.mangalivre.ru/manga_688993b64a644/dcebc4ac952f1a45a75b0d1ca1c414fb/6.webp",
+          "https://cdn.mangalivre.ru/manga_688993b64a644/dcebc4ac952f1a45a75b0d1ca1c414fb/7.webp",
+          "https://cdn.mangalivre.ru/manga_688993b64a644/dcebc4ac952f1a45a75b0d1ca1c414fb/8.webp"
+        ]
+      }
+    },
+    "38": {
+      "title": "Capítulo 38",
+      "volume": "",
+      "last_updated": "1758917261",
+      "groups": {
+        "gikamura": [
+          "https://cdn.mangalivre.ru/manga_688993b64a644/c1a3ea2119c48dff910172b3c5b4e0d4/1.webp",
+          "https://cdn.mangalivre.ru/manga_688993b64a644/c1a3ea2119c48dff910172b3c5b4e0d4/2.webp",
+          "https://cdn.mangalivre.ru/manga_688993b64a644/c1a3ea2119c48dff910172b3c5b4e0d4/3.webp",
+          "https://cdn.mangalivre.ru/manga_688993b64a644/c1a3ea2119c48dff910172b3c5b4e0d4/4.webp",
+          "https://cdn.mangalivre.ru/manga_688993b64a644/c1a3ea2119c48dff910172b3c5b4e0d4/5.webp",
+          "https://cdn.mangalivre.ru/manga_688993b64a644/c1a3ea2119c48dff910172b3c5b4e0d4/6.webp",
+          "https://cdn.mangalivre.ru/manga_688993b64a644/c1a3ea2119c48dff910172b3c5b4e0d4/7.webp",
+          "https://cdn.mangalivre.ru/manga_688993b64a644/c1a3ea2119c48dff910172b3c5b4e0d4/8.webp"
         ]
       }
     },
@@ -506,205 +227,484 @@
         ]
       }
     },
-    "38": {
-      "title": "Capítulo 38",
-      "volume": "",
-      "last_updated": "1758917261",
-      "groups": {
-        "gikamura": [
-          "https://cdn.mangalivre.ru/manga_688993b64a644/c1a3ea2119c48dff910172b3c5b4e0d4/1.webp",
-          "https://cdn.mangalivre.ru/manga_688993b64a644/c1a3ea2119c48dff910172b3c5b4e0d4/2.webp",
-          "https://cdn.mangalivre.ru/manga_688993b64a644/c1a3ea2119c48dff910172b3c5b4e0d4/3.webp",
-          "https://cdn.mangalivre.ru/manga_688993b64a644/c1a3ea2119c48dff910172b3c5b4e0d4/4.webp",
-          "https://cdn.mangalivre.ru/manga_688993b64a644/c1a3ea2119c48dff910172b3c5b4e0d4/5.webp",
-          "https://cdn.mangalivre.ru/manga_688993b64a644/c1a3ea2119c48dff910172b3c5b4e0d4/6.webp",
-          "https://cdn.mangalivre.ru/manga_688993b64a644/c1a3ea2119c48dff910172b3c5b4e0d4/7.webp",
-          "https://cdn.mangalivre.ru/manga_688993b64a644/c1a3ea2119c48dff910172b3c5b4e0d4/8.webp"
-        ]
-      }
-    },
-    "39": {
-      "title": "Capítulo 39",
+    "36": {
+      "title": "Capítulo 36",
       "volume": "",
       "last_updated": "1758917278",
       "groups": {
         "gikamura": [
-          "https://cdn.mangalivre.ru/manga_688993b64a644/dcebc4ac952f1a45a75b0d1ca1c414fb/1.webp",
-          "https://cdn.mangalivre.ru/manga_688993b64a644/dcebc4ac952f1a45a75b0d1ca1c414fb/2.webp",
-          "https://cdn.mangalivre.ru/manga_688993b64a644/dcebc4ac952f1a45a75b0d1ca1c414fb/3.webp",
-          "https://cdn.mangalivre.ru/manga_688993b64a644/dcebc4ac952f1a45a75b0d1ca1c414fb/4.webp",
-          "https://cdn.mangalivre.ru/manga_688993b64a644/dcebc4ac952f1a45a75b0d1ca1c414fb/5.webp",
-          "https://cdn.mangalivre.ru/manga_688993b64a644/dcebc4ac952f1a45a75b0d1ca1c414fb/6.webp",
-          "https://cdn.mangalivre.ru/manga_688993b64a644/dcebc4ac952f1a45a75b0d1ca1c414fb/7.webp",
-          "https://cdn.mangalivre.ru/manga_688993b64a644/dcebc4ac952f1a45a75b0d1ca1c414fb/8.webp"
+          "https://cdn.mangalivre.ru/manga_688993b64a644/a8de09dea21a9854cd25f5f9930c08b5/1.webp",
+          "https://cdn.mangalivre.ru/manga_688993b64a644/a8de09dea21a9854cd25f5f9930c08b5/2.webp",
+          "https://cdn.mangalivre.ru/manga_688993b64a644/a8de09dea21a9854cd25f5f9930c08b5/3.webp",
+          "https://cdn.mangalivre.ru/manga_688993b64a644/a8de09dea21a9854cd25f5f9930c08b5/4.webp",
+          "https://cdn.mangalivre.ru/manga_688993b64a644/a8de09dea21a9854cd25f5f9930c08b5/5.webp",
+          "https://cdn.mangalivre.ru/manga_688993b64a644/a8de09dea21a9854cd25f5f9930c08b5/6.webp",
+          "https://cdn.mangalivre.ru/manga_688993b64a644/a8de09dea21a9854cd25f5f9930c08b5/7.webp",
+          "https://cdn.mangalivre.ru/manga_688993b64a644/a8de09dea21a9854cd25f5f9930c08b5/8.webp"
         ]
       }
     },
-    "40": {
-      "title": "Capítulo 40",
+    "35": {
+      "title": "Capítulo 35",
       "volume": "",
-      "last_updated": "1758917271",
+      "last_updated": "1758917266",
       "groups": {
         "gikamura": [
-          "https://cdn.mangalivre.ru/manga_688993b64a644/a115efd55a7ee19e9f9c5e2c292f82e2/1.webp",
-          "https://cdn.mangalivre.ru/manga_688993b64a644/a115efd55a7ee19e9f9c5e2c292f82e2/2.webp",
-          "https://cdn.mangalivre.ru/manga_688993b64a644/a115efd55a7ee19e9f9c5e2c292f82e2/3.webp",
-          "https://cdn.mangalivre.ru/manga_688993b64a644/a115efd55a7ee19e9f9c5e2c292f82e2/4.webp",
-          "https://cdn.mangalivre.ru/manga_688993b64a644/a115efd55a7ee19e9f9c5e2c292f82e2/5.webp",
-          "https://cdn.mangalivre.ru/manga_688993b64a644/a115efd55a7ee19e9f9c5e2c292f82e2/6.webp",
-          "https://cdn.mangalivre.ru/manga_688993b64a644/a115efd55a7ee19e9f9c5e2c292f82e2/7.webp",
-          "https://cdn.mangalivre.ru/manga_688993b64a644/a115efd55a7ee19e9f9c5e2c292f82e2/8.webp"
+          "https://cdn.mangalivre.ru/manga_688993b64a644/a24f592d3ba319ec0e1f0198f0f1dadb/1.webp",
+          "https://cdn.mangalivre.ru/manga_688993b64a644/a24f592d3ba319ec0e1f0198f0f1dadb/2.webp",
+          "https://cdn.mangalivre.ru/manga_688993b64a644/a24f592d3ba319ec0e1f0198f0f1dadb/3.webp",
+          "https://cdn.mangalivre.ru/manga_688993b64a644/a24f592d3ba319ec0e1f0198f0f1dadb/4.webp",
+          "https://cdn.mangalivre.ru/manga_688993b64a644/a24f592d3ba319ec0e1f0198f0f1dadb/5.webp",
+          "https://cdn.mangalivre.ru/manga_688993b64a644/a24f592d3ba319ec0e1f0198f0f1dadb/6.webp",
+          "https://cdn.mangalivre.ru/manga_688993b64a644/a24f592d3ba319ec0e1f0198f0f1dadb/7.webp",
+          "https://cdn.mangalivre.ru/manga_688993b64a644/a24f592d3ba319ec0e1f0198f0f1dadb/8.webp"
         ]
       }
     },
-    "41": {
-      "title": "Capítulo 41",
+    "34": {
+      "title": "Capítulo 34",
       "volume": "",
-      "last_updated": "1758917277",
+      "last_updated": "1758917266",
       "groups": {
         "gikamura": [
-          "https://cdn.mangalivre.ru/manga_688993b64a644/299c944153225544ad1c733bc2cde294/1.webp",
-          "https://cdn.mangalivre.ru/manga_688993b64a644/299c944153225544ad1c733bc2cde294/2.webp",
-          "https://cdn.mangalivre.ru/manga_688993b64a644/299c944153225544ad1c733bc2cde294/3.webp",
-          "https://cdn.mangalivre.ru/manga_688993b64a644/299c944153225544ad1c733bc2cde294/4.webp",
-          "https://cdn.mangalivre.ru/manga_688993b64a644/299c944153225544ad1c733bc2cde294/5.webp",
-          "https://cdn.mangalivre.ru/manga_688993b64a644/299c944153225544ad1c733bc2cde294/6.webp",
-          "https://cdn.mangalivre.ru/manga_688993b64a644/299c944153225544ad1c733bc2cde294/7.webp",
-          "https://cdn.mangalivre.ru/manga_688993b64a644/299c944153225544ad1c733bc2cde294/8.webp"
+          "https://cdn.mangalivre.ru/manga_688993b64a644/c9df154d906ab35f9ca38488dca71d39/1.webp",
+          "https://cdn.mangalivre.ru/manga_688993b64a644/c9df154d906ab35f9ca38488dca71d39/2.webp",
+          "https://cdn.mangalivre.ru/manga_688993b64a644/c9df154d906ab35f9ca38488dca71d39/3.webp",
+          "https://cdn.mangalivre.ru/manga_688993b64a644/c9df154d906ab35f9ca38488dca71d39/4.webp",
+          "https://cdn.mangalivre.ru/manga_688993b64a644/c9df154d906ab35f9ca38488dca71d39/5.webp",
+          "https://cdn.mangalivre.ru/manga_688993b64a644/c9df154d906ab35f9ca38488dca71d39/6.webp",
+          "https://cdn.mangalivre.ru/manga_688993b64a644/c9df154d906ab35f9ca38488dca71d39/7.webp",
+          "https://cdn.mangalivre.ru/manga_688993b64a644/c9df154d906ab35f9ca38488dca71d39/8.webp"
         ]
       }
     },
-    "42": {
-      "title": "Capítulo 42",
+    "33": {
+      "title": "Capítulo 33",
       "volume": "",
       "last_updated": "1758917265",
       "groups": {
         "gikamura": [
-          "https://cdn.mangalivre.ru/manga_688993b64a644/3bad27d256c1c35cdc58f03e3ccff79b/1.webp",
-          "https://cdn.mangalivre.ru/manga_688993b64a644/3bad27d256c1c35cdc58f03e3ccff79b/2.webp",
-          "https://cdn.mangalivre.ru/manga_688993b64a644/3bad27d256c1c35cdc58f03e3ccff79b/3.webp",
-          "https://cdn.mangalivre.ru/manga_688993b64a644/3bad27d256c1c35cdc58f03e3ccff79b/4.webp",
-          "https://cdn.mangalivre.ru/manga_688993b64a644/3bad27d256c1c35cdc58f03e3ccff79b/5.webp",
-          "https://cdn.mangalivre.ru/manga_688993b64a644/3bad27d256c1c35cdc58f03e3ccff79b/6.webp"
+          "https://cdn.mangalivre.ru/manga_688993b64a644/48924e4a5ea862471ba4f7a012be58fe/1.webp",
+          "https://cdn.mangalivre.ru/manga_688993b64a644/48924e4a5ea862471ba4f7a012be58fe/2.webp",
+          "https://cdn.mangalivre.ru/manga_688993b64a644/48924e4a5ea862471ba4f7a012be58fe/3.webp",
+          "https://cdn.mangalivre.ru/manga_688993b64a644/48924e4a5ea862471ba4f7a012be58fe/4.webp",
+          "https://cdn.mangalivre.ru/manga_688993b64a644/48924e4a5ea862471ba4f7a012be58fe/5.webp",
+          "https://cdn.mangalivre.ru/manga_688993b64a644/48924e4a5ea862471ba4f7a012be58fe/6.webp",
+          "https://cdn.mangalivre.ru/manga_688993b64a644/48924e4a5ea862471ba4f7a012be58fe/7.webp",
+          "https://cdn.mangalivre.ru/manga_688993b64a644/48924e4a5ea862471ba4f7a012be58fe/8.webp"
         ]
       }
     },
-    "43": {
-      "title": "Capítulo 43",
+    "32": {
+      "title": "Capítulo 32",
       "volume": "",
-      "last_updated": "1758917277",
+      "last_updated": "1758917269",
       "groups": {
         "gikamura": [
-          "https://cdn.mangalivre.ru/manga_688993b64a644/0ac43df86b1990d5674e834b7928d8cf/1.webp",
-          "https://cdn.mangalivre.ru/manga_688993b64a644/0ac43df86b1990d5674e834b7928d8cf/2.webp",
-          "https://cdn.mangalivre.ru/manga_688993b64a644/0ac43df86b1990d5674e834b7928d8cf/3.webp",
-          "https://cdn.mangalivre.ru/manga_688993b64a644/0ac43df86b1990d5674e834b7928d8cf/4.webp",
-          "https://cdn.mangalivre.ru/manga_688993b64a644/0ac43df86b1990d5674e834b7928d8cf/5.webp",
-          "https://cdn.mangalivre.ru/manga_688993b64a644/0ac43df86b1990d5674e834b7928d8cf/6.webp",
-          "https://cdn.mangalivre.ru/manga_688993b64a644/0ac43df86b1990d5674e834b7928d8cf/7.webp",
-          "https://cdn.mangalivre.ru/manga_688993b64a644/0ac43df86b1990d5674e834b7928d8cf/8.webp"
+          "https://cdn.mangalivre.ru/manga_688993b64a644/5f06ed8c3de0e5ed496eaebb8fd7c4b9/1.webp",
+          "https://cdn.mangalivre.ru/manga_688993b64a644/5f06ed8c3de0e5ed496eaebb8fd7c4b9/2.webp",
+          "https://cdn.mangalivre.ru/manga_688993b64a644/5f06ed8c3de0e5ed496eaebb8fd7c4b9/3.webp",
+          "https://cdn.mangalivre.ru/manga_688993b64a644/5f06ed8c3de0e5ed496eaebb8fd7c4b9/4.webp",
+          "https://cdn.mangalivre.ru/manga_688993b64a644/5f06ed8c3de0e5ed496eaebb8fd7c4b9/5.webp",
+          "https://cdn.mangalivre.ru/manga_688993b64a644/5f06ed8c3de0e5ed496eaebb8fd7c4b9/6.webp",
+          "https://cdn.mangalivre.ru/manga_688993b64a644/5f06ed8c3de0e5ed496eaebb8fd7c4b9/7.webp",
+          "https://cdn.mangalivre.ru/manga_688993b64a644/5f06ed8c3de0e5ed496eaebb8fd7c4b9/8.webp"
         ]
       }
     },
-    "44": {
-      "title": "Capítulo 44",
+    "31": {
+      "title": "Capítulo 31",
       "volume": "",
-      "last_updated": "1758917260",
+      "last_updated": "1758917274",
       "groups": {
         "gikamura": [
-          "https://cdn.mangalivre.ru/manga_688993b64a644/8aac285e5982594df5d301cf93789806/1.webp",
-          "https://cdn.mangalivre.ru/manga_688993b64a644/8aac285e5982594df5d301cf93789806/2.webp",
-          "https://cdn.mangalivre.ru/manga_688993b64a644/8aac285e5982594df5d301cf93789806/3.webp",
-          "https://cdn.mangalivre.ru/manga_688993b64a644/8aac285e5982594df5d301cf93789806/4.webp",
-          "https://cdn.mangalivre.ru/manga_688993b64a644/8aac285e5982594df5d301cf93789806/5.webp",
-          "https://cdn.mangalivre.ru/manga_688993b64a644/8aac285e5982594df5d301cf93789806/6.webp",
-          "https://cdn.mangalivre.ru/manga_688993b64a644/8aac285e5982594df5d301cf93789806/7.webp"
+          "https://cdn.mangalivre.ru/manga_688993b64a644/198406ebff6d58e3e53ce2fd74bb2ac5/1.webp",
+          "https://cdn.mangalivre.ru/manga_688993b64a644/198406ebff6d58e3e53ce2fd74bb2ac5/2.webp",
+          "https://cdn.mangalivre.ru/manga_688993b64a644/198406ebff6d58e3e53ce2fd74bb2ac5/3.webp",
+          "https://cdn.mangalivre.ru/manga_688993b64a644/198406ebff6d58e3e53ce2fd74bb2ac5/4.webp",
+          "https://cdn.mangalivre.ru/manga_688993b64a644/198406ebff6d58e3e53ce2fd74bb2ac5/5.webp",
+          "https://cdn.mangalivre.ru/manga_688993b64a644/198406ebff6d58e3e53ce2fd74bb2ac5/6.webp",
+          "https://cdn.mangalivre.ru/manga_688993b64a644/198406ebff6d58e3e53ce2fd74bb2ac5/7.webp",
+          "https://cdn.mangalivre.ru/manga_688993b64a644/198406ebff6d58e3e53ce2fd74bb2ac5/8.webp"
         ]
       }
     },
-    "45": {
-      "title": "Capítulo 45",
+    "30": {
+      "title": "Capítulo 30",
+      "volume": "",
+      "last_updated": "1758917283",
+      "groups": {
+        "gikamura": [
+          "https://cdn.mangalivre.ru/manga_688993b64a644/53d5f29caff7cf310dcf8e489b4e1719/1.webp",
+          "https://cdn.mangalivre.ru/manga_688993b64a644/53d5f29caff7cf310dcf8e489b4e1719/2.webp",
+          "https://cdn.mangalivre.ru/manga_688993b64a644/53d5f29caff7cf310dcf8e489b4e1719/3.webp",
+          "https://cdn.mangalivre.ru/manga_688993b64a644/53d5f29caff7cf310dcf8e489b4e1719/4.webp",
+          "https://cdn.mangalivre.ru/manga_688993b64a644/53d5f29caff7cf310dcf8e489b4e1719/5.webp",
+          "https://cdn.mangalivre.ru/manga_688993b64a644/53d5f29caff7cf310dcf8e489b4e1719/6.webp",
+          "https://cdn.mangalivre.ru/manga_688993b64a644/53d5f29caff7cf310dcf8e489b4e1719/7.webp",
+          "https://cdn.mangalivre.ru/manga_688993b64a644/53d5f29caff7cf310dcf8e489b4e1719/8.webp"
+        ]
+      }
+    },
+    "29": {
+      "title": "Capítulo 29",
+      "volume": "",
+      "last_updated": "1758917282",
+      "groups": {
+        "gikamura": [
+          "https://cdn.mangalivre.ru/manga_688993b64a644/af92387af411a68d108cbea7f71886b8/1.webp",
+          "https://cdn.mangalivre.ru/manga_688993b64a644/af92387af411a68d108cbea7f71886b8/2.webp",
+          "https://cdn.mangalivre.ru/manga_688993b64a644/af92387af411a68d108cbea7f71886b8/3.webp",
+          "https://cdn.mangalivre.ru/manga_688993b64a644/af92387af411a68d108cbea7f71886b8/4.webp",
+          "https://cdn.mangalivre.ru/manga_688993b64a644/af92387af411a68d108cbea7f71886b8/5.webp",
+          "https://cdn.mangalivre.ru/manga_688993b64a644/af92387af411a68d108cbea7f71886b8/6.webp",
+          "https://cdn.mangalivre.ru/manga_688993b64a644/af92387af411a68d108cbea7f71886b8/7.webp",
+          "https://cdn.mangalivre.ru/manga_688993b64a644/af92387af411a68d108cbea7f71886b8/8.webp"
+        ]
+      }
+    },
+    "28": {
+      "title": "Capítulo 28",
+      "volume": "",
+      "last_updated": "1758917270",
+      "groups": {
+        "gikamura": [
+          "https://cdn.mangalivre.ru/manga_688993b64a644/b3a95afb8db9fccb68d73762c082f686/1.webp",
+          "https://cdn.mangalivre.ru/manga_688993b64a644/b3a95afb8db9fccb68d73762c082f686/2.webp",
+          "https://cdn.mangalivre.ru/manga_688993b64a644/b3a95afb8db9fccb68d73762c082f686/3.webp",
+          "https://cdn.mangalivre.ru/manga_688993b64a644/b3a95afb8db9fccb68d73762c082f686/4.webp",
+          "https://cdn.mangalivre.ru/manga_688993b64a644/b3a95afb8db9fccb68d73762c082f686/5.webp",
+          "https://cdn.mangalivre.ru/manga_688993b64a644/b3a95afb8db9fccb68d73762c082f686/6.webp",
+          "https://cdn.mangalivre.ru/manga_688993b64a644/b3a95afb8db9fccb68d73762c082f686/7.webp",
+          "https://cdn.mangalivre.ru/manga_688993b64a644/b3a95afb8db9fccb68d73762c082f686/8.webp"
+        ]
+      }
+    },
+    "27": {
+      "title": "Capítulo 27",
+      "volume": "",
+      "last_updated": "1758917271",
+      "groups": {
+        "gikamura": [
+          "https://cdn.mangalivre.ru/manga_688993b64a644/1b4a8a91eb09e44b296957c1eb5a85c5/1.webp",
+          "https://cdn.mangalivre.ru/manga_688993b64a644/1b4a8a91eb09e44b296957c1eb5a85c5/2.webp",
+          "https://cdn.mangalivre.ru/manga_688993b64a644/1b4a8a91eb09e44b296957c1eb5a85c5/3.webp",
+          "https://cdn.mangalivre.ru/manga_688993b64a644/1b4a8a91eb09e44b296957c1eb5a85c5/4.webp",
+          "https://cdn.mangalivre.ru/manga_688993b64a644/1b4a8a91eb09e44b296957c1eb5a85c5/5.webp",
+          "https://cdn.mangalivre.ru/manga_688993b64a644/1b4a8a91eb09e44b296957c1eb5a85c5/6.webp",
+          "https://cdn.mangalivre.ru/manga_688993b64a644/1b4a8a91eb09e44b296957c1eb5a85c5/7.webp",
+          "https://cdn.mangalivre.ru/manga_688993b64a644/1b4a8a91eb09e44b296957c1eb5a85c5/8.webp"
+        ]
+      }
+    },
+    "26": {
+      "title": "Capítulo 26",
+      "volume": "",
+      "last_updated": "1758917272",
+      "groups": {
+        "gikamura": [
+          "https://cdn.mangalivre.ru/manga_688993b64a644/a8e97bb5685eacfd20b0387081cd2756/01.webp",
+          "https://cdn.mangalivre.ru/manga_688993b64a644/a8e97bb5685eacfd20b0387081cd2756/02.webp",
+          "https://cdn.mangalivre.ru/manga_688993b64a644/a8e97bb5685eacfd20b0387081cd2756/03.webp",
+          "https://cdn.mangalivre.ru/manga_688993b64a644/a8e97bb5685eacfd20b0387081cd2756/04.webp",
+          "https://cdn.mangalivre.ru/manga_688993b64a644/a8e97bb5685eacfd20b0387081cd2756/05.webp",
+          "https://cdn.mangalivre.ru/manga_688993b64a644/a8e97bb5685eacfd20b0387081cd2756/06.webp",
+          "https://cdn.mangalivre.ru/manga_688993b64a644/a8e97bb5685eacfd20b0387081cd2756/07.webp",
+          "https://cdn.mangalivre.ru/manga_688993b64a644/a8e97bb5685eacfd20b0387081cd2756/08.webp",
+          "https://cdn.mangalivre.ru/manga_688993b64a644/a8e97bb5685eacfd20b0387081cd2756/09.webp",
+          "https://cdn.mangalivre.ru/manga_688993b64a644/a8e97bb5685eacfd20b0387081cd2756/10.webp"
+        ]
+      }
+    },
+    "25": {
+      "title": "Capítulo 25",
+      "volume": "",
+      "last_updated": "1758917272",
+      "groups": {
+        "gikamura": [
+          "https://cdn.mangalivre.ru/manga_688993b64a644/4f2f0737061bf35a51103b6e71e63e8e/01.webp",
+          "https://cdn.mangalivre.ru/manga_688993b64a644/4f2f0737061bf35a51103b6e71e63e8e/02.webp",
+          "https://cdn.mangalivre.ru/manga_688993b64a644/4f2f0737061bf35a51103b6e71e63e8e/03.webp",
+          "https://cdn.mangalivre.ru/manga_688993b64a644/4f2f0737061bf35a51103b6e71e63e8e/04.webp",
+          "https://cdn.mangalivre.ru/manga_688993b64a644/4f2f0737061bf35a51103b6e71e63e8e/05.webp",
+          "https://cdn.mangalivre.ru/manga_688993b64a644/4f2f0737061bf35a51103b6e71e63e8e/06.webp",
+          "https://cdn.mangalivre.ru/manga_688993b64a644/4f2f0737061bf35a51103b6e71e63e8e/07.webp",
+          "https://cdn.mangalivre.ru/manga_688993b64a644/4f2f0737061bf35a51103b6e71e63e8e/08.webp",
+          "https://cdn.mangalivre.ru/manga_688993b64a644/4f2f0737061bf35a51103b6e71e63e8e/09.webp",
+          "https://cdn.mangalivre.ru/manga_688993b64a644/4f2f0737061bf35a51103b6e71e63e8e/10.webp"
+        ]
+      }
+    },
+    "24": {
+      "title": "Capítulo 24",
+      "volume": "",
+      "last_updated": "1758917273",
+      "groups": {
+        "gikamura": [
+          "https://cdn.mangalivre.ru/manga_688993b64a644/08470591571076b976856789c54f07d3/1.webp",
+          "https://cdn.mangalivre.ru/manga_688993b64a644/08470591571076b976856789c54f07d3/2.webp",
+          "https://cdn.mangalivre.ru/manga_688993b64a644/08470591571076b976856789c54f07d3/3.webp",
+          "https://cdn.mangalivre.ru/manga_688993b64a644/08470591571076b976856789c54f07d3/4.webp",
+          "https://cdn.mangalivre.ru/manga_688993b64a644/08470591571076b976856789c54f07d3/5.webp",
+          "https://cdn.mangalivre.ru/manga_688993b64a644/08470591571076b976856789c54f07d3/6.webp",
+          "https://cdn.mangalivre.ru/manga_688993b64a644/08470591571076b976856789c54f07d3/7.webp",
+          "https://cdn.mangalivre.ru/manga_688993b64a644/08470591571076b976856789c54f07d3/8.webp",
+          "https://cdn.mangalivre.ru/manga_688993b64a644/08470591571076b976856789c54f07d3/9.webp"
+        ]
+      }
+    },
+    "23": {
+      "title": "Capítulo 23",
+      "volume": "",
+      "last_updated": "1758917273",
+      "groups": {
+        "gikamura": [
+          "https://cdn.mangalivre.ru/manga_688993b64a644/15a04812a09aa7d0420e7ed1cfdf6283/01.webp",
+          "https://cdn.mangalivre.ru/manga_688993b64a644/15a04812a09aa7d0420e7ed1cfdf6283/02.webp",
+          "https://cdn.mangalivre.ru/manga_688993b64a644/15a04812a09aa7d0420e7ed1cfdf6283/03.webp",
+          "https://cdn.mangalivre.ru/manga_688993b64a644/15a04812a09aa7d0420e7ed1cfdf6283/04.webp",
+          "https://cdn.mangalivre.ru/manga_688993b64a644/15a04812a09aa7d0420e7ed1cfdf6283/05.webp",
+          "https://cdn.mangalivre.ru/manga_688993b64a644/15a04812a09aa7d0420e7ed1cfdf6283/06.webp",
+          "https://cdn.mangalivre.ru/manga_688993b64a644/15a04812a09aa7d0420e7ed1cfdf6283/07.webp",
+          "https://cdn.mangalivre.ru/manga_688993b64a644/15a04812a09aa7d0420e7ed1cfdf6283/08.webp",
+          "https://cdn.mangalivre.ru/manga_688993b64a644/15a04812a09aa7d0420e7ed1cfdf6283/09.webp",
+          "https://cdn.mangalivre.ru/manga_688993b64a644/15a04812a09aa7d0420e7ed1cfdf6283/10.webp"
+        ]
+      }
+    },
+    "22": {
+      "title": "Capítulo 22",
+      "volume": "",
+      "last_updated": "1758917274",
+      "groups": {
+        "gikamura": [
+          "https://cdn.mangalivre.ru/manga_688993b64a644/7b8afb8cd78b649f4300845867360cca/1.webp",
+          "https://cdn.mangalivre.ru/manga_688993b64a644/7b8afb8cd78b649f4300845867360cca/2.webp",
+          "https://cdn.mangalivre.ru/manga_688993b64a644/7b8afb8cd78b649f4300845867360cca/3.webp",
+          "https://cdn.mangalivre.ru/manga_688993b64a644/7b8afb8cd78b649f4300845867360cca/4.webp",
+          "https://cdn.mangalivre.ru/manga_688993b64a644/7b8afb8cd78b649f4300845867360cca/5.webp",
+          "https://cdn.mangalivre.ru/manga_688993b64a644/7b8afb8cd78b649f4300845867360cca/6.webp",
+          "https://cdn.mangalivre.ru/manga_688993b64a644/7b8afb8cd78b649f4300845867360cca/7.webp",
+          "https://cdn.mangalivre.ru/manga_688993b64a644/7b8afb8cd78b649f4300845867360cca/8.webp"
+        ]
+      }
+    },
+    "21": {
+      "title": "Capítulo 21",
+      "volume": "",
+      "last_updated": "1758917274",
+      "groups": {
+        "gikamura": [
+          "https://cdn.mangalivre.ru/manga_688993b64a644/d23282820a04808f58220d339eaf153c/1.webp",
+          "https://cdn.mangalivre.ru/manga_688993b64a644/d23282820a04808f58220d339eaf153c/2.webp",
+          "https://cdn.mangalivre.ru/manga_688993b64a644/d23282820a04808f58220d339eaf153c/3.webp",
+          "https://cdn.mangalivre.ru/manga_688993b64a644/d23282820a04808f58220d339eaf153c/4.webp",
+          "https://cdn.mangalivre.ru/manga_688993b64a644/d23282820a04808f58220d339eaf153c/5.webp",
+          "https://cdn.mangalivre.ru/manga_688993b64a644/d23282820a04808f58220d339eaf153c/6.webp",
+          "https://cdn.mangalivre.ru/manga_688993b64a644/d23282820a04808f58220d339eaf153c/7.webp",
+          "https://cdn.mangalivre.ru/manga_688993b64a644/d23282820a04808f58220d339eaf153c/8.webp",
+          "https://cdn.mangalivre.ru/manga_688993b64a644/d23282820a04808f58220d339eaf153c/9.webp"
+        ]
+      }
+    },
+    "20": {
+      "title": "Capítulo 20",
+      "volume": "",
+      "last_updated": "1758917275",
+      "groups": {
+        "gikamura": [
+          "https://cdn.mangalivre.ru/manga_688993b64a644/0b2c7b494411996501d76a7755569d18/1.webp",
+          "https://cdn.mangalivre.ru/manga_688993b64a644/0b2c7b494411996501d76a7755569d18/2.webp",
+          "https://cdn.mangalivre.ru/manga_688993b64a644/0b2c7b494411996501d76a7755569d18/3.webp",
+          "https://cdn.mangalivre.ru/manga_688993b64a644/0b2c7b494411996501d76a7755569d18/4.webp",
+          "https://cdn.mangalivre.ru/manga_688993b64a644/0b2c7b494411996501d76a7755569d18/5.webp",
+          "https://cdn.mangalivre.ru/manga_688993b64a644/0b2c7b494411996501d76a7755569d18/6.webp",
+          "https://cdn.mangalivre.ru/manga_688993b64a644/0b2c7b494411996501d76a7755569d18/7.webp",
+          "https://cdn.mangalivre.ru/manga_688993b64a644/0b2c7b494411996501d76a7755569d18/8.webp"
+        ]
+      }
+    },
+    "19": {
+      "title": "Capítulo 19",
+      "volume": "",
+      "last_updated": "1758917275",
+      "groups": {
+        "gikamura": [
+          "https://cdn.mangalivre.ru/manga_688993b64a644/6bbcd741bf538cd3f0c266314017102e/1.webp",
+          "https://cdn.mangalivre.ru/manga_688993b64a644/6bbcd741bf538cd3f0c266314017102e/2.webp",
+          "https://cdn.mangalivre.ru/manga_688993b64a644/6bbcd741bf538cd3f0c266314017102e/3.webp",
+          "https://cdn.mangalivre.ru/manga_688993b64a644/6bbcd741bf538cd3f0c266314017102e/4.webp",
+          "https://cdn.mangalivre.ru/manga_688993b64a644/6bbcd741bf538cd3f0c266314017102e/5.webp",
+          "https://cdn.mangalivre.ru/manga_688993b64a644/6bbcd741bf538cd3f0c266314017102e/6.webp",
+          "https://cdn.mangalivre.ru/manga_688993b64a644/6bbcd741bf538cd3f0c266314017102e/7.webp",
+          "https://cdn.mangalivre.ru/manga_688993b64a644/6bbcd741bf538cd3f0c266314017102e/8.webp"
+        ]
+      }
+    },
+    "18": {
+      "title": "Capítulo 18",
+      "volume": "",
+      "last_updated": "1758917275",
+      "groups": {
+        "gikamura": [
+          "https://cdn.mangalivre.ru/manga_688993b64a644/53787b56ff6f9bbb948258213125c2f2/01.webp",
+          "https://cdn.mangalivre.ru/manga_688993b64a644/53787b56ff6f9bbb948258213125c2f2/02.webp",
+          "https://cdn.mangalivre.ru/manga_688993b64a644/53787b56ff6f9bbb948258213125c2f2/03.webp",
+          "https://cdn.mangalivre.ru/manga_688993b64a644/53787b56ff6f9bbb948258213125c2f2/04.webp",
+          "https://cdn.mangalivre.ru/manga_688993b64a644/53787b56ff6f9bbb948258213125c2f2/05.webp",
+          "https://cdn.mangalivre.ru/manga_688993b64a644/53787b56ff6f9bbb948258213125c2f2/06.webp",
+          "https://cdn.mangalivre.ru/manga_688993b64a644/53787b56ff6f9bbb948258213125c2f2/07.webp",
+          "https://cdn.mangalivre.ru/manga_688993b64a644/53787b56ff6f9bbb948258213125c2f2/08.webp",
+          "https://cdn.mangalivre.ru/manga_688993b64a644/53787b56ff6f9bbb948258213125c2f2/09.webp",
+          "https://cdn.mangalivre.ru/manga_688993b64a644/53787b56ff6f9bbb948258213125c2f2/10.webp"
+        ]
+      }
+    },
+    "17": {
+      "title": "Capítulo 17",
       "volume": "",
       "last_updated": "1758917276",
       "groups": {
         "gikamura": [
-          "https://cdn.mangalivre.ru/manga_688993b64a644/80b62132a97a65e1fccd263ded2c2b29/1.webp",
-          "https://cdn.mangalivre.ru/manga_688993b64a644/80b62132a97a65e1fccd263ded2c2b29/2.webp",
-          "https://cdn.mangalivre.ru/manga_688993b64a644/80b62132a97a65e1fccd263ded2c2b29/3.webp",
-          "https://cdn.mangalivre.ru/manga_688993b64a644/80b62132a97a65e1fccd263ded2c2b29/4.webp",
-          "https://cdn.mangalivre.ru/manga_688993b64a644/80b62132a97a65e1fccd263ded2c2b29/5.webp",
-          "https://cdn.mangalivre.ru/manga_688993b64a644/80b62132a97a65e1fccd263ded2c2b29/6.webp",
-          "https://cdn.mangalivre.ru/manga_688993b64a644/80b62132a97a65e1fccd263ded2c2b29/7.webp",
-          "https://cdn.mangalivre.ru/manga_688993b64a644/80b62132a97a65e1fccd263ded2c2b29/8.webp"
+          "https://cdn.mangalivre.ru/manga_688993b64a644/f14048c8a85298bd742802400d8246ee/1.webp",
+          "https://cdn.mangalivre.ru/manga_688993b64a644/f14048c8a85298bd742802400d8246ee/2.webp",
+          "https://cdn.mangalivre.ru/manga_688993b64a644/f14048c8a85298bd742802400d8246ee/3.webp",
+          "https://cdn.mangalivre.ru/manga_688993b64a644/f14048c8a85298bd742802400d8246ee/4.webp",
+          "https://cdn.mangalivre.ru/manga_688993b64a644/f14048c8a85298bd742802400d8246ee/5.webp",
+          "https://cdn.mangalivre.ru/manga_688993b64a644/f14048c8a85298bd742802400d8246ee/6.webp",
+          "https://cdn.mangalivre.ru/manga_688993b64a644/f14048c8a85298bd742802400d8246ee/7.webp",
+          "https://cdn.mangalivre.ru/manga_688993b64a644/f14048c8a85298bd742802400d8246ee/8.webp"
         ]
       }
     },
-    "46": {
-      "title": "Capítulo 46",
+    "16": {
+      "title": "Capítulo 16",
       "volume": "",
-      "last_updated": "1758917259",
+      "last_updated": "1758917276",
       "groups": {
         "gikamura": [
-          "https://cdn.mangalivre.ru/manga_688993b64a644/2e1062d217639a3902d6c538ae8dc6c2/1.webp",
-          "https://cdn.mangalivre.ru/manga_688993b64a644/2e1062d217639a3902d6c538ae8dc6c2/2.webp",
-          "https://cdn.mangalivre.ru/manga_688993b64a644/2e1062d217639a3902d6c538ae8dc6c2/3.webp",
-          "https://cdn.mangalivre.ru/manga_688993b64a644/2e1062d217639a3902d6c538ae8dc6c2/4.webp",
-          "https://cdn.mangalivre.ru/manga_688993b64a644/2e1062d217639a3902d6c538ae8dc6c2/5.webp",
-          "https://cdn.mangalivre.ru/manga_688993b64a644/2e1062d217639a3902d6c538ae8dc6c2/6.webp",
-          "https://cdn.mangalivre.ru/manga_688993b64a644/2e1062d217639a3902d6c538ae8dc6c2/7.webp",
-          "https://cdn.mangalivre.ru/manga_688993b64a644/2e1062d217639a3902d6c538ae8dc6c2/8.webp"
+          "https://cdn.mangalivre.ru/manga_688993b64a644/d462b0b262fb35f5141c807affae26da/1.webp",
+          "https://cdn.mangalivre.ru/manga_688993b64a644/d462b0b262fb35f5141c807affae26da/2.webp",
+          "https://cdn.mangalivre.ru/manga_688993b64a644/d462b0b262fb35f5141c807affae26da/3.webp",
+          "https://cdn.mangalivre.ru/manga_688993b64a644/d462b0b262fb35f5141c807affae26da/4.webp",
+          "https://cdn.mangalivre.ru/manga_688993b64a644/d462b0b262fb35f5141c807affae26da/5.webp",
+          "https://cdn.mangalivre.ru/manga_688993b64a644/d462b0b262fb35f5141c807affae26da/6.webp",
+          "https://cdn.mangalivre.ru/manga_688993b64a644/d462b0b262fb35f5141c807affae26da/7.webp",
+          "https://cdn.mangalivre.ru/manga_688993b64a644/d462b0b262fb35f5141c807affae26da/8.webp"
         ]
       }
     },
-    "47": {
-      "title": "Capítulo 47",
+    "15": {
+      "title": "Capítulo 15",
       "volume": "",
-      "last_updated": "1758917259",
+      "last_updated": "1758917276",
       "groups": {
         "gikamura": [
-          "https://cdn.mangalivre.ru/manga_688993b64a644/e9f9f6e31552aec6edbed1e2ec0f7378/1.webp",
-          "https://cdn.mangalivre.ru/manga_688993b64a644/e9f9f6e31552aec6edbed1e2ec0f7378/2.webp",
-          "https://cdn.mangalivre.ru/manga_688993b64a644/e9f9f6e31552aec6edbed1e2ec0f7378/3.webp",
-          "https://cdn.mangalivre.ru/manga_688993b64a644/e9f9f6e31552aec6edbed1e2ec0f7378/4.webp",
-          "https://cdn.mangalivre.ru/manga_688993b64a644/e9f9f6e31552aec6edbed1e2ec0f7378/5.webp",
-          "https://cdn.mangalivre.ru/manga_688993b64a644/e9f9f6e31552aec6edbed1e2ec0f7378/6.webp",
-          "https://cdn.mangalivre.ru/manga_688993b64a644/e9f9f6e31552aec6edbed1e2ec0f7378/7.webp"
+          "https://cdn.mangalivre.ru/manga_688993b64a644/baa095f538e1ca04b4aafc17dcf0cd34/01.webp",
+          "https://cdn.mangalivre.ru/manga_688993b64a644/baa095f538e1ca04b4aafc17dcf0cd34/02.webp",
+          "https://cdn.mangalivre.ru/manga_688993b64a644/baa095f538e1ca04b4aafc17dcf0cd34/03.webp",
+          "https://cdn.mangalivre.ru/manga_688993b64a644/baa095f538e1ca04b4aafc17dcf0cd34/04.webp",
+          "https://cdn.mangalivre.ru/manga_688993b64a644/baa095f538e1ca04b4aafc17dcf0cd34/05.webp",
+          "https://cdn.mangalivre.ru/manga_688993b64a644/baa095f538e1ca04b4aafc17dcf0cd34/06.webp",
+          "https://cdn.mangalivre.ru/manga_688993b64a644/baa095f538e1ca04b4aafc17dcf0cd34/07.webp",
+          "https://cdn.mangalivre.ru/manga_688993b64a644/baa095f538e1ca04b4aafc17dcf0cd34/08.webp",
+          "https://cdn.mangalivre.ru/manga_688993b64a644/baa095f538e1ca04b4aafc17dcf0cd34/09.webp",
+          "https://cdn.mangalivre.ru/manga_688993b64a644/baa095f538e1ca04b4aafc17dcf0cd34/10.webp"
         ]
       }
     },
-    "48": {
-      "title": "Capítulo 48",
+    "14": {
+      "title": "Capítulo 14",
       "volume": "",
-      "last_updated": "1758917259",
+      "last_updated": "1758917277",
       "groups": {
         "gikamura": [
-          "https://cdn.mangalivre.ru/manga_688993b64a644/1cc3e81d9fb1b47894f3f1860218a8b1/1.webp",
-          "https://cdn.mangalivre.ru/manga_688993b64a644/1cc3e81d9fb1b47894f3f1860218a8b1/2.webp",
-          "https://cdn.mangalivre.ru/manga_688993b64a644/1cc3e81d9fb1b47894f3f1860218a8b1/3.webp",
-          "https://cdn.mangalivre.ru/manga_688993b64a644/1cc3e81d9fb1b47894f3f1860218a8b1/4.webp",
-          "https://cdn.mangalivre.ru/manga_688993b64a644/1cc3e81d9fb1b47894f3f1860218a8b1/5.webp",
-          "https://cdn.mangalivre.ru/manga_688993b64a644/1cc3e81d9fb1b47894f3f1860218a8b1/6.webp",
-          "https://cdn.mangalivre.ru/manga_688993b64a644/1cc3e81d9fb1b47894f3f1860218a8b1/7.webp",
-          "https://cdn.mangalivre.ru/manga_688993b64a644/1cc3e81d9fb1b47894f3f1860218a8b1/8.webp"
+          "https://cdn.mangalivre.ru/manga_688993b64a644/576e9cb3dcb9b9f0160ea9fab8a8dcc8/01.webp",
+          "https://cdn.mangalivre.ru/manga_688993b64a644/576e9cb3dcb9b9f0160ea9fab8a8dcc8/02.webp",
+          "https://cdn.mangalivre.ru/manga_688993b64a644/576e9cb3dcb9b9f0160ea9fab8a8dcc8/03.webp",
+          "https://cdn.mangalivre.ru/manga_688993b64a644/576e9cb3dcb9b9f0160ea9fab8a8dcc8/04.webp",
+          "https://cdn.mangalivre.ru/manga_688993b64a644/576e9cb3dcb9b9f0160ea9fab8a8dcc8/05.webp",
+          "https://cdn.mangalivre.ru/manga_688993b64a644/576e9cb3dcb9b9f0160ea9fab8a8dcc8/06.webp",
+          "https://cdn.mangalivre.ru/manga_688993b64a644/576e9cb3dcb9b9f0160ea9fab8a8dcc8/07.webp",
+          "https://cdn.mangalivre.ru/manga_688993b64a644/576e9cb3dcb9b9f0160ea9fab8a8dcc8/08.webp",
+          "https://cdn.mangalivre.ru/manga_688993b64a644/576e9cb3dcb9b9f0160ea9fab8a8dcc8/09.webp",
+          "https://cdn.mangalivre.ru/manga_688993b64a644/576e9cb3dcb9b9f0160ea9fab8a8dcc8/10.webp"
         ]
       }
     },
-    "49": {
-      "title": "Capítulo 49",
+    "13": {
+      "title": "Capítulo 13",
       "volume": "",
-      "last_updated": "1758917259",
+      "last_updated": "1758917277",
       "groups": {
         "gikamura": [
-          "https://cdn.mangalivre.ru/manga_688993b64a644/e4f6e1c87d548f1da45501bdd422f71e/01.webp",
-          "https://cdn.mangalivre.ru/manga_688993b64a644/e4f6e1c87d548f1da45501bdd422f71e/02.webp",
-          "https://cdn.mangalivre.ru/manga_688993b64a644/e4f6e1c87d548f1da45501bdd422f71e/03.webp",
-          "https://cdn.mangalivre.ru/manga_688993b64a644/e4f6e1c87d548f1da45501bdd422f71e/04.webp",
-          "https://cdn.mangalivre.ru/manga_688993b64a644/e4f6e1c87d548f1da45501bdd422f71e/05.webp",
-          "https://cdn.mangalivre.ru/manga_688993b64a644/e4f6e1c87d548f1da45501bdd422f71e/06.webp",
-          "https://cdn.mangalivre.ru/manga_688993b64a644/e4f6e1c87d548f1da45501bdd422f71e/07.webp",
-          "https://cdn.mangalivre.ru/manga_688993b64a644/e4f6e1c87d548f1da45501bdd422f71e/08.webp",
-          "https://cdn.mangalivre.ru/manga_688993b64a644/e4f6e1c87d548f1da45501bdd422f71e/09.webp",
-          "https://cdn.mangalivre.ru/manga_688993b64a644/e4f6e1c87d548f1da45501bdd422f71e/10.webp"
+          "https://cdn.mangalivre.ru/manga_688993b64a644/48bc9ed0c151b2a8d8ac4dc656b0a026/01.webp",
+          "https://cdn.mangalivre.ru/manga_688993b64a644/48bc9ed0c151b2a8d8ac4dc656b0a026/02.webp",
+          "https://cdn.mangalivre.ru/manga_688993b64a644/48bc9ed0c151b2a8d8ac4dc656b0a026/03.webp",
+          "https://cdn.mangalivre.ru/manga_688993b64a644/48bc9ed0c151b2a8d8ac4dc656b0a026/04.webp",
+          "https://cdn.mangalivre.ru/manga_688993b64a644/48bc9ed0c151b2a8d8ac4dc656b0a026/05.webp",
+          "https://cdn.mangalivre.ru/manga_688993b64a644/48bc9ed0c151b2a8d8ac4dc656b0a026/06.webp",
+          "https://cdn.mangalivre.ru/manga_688993b64a644/48bc9ed0c151b2a8d8ac4dc656b0a026/07.webp",
+          "https://cdn.mangalivre.ru/manga_688993b64a644/48bc9ed0c151b2a8d8ac4dc656b0a026/08.webp",
+          "https://cdn.mangalivre.ru/manga_688993b64a644/48bc9ed0c151b2a8d8ac4dc656b0a026/09.webp",
+          "https://cdn.mangalivre.ru/manga_688993b64a644/48bc9ed0c151b2a8d8ac4dc656b0a026/10.webp"
+        ]
+      }
+    },
+    "12": {
+      "title": "Capítulo 12",
+      "volume": "",
+      "last_updated": "1758917277",
+      "groups": {
+        "gikamura": [
+          "https://cdn.mangalivre.ru/manga_688993b64a644/1cb872f584b6d20a243a879c9981a105/01.webp",
+          "https://cdn.mangalivre.ru/manga_688993b64a644/1cb872f584b6d20a243a879c9981a105/02.webp",
+          "https://cdn.mangalivre.ru/manga_688993b64a644/1cb872f584b6d20a243a879c9981a105/03.webp",
+          "https://cdn.mangalivre.ru/manga_688993b64a644/1cb872f584b6d20a243a879c9981a105/04.webp",
+          "https://cdn.mangalivre.ru/manga_688993b64a644/1cb872f584b6d20a243a879c9981a105/05.webp",
+          "https://cdn.mangalivre.ru/manga_688993b64a644/1cb872f584b6d20a243a879c9981a105/06.webp",
+          "https://cdn.mangalivre.ru/manga_688993b64a644/1cb872f584b6d20a243a879c9981a105/07.webp",
+          "https://cdn.mangalivre.ru/manga_688993b64a644/1cb872f584b6d20a243a879c9981a105/08.webp",
+          "https://cdn.mangalivre.ru/manga_688993b64a644/1cb872f584b6d20a243a879c9981a105/09.webp",
+          "https://cdn.mangalivre.ru/manga_688993b64a644/1cb872f584b6d20a243a879c9981a105/10.webp"
+        ]
+      }
+    },
+    "11": {
+      "title": "Capítulo 11",
+      "volume": "",
+      "last_updated": "1758917277",
+      "groups": {
+        "gikamura": [
+          "https://cdn.mangalivre.ru/manga_688993b64a644/bd91406d509412975c146274df79aa01/01.webp",
+          "https://cdn.mangalivre.ru/manga_688993b64a644/bd91406d509412975c146274df79aa01/02.webp",
+          "https://cdn.mangalivre.ru/manga_688993b64a644/bd91406d509412975c146274df79aa01/03.webp",
+          "https://cdn.mangalivre.ru/manga_688993b64a644/bd91406d509412975c146274df79aa01/04.webp",
+          "https://cdn.mangalivre.ru/manga_688993b64a644/bd91406d509412975c146274df79aa01/05.webp",
+          "https://cdn.mangalivre.ru/manga_688993b64a644/bd91406d509412975c146274df79aa01/06.webp",
+          "https://cdn.mangalivre.ru/manga_688993b64a644/bd91406d509412975c146274df79aa01/07.webp",
+          "https://cdn.mangalivre.ru/manga_688993b64a644/bd91406d509412975c146274df79aa01/08.webp",
+          "https://cdn.mangalivre.ru/manga_688993b64a644/bd91406d509412975c146274df79aa01/09.webp",
+          "https://cdn.mangalivre.ru/manga_688993b64a644/bd91406d509412975c146274df79aa01/10.webp"
+        ]
+      }
+    },
+    "10": {
+      "title": "Capítulo 10",
+      "volume": "",
+      "last_updated": "1758917258",
+      "groups": {
+        "gikamura": [
+          "https://cdn.mangalivre.ru/manga_688993b64a644/8c9247f1909d3055d7763fc97d6b3a0e/01.webp",
+          "https://cdn.mangalivre.ru/manga_688993b64a644/8c9247f1909d3055d7763fc97d6b3a0e/02.webp",
+          "https://cdn.mangalivre.ru/manga_688993b64a644/8c9247f1909d3055d7763fc97d6b3a0e/03.webp",
+          "https://cdn.mangalivre.ru/manga_688993b64a644/8c9247f1909d3055d7763fc97d6b3a0e/04.webp",
+          "https://cdn.mangalivre.ru/manga_688993b64a644/8c9247f1909d3055d7763fc97d6b3a0e/05.webp",
+          "https://cdn.mangalivre.ru/manga_688993b64a644/8c9247f1909d3055d7763fc97d6b3a0e/06.webp",
+          "https://cdn.mangalivre.ru/manga_688993b64a644/8c9247f1909d3055d7763fc97d6b3a0e/07.webp",
+          "https://cdn.mangalivre.ru/manga_688993b64a644/8c9247f1909d3055d7763fc97d6b3a0e/08.webp",
+          "https://cdn.mangalivre.ru/manga_688993b64a644/8c9247f1909d3055d7763fc97d6b3a0e/09.webp",
+          "https://cdn.mangalivre.ru/manga_688993b64a644/8c9247f1909d3055d7763fc97d6b3a0e/10.webp"
         ]
       }
     },
@@ -905,6 +905,5 @@
         ]
       }
     }
-  },
-  "filePath": "/home/jhoorodr/Projetos/Projetos-code/MOE/reader_scraper/metadata/json/JP396.json"
+  }
 }
