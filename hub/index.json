@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "lastUpdated": 1759349302,
+    "lastUpdated": 1759349303,
     "totalMangas": 1085,
-    "version": "1.0.3"
+    "version": "1.0.4"
   },
   "mangas": {
     "KR1017": {
@@ -6542,18 +6542,6 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9KUDUwMi5qc29u/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx110999-1fyFZOPsfcrV.jpg"
-        }
-      ]
-    },
-    "KR26": {
-      "title": "Player Who Returned 10,000 Years Later",
-      "chapters": [
-        {
-          "id": 26,
-          "title": "Player Who Returned 10,000 Years Later",
-          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvS1IyNi5qc29u/",
-          "type": "manhwa",
-          "cover_url": "https://files.catbox.moe/cauw56.jpg"
         }
       ]
     },
