@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764709333,
-    "totalMangas": 1200,
+    "lastUpdated": 1764709338,
+    "totalMangas": 1201,
     "version": "1.0.4"
   },
   "mangas": {
@@ -14402,6 +14402,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21vZWwvbWFvZWxfMTIzOC5qc29u/",
           "type": "oel",
           "cover_url": "https://media.kitsu.app/manga/54597/poster_image/543b6857c9ef3086fea523105a8edaa0.jpg"
+        }
+      ]
+    },
+    "majp_2663": {
+      "title": "Mizudako-chan kara wa Nigerarenai!",
+      "chapters": [
+        {
+          "id": "2663",
+          "title": "Mizudako-chan kara wa Nigerarenai!",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzI2NjMuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://cdn.myanimelist.net/images/manga/2/303527.jpg"
         }
       ]
     }
