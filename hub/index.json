@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764709320,
-    "totalMangas": 1197,
+    "lastUpdated": 1764709325,
+    "totalMangas": 1198,
     "version": "1.0.4"
   },
   "mangas": {
@@ -14366,6 +14366,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzIwODkuanNvbg/",
           "type": "manga",
           "cover_url": "https://images2.imgbox.com/d8/50/ixsFCHUg_o.jpg"
+        }
+      ]
+    },
+    "maot_198973": {
+      "title": "Sono Bisque Doll wa Koi o Suru",
+      "chapters": [
+        {
+          "id": "198973",
+          "title": "Sono Bisque Doll wa Koi o Suru",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21vdC9tYW90XzE5ODk3My5qc29u/",
+          "type": "outro",
+          "cover_url": "https://cdn.mangaupdates.com/image/i492215.png"
         }
       ]
     }
