@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": 1764712399,
+    "lastUpdated": 1764712406,
     "totalMangas": 1541,
     "version": "1.0.4"
   },
@@ -3122,18 +3122,6 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvQ0g4MTMuanNvbg%3D%3D/",
           "type": "manhua",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx145689-ZP2bQbl6VTZO.png"
-        }
-      ]
-    },
-    "JP250": {
-      "title": "Fukushuu Kansuisha no Jinsei Nishuume Isekaitan",
-      "chapters": [
-        {
-          "id": 250,
-          "title": "Fukushuu Kansuisha no Jinsei Nishuume Isekaitan",
-          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9KUDI1MC5qc29u/",
-          "type": "manga",
-          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx117084-S8EiQPF9leD0.jpg"
         }
       ]
     },
@@ -18494,6 +18482,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzUzMjkuanNvbg/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx86447-eaVdagCwsWVk.jpg"
+        }
+      ]
+    },
+    "majp_250": {
+      "title": "Ghost Fixers",
+      "chapters": [
+        {
+          "id": "250",
+          "title": "Ghost Fixers",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzI1MC5qc29u/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx175424-wKqqbzuXADIA.jpg"
         }
       ]
     }
