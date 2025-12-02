@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764711316,
-    "totalMangas": 1352,
+    "lastUpdated": 1764711321,
+    "totalMangas": 1353,
     "version": "1.0.4"
   },
   "mangas": {
@@ -16226,6 +16226,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzczNjcuanNvbg/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/nx100874-R0tRjl1gkNM3.jpg"
+        }
+      ]
+    },
+    "majp_1654": {
+      "title": "Kakushite! Makina-san!!",
+      "chapters": [
+        {
+          "id": "1654",
+          "title": "Kakushite! Makina-san!!",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzE2NTQuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://cdn.mangaupdates.com/image/i492285.jpg"
         }
       ]
     }
