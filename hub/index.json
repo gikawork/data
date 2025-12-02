@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764708967,
-    "totalMangas": 1160,
+    "lastUpdated": 1764708970,
+    "totalMangas": 1161,
     "version": "1.0.4"
   },
   "mangas": {
@@ -13922,6 +13922,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzEwMTY5OC5qc29u/",
           "type": "manga",
           "cover_url": "https://images2.imgbox.com/93/1f/f0hFMtFN_o.jpg"
+        }
+      ]
+    },
+    "majp_2620": {
+      "title": "The Dangers in My Heart",
+      "chapters": [
+        {
+          "id": "majp_2620",
+          "title": "The Dangers in My Heart",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzI2MjAuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx101557-bEJu54cmVYxx.jpg"
         }
       ]
     }
