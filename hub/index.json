@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764711429,
-    "totalMangas": 1374,
+    "lastUpdated": 1764711434,
+    "totalMangas": 1375,
     "version": "1.0.4"
   },
   "mangas": {
@@ -16490,6 +16490,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzQ1NjQxLmpzb24/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx128260-B6G2i71bemtz.jpg"
+        }
+      ]
+    },
+    "majp_2423": {
+      "title": "Trinity Blood",
+      "chapters": [
+        {
+          "id": "2423",
+          "title": "Trinity Blood",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzI0MjMuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx30556-J595SEy1nNjG.jpg"
         }
       ]
     }
