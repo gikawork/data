@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764709265,
-    "totalMangas": 1188,
+    "lastUpdated": 1764709270,
+    "totalMangas": 1189,
     "version": "1.0.4"
   },
   "mangas": {
@@ -14258,6 +14258,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzU1OTguanNvbg/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/17106.jpg"
+        }
+      ]
+    },
+    "majp_6586": {
+      "title": "Saint Seiya: Saintia Shou",
+      "chapters": [
+        {
+          "id": "6586",
+          "title": "Saint Seiya: Saintia Shou",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzY1ODYuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx84761-0Ku5EUQ7Yavb.jpg"
         }
       ]
     }
