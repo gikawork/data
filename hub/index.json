@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764712021,
-    "totalMangas": 1469,
+    "lastUpdated": 1764712024,
+    "totalMangas": 1470,
     "version": "1.0.4"
   },
   "mangas": {
@@ -17630,6 +17630,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzQyODQuanNvbg/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx85830-qAuhZu9l3bHS.png"
+        }
+      ]
+    },
+    "majp_1572": {
+      "title": "COLOR/LESS",
+      "chapters": [
+        {
+          "id": "1572",
+          "title": "COLOR/LESS",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzE1NzIuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx107114-ySvIni45soD0.jpg"
         }
       ]
     }
