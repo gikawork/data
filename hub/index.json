@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764711905,
-    "totalMangas": 1449,
+    "lastUpdated": 1764711907,
+    "totalMangas": 1450,
     "version": "1.0.4"
   },
   "mangas": {
@@ -17390,6 +17390,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzY3NTY3Lmpzb24/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx112024-tz9XJLAlrXgr.jpg"
+        }
+      ]
+    },
+    "makr_4386": {
+      "title": "When You’re In Love",
+      "chapters": [
+        {
+          "id": "4386",
+          "title": "When You’re In Love",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl80Mzg2Lmpzb24/",
+          "type": "manhwa",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx174359-h8XNGxR518F4.jpg"
         }
       ]
     }
