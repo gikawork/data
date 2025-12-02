@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764709481,
-    "totalMangas": 1230,
+    "lastUpdated": 1764709488,
+    "totalMangas": 1231,
     "version": "1.0.4"
   },
   "mangas": {
@@ -14762,6 +14762,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzIyMDkuanNvbg/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx130801-RXTjByhTVnKW.jpg"
+        }
+      ]
+    },
+    "majp_202": {
+      "title": "Salaryman ga Isekai ni Ittara Shitennou ni Natta Hanashi",
+      "chapters": [
+        {
+          "id": "202",
+          "title": "Salaryman ga Isekai ni Ittara Shitennou ni Natta Hanashi",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzIwMi5qc29u/",
+          "type": "manga",
+          "cover_url": "https://cdn.myanimelist.net/images/manga/2/232129.jpg"
         }
       ]
     }
