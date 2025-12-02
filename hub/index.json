@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764708954,
-    "totalMangas": 1156,
+    "lastUpdated": 1764708957,
+    "totalMangas": 1157,
     "version": "1.0.4"
   },
   "mangas": {
@@ -13874,6 +13874,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl81NDE4Mi5qc29u/",
           "type": "manhwa",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx150508-xh4xwMVQB6Vf.jpg"
+        }
+      ]
+    },
+    "majp_7793": {
+      "title": "Yandere ka to Omottara Motto Yabee Onna datta Edit",
+      "chapters": [
+        {
+          "id": "majp_7793",
+          "title": "Yandere ka to Omottara Motto Yabee Onna datta Edit",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzc3OTMuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://cdn.myanimelist.net/images/manga/3/307236.jpg"
         }
       ]
     }
