@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764712081,
-    "totalMangas": 1480,
+    "lastUpdated": 1764712084,
+    "totalMangas": 1481,
     "version": "1.0.4"
   },
   "mangas": {
@@ -17762,6 +17762,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzg5Lmpzb24/",
           "type": "manga",
           "cover_url": "https://cdn.mangaupdates.com/image/i502346.jpg"
+        }
+      ]
+    },
+    "majp_1181": {
+      "title": "Umareta Chokugo ni Suterareta kedo, Zensei ga Taikensha datta node Yoyuu de Ikitemasu",
+      "chapters": [
+        {
+          "id": "1181",
+          "title": "Umareta Chokugo ni Suterareta kedo, Zensei ga Taikensha datta node Yoyuu de Ikitemasu",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzExODEuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx159106-l27gufv6alXR.png"
         }
       ]
     }
