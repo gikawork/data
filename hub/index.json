@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764711982,
-    "totalMangas": 1463,
+    "lastUpdated": 1764711987,
+    "totalMangas": 1464,
     "version": "1.0.4"
   },
   "mangas": {
@@ -17558,6 +17558,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl83MTQyNS5qc29u/",
           "type": "manhwa",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx169135-1NFC4fJUoH9q.jpg"
+        }
+      ]
+    },
+    "majp_2081": {
+      "title": "Girls × Vampire",
+      "chapters": [
+        {
+          "id": "2081",
+          "title": "Girls × Vampire",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzIwODEuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx186345-0EUlBbAvqfGf.jpg"
         }
       ]
     }
