@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": 1764711666,
+    "lastUpdated": 1764711673,
     "totalMangas": 1416,
     "version": "1.0.4"
   },
@@ -10577,18 +10577,6 @@
         }
       ]
     },
-    "JP83": {
-      "title": "Anjou-san no Gakkou no Hokenshitsu no Komaki-sensei",
-      "chapters": [
-        {
-          "id": 83,
-          "title": "Anjou-san no Gakkou no Hokenshitsu no Komaki-sensei",
-          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9KUDgzLmpzb24%3D/",
-          "type": "manga",
-          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx120841-gp2emslTBivZ.jpg"
-        }
-      ]
-    },
     "JP421": {
       "title": "Kanna to Decchi",
       "chapters": [
@@ -16994,6 +16982,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzU0NDMuanNvbg/",
           "type": "manga",
           "cover_url": "https://media.kitsu.app/manga/poster_images/10823/large.jpg"
+        }
+      ]
+    },
+    "majp_83": {
+      "title": "Blue Lock",
+      "chapters": [
+        {
+          "id": "83",
+          "title": "Blue Lock",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzgzLmpzb24/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx106130-yPNeuSu75ey1.jpg"
         }
       ]
     }
