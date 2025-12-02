@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764711516,
-    "totalMangas": 1389,
+    "lastUpdated": 1764711522,
+    "totalMangas": 1390,
     "version": "1.0.4"
   },
   "mangas": {
@@ -16670,6 +16670,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzM5OTMuanNvbg/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx167103-MEuQsPHHuEU0.jpg"
+        }
+      ]
+    },
+    "majp_3924": {
+      "title": "Kami Chi no Kyuuseishu - 0.00000001% o Hikiate Saikyou e",
+      "chapters": [
+        {
+          "id": "3924",
+          "title": "Kami Chi no Kyuuseishu - 0.00000001% o Hikiate Saikyou e",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzM5MjQuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://images2.imgbox.com/0f/be/BJLjBt6M_o.jpg"
         }
       ]
     }
