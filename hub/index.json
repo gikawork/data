@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": 1764711944,
+    "lastUpdated": 1764711951,
     "totalMangas": 1457,
     "version": "1.0.4"
   },
@@ -3074,18 +3074,6 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9KUDM4NC5qc29u/",
           "type": "manga",
           "cover_url": "https://images2.imgbox.com/80/3e/pZy4LSbt_o.jpg"
-        }
-      ]
-    },
-    "KR1016": {
-      "title": "Where the Heart Leads",
-      "chapters": [
-        {
-          "id": 1016,
-          "title": "Where the Heart Leads",
-          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvS1IxMDE2Lmpzb24%3D/",
-          "type": "manhwa",
-          "cover_url": "https://images2.imgbox.com/0d/3c/RHbFsHht_o.png"
         }
       ]
     },
@@ -17486,6 +17474,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzIxNzMuanNvbg/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx144946-cscic3n2SwdY.jpg"
+        }
+      ]
+    },
+    "makr_1016": {
+      "title": "Surviving the Apocalypse",
+      "chapters": [
+        {
+          "id": "1016",
+          "title": "Surviving the Apocalypse",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8xMDE2Lmpzb24/",
+          "type": "manhwa",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b181296-5QGQETFeyeM7.jpg"
         }
       ]
     }
