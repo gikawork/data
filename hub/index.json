@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764710848,
-    "totalMangas": 1270,
+    "lastUpdated": 1764710853,
+    "totalMangas": 1271,
     "version": "1.0.4"
   },
   "mangas": {
@@ -15242,6 +15242,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzI5MzYuanNvbg/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx104660-NZZdpLJlgHle.jpg"
+        }
+      ]
+    },
+    "makr_1543": {
+      "title": "Black Haze (2025)",
+      "chapters": [
+        {
+          "id": "1543",
+          "title": "Black Haze (2025)",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8xNTQzLmpzb24/",
+          "type": "manhwa",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx187169-KwlSwFdW7gOa.png"
         }
       ]
     }
