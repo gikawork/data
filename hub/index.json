@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764711925,
-    "totalMangas": 1453,
+    "lastUpdated": 1764711930,
+    "totalMangas": 1454,
     "version": "1.0.4"
   },
   "mangas": {
@@ -17438,6 +17438,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzQ0MTMuanNvbg/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx120768-5msBc2sxVuXA.jpg"
+        }
+      ]
+    },
+    "makr_80893": {
+      "title": "Surviving as a Genius on Borrowed Time",
+      "chapters": [
+        {
+          "id": "80893",
+          "title": "Surviving as a Genius on Borrowed Time",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl84MDg5My5qc29u/",
+          "type": "manhwa",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx183376-Cw3VnZAItw2a.jpg"
         }
       ]
     }
