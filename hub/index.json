@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": 1764713005,
+    "lastUpdated": 1764713019,
     "totalMangas": 1554,
     "version": "1.0.4"
   },
@@ -4046,18 +4046,6 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9KUDUzMC5qc29u/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx166140-SARL6v6M8hEp.jpg"
-        }
-      ]
-    },
-    "JP992": {
-      "title": "Unlucky Young Men",
-      "chapters": [
-        {
-          "id": 992,
-          "title": "Unlucky Young Men",
-          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9KUDk5Mi5qc29u/",
-          "type": "manga",
-          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/nx103052-0N0URtIZI4nb.jpg"
         }
       ]
     },
@@ -18650,6 +18638,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8zNjk4MDUuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx197888-zIIsJTd8g2Wl.jpg"
+        }
+      ]
+    },
+    "majp_992": {
+      "title": "Ataerareta Skill wo Tsukatte Kasei de Isekai Bijotachi to Ichaicha shitai",
+      "chapters": [
+        {
+          "id": "992",
+          "title": "Ataerareta Skill wo Tsukatte Kasei de Isekai Bijotachi to Ichaicha shitai",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzk5Mi5qc29u/",
+          "type": "manga",
+          "cover_url": "https://cdn.mangaupdates.com/image/i495791.jpg"
         }
       ]
     }
