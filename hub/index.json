@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764711930,
-    "totalMangas": 1454,
+    "lastUpdated": 1764711935,
+    "totalMangas": 1455,
     "version": "1.0.4"
   },
   "mangas": {
@@ -17450,6 +17450,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl84MDg5My5qc29u/",
           "type": "manhwa",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx183376-Cw3VnZAItw2a.jpg"
+        }
+      ]
+    },
+    "majp_3861": {
+      "title": "Kanpeki Sugite Kawaige ga Nai to Konyaku Haki Sareta Seijo wa Ringoku ni Urareru",
+      "chapters": [
+        {
+          "id": "3861",
+          "title": "Kanpeki Sugite Kawaige ga Nai to Konyaku Haki Sareta Seijo wa Ringoku ni Urareru",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzM4NjEuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx149107-fVgQ3xT4SKja.jpg"
         }
       ]
     }
