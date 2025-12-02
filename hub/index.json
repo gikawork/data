@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764711125,
-    "totalMangas": 1324,
+    "lastUpdated": 1764711131,
+    "totalMangas": 1325,
     "version": "1.0.4"
   },
   "mangas": {
@@ -15890,6 +15890,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzQzMzQuanNvbg/",
           "type": "manga",
           "cover_url": "https://cdn.mangaupdates.com/image/i478386.jpg"
+        }
+      ]
+    },
+    "majp_2070": {
+      "title": "Baby Steps",
+      "chapters": [
+        {
+          "id": "2070",
+          "title": "Baby Steps",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzIwNzAuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx38300-TXX5KLxitjb1.jpg"
         }
       ]
     }
