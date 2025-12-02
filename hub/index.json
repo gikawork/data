@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764712191,
-    "totalMangas": 1501,
+    "lastUpdated": 1764712196,
+    "totalMangas": 1502,
     "version": "1.0.4"
   },
   "mangas": {
@@ -18014,6 +18014,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzMyNzYuanNvbg/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx174266-85TWEFCM8igW.jpg"
+        }
+      ]
+    },
+    "majp_1976": {
+      "title": "Nível Mágico 99990000 Grande Sábio de Todos os Atributos",
+      "chapters": [
+        {
+          "id": "1976",
+          "title": "Nível Mágico 99990000 Grande Sábio de Todos os Atributos",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzE5NzYuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/13275/687db381a3e58.webp"
         }
       ]
     }
