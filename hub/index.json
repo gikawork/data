@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": 1764717456,
+    "lastUpdated": 1764717467,
     "totalMangas": 1098,
     "version": "1.0.5"
   },
@@ -13166,6 +13166,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzI0OC5qc29u/",
           "type": "manga",
           "cover_url": "https://images2.imgbox.com/72/1e/mJdxm8h4_o.jpg"
+        }
+      ]
+    },
+    "majp_726": {
+      "title": "Chika Idol wo Kage de Sasaeru Ore",
+      "chapters": [
+        {
+          "id": "726",
+          "title": "Chika Idol wo Kage de Sasaeru Ore",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzcyNi5qc29u/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx178851-OMaHwm4Chjfs.jpg"
         }
       ]
     }
