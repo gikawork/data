@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764713146,
-    "totalMangas": 1567,
+    "lastUpdated": 1764713152,
+    "totalMangas": 1568,
     "version": "1.0.4"
   },
   "mangas": {
@@ -18806,6 +18806,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzEyMzk3Lmpzb24/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx40841-dKmjVj9oKQV4.jpg"
+        }
+      ]
+    },
+    "majp_1277": {
+      "title": "Omiai ni Sugoi Komyushou ga Kita",
+      "chapters": [
+        {
+          "id": "1277",
+          "title": "Omiai ni Sugoi Komyushou ga Kita",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzEyNzcuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx168653-4asgfGc2cDgn.jpg"
         }
       ]
     }
