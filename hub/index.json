@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764712185,
-    "totalMangas": 1500,
+    "lastUpdated": 1764712191,
+    "totalMangas": 1501,
     "version": "1.0.4"
   },
   "mangas": {
@@ -18002,6 +18002,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzE1NTM2NS5qc29u/",
           "type": "manga",
           "cover_url": "https://media.kitsu.app/manga/poster_images/40496/large.jpg"
+        }
+      ]
+    },
+    "majp_3276": {
+      "title": "Rekkyou Sensen",
+      "chapters": [
+        {
+          "id": "3276",
+          "title": "Rekkyou Sensen",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzMyNzYuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx174266-85TWEFCM8igW.jpg"
         }
       ]
     }
