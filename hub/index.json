@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764709205,
-    "totalMangas": 1179,
+    "lastUpdated": 1764709230,
+    "totalMangas": 1180,
     "version": "1.0.4"
   },
   "mangas": {
@@ -14150,6 +14150,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzM3MjkuanNvbg/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/nx99065-3LKF0OVyP0To.jpg"
+        }
+      ]
+    },
+    "majp_2595": {
+      "title": "Trinity Seven",
+      "chapters": [
+        {
+          "id": "2595",
+          "title": "Trinity Seven",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzI1OTUuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx54822-RtRk8BhQz7R5.jpg"
         }
       ]
     }
