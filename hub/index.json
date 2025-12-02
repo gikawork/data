@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764709234,
-    "totalMangas": 1181,
+    "lastUpdated": 1764709237,
+    "totalMangas": 1182,
     "version": "1.0.4"
   },
   "mangas": {
@@ -14174,6 +14174,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzIxMDAuanNvbg/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx97830-Xl76R9pzLWOE.jpg"
+        }
+      ]
+    },
+    "makr_203076": {
+      "title": "Level 999 Goblin",
+      "chapters": [
+        {
+          "id": "203076",
+          "title": "Level 999 Goblin",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8yMDMwNzYuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx192813-zUUyrNHvGiEM.jpg"
         }
       ]
     }
