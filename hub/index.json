@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764710891,
-    "totalMangas": 1277,
+    "lastUpdated": 1764710897,
+    "totalMangas": 1278,
     "version": "1.0.4"
   },
   "mangas": {
@@ -15326,6 +15326,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzE2OTAwLmpzb24/",
           "type": "manga",
           "cover_url": "https://cdn.myanimelist.net/images/manga/1/103573.jpg"
+        }
+      ]
+    },
+    "majp_31632": {
+      "title": "Salman",
+      "chapters": [
+        {
+          "id": "31632",
+          "title": "Salman",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzMxNjMyLmpzb24/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx105150-Mx1qjmaQGRY6.jpg"
         }
       ]
     }
