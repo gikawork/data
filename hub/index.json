@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764710929,
-    "totalMangas": 1285,
+    "lastUpdated": 1764710935,
+    "totalMangas": 1286,
     "version": "1.0.4"
   },
   "mangas": {
@@ -15422,6 +15422,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21vZWwvbWFvZWxfNTE0NDY3Lmpzb24/",
           "type": "oel",
           "cover_url": "https://ap-proxy.mangabaka.dev/proxy.php?url=https://cdn.anime-planet.com/manga/primary/dungeon-crawler-carl-1.webp?t=1754001555"
+        }
+      ]
+    },
+    "majp_16867": {
+      "title": "Persona 3",
+      "chapters": [
+        {
+          "id": "16867",
+          "title": "Persona 3",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzE2ODY3Lmpzb24/",
+          "type": "manga",
+          "cover_url": "https://cdn.myanimelist.net/images/manga/2/268756.jpg"
         }
       ]
     }
