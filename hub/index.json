@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764712411,
-    "totalMangas": 1542,
+    "lastUpdated": 1764712419,
+    "totalMangas": 1543,
     "version": "1.0.4"
   },
   "mangas": {
@@ -18506,6 +18506,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzQzODQuanNvbg/",
           "type": "manga",
           "cover_url": "https://media.kitsu.app/manga/57772/poster_image/large-a85272fbbf7705136fc14ff12076e0df.jpeg"
+        }
+      ]
+    },
+    "makr_8376": {
+      "title": "The Advanced Player of the Tutorial Tower",
+      "chapters": [
+        {
+          "id": "8376",
+          "title": "The Advanced Player of the Tutorial Tower",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl84Mzc2Lmpzb24/",
+          "type": "manhwa",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx119276-wqzyyB3xuPVo.jpg"
         }
       ]
     }
