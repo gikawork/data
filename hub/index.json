@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764712156,
-    "totalMangas": 1494,
+    "lastUpdated": 1764712161,
+    "totalMangas": 1495,
     "version": "1.0.4"
   },
   "mangas": {
@@ -17930,6 +17930,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzM3NTEuanNvbg/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx85457-cqChbDz7JTEt.png"
+        }
+      ]
+    },
+    "majp_3264": {
+      "title": "Magi Craft Meister",
+      "chapters": [
+        {
+          "id": "3264",
+          "title": "Magi Craft Meister",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzMyNjQuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/nx99920-lKmxinYMoRTw.jpg"
         }
       ]
     }
