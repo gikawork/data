@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764709237,
-    "totalMangas": 1182,
+    "lastUpdated": 1764709239,
+    "totalMangas": 1183,
     "version": "1.0.4"
   },
   "mangas": {
@@ -14186,6 +14186,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8yMDMwNzYuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx192813-zUUyrNHvGiEM.jpg"
+        }
+      ]
+    },
+    "majp_1208": {
+      "title": "Kaminaki Sekai no Kamisama Katsudou",
+      "chapters": [
+        {
+          "id": "1208",
+          "title": "Kaminaki Sekai no Kamisama Katsudou",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzEyMDguanNvbg/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx130965-NUvCqDInSqlL.jpg"
         }
       ]
     }
