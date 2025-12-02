@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764710826,
-    "totalMangas": 1266,
+    "lastUpdated": 1764710831,
+    "totalMangas": 1267,
     "version": "1.0.4"
   },
   "mangas": {
@@ -15194,6 +15194,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl82NzMxLmpzb24/",
           "type": "manhwa",
           "cover_url": "https://cdn.myanimelist.net/images/manga/3/260735.jpg"
+        }
+      ]
+    },
+    "majp_2839": {
+      "title": "The Invincible Summoner Who Crawled Up from Level 1",
+      "chapters": [
+        {
+          "id": "2839",
+          "title": "The Invincible Summoner Who Crawled Up from Level 1",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzI4MzkuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx157938-SkSkxmsCJDQT.jpg"
         }
       ]
     }
