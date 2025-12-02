@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764711301,
-    "totalMangas": 1349,
+    "lastUpdated": 1764711306,
+    "totalMangas": 1350,
     "version": "1.0.4"
   },
   "mangas": {
@@ -16190,6 +16190,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzE2NjcuanNvbg/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx144599-FXY0u4YOfcsm.jpg"
+        }
+      ]
+    },
+    "maot_369185": {
+      "title": "Seitokai ni mo Ana wa Aru!",
+      "chapters": [
+        {
+          "id": "369185",
+          "title": "Seitokai ni mo Ana wa Aru!",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21vdC9tYW90XzM2OTE4NS5qc29u/",
+          "type": "outro",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx147863-rFKeAjxaAGBo.jpg"
         }
       ]
     }
