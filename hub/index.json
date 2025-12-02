@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764711585,
-    "totalMangas": 1402,
+    "lastUpdated": 1764711587,
+    "totalMangas": 1403,
     "version": "1.0.4"
   },
   "mangas": {
@@ -16826,6 +16826,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzQ5ODcuanNvbg/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx30644-atl1lKB07PO8.png"
+        }
+      ]
+    },
+    "majp_9268": {
+      "title": "K-ON! College",
+      "chapters": [
+        {
+          "id": "9268",
+          "title": "K-ON! College",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzkyNjguanNvbg/",
+          "type": "manga",
+          "cover_url": "https://cdn.myanimelist.net/images/manga/2/260521.jpg"
         }
       ]
     }
