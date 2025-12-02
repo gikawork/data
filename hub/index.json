@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764708829,
-    "totalMangas": 1119,
+    "lastUpdated": 1764708832,
+    "totalMangas": 1120,
     "version": "1.0.4"
   },
   "mangas": {
@@ -13430,6 +13430,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzU1NjEuanNvbg/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b41733-kBSIRTvwQJyN.jpg"
+        }
+      ]
+    },
+    "majp_2500": {
+      "title": "Kichiku Eiyuu",
+      "chapters": [
+        {
+          "id": "majp_2500",
+          "title": "Kichiku Eiyuu",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzI1MDAuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://cdn.myanimelist.net/images/manga/2/280095.jpg"
         }
       ]
     }
