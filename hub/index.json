@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764711641,
-    "totalMangas": 1412,
+    "lastUpdated": 1764711643,
+    "totalMangas": 1413,
     "version": "1.0.4"
   },
   "mangas": {
@@ -16946,6 +16946,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzE2NTcuanNvbg/",
           "type": "manga",
           "cover_url": "https://cdn.myanimelist.net/images/manga/1/244179.jpg"
+        }
+      ]
+    },
+    "majp_3402": {
+      "title": "Summer's Gonna Tear Us Apart",
+      "chapters": [
+        {
+          "id": "3402",
+          "title": "Summer's Gonna Tear Us Apart",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzM0MDIuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx170995-vKi5MLfgkkoU.jpg"
         }
       ]
     }
