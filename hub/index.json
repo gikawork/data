@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764709026,
-    "totalMangas": 1176,
+    "lastUpdated": 1764709030,
+    "totalMangas": 1177,
     "version": "1.0.4"
   },
   "mangas": {
@@ -14114,6 +14114,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzM5ODUuanNvbg/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx98347-8WilPyGXtetn.jpg"
+        }
+      ]
+    },
+    "makr_69688": {
+      "title": "Weapon Creator",
+      "chapters": [
+        {
+          "id": "makr_69688",
+          "title": "Weapon Creator",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl82OTY4OC5qc29u/",
+          "type": "manhwa",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx170884-7D6cudb4rINH.png"
         }
       ]
     }
