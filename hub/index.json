@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764711028,
-    "totalMangas": 1303,
+    "lastUpdated": 1764711030,
+    "totalMangas": 1304,
     "version": "1.0.4"
   },
   "mangas": {
@@ -15638,6 +15638,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzU0MzYuanNvbg/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx31047-BHs8MnYsOxOC.jpg"
+        }
+      ]
+    },
+    "majp_3229": {
+      "title": "That Sensation",
+      "chapters": [
+        {
+          "id": "3229",
+          "title": "That Sensation",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzMyMjkuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://files.catbox.moe/120hvl.jpg"
         }
       ]
     }
