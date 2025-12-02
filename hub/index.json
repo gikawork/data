@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764711289,
-    "totalMangas": 1346,
+    "lastUpdated": 1764711291,
+    "totalMangas": 1347,
     "version": "1.0.4"
   },
   "mangas": {
@@ -16154,6 +16154,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzMyMjU2Mi5qc29u/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx108471-nJo1OaRWG624.png"
+        }
+      ]
+    },
+    "maot_187005": {
+      "title": "Jibaku Shounen Hanako-kun",
+      "chapters": [
+        {
+          "id": "187005",
+          "title": "Jibaku Shounen Hanako-kun",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21vdC9tYW90XzE4NzAwNS5qc29u/",
+          "type": "outro",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/nx98842-Ji0v423UZ4er.jpg"
         }
       ]
     }
