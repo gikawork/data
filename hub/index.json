@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764708799,
-    "totalMangas": 1108,
+    "lastUpdated": 1764708802,
+    "totalMangas": 1109,
     "version": "1.0.4"
   },
   "mangas": {
@@ -13298,6 +13298,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzkwMTguanNvbg/",
           "type": "manga",
           "cover_url": "https://images2.imgbox.com/73/33/Mo8RyoWa_o.jpg"
+        }
+      ]
+    },
+    "majp_4940": {
+      "title": "Isekai Monster Breeder",
+      "chapters": [
+        {
+          "id": "majp_4940",
+          "title": "Isekai Monster Breeder",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzQ5NDAuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx118724-Or5Jsh3BJNWT.jpg"
         }
       ]
     }
