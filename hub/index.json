@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764709325,
-    "totalMangas": 1198,
+    "lastUpdated": 1764709327,
+    "totalMangas": 1199,
     "version": "1.0.4"
   },
   "mangas": {
@@ -14378,6 +14378,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21vdC9tYW90XzE5ODk3My5qc29u/",
           "type": "outro",
           "cover_url": "https://cdn.mangaupdates.com/image/i492215.png"
+        }
+      ]
+    },
+    "majp_4820": {
+      "title": "Imouto ga Bunretsu shita.",
+      "chapters": [
+        {
+          "id": "4820",
+          "title": "Imouto ga Bunretsu shita.",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzQ4MjAuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://cdn.myanimelist.net/images/manga/3/234725.jpg"
         }
       ]
     }
