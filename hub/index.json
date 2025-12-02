@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764710802,
-    "totalMangas": 1261,
+    "lastUpdated": 1764710807,
+    "totalMangas": 1262,
     "version": "1.0.4"
   },
   "mangas": {
@@ -15134,6 +15134,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzE0OTMuanNvbg/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx172407-IPqqzVxU6Zm1.jpg"
+        }
+      ]
+    },
+    "majp_39081": {
+      "title": "I’ll Never Set Foot in That House Again!",
+      "chapters": [
+        {
+          "id": "39081",
+          "title": "I’ll Never Set Foot in That House Again!",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzM5MDgxLmpzb24/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx123756-8oUSe6L8G8ee.jpg"
         }
       ]
     }
