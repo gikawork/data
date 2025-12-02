@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": 1764711609,
+    "lastUpdated": 1764711616,
     "totalMangas": 1407,
     "version": "1.0.4"
   },
@@ -5702,18 +5702,6 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9KUDM0My5qc29u/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx131041-I06OpqQxE95F.jpg"
-        }
-      ]
-    },
-    "JP284": {
-      "title": "Goze Hotaru",
-      "chapters": [
-        {
-          "id": 284,
-          "title": "Goze Hotaru",
-          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9KUDI4NC5qc29u/",
-          "type": "manga",
-          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx175426-zKmatApgO232.jpg"
         }
       ]
     },
@@ -16886,6 +16874,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzEzMzkuanNvbg/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx188100-gjNMf8agkT1Y.jpg"
+        }
+      ]
+    },
+    "majp_284": {
+      "title": "Mikami Sensei no Aishikata",
+      "chapters": [
+        {
+          "id": "284",
+          "title": "Mikami Sensei no Aishikata",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzI4NC5qc29u/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx85646-sIQChZcqyBGs.jpg"
         }
       ]
     }
