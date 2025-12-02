@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764712070,
-    "totalMangas": 1478,
+    "lastUpdated": 1764712075,
+    "totalMangas": 1479,
     "version": "1.0.4"
   },
   "mangas": {
@@ -17738,6 +17738,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8xMjkxLmpzb24/",
           "type": "manhwa",
           "cover_url": "https://cdn.myanimelist.net/images/manga/1/274479.jpg"
+        }
+      ]
+    },
+    "majp_3053": {
+      "title": "The Alchemist",
+      "chapters": [
+        {
+          "id": "3053",
+          "title": "The Alchemist",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzMwNTMuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx186726-odNzBtFDEiWe.png"
         }
       ]
     }
