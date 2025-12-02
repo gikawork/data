@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764711837,
-    "totalMangas": 1439,
+    "lastUpdated": 1764711843,
+    "totalMangas": 1440,
     "version": "1.0.4"
   },
   "mangas": {
@@ -17270,6 +17270,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzEyNC5qc29u/",
           "type": "manga",
           "cover_url": "https://cdn.mangaupdates.com/image/i491002.jpg"
+        }
+      ]
+    },
+    "majp_654": {
+      "title": "Yowa Yowa Sensei",
+      "chapters": [
+        {
+          "id": "654",
+          "title": "Yowa Yowa Sensei",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzY1NC5qc29u/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx157128-yRTFqweyaOkv.jpg"
         }
       ]
     }
