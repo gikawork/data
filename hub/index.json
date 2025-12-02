@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764710958,
-    "totalMangas": 1290,
+    "lastUpdated": 1764710963,
+    "totalMangas": 1291,
     "version": "1.0.4"
   },
   "mangas": {
@@ -15482,6 +15482,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzM4MDguanNvbg/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx135231-Bd4sG5w6jMrd.jpg"
+        }
+      ]
+    },
+    "makr_3534": {
+      "title": "The Exiled Hero",
+      "chapters": [
+        {
+          "id": "3534",
+          "title": "The Exiled Hero",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8zNTM0Lmpzb24/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.myanimelist.net/images/manga/3/304669.jpg"
         }
       ]
     }
