@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764708869,
-    "totalMangas": 1130,
+    "lastUpdated": 1764708871,
+    "totalMangas": 1131,
     "version": "1.0.4"
   },
   "mangas": {
@@ -13562,6 +13562,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzE3OTcuanNvbg/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/nx46765-KPXir4sRqJBW.png"
+        }
+      ]
+    },
+    "makr_8144": {
+      "title": "Heavenly Sword's Grand Saga",
+      "chapters": [
+        {
+          "id": "makr_8144",
+          "title": "Heavenly Sword's Grand Saga",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl84MTQ0Lmpzb24/",
+          "type": "manhwa",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx152422-D9NbExBqC4GR.png"
         }
       ]
     }
