@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764711580,
-    "totalMangas": 1401,
+    "lastUpdated": 1764711585,
+    "totalMangas": 1402,
     "version": "1.0.4"
   },
   "mangas": {
@@ -16814,6 +16814,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzMzOTUuanNvbg/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/nx106867-exeApKyXHJNH.jpg"
+        }
+      ]
+    },
+    "majp_4987": {
+      "title": "Bremen",
+      "chapters": [
+        {
+          "id": "4987",
+          "title": "Bremen",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzQ5ODcuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx30644-atl1lKB07PO8.png"
         }
       ]
     }
