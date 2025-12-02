@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764711321,
-    "totalMangas": 1353,
+    "lastUpdated": 1764711323,
+    "totalMangas": 1354,
     "version": "1.0.4"
   },
   "mangas": {
@@ -16238,6 +16238,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzE2NTQuanNvbg/",
           "type": "manga",
           "cover_url": "https://cdn.mangaupdates.com/image/i492285.jpg"
+        }
+      ]
+    },
+    "majp_6120": {
+      "title": "Tsukushitagari na Uchi no Yome ni Tsuite Derete mo Ii ka",
+      "chapters": [
+        {
+          "id": "6120",
+          "title": "Tsukushitagari na Uchi no Yome ni Tsuite Derete mo Ii ka",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzYxMjAuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx134988-9EWh3UG7nbcd.jpg"
         }
       ]
     }
