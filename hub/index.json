@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764711183,
-    "totalMangas": 1332,
+    "lastUpdated": 1764711187,
+    "totalMangas": 1333,
     "version": "1.0.4"
   },
   "mangas": {
@@ -15986,6 +15986,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzY0ODUuanNvbg/",
           "type": "manga",
           "cover_url": "https://cdn.myanimelist.net/images/manga/2/149716.jpg"
+        }
+      ]
+    },
+    "majp_3038": {
+      "title": "My Boyfriend in Orange",
+      "chapters": [
+        {
+          "id": "3038",
+          "title": "My Boyfriend in Orange",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzMwMzguanNvbg/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/nx99650-2ry3U5fPpHbo.jpg"
         }
       ]
     }
