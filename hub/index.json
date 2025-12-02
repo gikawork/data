@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": 1764710683,
+    "lastUpdated": 1764710689,
     "totalMangas": 1240,
     "version": "1.0.4"
   },
@@ -11033,18 +11033,6 @@
         }
       ]
     },
-    "JP656": {
-      "title": "Parallel",
-      "chapters": [
-        {
-          "id": 656,
-          "title": "Parallel",
-          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9KUDY1Ni5qc29u/",
-          "type": "manga",
-          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx30862-M7N7ySFyttKu.png"
-        }
-      ]
-    },
     "KR179": {
       "title": "Chronicles of the Demon Faction",
       "chapters": [
@@ -14882,6 +14870,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzQ4NDcuanNvbg/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx196470-nHPuuQxmJjuP.jpg"
+        }
+      ]
+    },
+    "majp_656": {
+      "title": "Tensei Akuma no Saikyou Yuusha Ikusei Keikaku",
+      "chapters": [
+        {
+          "id": "656",
+          "title": "Tensei Akuma no Saikyou Yuusha Ikusei Keikaku",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzY1Ni5qc29u/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx147063-TDAdvGa5V2Be.jpg"
         }
       ]
     }
