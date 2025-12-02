@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764712678,
-    "totalMangas": 1545,
+    "lastUpdated": 1764712914,
+    "totalMangas": 1546,
     "version": "1.0.4"
   },
   "mangas": {
@@ -18542,6 +18542,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzI3MDUuanNvbg/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx30024-UUUz8xxkt8pc.jpg"
+        }
+      ]
+    },
+    "majp_376812": {
+      "title": "Negattemonai Tsuihougo kara no Slow Life?",
+      "chapters": [
+        {
+          "id": "376812",
+          "title": "Negattemonai Tsuihougo kara no Slow Life?",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzM3NjgxMi5qc29u/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx190119-N4JVzBOoEPny.jpg"
         }
       ]
     }
