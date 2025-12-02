@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": 1764710873,
+    "lastUpdated": 1764710879,
     "totalMangas": 1274,
     "version": "1.0.4"
   },
@@ -4250,18 +4250,6 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9KUDY3NC5qc29u/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx44232-JIf5oB4e2M1L.jpg"
-        }
-      ]
-    },
-    "JP388": {
-      "title": "Jimoto ni Kaettekitara Osananajimi ga Kowareteta",
-      "chapters": [
-        {
-          "id": 388,
-          "title": "Jimoto ni Kaettekitara Osananajimi ga Kowareteta",
-          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9KUDM4OC5qc29u/",
-          "type": "manga",
-          "cover_url": "https://cdn.myanimelist.net/images/manga/1/292482.jpg"
         }
       ]
     },
@@ -15290,6 +15278,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzE4MDc1Lmpzb24/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b31440-ub9X6mNW3BfZ.jpg"
+        }
+      ]
+    },
+    "majp_388": {
+      "title": "Reincarnation Coliseum: The Weakest Skill Conquers the Strongest Women and Creates a Harem",
+      "chapters": [
+        {
+          "id": "388",
+          "title": "Reincarnation Coliseum: The Weakest Skill Conquers the Strongest Women and Creates a Harem",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzM4OC5qc29u/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx152284-9kat9f3v31dA.jpg"
         }
       ]
     }
