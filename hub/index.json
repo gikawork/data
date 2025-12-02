@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764710724,
-    "totalMangas": 1246,
+    "lastUpdated": 1764710730,
+    "totalMangas": 1247,
     "version": "1.0.4"
   },
   "mangas": {
@@ -14954,6 +14954,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl82NzYwLmpzb24/",
           "type": "manhwa",
           "cover_url": "https://files.catbox.moe/cauw56.jpg"
+        }
+      ]
+    },
+    "majp_2008": {
+      "title": "Akebi-chan no Sailor Fuku",
+      "chapters": [
+        {
+          "id": "2008",
+          "title": "Akebi-chan no Sailor Fuku",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzIwMDguanNvbg/",
+          "type": "manga",
+          "cover_url": "https://cdn.myanimelist.net/images/manga/2/250312.jpg"
         }
       ]
     }
