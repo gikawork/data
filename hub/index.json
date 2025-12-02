@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764709357,
-    "totalMangas": 1205,
+    "lastUpdated": 1764709363,
+    "totalMangas": 1206,
     "version": "1.0.4"
   },
   "mangas": {
@@ -14462,6 +14462,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzgxODkuanNvbg/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx74501-u7UW8upHlC4S.jpg"
+        }
+      ]
+    },
+    "majp_6757": {
+      "title": "Martial Master Asumi",
+      "chapters": [
+        {
+          "id": "6757",
+          "title": "Martial Master Asumi",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzY3NTcuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx166140-SARL6v6M8hEp.jpg"
         }
       ]
     }
