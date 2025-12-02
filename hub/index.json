@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764709239,
-    "totalMangas": 1183,
+    "lastUpdated": 1764709244,
+    "totalMangas": 1184,
     "version": "1.0.4"
   },
   "mangas": {
@@ -14198,6 +14198,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzEyMDguanNvbg/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx130965-NUvCqDInSqlL.jpg"
+        }
+      ]
+    },
+    "majp_4835": {
+      "title": "Fukushuu Kansuisha no Jinsei Nishuume Isekaitan",
+      "chapters": [
+        {
+          "id": "4835",
+          "title": "Fukushuu Kansuisha no Jinsei Nishuume Isekaitan",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzQ4MzUuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx117084-S8EiQPF9leD0.jpg"
         }
       ]
     }
