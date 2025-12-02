@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764712173,
-    "totalMangas": 1497,
+    "lastUpdated": 1764712175,
+    "totalMangas": 1498,
     "version": "1.0.4"
   },
   "mangas": {
@@ -17966,6 +17966,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl80ODAwLmpzb24/",
           "type": "manhwa",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx117540-RRDXqQJbhWTv.jpg"
+        }
+      ]
+    },
+    "majp_40463": {
+      "title": "Debby the Corsifa wa Makezugirai",
+      "chapters": [
+        {
+          "id": "40463",
+          "title": "Debby the Corsifa wa Makezugirai",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzQwNDYzLmpzb24/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx118333-xDb8S7XqbzuY.jpg"
         }
       ]
     }
