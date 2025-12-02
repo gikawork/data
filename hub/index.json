@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764711951,
-    "totalMangas": 1457,
+    "lastUpdated": 1764711956,
+    "totalMangas": 1458,
     "version": "1.0.4"
   },
   "mangas": {
@@ -17486,6 +17486,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8xMDE2Lmpzb24/",
           "type": "manhwa",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b181296-5QGQETFeyeM7.jpg"
+        }
+      ]
+    },
+    "makr_2556": {
+      "title": "I Stole the First Ranker’s Soul",
+      "chapters": [
+        {
+          "id": "2556",
+          "title": "I Stole the First Ranker’s Soul",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8yNTU2Lmpzb24/",
+          "type": "manhwa",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx156477-uM3wUBlYEaap.png"
         }
       ]
     }
