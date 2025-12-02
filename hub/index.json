@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764708934,
-    "totalMangas": 1148,
+    "lastUpdated": 1764708937,
+    "totalMangas": 1149,
     "version": "1.0.4"
   },
   "mangas": {
@@ -13778,6 +13778,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzEzODUuanNvbg/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx172835-czyk4Zne3GWd.jpg"
+        }
+      ]
+    },
+    "majp_5228": {
+      "title": "Cheat Skill \"Shisha Sosei\" ga Kakusei shite, Inishie no Maougun wo Fukkatsu sasete Shimaimashita: Daremo Shinasenai Saikyou Healer",
+      "chapters": [
+        {
+          "id": "majp_5228",
+          "title": "Cheat Skill \"Shisha Sosei\" ga Kakusei shite, Inishie no Maougun wo Fukkatsu sasete Shimaimashita: Daremo Shinasenai Saikyou Healer",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzUyMjguanNvbg/",
+          "type": "manga",
+          "cover_url": "https://cdn.myanimelist.net/images/manga/2/239721.jpg"
         }
       ]
     }
