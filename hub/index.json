@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764708787,
-    "totalMangas": 1106,
+    "lastUpdated": 1764708791,
+    "totalMangas": 1107,
     "version": "1.0.4"
   },
   "mangas": {
@@ -13274,6 +13274,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzY0ODAuanNvbg/",
           "type": "manga",
           "cover_url": "https://cdn.myanimelist.net/images/manga/3/224102.jpg"
+        }
+      ]
+    },
+    "majp_503": {
+      "title": "Ryoushin no Shakkin wo Katagawari shite Morau Jouken wa Nihonichi Kawaii Joshikousei to Issho ni Kurasu Koto deshita.",
+      "chapters": [
+        {
+          "id": "majp_503",
+          "title": "Ryoushin no Shakkin wo Katagawari shite Morau Jouken wa Nihonichi Kawaii Joshikousei to Issho ni Kurasu Koto deshita.",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzUwMy5qc29u/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx142021-uUN9GKHWJEGo.jpg"
         }
       ]
     }
