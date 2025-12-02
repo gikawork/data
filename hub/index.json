@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764710910,
-    "totalMangas": 1281,
+    "lastUpdated": 1764710915,
+    "totalMangas": 1282,
     "version": "1.0.4"
   },
   "mangas": {
@@ -15374,6 +15374,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzI0OTIuanNvbg/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx38795-daT8dNvLjJMy.png"
+        }
+      ]
+    },
+    "majp_850": {
+      "title": "Disney Twisted Wonderland - The Comic - ~Episode of Octavinelle~",
+      "chapters": [
+        {
+          "id": "850",
+          "title": "Disney Twisted Wonderland - The Comic - ~Episode of Octavinelle~",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzg1MC5qc29u/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b170223-6hLJH9Qc9WCK.jpg"
         }
       ]
     }
