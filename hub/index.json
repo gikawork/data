@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": 1764708893,
+    "lastUpdated": 1764708900,
     "totalMangas": 1138,
     "version": "1.0.4"
   },
@@ -10001,18 +10001,6 @@
         }
       ]
     },
-    "JP414": {
-      "title": "Kami e no Esa wa Kanojotachi",
-      "chapters": [
-        {
-          "id": 414,
-          "title": "Kami e no Esa wa Kanojotachi",
-          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9KUDQxNC5qc29u/",
-          "type": "manga",
-          "cover_url": "https://cdn.mangaupdates.com/image/i501149.jpg"
-        }
-      ]
-    },
     "JP532": {
       "title": "Masamune-kun no Revenge",
       "chapters": [
@@ -13658,6 +13646,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzExMDc2NC5qc29u/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx141127-MJrvungcbkfQ.jpg"
+        }
+      ]
+    },
+    "majp_414": {
+      "title": "Sentai Daishikkaku",
+      "chapters": [
+        {
+          "id": "majp_414",
+          "title": "Sentai Daishikkaku",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzQxNC5qc29u/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx127564-b13pxvw95hrq.png"
         }
       ]
     }
