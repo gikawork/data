@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764711030,
-    "totalMangas": 1304,
+    "lastUpdated": 1764711035,
+    "totalMangas": 1305,
     "version": "1.0.4"
   },
   "mangas": {
@@ -15650,6 +15650,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzMyMjkuanNvbg/",
           "type": "manga",
           "cover_url": "https://files.catbox.moe/120hvl.jpg"
+        }
+      ]
+    },
+    "majp_4801": {
+      "title": "GE: Good Ending",
+      "chapters": [
+        {
+          "id": "4801",
+          "title": "GE: Good Ending",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzQ4MDEuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx45578-mjbt1QSVTlCi.jpg"
         }
       ]
     }
