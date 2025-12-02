@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764708928,
-    "totalMangas": 1146,
+    "lastUpdated": 1764708931,
+    "totalMangas": 1147,
     "version": "1.0.4"
   },
   "mangas": {
@@ -13754,6 +13754,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzg4My5qc29u/",
           "type": "manga",
           "cover_url": "https://cdn.myanimelist.net/images/manga/3/260475.jpg"
+        }
+      ]
+    },
+    "majp_1249": {
+      "title": "Abe-kun ni Nerawaretemasu",
+      "chapters": [
+        {
+          "id": "majp_1249",
+          "title": "Abe-kun ni Nerawaretemasu",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzEyNDkuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://cdn.mangaupdates.com/image/i396654.jpg"
         }
       ]
     }
