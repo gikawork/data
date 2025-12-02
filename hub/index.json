@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764711079,
-    "totalMangas": 1314,
+    "lastUpdated": 1764711085,
+    "totalMangas": 1315,
     "version": "1.0.4"
   },
   "mangas": {
@@ -15770,6 +15770,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzk4MTM1Lmpzb24/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx187347-sY2tWsTKzfUl.jpg"
+        }
+      ]
+    },
+    "majp_2977": {
+      "title": "Blue Exorcist",
+      "chapters": [
+        {
+          "id": "2977",
+          "title": "Blue Exorcist",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzI5NzcuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/nx43492-2mvXJnP6Feqq.png"
         }
       ]
     }
