@@ -1,7 +1,7 @@
 {
   "metadata": {
     "lastUpdated": 1764708799,
-    "totalMangas": 1107,
+    "totalMangas": 1108,
     "version": "1.0.4"
   },
   "mangas": {
@@ -13286,6 +13286,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzcxNC5qc29u/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx174176-ySD1guB6hbzr.jpg"
+        }
+      ]
+    },
+    "majp_9018": {
+      "title": "Shuumatsu no Harem",
+      "chapters": [
+        {
+          "id": "majp_9018",
+          "title": "Shuumatsu no Harem",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzkwMTguanNvbg/",
+          "type": "manga",
+          "cover_url": "https://images2.imgbox.com/73/33/Mo8RyoWa_o.jpg"
         }
       ]
     }
