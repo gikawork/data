@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764708985,
-    "totalMangas": 1166,
+    "lastUpdated": 1764708989,
+    "totalMangas": 1167,
     "version": "1.0.4"
   },
   "mangas": {
@@ -13994,6 +13994,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzc0OTEuanNvbg/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx180714-7j1Scv9jk2t0.jpg"
+        }
+      ]
+    },
+    "makr_798": {
+      "title": "The Reborn Young Lord is an Assassin",
+      "chapters": [
+        {
+          "id": "makr_798",
+          "title": "The Reborn Young Lord is an Assassin",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl83OTguanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx175262-shGEYbbfLHDD.jpg"
         }
       ]
     }
