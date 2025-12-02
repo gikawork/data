@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764711252,
-    "totalMangas": 1342,
+    "lastUpdated": 1764711258,
+    "totalMangas": 1343,
     "version": "1.0.4"
   },
   "mangas": {
@@ -16106,6 +16106,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzcxNzMuanNvbg/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/nx104864-l3fCiOGecE6F.jpg"
+        }
+      ]
+    },
+    "makr_1378": {
+      "title": "Second Life Ranker",
+      "chapters": [
+        {
+          "id": "1378",
+          "title": "Second Life Ranker",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8xMzc4Lmpzb24/",
+          "type": "manhwa",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx109957-EgJWdR7l9TBG.jpg"
         }
       ]
     }
