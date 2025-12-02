@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764713201,
-    "totalMangas": 1573,
+    "lastUpdated": 1764713210,
+    "totalMangas": 1574,
     "version": "1.0.4"
   },
   "mangas": {
@@ -18878,6 +18878,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzY2NDQuanNvbg/",
           "type": "manga",
           "cover_url": "https://cdn.myanimelist.net/images/manga/3/300059.jpg"
+        }
+      ]
+    },
+    "majp_3544": {
+      "title": "Shuumatsu no Walküre Kinden: Kamigami no Apocalypse",
+      "chapters": [
+        {
+          "id": "3544",
+          "title": "Shuumatsu no Walküre Kinden: Kamigami no Apocalypse",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzM1NDQuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://cdn.myanimelist.net/images/manga/3/314815.jpg"
         }
       ]
     }
