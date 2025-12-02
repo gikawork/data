@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764711439,
-    "totalMangas": 1376,
+    "lastUpdated": 1764711442,
+    "totalMangas": 1377,
     "version": "1.0.4"
   },
   "mangas": {
@@ -16514,6 +16514,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzM1MDc5Lmpzb24/",
           "type": "manga",
           "cover_url": "https://cdn.mangaupdates.com/image/i376980.jpg"
+        }
+      ]
+    },
+    "majp_3937": {
+      "title": "The Saga of Tanya the Evil",
+      "chapters": [
+        {
+          "id": "3937",
+          "title": "The Saga of Tanya the Evil",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzM5MzcuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx97216-hleh4PmFoUgr.png"
         }
       ]
     }
