@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764713028,
-    "totalMangas": 1555,
+    "lastUpdated": 1764713037,
+    "totalMangas": 1556,
     "version": "1.0.4"
   },
   "mangas": {
@@ -18662,6 +18662,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzE5MDI4Lmpzb24/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx90121-moHv6aAYhNji.jpg"
+        }
+      ]
+    },
+    "majp_3259": {
+      "title": "Nichiasa Suki no Otaku ga Akuyaku Seito ni Tenseishita Kekka, Hametsu Flag ga Houkaishiteiku Ken ni Tsuite",
+      "chapters": [
+        {
+          "id": "3259",
+          "title": "Nichiasa Suki no Otaku ga Akuyaku Seito ni Tenseishita Kekka, Hametsu Flag ga Houkaishiteiku Ken ni Tsuite",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzMyNTkuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx171701-VtBJPIZPYzL2.jpg"
         }
       ]
     }
