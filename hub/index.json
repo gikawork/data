@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": 1764711227,
+    "lastUpdated": 1764711234,
     "totalMangas": 1339,
     "version": "1.0.4"
   },
@@ -6326,18 +6326,6 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvQ0gxMDYwLmpzb24%3D/",
           "type": "manhua",
           "cover_url": "https://cdn.mangaupdates.com/image/i474321.jpg"
-        }
-      ]
-    },
-    "JP105": {
-      "title": "Baby Steps",
-      "chapters": [
-        {
-          "id": 105,
-          "title": "Baby Steps",
-          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9KUDEwNS5qc29u/",
-          "type": "manga",
-          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx38300-TXX5KLxitjb1.jpg"
         }
       ]
     },
@@ -16070,6 +16058,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzk5MDQuanNvbg/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/nx63031-lE9pKD3cpmVK.jpg"
+        }
+      ]
+    },
+    "majp_105": {
+      "title": "Kinsou no Vermeil: Gakeppuchi Majutsushi wa Saikyou no Yakusai to Mahou Sekai wo Tsukisusumu",
+      "chapters": [
+        {
+          "id": "105",
+          "title": "Kinsou no Vermeil: Gakeppuchi Majutsushi wa Saikyou no Yakusai to Mahou Sekai wo Tsukisusumu",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzEwNS5qc29u/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx118741-wBoIp9fDIPh9.jpg"
         }
       ]
     }
