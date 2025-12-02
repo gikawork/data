@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764713128,
-    "totalMangas": 1565,
+    "lastUpdated": 1764713137,
+    "totalMangas": 1566,
     "version": "1.0.4"
   },
   "mangas": {
@@ -18782,6 +18782,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzQyMy5qc29u/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx110909-kpPCoGV3VdTE.jpg"
+        }
+      ]
+    },
+    "majp_1217": {
+      "title": "Tonari no Seki no Yankee Shimizu-san ga Kami o Kuroku Sometekita",
+      "chapters": [
+        {
+          "id": "1217",
+          "title": "Tonari no Seki no Yankee Shimizu-san ga Kami o Kuroku Sometekita",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzEyMTcuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx180547-e3k2rojddFIS.jpg"
         }
       ]
     }
