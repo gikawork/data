@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764712180,
-    "totalMangas": 1499,
+    "lastUpdated": 1764712185,
+    "totalMangas": 1500,
     "version": "1.0.4"
   },
   "mangas": {
@@ -17990,6 +17990,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzE1ODQ0NC5qc29u/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx189492-G55aWqZQXepx.jpg"
+        }
+      ]
+    },
+    "majp_155365": {
+      "title": "My Succubus Girlfriend",
+      "chapters": [
+        {
+          "id": "155365",
+          "title": "My Succubus Girlfriend",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzE1NTM2NS5qc29u/",
+          "type": "manga",
+          "cover_url": "https://media.kitsu.app/manga/poster_images/40496/large.jpg"
         }
       ]
     }
