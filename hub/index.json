@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764711907,
-    "totalMangas": 1450,
+    "lastUpdated": 1764711913,
+    "totalMangas": 1451,
     "version": "1.0.4"
   },
   "mangas": {
@@ -17402,6 +17402,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl80Mzg2Lmpzb24/",
           "type": "manhwa",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx174359-h8XNGxR518F4.jpg"
+        }
+      ]
+    },
+    "majp_5338": {
+      "title": "Haite Kudasai, Takamine-san",
+      "chapters": [
+        {
+          "id": "5338",
+          "title": "Haite Kudasai, Takamine-san",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzUzMzguanNvbg/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx107559-LQRlQ5bCyeus.jpg"
         }
       ]
     }
