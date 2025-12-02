@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764708890,
-    "totalMangas": 1137,
+    "lastUpdated": 1764708893,
+    "totalMangas": 1138,
     "version": "1.0.4"
   },
   "mangas": {
@@ -13646,6 +13646,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzQ5MjguanNvbg/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx87251-B1GLDEoQSLCS.jpg"
+        }
+      ]
+    },
+    "majp_110764": {
+      "title": "Golden Boy",
+      "chapters": [
+        {
+          "id": "majp_110764",
+          "title": "Golden Boy",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzExMDc2NC5qc29u/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx141127-MJrvungcbkfQ.jpg"
         }
       ]
     }
