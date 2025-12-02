@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764711593,
-    "totalMangas": 1404,
+    "lastUpdated": 1764711598,
+    "totalMangas": 1405,
     "version": "1.0.4"
   },
   "mangas": {
@@ -16850,6 +16850,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl82NTguanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.myanimelist.net/images/manga/3/292582.jpg"
+        }
+      ]
+    },
+    "majp_11501": {
+      "title": "Kingdom Hearts Final Mix",
+      "chapters": [
+        {
+          "id": "11501",
+          "title": "Kingdom Hearts Final Mix",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzExNTAxLmpzb24/",
+          "type": "manga",
+          "cover_url": "https://images2.imgbox.com/c5/05/m6VFX7RO_o.jpg"
         }
       ]
     }
