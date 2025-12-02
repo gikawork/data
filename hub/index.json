@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764711039,
-    "totalMangas": 1306,
+    "lastUpdated": 1764711045,
+    "totalMangas": 1307,
     "version": "1.0.4"
   },
   "mangas": {
@@ -15674,6 +15674,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl83Mzk2Lmpzb24/",
           "type": "manhwa",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx186018-Mf88MwLPyd3B.jpg"
+        }
+      ]
+    },
+    "majp_30760": {
+      "title": "Masamune-kun no Revenge",
+      "chapters": [
+        {
+          "id": "30760",
+          "title": "Masamune-kun no Revenge",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzMwNzYwLmpzb24/",
+          "type": "manga",
+          "cover_url": "https://cdn.mangaupdates.com/image/i292862.png"
         }
       ]
     }
