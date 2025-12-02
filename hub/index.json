@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764710807,
-    "totalMangas": 1262,
+    "lastUpdated": 1764710812,
+    "totalMangas": 1263,
     "version": "1.0.4"
   },
   "mangas": {
@@ -15146,6 +15146,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzM5MDgxLmpzb24/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx123756-8oUSe6L8G8ee.jpg"
+        }
+      ]
+    },
+    "majp_58250": {
+      "title": "Tokyo Fears Rhapsody",
+      "chapters": [
+        {
+          "id": "58250",
+          "title": "Tokyo Fears Rhapsody",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzU4MjUwLmpzb24/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx169712-GB3UpRAVeUgf.jpg"
         }
       ]
     }
