@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764708863,
-    "totalMangas": 1129,
+    "lastUpdated": 1764708869,
+    "totalMangas": 1130,
     "version": "1.0.4"
   },
   "mangas": {
@@ -13550,6 +13550,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzM3Nzc3Lmpzb24/",
           "type": "manga",
           "cover_url": "https://cdn.mangaupdates.com/image/i405347.jpg"
+        }
+      ]
+    },
+    "majp_1797": {
+      "title": "Kingdom",
+      "chapters": [
+        {
+          "id": "majp_1797",
+          "title": "Kingdom",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzE3OTcuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/nx46765-KPXir4sRqJBW.png"
         }
       ]
     }
