@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764712214,
-    "totalMangas": 1506,
+    "lastUpdated": 1764712220,
+    "totalMangas": 1507,
     "version": "1.0.4"
   },
   "mangas": {
@@ -18074,6 +18074,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzMxNTUuanNvbg/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx160460-x45Jr2637Frf.jpg"
+        }
+      ]
+    },
+    "majp_2596": {
+      "title": "Otomege Sekai wa Mob ni Kibishii Sekai desu",
+      "chapters": [
+        {
+          "id": "2596",
+          "title": "Otomege Sekai wa Mob ni Kibishii Sekai desu",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzI1OTYuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx104503-O9OmaU1sVCNW.jpg"
         }
       ]
     }
