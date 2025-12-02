@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": 1764713117,
+    "lastUpdated": 1764713128,
     "totalMangas": 1565,
     "version": "1.0.4"
   },
@@ -734,18 +734,6 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9KUDY1OS5qc29u/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/43427.jpg"
-        }
-      ]
-    },
-    "JP423": {
-      "title": "Kanojo, Okarishimasu",
-      "chapters": [
-        {
-          "id": 423,
-          "title": "Kanojo, Okarishimasu",
-          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9KUDQyMy5qc29u/",
-          "type": "manga",
-          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx99943-DX7nDMeqSTk3.png"
         }
       ]
     },
@@ -18782,6 +18770,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzIwODg2Ny5qc29u/",
           "type": "manga",
           "cover_url": "https://cdn.mangaupdates.com/image/i272977.jpg"
+        }
+      ]
+    },
+    "majp_423": {
+      "title": "SHY",
+      "chapters": [
+        {
+          "id": "423",
+          "title": "SHY",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzQyMy5qc29u/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx110909-kpPCoGV3VdTE.jpg"
         }
       ]
     }
