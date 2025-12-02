@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764709427,
-    "totalMangas": 1219,
+    "lastUpdated": 1764709432,
+    "totalMangas": 1220,
     "version": "1.0.4"
   },
   "mangas": {
@@ -14630,6 +14630,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8zMjMyLmpzb24/",
           "type": "manhwa",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/97787-dI6bvDldjKTM.jpg"
+        }
+      ]
+    },
+    "majp_1142": {
+      "title": "Moratta Mittsu no Hazure Skill, Awasetara Saikyou Deshita",
+      "chapters": [
+        {
+          "id": "1142",
+          "title": "Moratta Mittsu no Hazure Skill, Awasetara Saikyou Deshita",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzExNDIuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx188419-smqWNIiF7Y6E.jpg"
         }
       ]
     }
