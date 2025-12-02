@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764708777,
-    "totalMangas": 1105,
+    "lastUpdated": 1764708787,
+    "totalMangas": 1106,
     "version": "1.0.4"
   },
   "mangas": {
@@ -13262,6 +13262,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzEwMzUuanNvbg/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx149401-FrPOdrvq9b8A.jpg"
+        }
+      ]
+    },
+    "majp_6480": {
+      "title": "Uchi no Musuko wa Tabun Gay",
+      "chapters": [
+        {
+          "id": "majp_6480",
+          "title": "Uchi no Musuko wa Tabun Gay",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzY0ODAuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://cdn.myanimelist.net/images/manga/3/224102.jpg"
         }
       ]
     }
