@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764711650,
-    "totalMangas": 1413,
+    "lastUpdated": 1764711655,
+    "totalMangas": 1414,
     "version": "1.0.4"
   },
   "mangas": {
@@ -16958,6 +16958,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzYyMC5qc29u/",
           "type": "manga",
           "cover_url": "https://cdn.myanimelist.net/images/manga/1/265955.jpg"
+        }
+      ]
+    },
+    "makr_3748": {
+      "title": "Born as the Daughter of a Lowly Concubine",
+      "chapters": [
+        {
+          "id": "3748",
+          "title": "Born as the Daughter of a Lowly Concubine",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8zNzQ4Lmpzb24/",
+          "type": "manhwa",
+          "cover_url": "https://images2.imgbox.com/6c/56/3JiTvoMK_o.jpg"
         }
       ]
     }
