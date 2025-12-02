@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764708871,
-    "totalMangas": 1131,
+    "lastUpdated": 1764708877,
+    "totalMangas": 1132,
     "version": "1.0.4"
   },
   "mangas": {
@@ -13574,6 +13574,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl84MTQ0Lmpzb24/",
           "type": "manhwa",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx152422-D9NbExBqC4GR.png"
+        }
+      ]
+    },
+    "majp_270": {
+      "title": "Naruto",
+      "chapters": [
+        {
+          "id": "majp_270",
+          "title": "Naruto",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzI3MC5qc29u/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/nx30011-9yUF1dXWgDOx.jpg"
         }
       ]
     }
