@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764710755,
-    "totalMangas": 1251,
+    "lastUpdated": 1764710760,
+    "totalMangas": 1252,
     "version": "1.0.4"
   },
   "mangas": {
@@ -15014,6 +15014,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzIwNjQuanNvbg/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx147237-hmFvupFmJ8fP.jpg"
+        }
+      ]
+    },
+    "majp_2185": {
+      "title": "Rebuild World",
+      "chapters": [
+        {
+          "id": "2185",
+          "title": "Rebuild World",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzIxODUuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx111212-DkjhJls7U2rl.jpg"
         }
       ]
     }
