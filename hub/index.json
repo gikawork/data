@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764708889,
-    "totalMangas": 1136,
+    "lastUpdated": 1764708890,
+    "totalMangas": 1137,
     "version": "1.0.4"
   },
   "mangas": {
@@ -13634,6 +13634,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF8yNzM5Lmpzb24/",
           "type": "manhua",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b168974-L1wxRAyL1UK8.jpg"
+        }
+      ]
+    },
+    "majp_4928": {
+      "title": "Fate／Apocrypha",
+      "chapters": [
+        {
+          "id": "majp_4928",
+          "title": "Fate／Apocrypha",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzQ5MjguanNvbg/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx87251-B1GLDEoQSLCS.jpg"
         }
       ]
     }
