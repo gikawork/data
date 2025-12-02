@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764707738,
-    "totalMangas": 1091,
+    "lastUpdated": 1764707741,
+    "totalMangas": 1092,
     "version": "1.0.4"
   },
   "mangas": {
@@ -13094,6 +13094,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21vdC9tYW90XzMzNDE5NC5qc29u/",
           "type": "outro",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/nx99022-Hh2WdyNgR8HM.jpg"
+        }
+      ]
+    },
+    "makr_10036": {
+      "title": "Ares",
+      "chapters": [
+        {
+          "id": "makr_10036",
+          "title": "Ares",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8xMDAzNi5qc29u/",
+          "type": "manhwa",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx31076-zLUiq2ZO0A2F.jpg"
         }
       ]
     }
