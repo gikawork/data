@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764712359,
-    "totalMangas": 1533,
+    "lastUpdated": 1764712363,
+    "totalMangas": 1534,
     "version": "1.0.4"
   },
   "mangas": {
@@ -18398,6 +18398,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzIwMTM4Lmpzb24/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx85522-v5vjyUSCTvvl.jpg"
+        }
+      ]
+    },
+    "majp_355955": {
+      "title": "Kaedegami",
+      "chapters": [
+        {
+          "id": "355955",
+          "title": "Kaedegami",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzM1NTk1NS5qc29u/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b194893-DdoYsivGo0zo.jpg"
         }
       ]
     }
