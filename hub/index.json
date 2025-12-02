@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764709349,
-    "totalMangas": 1203,
+    "lastUpdated": 1764709354,
+    "totalMangas": 1204,
     "version": "1.0.4"
   },
   "mangas": {
@@ -14438,6 +14438,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzEzMTEuanNvbg/",
           "type": "manga",
           "cover_url": "https://cdn.mangaupdates.com/image/i485175.jpg"
+        }
+      ]
+    },
+    "majp_7790": {
+      "title": "Pyu to Fuku! Jaguar",
+      "chapters": [
+        {
+          "id": "7790",
+          "title": "Pyu to Fuku! Jaguar",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzc3OTAuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx33084-VuRY9wFgfMIg.png"
         }
       ]
     }
