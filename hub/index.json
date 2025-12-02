@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764711604,
-    "totalMangas": 1406,
+    "lastUpdated": 1764711609,
+    "totalMangas": 1407,
     "version": "1.0.4"
   },
   "mangas": {
@@ -16874,6 +16874,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzM2MTUuanNvbg/",
           "type": "manga",
           "cover_url": "https://cdn.myanimelist.net/images/manga/3/212584.jpg"
+        }
+      ]
+    },
+    "majp_1339": {
+      "title": "Kuromaku Ikka ni Tensei Shita Kedo Gensaku Mushishite Dokuritsu Suru",
+      "chapters": [
+        {
+          "id": "1339",
+          "title": "Kuromaku Ikka ni Tensei Shita Kedo Gensaku Mushishite Dokuritsu Suru",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzEzMzkuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx188100-gjNMf8agkT1Y.jpg"
         }
       ]
     }
