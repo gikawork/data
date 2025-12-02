@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764711767,
-    "totalMangas": 1429,
+    "lastUpdated": 1764711773,
+    "totalMangas": 1430,
     "version": "1.0.4"
   },
   "mangas": {
@@ -17150,6 +17150,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzIzMTEuanNvbg/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx85395-5FR6of9F1cTU.jpg"
+        }
+      ]
+    },
+    "mach_97306": {
+      "title": "Wo Yige Zhiliao Shu Xiaqu Ni Keneng Huo Si",
+      "chapters": [
+        {
+          "id": "97306",
+          "title": "Wo Yige Zhiliao Shu Xiaqu Ni Keneng Huo Si",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF85NzMwNi5qc29u/",
+          "type": "manhua",
+          "cover_url": "https://cdn.mangaupdates.com/image/i422765.png"
         }
       ]
     }
