@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764711913,
-    "totalMangas": 1451,
+    "lastUpdated": 1764711919,
+    "totalMangas": 1452,
     "version": "1.0.4"
   },
   "mangas": {
@@ -17414,6 +17414,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzUzMzguanNvbg/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx107559-LQRlQ5bCyeus.jpg"
+        }
+      ]
+    },
+    "majp_11503": {
+      "title": "Kingdom Hearts II",
+      "chapters": [
+        {
+          "id": "11503",
+          "title": "Kingdom Hearts II",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzExNTAzLmpzb24/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx30398-EntE3FW406LV.png"
         }
       ]
     }
