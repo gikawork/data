@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764712331,
-    "totalMangas": 1527,
+    "lastUpdated": 1764712332,
+    "totalMangas": 1528,
     "version": "1.0.4"
   },
   "mangas": {
@@ -18326,6 +18326,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzc0MzkuanNvbg/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/nx53052-rzm7BHmgAt4e.jpg"
+        }
+      ]
+    },
+    "majp_4863": {
+      "title": "Sugar Girl Drip",
+      "chapters": [
+        {
+          "id": "4863",
+          "title": "Sugar Girl Drip",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzQ4NjMuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://cdn.mangaupdates.com/image/i486905.jpg"
         }
       ]
     }
