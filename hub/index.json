@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764712167,
-    "totalMangas": 1496,
+    "lastUpdated": 1764712173,
+    "totalMangas": 1497,
     "version": "1.0.4"
   },
   "mangas": {
@@ -17954,6 +17954,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl82NjgwOS5qc29u/",
           "type": "manhwa",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx165287-ZXv2LuVMn7cQ.jpg"
+        }
+      ]
+    },
+    "makr_4800": {
+      "title": "Beware the Villainess!",
+      "chapters": [
+        {
+          "id": "4800",
+          "title": "Beware the Villainess!",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl80ODAwLmpzb24/",
+          "type": "manhwa",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx117540-RRDXqQJbhWTv.jpg"
         }
       ]
     }
