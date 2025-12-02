@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764711410,
-    "totalMangas": 1370,
+    "lastUpdated": 1764711413,
+    "totalMangas": 1371,
     "version": "1.0.4"
   },
   "mangas": {
@@ -16442,6 +16442,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzQ4MzAuanNvbg/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx174578-ZouuSRpRlHul.jpg"
+        }
+      ]
+    },
+    "makr_43536": {
+      "title": "I Woke Up as the Villain",
+      "chapters": [
+        {
+          "id": "43536",
+          "title": "I Woke Up as the Villain",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl80MzUzNi5qc29u/",
+          "type": "manhwa",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx126298-8Hy3AqaClf8Q.jpg"
         }
       ]
     }
