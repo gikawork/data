@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764711575,
-    "totalMangas": 1400,
+    "lastUpdated": 1764711580,
+    "totalMangas": 1401,
     "version": "1.0.4"
   },
   "mangas": {
@@ -16802,6 +16802,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzM3MzMuanNvbg/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx97852-M7vlc2OGR2gp.jpg"
+        }
+      ]
+    },
+    "majp_3395": {
+      "title": "My Dearest Self With Malice Aforethought",
+      "chapters": [
+        {
+          "id": "3395",
+          "title": "My Dearest Self With Malice Aforethought",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzMzOTUuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/nx106867-exeApKyXHJNH.jpg"
         }
       ]
     }
