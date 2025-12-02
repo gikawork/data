@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764711598,
-    "totalMangas": 1405,
+    "lastUpdated": 1764711604,
+    "totalMangas": 1406,
     "version": "1.0.4"
   },
   "mangas": {
@@ -16862,6 +16862,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzExNTAxLmpzb24/",
           "type": "manga",
           "cover_url": "https://images2.imgbox.com/c5/05/m6VFX7RO_o.jpg"
+        }
+      ]
+    },
+    "majp_3615": {
+      "title": "Black Gakkou ni Tsutomete Shimatta Sensei",
+      "chapters": [
+        {
+          "id": "3615",
+          "title": "Black Gakkou ni Tsutomete Shimatta Sensei",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzM2MTUuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://cdn.myanimelist.net/images/manga/3/212584.jpg"
         }
       ]
     }
