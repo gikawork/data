@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764712311,
-    "totalMangas": 1524,
+    "lastUpdated": 1764712315,
+    "totalMangas": 1525,
     "version": "1.0.4"
   },
   "mangas": {
@@ -18290,6 +18290,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzE0OTk0Lmpzb24/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx33539-y2OiAK6QXUEU.jpg"
+        }
+      ]
+    },
+    "majp_6492": {
+      "title": "“Something” That Isn’t Santa Has Come",
+      "chapters": [
+        {
+          "id": "6492",
+          "title": "“Something” That Isn’t Santa Has Come",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzY0OTIuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://images2.imgbox.com/19/3b/3O5YYkpa_o.jpg"
         }
       ]
     }
