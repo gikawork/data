@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764707754,
-    "totalMangas": 1096,
+    "lastUpdated": 1764707760,
+    "totalMangas": 1097,
     "version": "1.0.4"
   },
   "mangas": {
@@ -13154,6 +13154,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzQzNjYuanNvbg/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/nx103084-mlzWw4paJO4E.jpg"
+        }
+      ]
+    },
+    "majp_2410": {
+      "title": "Bleach",
+      "chapters": [
+        {
+          "id": "majp_2410",
+          "title": "Bleach",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzI0MTAuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx30012-1epmVfTSv2rr.png"
         }
       ]
     }
