@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764711279,
-    "totalMangas": 1344,
+    "lastUpdated": 1764711284,
+    "totalMangas": 1345,
     "version": "1.0.4"
   },
   "mangas": {
@@ -16130,6 +16130,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzM4Lmpzb24/",
           "type": "manga",
           "cover_url": "https://images2.imgbox.com/89/fa/PNxUTdOS_o.png"
+        }
+      ]
+    },
+    "makr_2310": {
+      "title": "Space Cheon-ma 3077",
+      "chapters": [
+        {
+          "id": "2310",
+          "title": "Space Cheon-ma 3077",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8yMzEwLmpzb24/",
+          "type": "manhwa",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx186490-57hsjgBnyFns.jpg"
         }
       ]
     }
