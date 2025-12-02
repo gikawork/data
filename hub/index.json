@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764707751,
-    "totalMangas": 1095,
+    "lastUpdated": 1764707754,
+    "totalMangas": 1096,
     "version": "1.0.4"
   },
   "mangas": {
@@ -13142,6 +13142,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl85NzczNi5qc29u/",
           "type": "manhwa",
           "cover_url": "https://images2.imgbox.com/a0/1b/iw23P6hv_o.jpg"
+        }
+      ]
+    },
+    "majp_4366": {
+      "title": "Asoko de Hataraku Musubu-san",
+      "chapters": [
+        {
+          "id": "majp_4366",
+          "title": "Asoko de Hataraku Musubu-san",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzQzNjYuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/nx103084-mlzWw4paJO4E.jpg"
         }
       ]
     }
