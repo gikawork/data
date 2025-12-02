@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764712052,
-    "totalMangas": 1474,
+    "lastUpdated": 1764712054,
+    "totalMangas": 1475,
     "version": "1.0.4"
   },
   "mangas": {
@@ -17690,6 +17690,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzI3MTMuanNvbg/",
           "type": "manga",
           "cover_url": "https://cdn.myanimelist.net/images/manga/2/238641.jpg"
+        }
+      ]
+    },
+    "majp_36567": {
+      "title": "Taciturn Little Sister",
+      "chapters": [
+        {
+          "id": "36567",
+          "title": "Taciturn Little Sister",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzM2NTY3Lmpzb24/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx122810-VMBg4azX0WzH.jpg"
         }
       ]
     }
