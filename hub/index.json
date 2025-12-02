@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764711205,
-    "totalMangas": 1336,
+    "lastUpdated": 1764711210,
+    "totalMangas": 1337,
     "version": "1.0.4"
   },
   "mangas": {
@@ -16034,6 +16034,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzEwNDcuanNvbg/",
           "type": "manga",
           "cover_url": "https://cdn.myanimelist.net/images/manga/1/243534.jpg"
+        }
+      ]
+    },
+    "majp_6440": {
+      "title": "Hazure Skill \"Gacha\" de Tsuihou Sareta Ore wa, Wagamama Osananajimi o Zetsuen Shi Kakusei Suru",
+      "chapters": [
+        {
+          "id": "6440",
+          "title": "Hazure Skill \"Gacha\" de Tsuihou Sareta Ore wa, Wagamama Osananajimi o Zetsuen Shi Kakusei Suru",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzY0NDAuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx128798-cN2dq3tqOCeb.jpg"
         }
       ]
     }
