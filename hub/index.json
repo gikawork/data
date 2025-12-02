@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": 1764712280,
+    "lastUpdated": 1764712287,
     "totalMangas": 1519,
     "version": "1.0.4"
   },
@@ -1034,18 +1034,6 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9KUDQ1NC5qc29u/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx30397-05ZjcMKVLbk6.jpg"
-        }
-      ]
-    },
-    "JP416": {
-      "title": "Kamigami no Asobi",
-      "chapters": [
-        {
-          "id": 416,
-          "title": "Kamigami no Asobi",
-          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9KUDQxNi5qc29u/",
-          "type": "manga",
-          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/87523-gtdwNM0xgeyv.jpg"
         }
       ]
     },
@@ -18230,6 +18218,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzE3NjkuanNvbg/",
           "type": "manga",
           "cover_url": "https://images2.imgbox.com/47/ec/t4yaofZa_o.png"
+        }
+      ]
+    },
+    "majp_416": {
+      "title": "Ri-chan",
+      "chapters": [
+        {
+          "id": "416",
+          "title": "Ri-chan",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzQxNi5qc29u/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx174798-0R1UEYX1s2XQ.jpg"
         }
       ]
     }
