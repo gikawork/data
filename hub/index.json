@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764711761,
-    "totalMangas": 1428,
+    "lastUpdated": 1764711767,
+    "totalMangas": 1429,
     "version": "1.0.4"
   },
   "mangas": {
@@ -17138,6 +17138,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzE0OTkwLmpzb24/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx40352-pP4v6zveM1bZ.jpg"
+        }
+      ]
+    },
+    "majp_2311": {
+      "title": "Cheeky Brat",
+      "chapters": [
+        {
+          "id": "2311",
+          "title": "Cheeky Brat",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzIzMTEuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx85395-5FR6of9F1cTU.jpg"
         }
       ]
     }
