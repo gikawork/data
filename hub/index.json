@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764709442,
-    "totalMangas": 1222,
+    "lastUpdated": 1764709444,
+    "totalMangas": 1223,
     "version": "1.0.4"
   },
   "mangas": {
@@ -14666,6 +14666,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzg2MzYuanNvbg/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx106066-tIBRLxluzDjG.jpg"
+        }
+      ]
+    },
+    "makr_167": {
+      "title": "Defeating Dungeons via Copy Paste!",
+      "chapters": [
+        {
+          "id": "167",
+          "title": "Defeating Dungeons via Copy Paste!",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8xNjcuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx184733-6RpmXF3eCMDv.png"
         }
       ]
     }
