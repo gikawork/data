@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764712075,
-    "totalMangas": 1479,
+    "lastUpdated": 1764712081,
+    "totalMangas": 1480,
     "version": "1.0.4"
   },
   "mangas": {
@@ -17750,6 +17750,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzMwNTMuanNvbg/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx186726-odNzBtFDEiWe.png"
+        }
+      ]
+    },
+    "majp_89": {
+      "title": "Mairimashita! Iruma-kun",
+      "chapters": [
+        {
+          "id": "89",
+          "title": "Mairimashita! Iruma-kun",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzg5Lmpzb24/",
+          "type": "manga",
+          "cover_url": "https://cdn.mangaupdates.com/image/i502346.jpg"
         }
       ]
     }
