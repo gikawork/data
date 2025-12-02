@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764711655,
-    "totalMangas": 1414,
+    "lastUpdated": 1764711661,
+    "totalMangas": 1415,
     "version": "1.0.4"
   },
   "mangas": {
@@ -16970,6 +16970,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8zNzQ4Lmpzb24/",
           "type": "manhwa",
           "cover_url": "https://images2.imgbox.com/6c/56/3JiTvoMK_o.jpg"
+        }
+      ]
+    },
+    "majp_9458": {
+      "title": "Signal All Red",
+      "chapters": [
+        {
+          "id": "9458",
+          "title": "Signal All Red",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzk0NTguanNvbg/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx183058-l9Lrs3cNCJWF.jpg"
         }
       ]
     }
