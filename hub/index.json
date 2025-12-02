@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764708823,
-    "totalMangas": 1116,
+    "lastUpdated": 1764708826,
+    "totalMangas": 1117,
     "version": "1.0.4"
   },
   "mangas": {
@@ -13394,6 +13394,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzE2MzQuanNvbg/",
           "type": "manga",
           "cover_url": "https://cdn.myanimelist.net/images/manga/2/320398.jpg"
+        }
+      ]
+    },
+    "mach_4992": {
+      "title": "Beloved",
+      "chapters": [
+        {
+          "id": "mach_4992",
+          "title": "Beloved",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF80OTkyLmpzb24/",
+          "type": "manhua",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx97724-2msc8e4kGoro.jpg"
         }
       ]
     }
