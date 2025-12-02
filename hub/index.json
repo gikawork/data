@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": 1764711273,
+    "lastUpdated": 1764711279,
     "totalMangas": 1344,
     "version": "1.0.4"
   },
@@ -206,18 +206,6 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9KUDc0OC5qc29u/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx87440-vsvB0uZGLxrL.jpg"
-        }
-      ]
-    },
-    "JP38": {
-      "title": "2.5 Jigen no Ririsa",
-      "chapters": [
-        {
-          "id": 38,
-          "title": "2.5 Jigen no Ririsa",
-          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9KUDM4Lmpzb24%3D/",
-          "type": "manga",
-          "cover_url": "https://images2.imgbox.com/50/45/CQZILNxV_o.jpg"
         }
       ]
     },
@@ -16130,6 +16118,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzE4NzY3Ny5qc29u/",
           "type": "manga",
           "cover_url": "https://images2.imgbox.com/f8/52/CG8UCHPo_o.jpg"
+        }
+      ]
+    },
+    "majp_38": {
+      "title": "The Older Sister Who Says “Ara Ara” to Everything",
+      "chapters": [
+        {
+          "id": "38",
+          "title": "The Older Sister Who Says “Ara Ara” to Everything",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzM4Lmpzb24/",
+          "type": "manga",
+          "cover_url": "https://images2.imgbox.com/89/fa/PNxUTdOS_o.png"
         }
       ]
     }
