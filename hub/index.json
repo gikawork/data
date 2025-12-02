@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764708900,
-    "totalMangas": 1138,
+    "lastUpdated": 1764708903,
+    "totalMangas": 1139,
     "version": "1.0.4"
   },
   "mangas": {
@@ -13658,6 +13658,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzQxNC5qc29u/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx127564-b13pxvw95hrq.png"
+        }
+      ]
+    },
+    "makr_5901": {
+      "title": "Iljjin Romance",
+      "chapters": [
+        {
+          "id": "makr_5901",
+          "title": "Iljjin Romance",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl81OTAxLmpzb24/",
+          "type": "manhwa",
+          "cover_url": "https://ap-proxy.mangabaka.dev/proxy.php?url=https://cdn.anime-planet.com/manga/primary/iljjin-romance-1.webp?t=1704943745"
         }
       ]
     }
