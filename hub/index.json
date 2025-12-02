@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764712113,
-    "totalMangas": 1485,
+    "lastUpdated": 1764712116,
+    "totalMangas": 1486,
     "version": "1.0.4"
   },
   "mangas": {
@@ -17822,6 +17822,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzkzNTIuanNvbg/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx37760-FZlKe8a4yWN2.png"
+        }
+      ]
+    },
+    "majp_9768": {
+      "title": "Boruto: Naruto Next Generations",
+      "chapters": [
+        {
+          "id": "9768",
+          "title": "Boruto: Naruto Next Generations",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzk3NjguanNvbg/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx87178-CPMk8QdPo7c8.png"
         }
       ]
     }
