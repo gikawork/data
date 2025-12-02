@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764708826,
-    "totalMangas": 1117,
+    "lastUpdated": 1764708829,
+    "totalMangas": 1118,
     "version": "1.0.4"
   },
   "mangas": {
@@ -13406,6 +13406,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF80OTkyLmpzb24/",
           "type": "manhua",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx97724-2msc8e4kGoro.jpg"
+        }
+      ]
+    },
+    "majp_7776": {
+      "title": "LUVSLAVE",
+      "chapters": [
+        {
+          "id": "majp_7776",
+          "title": "LUVSLAVE",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzc3NzYuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://cdn.mangaupdates.com/image/i458964.jpg"
         }
       ]
     }
