@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764712949,
-    "totalMangas": 1550,
+    "lastUpdated": 1764712958,
+    "totalMangas": 1551,
     "version": "1.0.4"
   },
   "mangas": {
@@ -18602,6 +18602,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzI4NjkuanNvbg/",
           "type": "manga",
           "cover_url": "https://images2.imgbox.com/10/cf/NhSKgLti_o.jpg"
+        }
+      ]
+    },
+    "majp_1148": {
+      "title": "Aisare Teru Baai Janai no",
+      "chapters": [
+        {
+          "id": "1148",
+          "title": "Aisare Teru Baai Janai no",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzExNDguanNvbg/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx190387-hvSb5XpsaByw.jpg"
         }
       ]
     }
