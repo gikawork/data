@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764710689,
-    "totalMangas": 1240,
+    "lastUpdated": 1764710694,
+    "totalMangas": 1241,
     "version": "1.0.4"
   },
   "mangas": {
@@ -14882,6 +14882,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzY1Ni5qc29u/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx147063-TDAdvGa5V2Be.jpg"
+        }
+      ]
+    },
+    "makr_166": {
+      "title": "Hiding a Warehouse in the Apocalypse",
+      "chapters": [
+        {
+          "id": "166",
+          "title": "Hiding a Warehouse in the Apocalypse",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8xNjYuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx183519-RFdnYQyoMv42.jpg"
         }
       ]
     }
