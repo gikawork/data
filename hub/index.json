@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764711564,
-    "totalMangas": 1398,
+    "lastUpdated": 1764711569,
+    "totalMangas": 1399,
     "version": "1.0.4"
   },
   "mangas": {
@@ -16778,6 +16778,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzU0Mi5qc29u/",
           "type": "manga",
           "cover_url": "https://cdn.myanimelist.net/images/manga/2/139337.jpg"
+        }
+      ]
+    },
+    "majp_2211": {
+      "title": "Toudou-kun Chi no Maid Shota",
+      "chapters": [
+        {
+          "id": "2211",
+          "title": "Toudou-kun Chi no Maid Shota",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzIyMTEuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://cdn.myanimelist.net/images/manga/1/309840.jpg"
         }
       ]
     }
