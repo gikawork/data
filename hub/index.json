@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764711482,
-    "totalMangas": 1383,
+    "lastUpdated": 1764711488,
+    "totalMangas": 1384,
     "version": "1.0.4"
   },
   "mangas": {
@@ -16598,6 +16598,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzIwMzUuanNvbg/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx181881-NgemCRPS1Js6.jpg"
+        }
+      ]
+    },
+    "majp_2263": {
+      "title": "Amano Megumi wa Suki Darake!",
+      "chapters": [
+        {
+          "id": "2263",
+          "title": "Amano Megumi wa Suki Darake!",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzIyNjMuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://cdn.myanimelist.net/images/manga/1/188835.jpg"
         }
       ]
     }
