@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": 1764711262,
+    "lastUpdated": 1764711268,
     "totalMangas": 1343,
     "version": "1.0.4"
   },
@@ -3734,18 +3734,6 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9KUDk5Ni5qc29u/",
           "type": "manga",
           "cover_url": "https://cdn.mangaupdates.com/image/i479046.jpg"
-        }
-      ]
-    },
-    "JP818": {
-      "title": "Summer's Gonna Tear Us Apart",
-      "chapters": [
-        {
-          "id": 818,
-          "title": "Summer's Gonna Tear Us Apart",
-          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9KUDgxOC5qc29u/",
-          "type": "manga",
-          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx170995-vKi5MLfgkkoU.jpg"
         }
       ]
     },
@@ -16118,6 +16106,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzEwODkuanNvbg/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx76258-iHRY5gdGQ5HY.png"
+        }
+      ]
+    },
+    "majp_818": {
+      "title": "Ao Ashi",
+      "chapters": [
+        {
+          "id": "818",
+          "title": "Ao Ashi",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzgxOC5qc29u/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/nx107279-R2vxyPQRqV0X.jpg"
         }
       ]
     }
