@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764711375,
-    "totalMangas": 1364,
+    "lastUpdated": 1764711380,
+    "totalMangas": 1365,
     "version": "1.0.4"
   },
   "mangas": {
@@ -16370,6 +16370,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzMxNDkuanNvbg/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx50276-FlONfYk5RHFk.jpg"
+        }
+      ]
+    },
+    "majp_813": {
+      "title": "Karakuri Circus",
+      "chapters": [
+        {
+          "id": "813",
+          "title": "Karakuri Circus",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzgxMy5qc29u/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/nx30868-XGCo1uKIecx3.jpg"
         }
       ]
     }
