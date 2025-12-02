@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": 1764712035,
+    "lastUpdated": 1764712042,
     "totalMangas": 1472,
     "version": "1.0.4"
   },
@@ -11513,18 +11513,6 @@
         }
       ]
     },
-    "JP893": {
-      "title": "The Maid I Hired Recently Is Mysterious",
-      "chapters": [
-        {
-          "id": 893,
-          "title": "The Maid I Hired Recently Is Mysterious",
-          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9KUDg5My5qc29u/",
-          "type": "manga",
-          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx114917-MLwVfspWGBYw.jpg"
-        }
-      ]
-    },
     "JP425": {
       "title": "Karakuri Circus",
       "chapters": [
@@ -17666,6 +17654,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzEyMzkuanNvbg/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx173492-EXyXsxYYx0Dn.jpg"
+        }
+      ]
+    },
+    "majp_893": {
+      "title": "Kameba Kamu Hodo Amaku Naru",
+      "chapters": [
+        {
+          "id": "893",
+          "title": "Kameba Kamu Hodo Amaku Naru",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzg5My5qc29u/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx112812-5Ek2oCNvB5ho.jpg"
         }
       ]
     }
