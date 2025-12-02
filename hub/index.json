@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764710796,
-    "totalMangas": 1260,
+    "lastUpdated": 1764710802,
+    "totalMangas": 1261,
     "version": "1.0.4"
   },
   "mangas": {
@@ -15122,6 +15122,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzQwODEuanNvbg/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx40259-6cObmZsKcxP8.png"
+        }
+      ]
+    },
+    "majp_1493": {
+      "title": "Akanabe-sensei wa Tereshirazu",
+      "chapters": [
+        {
+          "id": "1493",
+          "title": "Akanabe-sensei wa Tereshirazu",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzE0OTMuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx172407-IPqqzVxU6Zm1.jpg"
         }
       ]
     }
