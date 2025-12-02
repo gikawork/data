@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764708931,
-    "totalMangas": 1147,
+    "lastUpdated": 1764708934,
+    "totalMangas": 1148,
     "version": "1.0.4"
   },
   "mangas": {
@@ -13766,6 +13766,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzEyNDkuanNvbg/",
           "type": "manga",
           "cover_url": "https://cdn.mangaupdates.com/image/i396654.jpg"
+        }
+      ]
+    },
+    "majp_1385": {
+      "title": "Furoufushi Shoujo no Naedoko Ryokouki",
+      "chapters": [
+        {
+          "id": "majp_1385",
+          "title": "Furoufushi Shoujo no Naedoko Ryokouki",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzEzODUuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx172835-czyk4Zne3GWd.jpg"
         }
       ]
     }
