@@ -6,7 +6,7 @@
   "cover": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b168974-L1wxRAyL1UK8.jpg",
   "status": "OnGoing",
   "chapters": {
-    "02": {
+    "2": {
       "title": "Capítulo 02",
       "volume": "",
       "last_updated": "1758931943",
@@ -33,7 +33,7 @@
         ]
       }
     },
-    "01": {
+    "1": {
       "title": "Capítulo 01",
       "volume": "",
       "last_updated": "1758931943",
@@ -66,7 +66,7 @@
         ]
       }
     },
-    "00": {
+    "0": {
       "title": "Capítulo 00",
       "volume": "",
       "last_updated": "1758931943",
