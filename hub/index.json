@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764708903,
-    "totalMangas": 1139,
+    "lastUpdated": 1764708906,
+    "totalMangas": 1140,
     "version": "1.0.4"
   },
   "mangas": {
@@ -13670,6 +13670,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl81OTAxLmpzb24/",
           "type": "manhwa",
           "cover_url": "https://ap-proxy.mangabaka.dev/proxy.php?url=https://cdn.anime-planet.com/manga/primary/iljjin-romance-1.webp?t=1704943745"
+        }
+      ]
+    },
+    "makr_98366": {
+      "title": "Destined Murderer",
+      "chapters": [
+        {
+          "id": "makr_98366",
+          "title": "Destined Murderer",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl85ODM2Ni5qc29u/",
+          "type": "manhwa",
+          "cover_url": "https://images2.imgbox.com/a2/35/P1mZBWKO_o.png"
         }
       ]
     }
