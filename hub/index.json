@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764710678,
-    "totalMangas": 1239,
+    "lastUpdated": 1764710683,
+    "totalMangas": 1240,
     "version": "1.0.4"
   },
   "mangas": {
@@ -14870,6 +14870,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF8xOTU0Lmpzb24/",
           "type": "manhua",
           "cover_url": "https://images2.imgbox.com/f4/4b/jmdKfQ2c_o.png"
+        }
+      ]
+    },
+    "majp_4847": {
+      "title": "Kaii-san to Ore",
+      "chapters": [
+        {
+          "id": "4847",
+          "title": "Kaii-san to Ore",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzQ4NDcuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx196470-nHPuuQxmJjuP.jpg"
         }
       ]
     }
