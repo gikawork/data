@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764710817,
-    "totalMangas": 1264,
+    "lastUpdated": 1764710823,
+    "totalMangas": 1265,
     "version": "1.0.4"
   },
   "mangas": {
@@ -15170,6 +15170,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl81NTY2Lmpzb24/",
           "type": "manhwa",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/3896.jpg"
+        }
+      ]
+    },
+    "majp_5805": {
+      "title": "Karate Shoukoushi Kohinata Minoru",
+      "chapters": [
+        {
+          "id": "5805",
+          "title": "Karate Shoukoushi Kohinata Minoru",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzU4MDUuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx37075-CHcekUnrZjZj.jpg"
         }
       ]
     }
