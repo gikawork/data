@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764711144,
-    "totalMangas": 1325,
+    "lastUpdated": 1764711146,
+    "totalMangas": 1326,
     "version": "1.0.4"
   },
   "mangas": {
@@ -15902,6 +15902,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl84MTYuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx170780-B81uugJAqO0H.jpg"
+        }
+      ]
+    },
+    "majp_2940": {
+      "title": "Kobayashi-san Chi no Maid Dragon",
+      "chapters": [
+        {
+          "id": "2940",
+          "title": "Kobayashi-san Chi no Maid Dragon",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzI5NDAuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://cdn.myanimelist.net/images/manga/3/138919.jpg"
         }
       ]
     }
