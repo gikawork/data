@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764711791,
-    "totalMangas": 1432,
+    "lastUpdated": 1764711793,
+    "totalMangas": 1433,
     "version": "1.0.4"
   },
   "mangas": {
@@ -17186,6 +17186,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzM0NTIuanNvbg/",
           "type": "manga",
           "cover_url": "https://cdn.myanimelist.net/images/manga/1/244141.jpg"
+        }
+      ]
+    },
+    "majp_3331": {
+      "title": "Pinky Candy Kiss",
+      "chapters": [
+        {
+          "id": "3331",
+          "title": "Pinky Candy Kiss",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzMzMzEuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx158108-9IrZ4h3LIOhW.png"
         }
       ]
     }
