@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764712161,
-    "totalMangas": 1495,
+    "lastUpdated": 1764712167,
+    "totalMangas": 1496,
     "version": "1.0.4"
   },
   "mangas": {
@@ -17942,6 +17942,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzMyNjQuanNvbg/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/nx99920-lKmxinYMoRTw.jpg"
+        }
+      ]
+    },
+    "makr_66809": {
+      "title": "Singwahamkke Doraon Gisawangnim",
+      "chapters": [
+        {
+          "id": "66809",
+          "title": "Singwahamkke Doraon Gisawangnim",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl82NjgwOS5qc29u/",
+          "type": "manhwa",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx165287-ZXv2LuVMn7cQ.jpg"
         }
       ]
     }
