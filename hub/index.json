@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764710694,
-    "totalMangas": 1241,
+    "lastUpdated": 1764710699,
+    "totalMangas": 1242,
     "version": "1.0.4"
   },
   "mangas": {
@@ -14894,6 +14894,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8xNjYuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx183519-RFdnYQyoMv42.jpg"
+        }
+      ]
+    },
+    "maot_294179": {
+      "title": "Monster Musume no Iru Nichijou",
+      "chapters": [
+        {
+          "id": "294179",
+          "title": "Monster Musume no Iru Nichijou",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21vdC9tYW90XzI5NDE3OS5qc29u/",
+          "type": "outro",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx66213-OK32r4Vhi2jx.jpg"
         }
       ]
     }
