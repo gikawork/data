@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764708961,
-    "totalMangas": 1158,
+    "lastUpdated": 1764708964,
+    "totalMangas": 1159,
     "version": "1.0.4"
   },
   "mangas": {
@@ -13898,6 +13898,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzk3Nzg1Lmpzb24/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b186909-Z8trUGCGJJxI.jpg"
+        }
+      ]
+    },
+    "majp_1677": {
+      "title": "Chainsaw Man",
+      "chapters": [
+        {
+          "id": "majp_1677",
+          "title": "Chainsaw Man",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzE2NzcuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx105778-euxXZEIfDY2u.png"
         }
       ]
     }
