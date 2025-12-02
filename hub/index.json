@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764707760,
-    "totalMangas": 1098,
+    "lastUpdated": 1764707763,
+    "totalMangas": 1099,
     "version": "1.0.4"
   },
   "mangas": {
@@ -13178,6 +13178,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzM4MTIuanNvbg/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/3150.jpg"
+        }
+      ]
+    },
+    "majp_2413": {
+      "title": "Montage",
+      "chapters": [
+        {
+          "id": "majp_2413",
+          "title": "Montage",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzI0MTMuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx63083-Wo4WNtYsPIIL.png"
         }
       ]
     }
