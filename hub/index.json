@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764709387,
-    "totalMangas": 1211,
+    "lastUpdated": 1764709393,
+    "totalMangas": 1212,
     "version": "1.0.4"
   },
   "mangas": {
@@ -14534,6 +14534,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8xNDU5Lmpzb24/",
           "type": "manhwa",
           "cover_url": "https://media.kitsu.app/manga/73212/poster_image/large-218b96d6e27f18d81a4b0258353d19c3.jpeg"
+        }
+      ]
+    },
+    "majp_7976": {
+      "title": "Kono Koi, Chaban ni Tsuki!?",
+      "chapters": [
+        {
+          "id": "7976",
+          "title": "Kono Koi, Chaban ni Tsuki!?",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzc5NzYuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://cdn.mangaupdates.com/image/i496660.jpg"
         }
       ]
     }
