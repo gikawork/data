@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764711418,
-    "totalMangas": 1372,
+    "lastUpdated": 1764711424,
+    "totalMangas": 1373,
     "version": "1.0.4"
   },
   "mangas": {
@@ -16466,6 +16466,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzE4NjYwMC5qc29u/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx192188-7tZE9s2uoMBs.jpg"
+        }
+      ]
+    },
+    "majp_45335": {
+      "title": "Amagami-san Chi no Enmusubi",
+      "chapters": [
+        {
+          "id": "45335",
+          "title": "Amagami-san Chi no Enmusubi",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzQ1MzM1Lmpzb24/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx126913-0JeS46A8y85b.jpg"
         }
       ]
     }
