@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": 1764712095,
+    "lastUpdated": 1764712102,
     "totalMangas": 1483,
     "version": "1.0.4"
   },
@@ -5618,18 +5618,6 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvQ0g5ODguanNvbg%3D%3D/",
           "type": "manhua",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx165063-lXGNwxADe2S1.png"
-        }
-      ]
-    },
-    "JP594": {
-      "title": "Nezumi no Hatsukoi",
-      "chapters": [
-        {
-          "id": 594,
-          "title": "Nezumi no Hatsukoi",
-          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9KUDU5NC5qc29u/",
-          "type": "manga",
-          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx172713-i69Y5zHn4Vj8.jpg"
         }
       ]
     },
@@ -17798,6 +17786,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzMyNTEuanNvbg/",
           "type": "manga",
           "cover_url": "https://cdn.mangaupdates.com/image/i336852.jpg"
+        }
+      ]
+    },
+    "majp_594": {
+      "title": "Renge to Naruto!",
+      "chapters": [
+        {
+          "id": "594",
+          "title": "Renge to Naruto!",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzU5NC5qc29u/",
+          "type": "manga",
+          "cover_url": "https://cdn.myanimelist.net/images/manga/1/299691.jpg"
         }
       ]
     }
