@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764711587,
-    "totalMangas": 1403,
+    "lastUpdated": 1764711593,
+    "totalMangas": 1404,
     "version": "1.0.4"
   },
   "mangas": {
@@ -16838,6 +16838,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzkyNjguanNvbg/",
           "type": "manga",
           "cover_url": "https://cdn.myanimelist.net/images/manga/2/260521.jpg"
+        }
+      ]
+    },
+    "makr_658": {
+      "title": "The Return of the 8th Class Mage",
+      "chapters": [
+        {
+          "id": "658",
+          "title": "The Return of the 8th Class Mage",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl82NTguanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.myanimelist.net/images/manga/3/292582.jpg"
         }
       ]
     }
