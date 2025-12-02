@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764710704,
-    "totalMangas": 1243,
+    "lastUpdated": 1764710706,
+    "totalMangas": 1244,
     "version": "1.0.4"
   },
   "mangas": {
@@ -14918,6 +14918,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzQzNTcuanNvbg/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx168526-llFp4mRmW9NF.jpg"
+        }
+      ]
+    },
+    "majp_832": {
+      "title": "Embers",
+      "chapters": [
+        {
+          "id": "832",
+          "title": "Embers",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzgzMi5qc29u/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx186356-5vSNIQKM1exy.jpg"
         }
       ]
     }
