@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764712337,
-    "totalMangas": 1529,
+    "lastUpdated": 1764712343,
+    "totalMangas": 1530,
     "version": "1.0.4"
   },
   "mangas": {
@@ -18350,6 +18350,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzcxNDEwLmpzb24/",
           "type": "manga",
           "cover_url": "https://cdn.myanimelist.net/images/manga/2/326567.jpg"
+        }
+      ]
+    },
+    "majp_3955": {
+      "title": "Tower Dungeon",
+      "chapters": [
+        {
+          "id": "3955",
+          "title": "Tower Dungeon",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzM5NTUuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx170399-YYy0AhHxo8xt.jpg"
         }
       ]
     }
