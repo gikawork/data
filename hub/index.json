@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764711569,
-    "totalMangas": 1399,
+    "lastUpdated": 1764711575,
+    "totalMangas": 1400,
     "version": "1.0.4"
   },
   "mangas": {
@@ -16790,6 +16790,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzIyMTEuanNvbg/",
           "type": "manga",
           "cover_url": "https://cdn.myanimelist.net/images/manga/1/309840.jpg"
+        }
+      ]
+    },
+    "majp_3733": {
+      "title": "Komi-san wa Komyushou Desu.",
+      "chapters": [
+        {
+          "id": "3733",
+          "title": "Komi-san wa Komyushou Desu.",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzM3MzMuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx97852-M7vlc2OGR2gp.jpg"
         }
       ]
     }
