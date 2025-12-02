@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764711192,
-    "totalMangas": 1334,
+    "lastUpdated": 1764711197,
+    "totalMangas": 1335,
     "version": "1.0.4"
   },
   "mangas": {
@@ -16010,6 +16010,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF8yNjEyLmpzb24/",
           "type": "manhua",
           "cover_url": "https://files.catbox.moe/1uxbxy.jpg"
+        }
+      ]
+    },
+    "majp_122009": {
+      "title": "One Love",
+      "chapters": [
+        {
+          "id": "122009",
+          "title": "One Love",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzEyMjAwOS5qc29u/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/13733.jpg"
         }
       ]
     }
