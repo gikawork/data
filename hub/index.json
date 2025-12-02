@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764711630,
-    "totalMangas": 1410,
+    "lastUpdated": 1764711635,
+    "totalMangas": 1411,
     "version": "1.0.4"
   },
   "mangas": {
@@ -16922,6 +16922,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzUzOTEuanNvbg/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx102988-OoVJxQCH6fbR.jpg"
+        }
+      ]
+    },
+    "majp_1425": {
+      "title": "The Bugle Call: Song of War",
+      "chapters": [
+        {
+          "id": "1425",
+          "title": "The Bugle Call: Song of War",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzE0MjUuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx153007-OvXOv4nRDmtL.jpg"
         }
       ]
     }
