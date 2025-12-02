@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764713210,
-    "totalMangas": 1574,
+    "lastUpdated": 1764713219,
+    "totalMangas": 1575,
     "version": "1.0.4"
   },
   "mangas": {
@@ -18890,6 +18890,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzM1NDQuanNvbg/",
           "type": "manga",
           "cover_url": "https://cdn.myanimelist.net/images/manga/3/314815.jpg"
+        }
+      ]
+    },
+    "majp_664": {
+      "title": "Tonari no Seki no Yatsu ga Souiu Me de Mitekuru",
+      "chapters": [
+        {
+          "id": "664",
+          "title": "Tonari no Seki no Yatsu ga Souiu Me de Mitekuru",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzY2NC5qc29u/",
+          "type": "manga",
+          "cover_url": "https://cdn.myanimelist.net/images/manga/1/312745.jpg"
         }
       ]
     }
