@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764707735,
-    "totalMangas": 1090,
+    "lastUpdated": 1764707738,
+    "totalMangas": 1091,
     "version": "1.0.4"
   },
   "mangas": {
@@ -13082,6 +13082,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzQzNDg2OS5qc29u/",
           "type": "manga",
           "cover_url": "https://uploads.mangadex.org/covers/8754fb67-d7f1-45f8-ad40-e4c218ba5836/605caded-f8d6-483b-a5e7-bd0ead4244b7.png"
+        }
+      ]
+    },
+    "maot_334194": {
+      "title": "Kusuriya no Hitorigoto",
+      "chapters": [
+        {
+          "id": "maot_334194",
+          "title": "Kusuriya no Hitorigoto",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21vdC9tYW90XzMzNDE5NC5qc29u/",
+          "type": "outro",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/nx99022-Hh2WdyNgR8HM.jpg"
         }
       ]
     }
