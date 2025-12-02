@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764712320,
-    "totalMangas": 1526,
+    "lastUpdated": 1764712326,
+    "totalMangas": 1527,
     "version": "1.0.4"
   },
   "mangas": {
@@ -18314,6 +18314,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzI0NTguanNvbg/",
           "type": "manga",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/13323/687fe5c7958a5.png"
+        }
+      ]
+    },
+    "majp_7439": {
+      "title": "AKB49: Renai Kinshi Jourei",
+      "chapters": [
+        {
+          "id": "7439",
+          "title": "AKB49: Renai Kinshi Jourei",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzc0MzkuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/nx53052-rzm7BHmgAt4e.jpg"
         }
       ]
     }
