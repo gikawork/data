@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764711359,
-    "totalMangas": 1361,
+    "lastUpdated": 1764711364,
+    "totalMangas": 1362,
     "version": "1.0.4"
   },
   "mangas": {
@@ -16334,6 +16334,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzEyODcuanNvbg/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx163495-tCWQW0kSvfjO.jpg"
+        }
+      ]
+    },
+    "makr_54183": {
+      "title": "The Academy's Undercover Professor",
+      "chapters": [
+        {
+          "id": "54183",
+          "title": "The Academy's Undercover Professor",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl81NDE4My5qc29u/",
+          "type": "manhwa",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx150836-vWf0Hgyey7Mj.jpg"
         }
       ]
     }
