@@ -1,9 +1,9 @@
 {
-  "title": "Yagami-kun's Family Affairs",
-  "description": "Yagami-kun’s Family Affairs acompanha Yūji Yagami, um estudante do ensino médio com um problema peculiar: sua mãe, Nomi, parece muito jovem, e ele tem uma queda por ela. Para piorar, seu professor também é apaixonado por Nomi devido à sua aparência juvenil. No entanto, Nomi é completamente alheia a isso e está perdidamente apaixonada por seu marido, Yōji, demonstrando seu afeto publicamente—o que só aumenta o constrangimento de Yūji.\n\nOs amigos de Yūji constantemente zombam dele por seu suposto “complexo de mãe”. No Dia dos Namorados, porém, ele recebe uma caixa de chocolates caseiros. O nome no cartão pode ser lido de várias maneiras, sendo a mais comum Masayuki Ikari (um nome masculino), o que leva seus amigos a provocá-lo o dia todo. Mas ao final das aulas, ao ir ao portão da escola para encontrar a pessoa que enviou os chocolates, ele descobre que o nome era, na verdade, Mayuki, uma garota.\n\nA partir daí, Mayuki começa a acompanhá-lo no caminho de volta para casa, e os dois acabam se tornando um casal. O restante da história segue o crescimento do relacionamento de Yūji e Mayuki, enquanto ele lida com suas questões emocionais e busca superar seu “complexo de mãe”.",
-  "artist": "Kusunoki Kei",
-  "author": "Kusunoki Kei",
-  "cover": "https://images2.imgbox.com/b3/2e/0WmyYFWy_o.png",
+  "title": "Kamigami no Kago de Seisan Kakumei",
+  "description": "Durante sua reencarnação, Tadashi um trabalhador japonês exausto pela vida corporativa — surpreende os deuses ao escolher a bênção da agricultura, algo que ninguém jamais havia escolhido. Como recompensa, ele recebe bênçãos generosas e sem precedentes. Seu objetivo seria viver uma vida tranquila, do jeitinho que sempre sonhou, em outro mundo…\n\nMas, para sua surpresa, ele acaba em uma imensa e desolada península tomada por miasma, conhecida como “Limbo”! Mesmo enfrentando dificuldades, Tadashi, com sua personalidade dedicada e as bênçãos divinas, começa pouco a pouco a expandir sua fazenda.\n\nAos poucos, pessoas começam a se reunir em busca dos produtos que Tadashi cultiva: uma ex-rainha élfica perseguida, uma heroína mulher-besta e um mestre artesão anão se juntam a ele nessa jornada!",
+  "artist": "Suzuho Hotaru, Tozakuro Shiragi",
+  "author": "Fuuraisan",
+  "cover": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx149401-FrPOdrvq9b8A.jpg",
   "status": "OnGoing",
   "chapters": {
     "05": {
@@ -185,6 +185,29 @@
           "https://cdn.mangalivre.ru/manga_679b16e430b1b/8da380c8d056c148676cc4ddda0c748f/31.webp"
         ]
       }
+    },
+    "01.1": {
+      "title": "Capítulo 01.1",
+      "volume": "",
+      "last_updated": "1758917695",
+      "groups": {
+        "gikamura": [
+          "https://cdn.mangalivre.ru//ab42848992332e428f87a18d960a147c/01.webp",
+          "https://cdn.mangalivre.ru//ab42848992332e428f87a18d960a147c/02.webp",
+          "https://cdn.mangalivre.ru//ab42848992332e428f87a18d960a147c/03.webp",
+          "https://cdn.mangalivre.ru//ab42848992332e428f87a18d960a147c/04.webp",
+          "https://cdn.mangalivre.ru//ab42848992332e428f87a18d960a147c/05.webp",
+          "https://cdn.mangalivre.ru//ab42848992332e428f87a18d960a147c/06.webp",
+          "https://cdn.mangalivre.ru//ab42848992332e428f87a18d960a147c/07.webp",
+          "https://cdn.mangalivre.ru//ab42848992332e428f87a18d960a147c/08.webp",
+          "https://cdn.mangalivre.ru//ab42848992332e428f87a18d960a147c/09.webp",
+          "https://cdn.mangalivre.ru//ab42848992332e428f87a18d960a147c/10.webp",
+          "https://cdn.mangalivre.ru//ab42848992332e428f87a18d960a147c/11.webp"
+        ]
+      }
     }
-  }
+  },
+  "source_anilist_response_synonyms": [
+    "Kamigami no Kago de Seisan Kakumei"
+  ]
 }
