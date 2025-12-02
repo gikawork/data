@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764711092,
-    "totalMangas": 1317,
+    "lastUpdated": 1764711097,
+    "totalMangas": 1318,
     "version": "1.0.4"
   },
   "mangas": {
@@ -15806,6 +15806,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzIxNDAuanNvbg/",
           "type": "manga",
           "cover_url": "https://cdn.mangaupdates.com/image/i377328.jpg"
+        }
+      ]
+    },
+    "majp_2411": {
+      "title": "Issho ni Kurashite Ii desu ka?",
+      "chapters": [
+        {
+          "id": "2411",
+          "title": "Issho ni Kurashite Ii desu ka?",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzI0MTEuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx159549-RsF9cqFieqsh.jpg"
         }
       ]
     }
