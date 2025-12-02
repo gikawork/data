@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764713074,
-    "totalMangas": 1560,
+    "lastUpdated": 1764713083,
+    "totalMangas": 1561,
     "version": "1.0.4"
   },
   "mangas": {
@@ -18722,6 +18722,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzI0MDkuanNvbg/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx98263-kIeaTXrAbGkj.jpg"
+        }
+      ]
+    },
+    "majp_3081": {
+      "title": "Kimi wa Yakamashi Tojite yo Kuchi o!",
+      "chapters": [
+        {
+          "id": "3081",
+          "title": "Kimi wa Yakamashi Tojite yo Kuchi o!",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzMwODEuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://cdn.myanimelist.net/images/manga/1/268163.jpg"
         }
       ]
     }
