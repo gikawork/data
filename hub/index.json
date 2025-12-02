@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764707748,
-    "totalMangas": 1094,
+    "lastUpdated": 1764707751,
+    "totalMangas": 1095,
     "version": "1.0.4"
   },
   "mangas": {
@@ -13130,6 +13130,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzEwNDM5MS5qc29u/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx115147-sSWPdAk1Er82.jpg"
+        }
+      ]
+    },
+    "makr_97736": {
+      "title": "The Zombie Won't Bite Me",
+      "chapters": [
+        {
+          "id": "makr_97736",
+          "title": "The Zombie Won't Bite Me",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl85NzczNi5qc29u/",
+          "type": "manhwa",
+          "cover_url": "https://images2.imgbox.com/a0/1b/iw23P6hv_o.jpg"
         }
       ]
     }
