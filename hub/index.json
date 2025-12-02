@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764711894,
-    "totalMangas": 1447,
+    "lastUpdated": 1764711899,
+    "totalMangas": 1448,
     "version": "1.0.4"
   },
   "mangas": {
@@ -17366,6 +17366,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF8zODYyMTcuanNvbg/",
           "type": "manhua",
           "cover_url": "https://ap-proxy.mangabaka.dev/proxy.php?url=https://cdn.anime-planet.com/manga/primary/with-my-price-deduction-system-i-became-invincible-1.webp?t=1744529301"
+        }
+      ]
+    },
+    "majp_353400": {
+      "title": "Anata e Sasageru Sadistic",
+      "chapters": [
+        {
+          "id": "353400",
+          "title": "Anata e Sasageru Sadistic",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzM1MzQwMC5qc29u/",
+          "type": "manga",
+          "cover_url": "https://cdn.mangaupdates.com/image/i491651.png"
         }
       ]
     }
