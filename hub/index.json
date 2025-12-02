@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764710970,
-    "totalMangas": 1293,
+    "lastUpdated": 1764710976,
+    "totalMangas": 1294,
     "version": "1.0.4"
   },
   "mangas": {
@@ -15518,6 +15518,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzI4OTcuanNvbg/",
           "type": "manga",
           "cover_url": "https://cdn.mangaupdates.com/image/i317280.png"
+        }
+      ]
+    },
+    "majp_3158": {
+      "title": "World Trigger",
+      "chapters": [
+        {
+          "id": "3158",
+          "title": "World Trigger",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzMxNTguanNvbg/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx78151-o2g4GiqaiPyO.jpg"
         }
       ]
     }
