@@ -1,0 +1,620 @@
+{
+  "title": "Hujakga Daegongjaneun Murimin",
+  "author": "Uk Jeon, Gogo",
+  "artist": "Bamhaneul, Sumsum",
+  "description": "Em um mundo de fantasia dentro de um romance, apenas eu posso usar artes marciais.",
+  "cover": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b199570-itxj3l8F2dxa.jpg",
+  "status": "Em Andamento",
+  "chapters": {
+    "18": {
+      "title": "Capítulo 18",
+      "volume": "",
+      "last_updated": "1758854478",
+      "groups": {
+        "gikamura": [
+          "https://cdn.mangalivre.ru/manga_68c42f3e28152/5dc5e67fb68f8531b97a7cfabe9effa3/image01.webp",
+          "https://cdn.mangalivre.ru/manga_68c42f3e28152/5dc5e67fb68f8531b97a7cfabe9effa3/image02.webp",
+          "https://cdn.mangalivre.ru/manga_68c42f3e28152/5dc5e67fb68f8531b97a7cfabe9effa3/image03.webp",
+          "https://cdn.mangalivre.ru/manga_68c42f3e28152/5dc5e67fb68f8531b97a7cfabe9effa3/image04.webp",
+          "https://cdn.mangalivre.ru/manga_68c42f3e28152/5dc5e67fb68f8531b97a7cfabe9effa3/image05.webp",
+          "https://cdn.mangalivre.ru/manga_68c42f3e28152/5dc5e67fb68f8531b97a7cfabe9effa3/image06.webp",
+          "https://cdn.mangalivre.ru/manga_68c42f3e28152/5dc5e67fb68f8531b97a7cfabe9effa3/image07.webp",
+          "https://cdn.mangalivre.ru/manga_68c42f3e28152/5dc5e67fb68f8531b97a7cfabe9effa3/image08.webp",
+          "https://cdn.mangalivre.ru/manga_68c42f3e28152/5dc5e67fb68f8531b97a7cfabe9effa3/image09.webp",
+          "https://cdn.mangalivre.ru/manga_68c42f3e28152/5dc5e67fb68f8531b97a7cfabe9effa3/image10.webp",
+          "https://cdn.mangalivre.ru/manga_68c42f3e28152/5dc5e67fb68f8531b97a7cfabe9effa3/image11.webp",
+          "https://cdn.mangalivre.ru/manga_68c42f3e28152/5dc5e67fb68f8531b97a7cfabe9effa3/image12.webp"
+        ]
+      }
+    },
+    "17": {
+      "title": "Capítulo 17",
+      "volume": "",
+      "last_updated": "1758854474",
+      "groups": {
+        "gikamura": [
+          "https://cdn.mangalivre.ru/manga_68c42f3e28152/386cefb6bdd3bbc6546cffde9a6bfcab/image01.webp",
+          "https://cdn.mangalivre.ru/manga_68c42f3e28152/386cefb6bdd3bbc6546cffde9a6bfcab/image02.webp",
+          "https://cdn.mangalivre.ru/manga_68c42f3e28152/386cefb6bdd3bbc6546cffde9a6bfcab/image03.webp",
+          "https://cdn.mangalivre.ru/manga_68c42f3e28152/386cefb6bdd3bbc6546cffde9a6bfcab/image04.webp",
+          "https://cdn.mangalivre.ru/manga_68c42f3e28152/386cefb6bdd3bbc6546cffde9a6bfcab/image05.webp",
+          "https://cdn.mangalivre.ru/manga_68c42f3e28152/386cefb6bdd3bbc6546cffde9a6bfcab/image06.webp",
+          "https://cdn.mangalivre.ru/manga_68c42f3e28152/386cefb6bdd3bbc6546cffde9a6bfcab/image07.webp",
+          "https://cdn.mangalivre.ru/manga_68c42f3e28152/386cefb6bdd3bbc6546cffde9a6bfcab/image08.webp",
+          "https://cdn.mangalivre.ru/manga_68c42f3e28152/386cefb6bdd3bbc6546cffde9a6bfcab/image09.webp",
+          "https://cdn.mangalivre.ru/manga_68c42f3e28152/386cefb6bdd3bbc6546cffde9a6bfcab/image10.webp"
+        ]
+      }
+    },
+    "16": {
+      "title": "Capítulo 16",
+      "volume": "",
+      "last_updated": "1758854470",
+      "groups": {
+        "gikamura": [
+          "https://cdn.mangalivre.ru/manga_68c42f3e28152/81d8fbc2b5a13965b013114f2668142c/image01.webp",
+          "https://cdn.mangalivre.ru/manga_68c42f3e28152/81d8fbc2b5a13965b013114f2668142c/image02.webp",
+          "https://cdn.mangalivre.ru/manga_68c42f3e28152/81d8fbc2b5a13965b013114f2668142c/image03.webp",
+          "https://cdn.mangalivre.ru/manga_68c42f3e28152/81d8fbc2b5a13965b013114f2668142c/image04.webp",
+          "https://cdn.mangalivre.ru/manga_68c42f3e28152/81d8fbc2b5a13965b013114f2668142c/image05.webp",
+          "https://cdn.mangalivre.ru/manga_68c42f3e28152/81d8fbc2b5a13965b013114f2668142c/image06.webp",
+          "https://cdn.mangalivre.ru/manga_68c42f3e28152/81d8fbc2b5a13965b013114f2668142c/image07.webp",
+          "https://cdn.mangalivre.ru/manga_68c42f3e28152/81d8fbc2b5a13965b013114f2668142c/image08.webp",
+          "https://cdn.mangalivre.ru/manga_68c42f3e28152/81d8fbc2b5a13965b013114f2668142c/image09.webp",
+          "https://cdn.mangalivre.ru/manga_68c42f3e28152/81d8fbc2b5a13965b013114f2668142c/image10.webp",
+          "https://cdn.mangalivre.ru/manga_68c42f3e28152/81d8fbc2b5a13965b013114f2668142c/image11.webp"
+        ]
+      }
+    },
+    "15": {
+      "title": "Capítulo 15",
+      "volume": "",
+      "last_updated": "1758854466",
+      "groups": {
+        "gikamura": [
+          "https://cdn.mangalivre.ru/manga_68c42f3e28152/4dcb1f280429219d248274453ef1e9f3/image01.webp",
+          "https://cdn.mangalivre.ru/manga_68c42f3e28152/4dcb1f280429219d248274453ef1e9f3/image02.webp",
+          "https://cdn.mangalivre.ru/manga_68c42f3e28152/4dcb1f280429219d248274453ef1e9f3/image03.webp",
+          "https://cdn.mangalivre.ru/manga_68c42f3e28152/4dcb1f280429219d248274453ef1e9f3/image04.webp",
+          "https://cdn.mangalivre.ru/manga_68c42f3e28152/4dcb1f280429219d248274453ef1e9f3/image05.webp",
+          "https://cdn.mangalivre.ru/manga_68c42f3e28152/4dcb1f280429219d248274453ef1e9f3/image06.webp",
+          "https://cdn.mangalivre.ru/manga_68c42f3e28152/4dcb1f280429219d248274453ef1e9f3/image07.webp",
+          "https://cdn.mangalivre.ru/manga_68c42f3e28152/4dcb1f280429219d248274453ef1e9f3/image08.webp",
+          "https://cdn.mangalivre.ru/manga_68c42f3e28152/4dcb1f280429219d248274453ef1e9f3/image09.webp"
+        ]
+      }
+    },
+    "14": {
+      "title": "Capítulo 14",
+      "volume": "",
+      "last_updated": "1758854463",
+      "groups": {
+        "gikamura": [
+          "https://cdn.mangalivre.ru/manga_68c42f3e28152/cc7b009ce10cbd567129193e80bc683f/image01.webp",
+          "https://cdn.mangalivre.ru/manga_68c42f3e28152/cc7b009ce10cbd567129193e80bc683f/image02.webp",
+          "https://cdn.mangalivre.ru/manga_68c42f3e28152/cc7b009ce10cbd567129193e80bc683f/image03.webp",
+          "https://cdn.mangalivre.ru/manga_68c42f3e28152/cc7b009ce10cbd567129193e80bc683f/image04.webp",
+          "https://cdn.mangalivre.ru/manga_68c42f3e28152/cc7b009ce10cbd567129193e80bc683f/image05.webp",
+          "https://cdn.mangalivre.ru/manga_68c42f3e28152/cc7b009ce10cbd567129193e80bc683f/image06.webp",
+          "https://cdn.mangalivre.ru/manga_68c42f3e28152/cc7b009ce10cbd567129193e80bc683f/image07.webp",
+          "https://cdn.mangalivre.ru/manga_68c42f3e28152/cc7b009ce10cbd567129193e80bc683f/image08.webp",
+          "https://cdn.mangalivre.ru/manga_68c42f3e28152/cc7b009ce10cbd567129193e80bc683f/image09.webp",
+          "https://cdn.mangalivre.ru/manga_68c42f3e28152/cc7b009ce10cbd567129193e80bc683f/image10.webp",
+          "https://cdn.mangalivre.ru/manga_68c42f3e28152/cc7b009ce10cbd567129193e80bc683f/image11.webp"
+        ]
+      }
+    },
+    "13": {
+      "title": "Capítulo 13",
+      "volume": "",
+      "last_updated": "1758854459",
+      "groups": {
+        "gikamura": [
+          "https://cdn.mangalivre.ru/manga_68c42f3e28152/5986a3ed6e2e7a2de05d78912b8425f1/image01.webp",
+          "https://cdn.mangalivre.ru/manga_68c42f3e28152/5986a3ed6e2e7a2de05d78912b8425f1/image02.webp",
+          "https://cdn.mangalivre.ru/manga_68c42f3e28152/5986a3ed6e2e7a2de05d78912b8425f1/image03.webp",
+          "https://cdn.mangalivre.ru/manga_68c42f3e28152/5986a3ed6e2e7a2de05d78912b8425f1/image04.webp",
+          "https://cdn.mangalivre.ru/manga_68c42f3e28152/5986a3ed6e2e7a2de05d78912b8425f1/image05.webp",
+          "https://cdn.mangalivre.ru/manga_68c42f3e28152/5986a3ed6e2e7a2de05d78912b8425f1/image06.webp",
+          "https://cdn.mangalivre.ru/manga_68c42f3e28152/5986a3ed6e2e7a2de05d78912b8425f1/image07.webp",
+          "https://cdn.mangalivre.ru/manga_68c42f3e28152/5986a3ed6e2e7a2de05d78912b8425f1/image08.webp",
+          "https://cdn.mangalivre.ru/manga_68c42f3e28152/5986a3ed6e2e7a2de05d78912b8425f1/image09.webp",
+          "https://cdn.mangalivre.ru/manga_68c42f3e28152/5986a3ed6e2e7a2de05d78912b8425f1/image10.webp",
+          "https://cdn.mangalivre.ru/manga_68c42f3e28152/5986a3ed6e2e7a2de05d78912b8425f1/image11.webp",
+          "https://cdn.mangalivre.ru/manga_68c42f3e28152/5986a3ed6e2e7a2de05d78912b8425f1/image12.webp",
+          "https://cdn.mangalivre.ru/manga_68c42f3e28152/5986a3ed6e2e7a2de05d78912b8425f1/image13.webp"
+        ]
+      }
+    },
+    "12": {
+      "title": "Capítulo 12",
+      "volume": "",
+      "last_updated": "1758854456",
+      "groups": {
+        "gikamura": [
+          "https://cdn.mangalivre.ru/manga_68c42f3e28152/0e92d2fc8a858232e9fd34cb27919d49/image01.webp",
+          "https://cdn.mangalivre.ru/manga_68c42f3e28152/0e92d2fc8a858232e9fd34cb27919d49/image02.webp",
+          "https://cdn.mangalivre.ru/manga_68c42f3e28152/0e92d2fc8a858232e9fd34cb27919d49/image03.webp",
+          "https://cdn.mangalivre.ru/manga_68c42f3e28152/0e92d2fc8a858232e9fd34cb27919d49/image04.webp",
+          "https://cdn.mangalivre.ru/manga_68c42f3e28152/0e92d2fc8a858232e9fd34cb27919d49/image05.webp",
+          "https://cdn.mangalivre.ru/manga_68c42f3e28152/0e92d2fc8a858232e9fd34cb27919d49/image06.webp",
+          "https://cdn.mangalivre.ru/manga_68c42f3e28152/0e92d2fc8a858232e9fd34cb27919d49/image07.webp",
+          "https://cdn.mangalivre.ru/manga_68c42f3e28152/0e92d2fc8a858232e9fd34cb27919d49/image08.webp",
+          "https://cdn.mangalivre.ru/manga_68c42f3e28152/0e92d2fc8a858232e9fd34cb27919d49/image09.webp",
+          "https://cdn.mangalivre.ru/manga_68c42f3e28152/0e92d2fc8a858232e9fd34cb27919d49/image10.webp",
+          "https://cdn.mangalivre.ru/manga_68c42f3e28152/0e92d2fc8a858232e9fd34cb27919d49/image11.webp",
+          "https://cdn.mangalivre.ru/manga_68c42f3e28152/0e92d2fc8a858232e9fd34cb27919d49/image12.webp"
+        ]
+      }
+    },
+    "11": {
+      "title": "Capítulo 11",
+      "volume": "",
+      "last_updated": "1758854452",
+      "groups": {
+        "gikamura": [
+          "https://cdn.mangalivre.ru/manga_68c42f3e28152/fe7fed941d10a16c6658fae943bddc62/image01.webp",
+          "https://cdn.mangalivre.ru/manga_68c42f3e28152/fe7fed941d10a16c6658fae943bddc62/image02.webp",
+          "https://cdn.mangalivre.ru/manga_68c42f3e28152/fe7fed941d10a16c6658fae943bddc62/image03.webp",
+          "https://cdn.mangalivre.ru/manga_68c42f3e28152/fe7fed941d10a16c6658fae943bddc62/image04.webp",
+          "https://cdn.mangalivre.ru/manga_68c42f3e28152/fe7fed941d10a16c6658fae943bddc62/image05.webp",
+          "https://cdn.mangalivre.ru/manga_68c42f3e28152/fe7fed941d10a16c6658fae943bddc62/image06.webp",
+          "https://cdn.mangalivre.ru/manga_68c42f3e28152/fe7fed941d10a16c6658fae943bddc62/image07.webp",
+          "https://cdn.mangalivre.ru/manga_68c42f3e28152/fe7fed941d10a16c6658fae943bddc62/image08.webp",
+          "https://cdn.mangalivre.ru/manga_68c42f3e28152/fe7fed941d10a16c6658fae943bddc62/image09.webp",
+          "https://cdn.mangalivre.ru/manga_68c42f3e28152/fe7fed941d10a16c6658fae943bddc62/image10.webp",
+          "https://cdn.mangalivre.ru/manga_68c42f3e28152/fe7fed941d10a16c6658fae943bddc62/image11.webp",
+          "https://cdn.mangalivre.ru/manga_68c42f3e28152/fe7fed941d10a16c6658fae943bddc62/image12.webp",
+          "https://cdn.mangalivre.ru/manga_68c42f3e28152/fe7fed941d10a16c6658fae943bddc62/image13.webp",
+          "https://cdn.mangalivre.ru/manga_68c42f3e28152/fe7fed941d10a16c6658fae943bddc62/image14.webp",
+          "https://cdn.mangalivre.ru/manga_68c42f3e28152/fe7fed941d10a16c6658fae943bddc62/image15.webp",
+          "https://cdn.mangalivre.ru/manga_68c42f3e28152/fe7fed941d10a16c6658fae943bddc62/image16.webp",
+          "https://cdn.mangalivre.ru/manga_68c42f3e28152/fe7fed941d10a16c6658fae943bddc62/image17.webp",
+          "https://cdn.mangalivre.ru/manga_68c42f3e28152/fe7fed941d10a16c6658fae943bddc62/image18.webp",
+          "https://cdn.mangalivre.ru/manga_68c42f3e28152/fe7fed941d10a16c6658fae943bddc62/image19.webp",
+          "https://cdn.mangalivre.ru/manga_68c42f3e28152/fe7fed941d10a16c6658fae943bddc62/image20.webp",
+          "https://cdn.mangalivre.ru/manga_68c42f3e28152/fe7fed941d10a16c6658fae943bddc62/image21.webp",
+          "https://cdn.mangalivre.ru/manga_68c42f3e28152/fe7fed941d10a16c6658fae943bddc62/image22.webp"
+        ]
+      }
+    },
+    "10": {
+      "title": "Capítulo 10",
+      "volume": "",
+      "last_updated": "1758854448",
+      "groups": {
+        "gikamura": [
+          "https://cdn.mangalivre.ru/manga_68c42f3e28152/e43fb0edd8e17d6bc27d827eb8f8d4c7/image01.webp",
+          "https://cdn.mangalivre.ru/manga_68c42f3e28152/e43fb0edd8e17d6bc27d827eb8f8d4c7/image02.webp",
+          "https://cdn.mangalivre.ru/manga_68c42f3e28152/e43fb0edd8e17d6bc27d827eb8f8d4c7/image03.webp",
+          "https://cdn.mangalivre.ru/manga_68c42f3e28152/e43fb0edd8e17d6bc27d827eb8f8d4c7/image04.webp",
+          "https://cdn.mangalivre.ru/manga_68c42f3e28152/e43fb0edd8e17d6bc27d827eb8f8d4c7/image05.webp",
+          "https://cdn.mangalivre.ru/manga_68c42f3e28152/e43fb0edd8e17d6bc27d827eb8f8d4c7/image06.webp",
+          "https://cdn.mangalivre.ru/manga_68c42f3e28152/e43fb0edd8e17d6bc27d827eb8f8d4c7/image07.webp",
+          "https://cdn.mangalivre.ru/manga_68c42f3e28152/e43fb0edd8e17d6bc27d827eb8f8d4c7/image08.webp",
+          "https://cdn.mangalivre.ru/manga_68c42f3e28152/e43fb0edd8e17d6bc27d827eb8f8d4c7/image09.webp",
+          "https://cdn.mangalivre.ru/manga_68c42f3e28152/e43fb0edd8e17d6bc27d827eb8f8d4c7/image10.webp"
+        ]
+      }
+    },
+    "09": {
+      "title": "Capítulo 09",
+      "volume": "",
+      "last_updated": "1758854444",
+      "groups": {
+        "gikamura": [
+          "https://cdn.mangalivre.ru/manga_68c42f3e28152/0976a5d3a3f5e9d73ba31b7c5c4b5c2c/image01.webp",
+          "https://cdn.mangalivre.ru/manga_68c42f3e28152/0976a5d3a3f5e9d73ba31b7c5c4b5c2c/image02.webp",
+          "https://cdn.mangalivre.ru/manga_68c42f3e28152/0976a5d3a3f5e9d73ba31b7c5c4b5c2c/image03.webp",
+          "https://cdn.mangalivre.ru/manga_68c42f3e28152/0976a5d3a3f5e9d73ba31b7c5c4b5c2c/image04.webp",
+          "https://cdn.mangalivre.ru/manga_68c42f3e28152/0976a5d3a3f5e9d73ba31b7c5c4b5c2c/image05.webp",
+          "https://cdn.mangalivre.ru/manga_68c42f3e28152/0976a5d3a3f5e9d73ba31b7c5c4b5c2c/image06.webp",
+          "https://cdn.mangalivre.ru/manga_68c42f3e28152/0976a5d3a3f5e9d73ba31b7c5c4b5c2c/image07.webp",
+          "https://cdn.mangalivre.ru/manga_68c42f3e28152/0976a5d3a3f5e9d73ba31b7c5c4b5c2c/image08.webp",
+          "https://cdn.mangalivre.ru/manga_68c42f3e28152/0976a5d3a3f5e9d73ba31b7c5c4b5c2c/image09.webp",
+          "https://cdn.mangalivre.ru/manga_68c42f3e28152/0976a5d3a3f5e9d73ba31b7c5c4b5c2c/image10.webp"
+        ]
+      }
+    },
+    "08": {
+      "title": "Capítulo 08",
+      "volume": "",
+      "last_updated": "1758854440",
+      "groups": {
+        "gikamura": [
+          "https://cdn.mangalivre.ru/manga_68c42f3e28152/a2e1ed49395e4b0906eb281ead419ab5/image01.webp",
+          "https://cdn.mangalivre.ru/manga_68c42f3e28152/a2e1ed49395e4b0906eb281ead419ab5/image02.webp",
+          "https://cdn.mangalivre.ru/manga_68c42f3e28152/a2e1ed49395e4b0906eb281ead419ab5/image03.webp",
+          "https://cdn.mangalivre.ru/manga_68c42f3e28152/a2e1ed49395e4b0906eb281ead419ab5/image04.webp",
+          "https://cdn.mangalivre.ru/manga_68c42f3e28152/a2e1ed49395e4b0906eb281ead419ab5/image05.webp",
+          "https://cdn.mangalivre.ru/manga_68c42f3e28152/a2e1ed49395e4b0906eb281ead419ab5/image06.webp",
+          "https://cdn.mangalivre.ru/manga_68c42f3e28152/a2e1ed49395e4b0906eb281ead419ab5/image07.webp",
+          "https://cdn.mangalivre.ru/manga_68c42f3e28152/a2e1ed49395e4b0906eb281ead419ab5/image08.webp",
+          "https://cdn.mangalivre.ru/manga_68c42f3e28152/a2e1ed49395e4b0906eb281ead419ab5/image09.webp",
+          "https://cdn.mangalivre.ru/manga_68c42f3e28152/a2e1ed49395e4b0906eb281ead419ab5/image10.webp",
+          "https://cdn.mangalivre.ru/manga_68c42f3e28152/a2e1ed49395e4b0906eb281ead419ab5/image11.webp",
+          "https://cdn.mangalivre.ru/manga_68c42f3e28152/a2e1ed49395e4b0906eb281ead419ab5/image12.webp",
+          "https://cdn.mangalivre.ru/manga_68c42f3e28152/a2e1ed49395e4b0906eb281ead419ab5/image13.webp"
+        ]
+      }
+    },
+    "07": {
+      "title": "Capítulo 07",
+      "volume": "",
+      "last_updated": "1758854436",
+      "groups": {
+        "gikamura": [
+          "https://cdn.mangalivre.ru/manga_68c42f3e28152/d6fe09210d4e596e04ac1359cbd18e2d/image01.webp",
+          "https://cdn.mangalivre.ru/manga_68c42f3e28152/d6fe09210d4e596e04ac1359cbd18e2d/image02.webp",
+          "https://cdn.mangalivre.ru/manga_68c42f3e28152/d6fe09210d4e596e04ac1359cbd18e2d/image03.webp",
+          "https://cdn.mangalivre.ru/manga_68c42f3e28152/d6fe09210d4e596e04ac1359cbd18e2d/image04.webp",
+          "https://cdn.mangalivre.ru/manga_68c42f3e28152/d6fe09210d4e596e04ac1359cbd18e2d/image05.webp",
+          "https://cdn.mangalivre.ru/manga_68c42f3e28152/d6fe09210d4e596e04ac1359cbd18e2d/image06.webp",
+          "https://cdn.mangalivre.ru/manga_68c42f3e28152/d6fe09210d4e596e04ac1359cbd18e2d/image07.webp",
+          "https://cdn.mangalivre.ru/manga_68c42f3e28152/d6fe09210d4e596e04ac1359cbd18e2d/image08.webp",
+          "https://cdn.mangalivre.ru/manga_68c42f3e28152/d6fe09210d4e596e04ac1359cbd18e2d/image09.webp",
+          "https://cdn.mangalivre.ru/manga_68c42f3e28152/d6fe09210d4e596e04ac1359cbd18e2d/image10.webp",
+          "https://cdn.mangalivre.ru/manga_68c42f3e28152/d6fe09210d4e596e04ac1359cbd18e2d/image11.webp",
+          "https://cdn.mangalivre.ru/manga_68c42f3e28152/d6fe09210d4e596e04ac1359cbd18e2d/image12.webp",
+          "https://cdn.mangalivre.ru/manga_68c42f3e28152/d6fe09210d4e596e04ac1359cbd18e2d/image13.webp"
+        ]
+      }
+    },
+    "06": {
+      "title": "Capítulo 06",
+      "volume": "",
+      "last_updated": "1758854432",
+      "groups": {
+        "gikamura": [
+          "https://cdn.mangalivre.ru/manga_68c42f3e28152/99f2aca8bb467ef9663637e518f99fff/image01.webp",
+          "https://cdn.mangalivre.ru/manga_68c42f3e28152/99f2aca8bb467ef9663637e518f99fff/image02.webp",
+          "https://cdn.mangalivre.ru/manga_68c42f3e28152/99f2aca8bb467ef9663637e518f99fff/image03.webp",
+          "https://cdn.mangalivre.ru/manga_68c42f3e28152/99f2aca8bb467ef9663637e518f99fff/image04.webp",
+          "https://cdn.mangalivre.ru/manga_68c42f3e28152/99f2aca8bb467ef9663637e518f99fff/image05.webp",
+          "https://cdn.mangalivre.ru/manga_68c42f3e28152/99f2aca8bb467ef9663637e518f99fff/image06.webp",
+          "https://cdn.mangalivre.ru/manga_68c42f3e28152/99f2aca8bb467ef9663637e518f99fff/image07.webp",
+          "https://cdn.mangalivre.ru/manga_68c42f3e28152/99f2aca8bb467ef9663637e518f99fff/image08.webp",
+          "https://cdn.mangalivre.ru/manga_68c42f3e28152/99f2aca8bb467ef9663637e518f99fff/image09.webp",
+          "https://cdn.mangalivre.ru/manga_68c42f3e28152/99f2aca8bb467ef9663637e518f99fff/image10.webp",
+          "https://cdn.mangalivre.ru/manga_68c42f3e28152/99f2aca8bb467ef9663637e518f99fff/image11.webp",
+          "https://cdn.mangalivre.ru/manga_68c42f3e28152/99f2aca8bb467ef9663637e518f99fff/image12.webp"
+        ]
+      }
+    },
+    "05": {
+      "title": "Capítulo 05",
+      "volume": "",
+      "last_updated": "1758854428",
+      "groups": {
+        "gikamura": [
+          "https://cdn.mangalivre.ru/manga_68c42f3e28152/d06b8e0cde13fd5fe45765da6640425f/image01.webp",
+          "https://cdn.mangalivre.ru/manga_68c42f3e28152/d06b8e0cde13fd5fe45765da6640425f/image02.webp",
+          "https://cdn.mangalivre.ru/manga_68c42f3e28152/d06b8e0cde13fd5fe45765da6640425f/image03.webp",
+          "https://cdn.mangalivre.ru/manga_68c42f3e28152/d06b8e0cde13fd5fe45765da6640425f/image04.webp",
+          "https://cdn.mangalivre.ru/manga_68c42f3e28152/d06b8e0cde13fd5fe45765da6640425f/image05.webp",
+          "https://cdn.mangalivre.ru/manga_68c42f3e28152/d06b8e0cde13fd5fe45765da6640425f/image06.webp",
+          "https://cdn.mangalivre.ru/manga_68c42f3e28152/d06b8e0cde13fd5fe45765da6640425f/image07.webp",
+          "https://cdn.mangalivre.ru/manga_68c42f3e28152/d06b8e0cde13fd5fe45765da6640425f/image08.webp",
+          "https://cdn.mangalivre.ru/manga_68c42f3e28152/d06b8e0cde13fd5fe45765da6640425f/image09.webp",
+          "https://cdn.mangalivre.ru/manga_68c42f3e28152/d06b8e0cde13fd5fe45765da6640425f/image10.webp",
+          "https://cdn.mangalivre.ru/manga_68c42f3e28152/d06b8e0cde13fd5fe45765da6640425f/image11.webp",
+          "https://cdn.mangalivre.ru/manga_68c42f3e28152/d06b8e0cde13fd5fe45765da6640425f/image12.webp"
+        ]
+      }
+    },
+    "04": {
+      "title": "Capítulo 04",
+      "volume": "",
+      "last_updated": "1758854425",
+      "groups": {
+        "gikamura": [
+          "https://cdn.mangalivre.ru/manga_68c42f3e28152/6c57eadc91b90f39acb7de9a0ddca336/image01.webp",
+          "https://cdn.mangalivre.ru/manga_68c42f3e28152/6c57eadc91b90f39acb7de9a0ddca336/image02.webp",
+          "https://cdn.mangalivre.ru/manga_68c42f3e28152/6c57eadc91b90f39acb7de9a0ddca336/image03.webp",
+          "https://cdn.mangalivre.ru/manga_68c42f3e28152/6c57eadc91b90f39acb7de9a0ddca336/image04.webp",
+          "https://cdn.mangalivre.ru/manga_68c42f3e28152/6c57eadc91b90f39acb7de9a0ddca336/image05.webp",
+          "https://cdn.mangalivre.ru/manga_68c42f3e28152/6c57eadc91b90f39acb7de9a0ddca336/image06.webp",
+          "https://cdn.mangalivre.ru/manga_68c42f3e28152/6c57eadc91b90f39acb7de9a0ddca336/image07.webp",
+          "https://cdn.mangalivre.ru/manga_68c42f3e28152/6c57eadc91b90f39acb7de9a0ddca336/image08.webp",
+          "https://cdn.mangalivre.ru/manga_68c42f3e28152/6c57eadc91b90f39acb7de9a0ddca336/image09.webp",
+          "https://cdn.mangalivre.ru/manga_68c42f3e28152/6c57eadc91b90f39acb7de9a0ddca336/image10.webp",
+          "https://cdn.mangalivre.ru/manga_68c42f3e28152/6c57eadc91b90f39acb7de9a0ddca336/image11.webp",
+          "https://cdn.mangalivre.ru/manga_68c42f3e28152/6c57eadc91b90f39acb7de9a0ddca336/image12.webp",
+          "https://cdn.mangalivre.ru/manga_68c42f3e28152/6c57eadc91b90f39acb7de9a0ddca336/image13.webp"
+        ]
+      }
+    },
+    "03": {
+      "title": "Capítulo 03",
+      "volume": "",
+      "last_updated": "1758854421",
+      "groups": {
+        "gikamura": [
+          "https://cdn.mangalivre.ru/manga_68c42f3e28152/be0fa23f18c23c11d4ce33bdda8e4578/image01.webp",
+          "https://cdn.mangalivre.ru/manga_68c42f3e28152/be0fa23f18c23c11d4ce33bdda8e4578/image02.webp",
+          "https://cdn.mangalivre.ru/manga_68c42f3e28152/be0fa23f18c23c11d4ce33bdda8e4578/image03.webp",
+          "https://cdn.mangalivre.ru/manga_68c42f3e28152/be0fa23f18c23c11d4ce33bdda8e4578/image04.webp",
+          "https://cdn.mangalivre.ru/manga_68c42f3e28152/be0fa23f18c23c11d4ce33bdda8e4578/image05.webp",
+          "https://cdn.mangalivre.ru/manga_68c42f3e28152/be0fa23f18c23c11d4ce33bdda8e4578/image06.webp",
+          "https://cdn.mangalivre.ru/manga_68c42f3e28152/be0fa23f18c23c11d4ce33bdda8e4578/image07.webp",
+          "https://cdn.mangalivre.ru/manga_68c42f3e28152/be0fa23f18c23c11d4ce33bdda8e4578/image08.webp",
+          "https://cdn.mangalivre.ru/manga_68c42f3e28152/be0fa23f18c23c11d4ce33bdda8e4578/image09.webp",
+          "https://cdn.mangalivre.ru/manga_68c42f3e28152/be0fa23f18c23c11d4ce33bdda8e4578/image10.webp",
+          "https://cdn.mangalivre.ru/manga_68c42f3e28152/be0fa23f18c23c11d4ce33bdda8e4578/image11.webp",
+          "https://cdn.mangalivre.ru/manga_68c42f3e28152/be0fa23f18c23c11d4ce33bdda8e4578/image12.webp",
+          "https://cdn.mangalivre.ru/manga_68c42f3e28152/be0fa23f18c23c11d4ce33bdda8e4578/image13.webp"
+        ]
+      }
+    },
+    "02": {
+      "title": "Capítulo 02",
+      "volume": "",
+      "last_updated": "1758854417",
+      "groups": {
+        "gikamura": [
+          "https://cdn.mangalivre.ru/manga_68c42f3e28152/a200ea8a68912deb16a5b59dc1b9769f/image01.webp",
+          "https://cdn.mangalivre.ru/manga_68c42f3e28152/a200ea8a68912deb16a5b59dc1b9769f/image02.webp",
+          "https://cdn.mangalivre.ru/manga_68c42f3e28152/a200ea8a68912deb16a5b59dc1b9769f/image03.webp",
+          "https://cdn.mangalivre.ru/manga_68c42f3e28152/a200ea8a68912deb16a5b59dc1b9769f/image04.webp",
+          "https://cdn.mangalivre.ru/manga_68c42f3e28152/a200ea8a68912deb16a5b59dc1b9769f/image05.webp",
+          "https://cdn.mangalivre.ru/manga_68c42f3e28152/a200ea8a68912deb16a5b59dc1b9769f/image06.webp",
+          "https://cdn.mangalivre.ru/manga_68c42f3e28152/a200ea8a68912deb16a5b59dc1b9769f/image07.webp",
+          "https://cdn.mangalivre.ru/manga_68c42f3e28152/a200ea8a68912deb16a5b59dc1b9769f/image08.webp",
+          "https://cdn.mangalivre.ru/manga_68c42f3e28152/a200ea8a68912deb16a5b59dc1b9769f/image09.webp",
+          "https://cdn.mangalivre.ru/manga_68c42f3e28152/a200ea8a68912deb16a5b59dc1b9769f/image10.webp",
+          "https://cdn.mangalivre.ru/manga_68c42f3e28152/a200ea8a68912deb16a5b59dc1b9769f/image11.webp",
+          "https://cdn.mangalivre.ru/manga_68c42f3e28152/a200ea8a68912deb16a5b59dc1b9769f/image12.webp",
+          "https://cdn.mangalivre.ru/manga_68c42f3e28152/a200ea8a68912deb16a5b59dc1b9769f/image13.webp"
+        ]
+      }
+    },
+    "01": {
+      "title": "Capítulo 01",
+      "volume": "",
+      "last_updated": "1758854413",
+      "groups": {
+        "gikamura": [
+          "https://cdn.mangalivre.ru/manga_68c42f3e28152/92d85d68c21397c835cf3947747384c8/image01.webp",
+          "https://cdn.mangalivre.ru/manga_68c42f3e28152/92d85d68c21397c835cf3947747384c8/image02.webp",
+          "https://cdn.mangalivre.ru/manga_68c42f3e28152/92d85d68c21397c835cf3947747384c8/image03.webp",
+          "https://cdn.mangalivre.ru/manga_68c42f3e28152/92d85d68c21397c835cf3947747384c8/image04.webp",
+          "https://cdn.mangalivre.ru/manga_68c42f3e28152/92d85d68c21397c835cf3947747384c8/image05.webp",
+          "https://cdn.mangalivre.ru/manga_68c42f3e28152/92d85d68c21397c835cf3947747384c8/image06.webp",
+          "https://cdn.mangalivre.ru/manga_68c42f3e28152/92d85d68c21397c835cf3947747384c8/image07.webp",
+          "https://cdn.mangalivre.ru/manga_68c42f3e28152/92d85d68c21397c835cf3947747384c8/image08.webp",
+          "https://cdn.mangalivre.ru/manga_68c42f3e28152/92d85d68c21397c835cf3947747384c8/image09.webp",
+          "https://cdn.mangalivre.ru/manga_68c42f3e28152/92d85d68c21397c835cf3947747384c8/image10.webp",
+          "https://cdn.mangalivre.ru/manga_68c42f3e28152/92d85d68c21397c835cf3947747384c8/image11.webp",
+          "https://cdn.mangalivre.ru/manga_68c42f3e28152/92d85d68c21397c835cf3947747384c8/image12.webp",
+          "https://cdn.mangalivre.ru/manga_68c42f3e28152/92d85d68c21397c835cf3947747384c8/image13.webp",
+          "https://cdn.mangalivre.ru/manga_68c42f3e28152/92d85d68c21397c835cf3947747384c8/image14.webp",
+          "https://cdn.mangalivre.ru/manga_68c42f3e28152/92d85d68c21397c835cf3947747384c8/image15.webp",
+          "https://cdn.mangalivre.ru/manga_68c42f3e28152/92d85d68c21397c835cf3947747384c8/image16.webp"
+        ]
+      }
+    },
+    "19": {
+      "title": "Capítulo 19",
+      "groups": {
+        "gikamura": [
+          "https://cdn.verdinha.wtf /scans/1/obras/13717/capitulos/19/00.jpg",
+          "https://cdn.verdinha.wtf /scans/1/obras/13717/capitulos/19/01.jpg",
+          "https://cdn.verdinha.wtf /scans/1/obras/13717/capitulos/19/02.jpg",
+          "https://cdn.verdinha.wtf /scans/1/obras/13717/capitulos/19/03.jpg",
+          "https://cdn.verdinha.wtf /scans/1/obras/13717/capitulos/19/04.jpg",
+          "https://cdn.verdinha.wtf /scans/1/obras/13717/capitulos/19/05.jpg",
+          "https://cdn.verdinha.wtf /scans/1/obras/13717/capitulos/19/06.jpg",
+          "https://cdn.verdinha.wtf /scans/1/obras/13717/capitulos/19/07.jpg",
+          "https://cdn.verdinha.wtf /scans/1/obras/13717/capitulos/19/08.jpg"
+        ]
+      }
+    },
+    "11.5": {
+      "title": "Capítulo 11",
+      "groups": {
+        "gikamura": [
+          "https://cdn.verdinha.wtf /scans/1/obras/13717/capitulos/11_5/001.jpg",
+          "https://cdn.verdinha.wtf /scans/1/obras/13717/capitulos/11_5/002.jpg",
+          "https://cdn.verdinha.wtf /scans/1/obras/13717/capitulos/11_5/003.jpg",
+          "https://cdn.verdinha.wtf /scans/1/obras/13717/capitulos/11_5/004.jpg",
+          "https://cdn.verdinha.wtf /scans/1/obras/13717/capitulos/11_5/005.jpg",
+          "https://cdn.verdinha.wtf /scans/1/obras/13717/capitulos/11_5/006.jpg",
+          "https://cdn.verdinha.wtf /scans/1/obras/13717/capitulos/11_5/007.jpg",
+          "https://cdn.verdinha.wtf /scans/1/obras/13717/capitulos/11_5/008.jpg",
+          "https://cdn.verdinha.wtf /scans/1/obras/13717/capitulos/11_5/009.jpg",
+          "https://cdn.verdinha.wtf /scans/1/obras/13717/capitulos/11_5/010.jpg",
+          "https://cdn.verdinha.wtf /scans/1/obras/13717/capitulos/11_5/011.jpg",
+          "https://cdn.verdinha.wtf /scans/1/obras/13717/capitulos/11_5/012.jpg",
+          "https://cdn.verdinha.wtf /scans/1/obras/13717/capitulos/11_5/013.jpg",
+          "https://cdn.verdinha.wtf /scans/1/obras/13717/capitulos/11_5/014.jpg",
+          "https://cdn.verdinha.wtf /scans/1/obras/13717/capitulos/11_5/015.jpg",
+          "https://cdn.verdinha.wtf /scans/1/obras/13717/capitulos/11_5/016.jpg",
+          "https://cdn.verdinha.wtf /scans/1/obras/13717/capitulos/11_5/017.jpg",
+          "https://cdn.verdinha.wtf /scans/1/obras/13717/capitulos/11_5/018.jpg",
+          "https://cdn.verdinha.wtf /scans/1/obras/13717/capitulos/11_5/019.jpg",
+          "https://cdn.verdinha.wtf /scans/1/obras/13717/capitulos/11_5/020.jpg",
+          "https://cdn.verdinha.wtf /scans/1/obras/13717/capitulos/11_5/021.jpg",
+          "https://cdn.verdinha.wtf /scans/1/obras/13717/capitulos/11_5/022.jpg"
+        ]
+      }
+    },
+    "9": {
+      "title": "Capítulo 9",
+      "groups": {
+        "gikamura": [
+          "https://cdn.verdinha.wtf /scans/1/obras/13717/capitulos/9/01.jpg",
+          "https://cdn.verdinha.wtf /scans/1/obras/13717/capitulos/9/02.jpg",
+          "https://cdn.verdinha.wtf /scans/1/obras/13717/capitulos/9/03.jpg",
+          "https://cdn.verdinha.wtf /scans/1/obras/13717/capitulos/9/04.jpg",
+          "https://cdn.verdinha.wtf /scans/1/obras/13717/capitulos/9/05.jpg",
+          "https://cdn.verdinha.wtf /scans/1/obras/13717/capitulos/9/06.jpg",
+          "https://cdn.verdinha.wtf /scans/1/obras/13717/capitulos/9/07.jpg",
+          "https://cdn.verdinha.wtf /scans/1/obras/13717/capitulos/9/08.jpg",
+          "https://cdn.verdinha.wtf /scans/1/obras/13717/capitulos/9/09.jpg",
+          "https://cdn.verdinha.wtf /scans/1/obras/13717/capitulos/9/10.jpg"
+        ]
+      }
+    },
+    "8": {
+      "title": "Capítulo 8",
+      "groups": {
+        "gikamura": [
+          "https://cdn.verdinha.wtf /scans/1/obras/13717/capitulos/8/000000000000.jpg",
+          "https://cdn.verdinha.wtf /scans/1/obras/13717/capitulos/8/01.jpg",
+          "https://cdn.verdinha.wtf /scans/1/obras/13717/capitulos/8/02.jpg",
+          "https://cdn.verdinha.wtf /scans/1/obras/13717/capitulos/8/03.jpg",
+          "https://cdn.verdinha.wtf /scans/1/obras/13717/capitulos/8/04.jpg",
+          "https://cdn.verdinha.wtf /scans/1/obras/13717/capitulos/8/05.jpg",
+          "https://cdn.verdinha.wtf /scans/1/obras/13717/capitulos/8/06.jpg",
+          "https://cdn.verdinha.wtf /scans/1/obras/13717/capitulos/8/07.jpg",
+          "https://cdn.verdinha.wtf /scans/1/obras/13717/capitulos/8/08.jpg",
+          "https://cdn.verdinha.wtf /scans/1/obras/13717/capitulos/8/09.jpg",
+          "https://cdn.verdinha.wtf /scans/1/obras/13717/capitulos/8/10.jpg",
+          "https://cdn.verdinha.wtf /scans/1/obras/13717/capitulos/8/11.jpg",
+          "https://cdn.verdinha.wtf /scans/1/obras/13717/capitulos/8/12.jpg"
+        ]
+      }
+    },
+    "7": {
+      "title": "Capítulo 7",
+      "groups": {
+        "gikamura": [
+          "https://cdn.verdinha.wtf /scans/1/obras/13717/capitulos/7/000000000000.jpg",
+          "https://cdn.verdinha.wtf /scans/1/obras/13717/capitulos/7/01.jpg",
+          "https://cdn.verdinha.wtf /scans/1/obras/13717/capitulos/7/02.jpg",
+          "https://cdn.verdinha.wtf /scans/1/obras/13717/capitulos/7/03.jpg",
+          "https://cdn.verdinha.wtf /scans/1/obras/13717/capitulos/7/04.jpg",
+          "https://cdn.verdinha.wtf /scans/1/obras/13717/capitulos/7/05.jpg",
+          "https://cdn.verdinha.wtf /scans/1/obras/13717/capitulos/7/06.jpg",
+          "https://cdn.verdinha.wtf /scans/1/obras/13717/capitulos/7/07.jpg",
+          "https://cdn.verdinha.wtf /scans/1/obras/13717/capitulos/7/08.jpg",
+          "https://cdn.verdinha.wtf /scans/1/obras/13717/capitulos/7/09.jpg",
+          "https://cdn.verdinha.wtf /scans/1/obras/13717/capitulos/7/10.jpg",
+          "https://cdn.verdinha.wtf /scans/1/obras/13717/capitulos/7/11.jpg",
+          "https://cdn.verdinha.wtf /scans/1/obras/13717/capitulos/7/12.jpg"
+        ]
+      }
+    },
+    "6": {
+      "title": "Capítulo 6",
+      "groups": {
+        "gikamura": [
+          "https://cdn.verdinha.wtf /scans/1/obras/13717/capitulos/6/000000000000.jpg",
+          "https://cdn.verdinha.wtf /scans/1/obras/13717/capitulos/6/01.jpg",
+          "https://cdn.verdinha.wtf /scans/1/obras/13717/capitulos/6/02.jpg",
+          "https://cdn.verdinha.wtf /scans/1/obras/13717/capitulos/6/03.jpg",
+          "https://cdn.verdinha.wtf /scans/1/obras/13717/capitulos/6/04.jpg",
+          "https://cdn.verdinha.wtf /scans/1/obras/13717/capitulos/6/05.jpg",
+          "https://cdn.verdinha.wtf /scans/1/obras/13717/capitulos/6/06.jpg",
+          "https://cdn.verdinha.wtf /scans/1/obras/13717/capitulos/6/07.jpg",
+          "https://cdn.verdinha.wtf /scans/1/obras/13717/capitulos/6/08.jpg",
+          "https://cdn.verdinha.wtf /scans/1/obras/13717/capitulos/6/09.jpg",
+          "https://cdn.verdinha.wtf /scans/1/obras/13717/capitulos/6/10.jpg",
+          "https://cdn.verdinha.wtf /scans/1/obras/13717/capitulos/6/11.jpg"
+        ]
+      }
+    },
+    "5": {
+      "title": "Capítulo 5",
+      "groups": {
+        "gikamura": [
+          "https://cdn.verdinha.wtf /scans/1/obras/13717/capitulos/5/00.jpg",
+          "https://cdn.verdinha.wtf /scans/1/obras/13717/capitulos/5/01.jpg",
+          "https://cdn.verdinha.wtf /scans/1/obras/13717/capitulos/5/02.jpg",
+          "https://cdn.verdinha.wtf /scans/1/obras/13717/capitulos/5/03.jpg",
+          "https://cdn.verdinha.wtf /scans/1/obras/13717/capitulos/5/04.jpg",
+          "https://cdn.verdinha.wtf /scans/1/obras/13717/capitulos/5/05.jpg",
+          "https://cdn.verdinha.wtf /scans/1/obras/13717/capitulos/5/06.jpg",
+          "https://cdn.verdinha.wtf /scans/1/obras/13717/capitulos/5/07.jpg",
+          "https://cdn.verdinha.wtf /scans/1/obras/13717/capitulos/5/08.jpg",
+          "https://cdn.verdinha.wtf /scans/1/obras/13717/capitulos/5/09.jpg",
+          "https://cdn.verdinha.wtf /scans/1/obras/13717/capitulos/5/10.jpg",
+          "https://cdn.verdinha.wtf /scans/1/obras/13717/capitulos/5/11.jpg"
+        ]
+      }
+    },
+    "4": {
+      "title": "Capítulo 4",
+      "groups": {
+        "gikamura": [
+          "https://cdn.verdinha.wtf /scans/1/obras/13717/capitulos/4/00.jpg",
+          "https://cdn.verdinha.wtf /scans/1/obras/13717/capitulos/4/01.jpg",
+          "https://cdn.verdinha.wtf /scans/1/obras/13717/capitulos/4/02.jpg",
+          "https://cdn.verdinha.wtf /scans/1/obras/13717/capitulos/4/03.jpg",
+          "https://cdn.verdinha.wtf /scans/1/obras/13717/capitulos/4/04.jpg",
+          "https://cdn.verdinha.wtf /scans/1/obras/13717/capitulos/4/05.jpg",
+          "https://cdn.verdinha.wtf /scans/1/obras/13717/capitulos/4/06.jpg",
+          "https://cdn.verdinha.wtf /scans/1/obras/13717/capitulos/4/07.jpg",
+          "https://cdn.verdinha.wtf /scans/1/obras/13717/capitulos/4/08.jpg",
+          "https://cdn.verdinha.wtf /scans/1/obras/13717/capitulos/4/09.jpg",
+          "https://cdn.verdinha.wtf /scans/1/obras/13717/capitulos/4/10.jpg",
+          "https://cdn.verdinha.wtf /scans/1/obras/13717/capitulos/4/11.jpg",
+          "https://cdn.verdinha.wtf /scans/1/obras/13717/capitulos/4/12.jpg"
+        ]
+      }
+    },
+    "3": {
+      "title": "Capítulo 3",
+      "groups": {
+        "gikamura": [
+          "https://cdn.verdinha.wtf /scans/1/obras/13717/capitulos/3/00.jpg",
+          "https://cdn.verdinha.wtf /scans/1/obras/13717/capitulos/3/01.jpg",
+          "https://cdn.verdinha.wtf /scans/1/obras/13717/capitulos/3/02.jpg",
+          "https://cdn.verdinha.wtf /scans/1/obras/13717/capitulos/3/03.jpg",
+          "https://cdn.verdinha.wtf /scans/1/obras/13717/capitulos/3/04.jpg",
+          "https://cdn.verdinha.wtf /scans/1/obras/13717/capitulos/3/05.jpg",
+          "https://cdn.verdinha.wtf /scans/1/obras/13717/capitulos/3/06.jpg",
+          "https://cdn.verdinha.wtf /scans/1/obras/13717/capitulos/3/07.jpg",
+          "https://cdn.verdinha.wtf /scans/1/obras/13717/capitulos/3/08.jpg",
+          "https://cdn.verdinha.wtf /scans/1/obras/13717/capitulos/3/09.jpg",
+          "https://cdn.verdinha.wtf /scans/1/obras/13717/capitulos/3/10.jpg",
+          "https://cdn.verdinha.wtf /scans/1/obras/13717/capitulos/3/11.jpg",
+          "https://cdn.verdinha.wtf /scans/1/obras/13717/capitulos/3/12.jpg"
+        ]
+      }
+    },
+    "2": {
+      "title": "Capítulo 2",
+      "groups": {
+        "gikamura": [
+          "https://cdn.verdinha.wtf /scans/1/obras/13717/capitulos/2/00.jpg",
+          "https://cdn.verdinha.wtf /scans/1/obras/13717/capitulos/2/01.jpg",
+          "https://cdn.verdinha.wtf /scans/1/obras/13717/capitulos/2/02.jpg",
+          "https://cdn.verdinha.wtf /scans/1/obras/13717/capitulos/2/03.jpg",
+          "https://cdn.verdinha.wtf /scans/1/obras/13717/capitulos/2/04.jpg",
+          "https://cdn.verdinha.wtf /scans/1/obras/13717/capitulos/2/05.jpg",
+          "https://cdn.verdinha.wtf /scans/1/obras/13717/capitulos/2/06.jpg",
+          "https://cdn.verdinha.wtf /scans/1/obras/13717/capitulos/2/07.jpg",
+          "https://cdn.verdinha.wtf /scans/1/obras/13717/capitulos/2/08.jpg",
+          "https://cdn.verdinha.wtf /scans/1/obras/13717/capitulos/2/09.jpg",
+          "https://cdn.verdinha.wtf /scans/1/obras/13717/capitulos/2/10.jpg",
+          "https://cdn.verdinha.wtf /scans/1/obras/13717/capitulos/2/11.jpg",
+          "https://cdn.verdinha.wtf /scans/1/obras/13717/capitulos/2/12.jpg"
+        ]
+      }
+    },
+    "1": {
+      "title": "Capítulo 1",
+      "groups": {
+        "gikamura": [
+          "https://cdn.verdinha.wtf /scans/1/obras/13717/capitulos/1/00.jpg",
+          "https://cdn.verdinha.wtf /scans/1/obras/13717/capitulos/1/01.jpg",
+          "https://cdn.verdinha.wtf /scans/1/obras/13717/capitulos/1/02.jpg",
+          "https://cdn.verdinha.wtf /scans/1/obras/13717/capitulos/1/03.jpg",
+          "https://cdn.verdinha.wtf /scans/1/obras/13717/capitulos/1/04.jpg",
+          "https://cdn.verdinha.wtf /scans/1/obras/13717/capitulos/1/05.jpg",
+          "https://cdn.verdinha.wtf /scans/1/obras/13717/capitulos/1/06.jpg",
+          "https://cdn.verdinha.wtf /scans/1/obras/13717/capitulos/1/07.jpg",
+          "https://cdn.verdinha.wtf /scans/1/obras/13717/capitulos/1/08.jpg",
+          "https://cdn.verdinha.wtf /scans/1/obras/13717/capitulos/1/09.jpg",
+          "https://cdn.verdinha.wtf /scans/1/obras/13717/capitulos/1/10.jpg",
+          "https://cdn.verdinha.wtf /scans/1/obras/13717/capitulos/1/11.jpg",
+          "https://cdn.verdinha.wtf /scans/1/obras/13717/capitulos/1/12.jpg",
+          "https://cdn.verdinha.wtf /scans/1/obras/13717/capitulos/1/13.jpg",
+          "https://cdn.verdinha.wtf /scans/1/obras/13717/capitulos/1/14.jpg",
+          "https://cdn.verdinha.wtf /scans/1/obras/13717/capitulos/1/15.jpg"
+        ]
+      }
+    }
+  }
+}
