@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764711120,
-    "totalMangas": 1323,
+    "lastUpdated": 1764711125,
+    "totalMangas": 1324,
     "version": "1.0.4"
   },
   "mangas": {
@@ -15878,6 +15878,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzY5NDkuanNvbg/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx168629-9cqKyLxGy48i.jpg"
+        }
+      ]
+    },
+    "majp_4334": {
+      "title": "Isekai Meikyuu de Harem wo",
+      "chapters": [
+        {
+          "id": "4334",
+          "title": "Isekai Meikyuu de Harem wo",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzQzMzQuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://cdn.mangaupdates.com/image/i478386.jpg"
         }
       ]
     }
