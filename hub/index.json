@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764709363,
-    "totalMangas": 1206,
+    "lastUpdated": 1764709368,
+    "totalMangas": 1207,
     "version": "1.0.4"
   },
   "mangas": {
@@ -14474,6 +14474,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzY3NTcuanNvbg/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx166140-SARL6v6M8hEp.jpg"
+        }
+      ]
+    },
+    "majp_2738": {
+      "title": "Disney Twisted-Wonderland the Comic: Episode of Savanaclaw",
+      "chapters": [
+        {
+          "id": "2738",
+          "title": "Disney Twisted-Wonderland the Comic: Episode of Savanaclaw",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzI3MzguanNvbg/",
+          "type": "manga",
+          "cover_url": "https://cdn.mangaupdates.com/image/i455371.jpg"
         }
       ]
     }
