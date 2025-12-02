@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764711146,
-    "totalMangas": 1326,
+    "lastUpdated": 1764711152,
+    "totalMangas": 1327,
     "version": "1.0.4"
   },
   "mangas": {
@@ -15914,6 +15914,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzI5NDAuanNvbg/",
           "type": "manga",
           "cover_url": "https://cdn.myanimelist.net/images/manga/3/138919.jpg"
+        }
+      ]
+    },
+    "majp_6292": {
+      "title": "Bakidou (2014)",
+      "chapters": [
+        {
+          "id": "6292",
+          "title": "Bakidou (2014)",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzYyOTIuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx108066-xTDrhtY5HsbP.jpg"
         }
       ]
     }
