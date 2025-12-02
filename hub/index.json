@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764711463,
-    "totalMangas": 1380,
+    "lastUpdated": 1764711468,
+    "totalMangas": 1381,
     "version": "1.0.4"
   },
   "mangas": {
@@ -16562,6 +16562,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzE5NjQuanNvbg/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx146030-C7nb3xK0VdwV.jpg"
+        }
+      ]
+    },
+    "majp_3288": {
+      "title": "My First Time",
+      "chapters": [
+        {
+          "id": "3288",
+          "title": "My First Time",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzMyODguanNvbg/",
+          "type": "manga",
+          "cover_url": "https://images2.imgbox.com/cf/c9/s9p6kjA0_o.png"
         }
       ]
     }
