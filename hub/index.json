@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764709458,
-    "totalMangas": 1225,
+    "lastUpdated": 1764709464,
+    "totalMangas": 1226,
     "version": "1.0.4"
   },
   "mangas": {
@@ -14702,6 +14702,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl80NjQzLmpzb24/",
           "type": "manhwa",
           "cover_url": "https://cdn.myanimelist.net/images/manga/2/279966.jpg"
+        }
+      ]
+    },
+    "majp_2929": {
+      "title": "Crimson Hero",
+      "chapters": [
+        {
+          "id": "2929",
+          "title": "Crimson Hero",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzI5MjkuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b30634-LSh2wXdmuCBz.jpg"
         }
       ]
     }
