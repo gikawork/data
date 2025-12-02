@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764711405,
-    "totalMangas": 1369,
+    "lastUpdated": 1764711410,
+    "totalMangas": 1370,
     "version": "1.0.4"
   },
   "mangas": {
@@ -16430,6 +16430,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzI2OTguanNvbg/",
           "type": "manga",
           "cover_url": "https://cdn.mangaupdates.com/image/i458165.jpg"
+        }
+      ]
+    },
+    "majp_4830": {
+      "title": "The POOL",
+      "chapters": [
+        {
+          "id": "4830",
+          "title": "The POOL",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzQ4MzAuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx174578-ZouuSRpRlHul.jpg"
         }
       ]
     }
