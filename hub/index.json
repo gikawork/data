@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": 1764711729,
+    "lastUpdated": 1764711734,
     "totalMangas": 1424,
     "version": "1.0.4"
   },
@@ -5918,18 +5918,6 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvQ0g1NTYuanNvbg%3D%3D/",
           "type": "manhua",
           "cover_url": "https://images2.imgbox.com/43/aa/JwgiHMnN_o.jpg"
-        }
-      ]
-    },
-    "JP914": {
-      "title": "The Robot Without a Heart",
-      "chapters": [
-        {
-          "id": 914,
-          "title": "The Robot Without a Heart",
-          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9KUDkxNC5qc29u/",
-          "type": "manga",
-          "cover_url": "https://images2.imgbox.com/30/0a/fesOW9Ze_o.jpg"
         }
       ]
     },
@@ -17090,6 +17078,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzE3MjkuanNvbg/",
           "type": "manga",
           "cover_url": "https://images2.imgbox.com/a9/b5/aWu36CDo_o.jpg"
+        }
+      ]
+    },
+    "majp_914": {
+      "title": "Wolf-chan wa Sumashitai",
+      "chapters": [
+        {
+          "id": "914",
+          "title": "Wolf-chan wa Sumashitai",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzkxNC5qc29u/",
+          "type": "manga",
+          "cover_url": "https://cdn.mangaupdates.com/image/i468833.jpg"
         }
       ]
     }
