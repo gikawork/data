@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": 1764707784,
+    "lastUpdated": 1764708763,
     "totalMangas": 1105,
     "version": "1.0.4"
   },
@@ -6470,18 +6470,6 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9KUDY4OS5qc29u/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx152284-9kat9f3v31dA.jpg"
-        }
-      ]
-    },
-    "JP1035": {
-      "title": "Yagami-kun's Family Affairs",
-      "chapters": [
-        {
-          "id": 1035,
-          "title": "Yagami-kun's Family Affairs",
-          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9KUDEwMzUuanNvbg%3D%3D/",
-          "type": "manga",
-          "cover_url": "https://images2.imgbox.com/b3/2e/0WmyYFWy_o.png"
         }
       ]
     },
@@ -13262,6 +13250,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzE2NzY1Lmpzb24/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx44232-JIf5oB4e2M1L.jpg"
+        }
+      ]
+    },
+    "majp_1035": {
+      "title": "Kamigami no Kago de Seisan Kakumei",
+      "chapters": [
+        {
+          "id": "majp_1035",
+          "title": "Kamigami no Kago de Seisan Kakumei",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzEwMzUuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx149401-FrPOdrvq9b8A.jpg"
         }
       ]
     }
