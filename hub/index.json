@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764710856,
-    "totalMangas": 1271,
+    "lastUpdated": 1764710862,
+    "totalMangas": 1272,
     "version": "1.0.4"
   },
   "mangas": {
@@ -15254,6 +15254,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzk4NC5qc29u/",
           "type": "manga",
           "cover_url": "https://cdn.myanimelist.net/images/manga/3/270079.jpg"
+        }
+      ]
+    },
+    "makr_3605": {
+      "title": "I Get Stronger the More I Eat",
+      "chapters": [
+        {
+          "id": "3605",
+          "title": "I Get Stronger the More I Eat",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8zNjA1Lmpzb24/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.myanimelist.net/images/manga/3/261821.jpg"
         }
       ]
     }
