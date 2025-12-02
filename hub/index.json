@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764712226,
-    "totalMangas": 1508,
+    "lastUpdated": 1764712230,
+    "totalMangas": 1509,
     "version": "1.0.4"
   },
   "mangas": {
@@ -18098,6 +18098,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl82MjcyLmpzb24/",
           "type": "manhwa",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx168656-WMACCZQ54LMA.jpg"
+        }
+      ]
+    },
+    "majp_2518": {
+      "title": "XX Shinaide! Tsukimine-san",
+      "chapters": [
+        {
+          "id": "2518",
+          "title": "XX Shinaide! Tsukimine-san",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzI1MTguanNvbg/",
+          "type": "manga",
+          "cover_url": "https://cdn.mangaupdates.com/image/i464901.jpg"
         }
       ]
     }
