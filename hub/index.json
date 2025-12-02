@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764712245,
-    "totalMangas": 1512,
+    "lastUpdated": 1764712251,
+    "totalMangas": 1513,
     "version": "1.0.4"
   },
   "mangas": {
@@ -18146,6 +18146,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8xNDgxLmpzb24/",
           "type": "manhwa",
           "cover_url": "https://cdn.myanimelist.net/images/manga/1/261491.jpg"
+        }
+      ]
+    },
+    "majp_109035": {
+      "title": "Yuusha Party kara Oidasareta Fuguushoku \"Wanashi\" Unique Skill \"Yajirushi\" de Saikyou ni Naru",
+      "chapters": [
+        {
+          "id": "109035",
+          "title": "Yuusha Party kara Oidasareta Fuguushoku \"Wanashi\" Unique Skill \"Yajirushi\" de Saikyou ni Naru",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzEwOTAzNS5qc29u/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx190513-lLlpLLvGZsie.png"
         }
       ]
     }
