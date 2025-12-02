@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764713164,
-    "totalMangas": 1569,
+    "lastUpdated": 1764713173,
+    "totalMangas": 1570,
     "version": "1.0.4"
   },
   "mangas": {
@@ -18830,6 +18830,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzEyMDYuanNvbg/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx159655-Kv58QINz1rXm.jpg"
+        }
+      ]
+    },
+    "majp_3839": {
+      "title": "Devil May Cry 5: Visions of V",
+      "chapters": [
+        {
+          "id": "3839",
+          "title": "Devil May Cry 5: Visions of V",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzM4MzkuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx108427-zATm0GQHDbPF.jpg"
         }
       ]
     }
