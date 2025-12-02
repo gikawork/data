@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764710778,
-    "totalMangas": 1256,
+    "lastUpdated": 1764710783,
+    "totalMangas": 1257,
     "version": "1.0.4"
   },
   "mangas": {
@@ -15074,6 +15074,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21vdC9tYW90XzE5NzQ0Ni5qc29u/",
           "type": "outro",
           "cover_url": "https://cdn.mangaupdates.com/image/i481179.jpg"
+        }
+      ]
+    },
+    "majp_4627": {
+      "title": "Dandadan",
+      "chapters": [
+        {
+          "id": "4627",
+          "title": "Dandadan",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzQ2MjcuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx132029-prGF4gePdSKv.jpg"
         }
       ]
     }
