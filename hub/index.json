@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764711683,
-    "totalMangas": 1417,
+    "lastUpdated": 1764711689,
+    "totalMangas": 1418,
     "version": "1.0.4"
   },
   "mangas": {
@@ -17006,6 +17006,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzEwNDY5My5qc29u/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx176388-f5zOXUJPYZ8X.jpg"
+        }
+      ]
+    },
+    "makr_115": {
+      "title": "Revenge of Young Master Peng",
+      "chapters": [
+        {
+          "id": "115",
+          "title": "Revenge of Young Master Peng",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8xMTUuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.myanimelist.net/images/manga/1/306015.jpg"
         }
       ]
     }
