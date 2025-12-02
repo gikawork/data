@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764712150,
-    "totalMangas": 1493,
+    "lastUpdated": 1764712156,
+    "totalMangas": 1494,
     "version": "1.0.4"
   },
   "mangas": {
@@ -17918,6 +17918,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF8zNTkxNDEuanNvbg/",
           "type": "manhua",
           "cover_url": "https://cdn.mangaupdates.com/image/i492726.jpg"
+        }
+      ]
+    },
+    "majp_3751": {
+      "title": "GTO Paradise Lost",
+      "chapters": [
+        {
+          "id": "3751",
+          "title": "GTO Paradise Lost",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzM3NTEuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx85457-cqChbDz7JTEt.png"
         }
       ]
     }
