@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764709000,
-    "totalMangas": 1169,
+    "lastUpdated": 1764709004,
+    "totalMangas": 1170,
     "version": "1.0.4"
   },
   "mangas": {
@@ -14030,6 +14030,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzI1ODIuanNvbg/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx172729-1owQQ5lhCBog.jpg"
+        }
+      ]
+    },
+    "mach_1447": {
+      "title": "Log into the Future",
+      "chapters": [
+        {
+          "id": "mach_1447",
+          "title": "Log into the Future",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF8xNDQ3Lmpzb24/",
+          "type": "manhua",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx160980-KAM0gr3dSMvB.jpg"
         }
       ]
     }
