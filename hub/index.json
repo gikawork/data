@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764711971,
-    "totalMangas": 1461,
+    "lastUpdated": 1764711977,
+    "totalMangas": 1462,
     "version": "1.0.4"
   },
   "mangas": {
@@ -17534,6 +17534,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzE1MjAuanNvbg/",
           "type": "manga",
           "cover_url": "https://cdn.myanimelist.net/images/manga/1/260527.jpg"
+        }
+      ]
+    },
+    "majp_4207": {
+      "title": "Rougo ni Sonaete Isekai de 8-manmai no Kinka wo Tamemasu",
+      "chapters": [
+        {
+          "id": "4207",
+          "title": "Rougo ni Sonaete Isekai de 8-manmai no Kinka wo Tamemasu",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzQyMDcuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://cdn.myanimelist.net/images/manga/2/205007.jpg"
         }
       ]
     }
