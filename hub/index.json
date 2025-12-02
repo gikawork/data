@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764710676,
-    "totalMangas": 1238,
+    "lastUpdated": 1764710678,
+    "totalMangas": 1239,
     "version": "1.0.4"
   },
   "mangas": {
@@ -14858,6 +14858,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzM1NjAzOS5qc29u/",
           "type": "manga",
           "cover_url": "https://cdn.mangaupdates.com/image/i493061.jpg"
+        }
+      ]
+    },
+    "mach_1954": {
+      "title": "Hamster",
+      "chapters": [
+        {
+          "id": "1954",
+          "title": "Hamster",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF8xOTU0Lmpzb24/",
+          "type": "manhua",
+          "cover_url": "https://images2.imgbox.com/f4/4b/jmdKfQ2c_o.png"
         }
       ]
     }
