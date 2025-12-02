@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764711753,
-    "totalMangas": 1426,
+    "lastUpdated": 1764711759,
+    "totalMangas": 1427,
     "version": "1.0.4"
   },
   "mangas": {
@@ -17114,6 +17114,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl83OTcxLmpzb24/",
           "type": "manhwa",
           "cover_url": "https://cdn.myanimelist.net/images/manga/3/268566.jpg"
+        }
+      ]
+    },
+    "mach_749": {
+      "title": "The Blood Princess and the Knight",
+      "chapters": [
+        {
+          "id": "749",
+          "title": "The Blood Princess and the Knight",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF83NDkuanNvbg/",
+          "type": "manhua",
+          "cover_url": "https://images2.imgbox.com/5d/5e/DctWDtpK_o.jpg"
         }
       ]
     }
