@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764710470,
-    "totalMangas": 1235,
+    "lastUpdated": 1764710471,
+    "totalMangas": 1236,
     "version": "1.0.4"
   },
   "mangas": {
@@ -14822,6 +14822,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzQ1MzcuanNvbg/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx33064-TaMTZVD59ThX.jpg"
+        }
+      ]
+    },
+    "makr_1467": {
+      "title": "Leveling With The Gods",
+      "chapters": [
+        {
+          "id": "1467",
+          "title": "Leveling With The Gods",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8xNDY3Lmpzb24/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.myanimelist.net/images/manga/2/308830.jpg"
         }
       ]
     }
