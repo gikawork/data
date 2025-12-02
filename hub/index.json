@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764711919,
-    "totalMangas": 1452,
+    "lastUpdated": 1764711925,
+    "totalMangas": 1453,
     "version": "1.0.4"
   },
   "mangas": {
@@ -17426,6 +17426,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzExNTAzLmpzb24/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx30398-EntE3FW406LV.png"
+        }
+      ]
+    },
+    "majp_4413": {
+      "title": "Hayaku Shitai Futari",
+      "chapters": [
+        {
+          "id": "4413",
+          "title": "Hayaku Shitai Futari",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzQ0MTMuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx120768-5msBc2sxVuXA.jpg"
         }
       ]
     }
