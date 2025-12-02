@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": 1764708791,
+    "lastUpdated": 1764708799,
     "totalMangas": 1107,
     "version": "1.0.4"
   },
@@ -10157,18 +10157,6 @@
         }
       ]
     },
-    "JP714": {
-      "title": "Ron Kamonohashi: Deranged Detective",
-      "chapters": [
-        {
-          "id": 714,
-          "title": "Ron Kamonohashi: Deranged Detective",
-          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9KUDcxNC5qc29u/",
-          "type": "manga",
-          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx124895-lOlg8m6ibImK.png"
-        }
-      ]
-    },
     "JP927": {
       "title": "The Vermilion Mask",
       "chapters": [
@@ -13286,6 +13274,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzUwMy5qc29u/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx142021-uUN9GKHWJEGo.jpg"
+        }
+      ]
+    },
+    "majp_714": {
+      "title": "Otona ni Narenai Bokura wa",
+      "chapters": [
+        {
+          "id": "majp_714",
+          "title": "Otona ni Narenai Bokura wa",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzcxNC5qc29u/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx174176-ySD1guB6hbzr.jpg"
         }
       ]
     }
