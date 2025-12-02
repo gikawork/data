@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764711779,
-    "totalMangas": 1430,
+    "lastUpdated": 1764711785,
+    "totalMangas": 1431,
     "version": "1.0.4"
   },
   "mangas": {
@@ -17162,6 +17162,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzk5Lmpzb24/",
           "type": "manga",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/13679/68b0d4a56d54f.webp"
+        }
+      ]
+    },
+    "majp_16850": {
+      "title": "xxxHOLiC: Rei",
+      "chapters": [
+        {
+          "id": "16850",
+          "title": "xxxHOLiC: Rei",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzE2ODUwLmpzb24/",
+          "type": "manga",
+          "cover_url": "https://cdn.myanimelist.net/images/manga/2/243539.jpg"
         }
       ]
     }
