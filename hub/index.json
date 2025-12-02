@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764711306,
-    "totalMangas": 1350,
+    "lastUpdated": 1764711311,
+    "totalMangas": 1351,
     "version": "1.0.4"
   },
   "mangas": {
@@ -16202,6 +16202,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21vdC9tYW90XzM2OTE4NS5qc29u/",
           "type": "outro",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx147863-rFKeAjxaAGBo.jpg"
+        }
+      ]
+    },
+    "makr_389": {
+      "title": "William in the Closet",
+      "chapters": [
+        {
+          "id": "389",
+          "title": "William in the Closet",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8zODkuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://media.kitsu.app/manga/73214/poster_image/large-e61104fa0891cd9df087df24cf183886.jpeg"
         }
       ]
     }
