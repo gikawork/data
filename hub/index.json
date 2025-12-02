@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764711880,
-    "totalMangas": 1445,
+    "lastUpdated": 1764711882,
+    "totalMangas": 1446,
     "version": "1.0.4"
   },
   "mangas": {
@@ -17342,6 +17342,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzE3MzcuanNvbg/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx125116-ZfCpel1WOdmF.jpg"
+        }
+      ]
+    },
+    "majp_4941": {
+      "title": "Fujiyuu Sekai",
+      "chapters": [
+        {
+          "id": "4941",
+          "title": "Fujiyuu Sekai",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzQ5NDEuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://cdn.mangaupdates.com/image/i147092.png"
         }
       ]
     }
