@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764711284,
-    "totalMangas": 1345,
+    "lastUpdated": 1764711289,
+    "totalMangas": 1346,
     "version": "1.0.4"
   },
   "mangas": {
@@ -16142,6 +16142,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8yMzEwLmpzb24/",
           "type": "manhwa",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx186490-57hsjgBnyFns.jpg"
+        }
+      ]
+    },
+    "majp_322562": {
+      "title": "Arifureta Shokugyou de Sekai Saikyou Zero",
+      "chapters": [
+        {
+          "id": "322562",
+          "title": "Arifureta Shokugyou de Sekai Saikyou Zero",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzMyMjU2Mi5qc29u/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx108471-nJo1OaRWG624.png"
         }
       ]
     }
