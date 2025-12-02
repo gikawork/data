@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764712300,
-    "totalMangas": 1522,
+    "lastUpdated": 1764712305,
+    "totalMangas": 1523,
     "version": "1.0.4"
   },
   "mangas": {
@@ -18266,6 +18266,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF84MDkyLmpzb24/",
           "type": "manhua",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b169585-cBlEKuxkuFdM.jpg"
+        }
+      ]
+    },
+    "majp_3309": {
+      "title": "Nichijou",
+      "chapters": [
+        {
+          "id": "3309",
+          "title": "Nichijou",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzMzMDkuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx33082-YrGJ9Tj3UJ3a.png"
         }
       ]
     }
