@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764713219,
-    "totalMangas": 1575,
+    "lastUpdated": 1764713229,
+    "totalMangas": 1576,
     "version": "1.0.4"
   },
   "mangas": {
@@ -18902,6 +18902,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzY2NC5qc29u/",
           "type": "manga",
           "cover_url": "https://cdn.myanimelist.net/images/manga/1/312745.jpg"
+        }
+      ]
+    },
+    "majp_1224": {
+      "title": "Kawaii Joushi wo Komarasetai",
+      "chapters": [
+        {
+          "id": "1224",
+          "title": "Kawaii Joushi wo Komarasetai",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzEyMjQuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/nx86765-4d5UgC5qyaWg.jpg"
         }
       ]
     }
