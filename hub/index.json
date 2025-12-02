@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764711058,
-    "totalMangas": 1310,
+    "lastUpdated": 1764711063,
+    "totalMangas": 1311,
     "version": "1.0.4"
   },
   "mangas": {
@@ -15722,6 +15722,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzM5MjEuanNvbg/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx120683-0utkkJowJpvy.jpg"
+        }
+      ]
+    },
+    "majp_1956": {
+      "title": "Captain Corinth: The Galactic Navy Officer Becomes an Adventurer",
+      "chapters": [
+        {
+          "id": "1956",
+          "title": "Captain Corinth: The Galactic Navy Officer Becomes an Adventurer",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzE5NTYuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx106835-WMt0gPex9VvW.jpg"
         }
       ]
     }
