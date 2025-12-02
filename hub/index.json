@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764708881,
-    "totalMangas": 1133,
+    "lastUpdated": 1764708884,
+    "totalMangas": 1134,
     "version": "1.0.4"
   },
   "mangas": {
@@ -13598,6 +13598,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21vdC9tYW90XzI4OTE0Ni5qc29u/",
           "type": "outro",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx86473-82Ted4sVgcYp.jpg"
+        }
+      ]
+    },
+    "mach_1652": {
+      "title": "Zhan Shen Long Xu",
+      "chapters": [
+        {
+          "id": "mach_1652",
+          "title": "Zhan Shen Long Xu",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF8xNjUyLmpzb24/",
+          "type": "manhua",
+          "cover_url": "https://cdn.mangaupdates.com/image/i474321.jpg"
         }
       ]
     }
