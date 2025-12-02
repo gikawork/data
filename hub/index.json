@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764711268,
-    "totalMangas": 1343,
+    "lastUpdated": 1764711273,
+    "totalMangas": 1344,
     "version": "1.0.4"
   },
   "mangas": {
@@ -16118,6 +16118,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzgxOC5qc29u/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/nx107279-R2vxyPQRqV0X.jpg"
+        }
+      ]
+    },
+    "majp_187677": {
+      "title": "Shuumatsu no Harem After World",
+      "chapters": [
+        {
+          "id": "187677",
+          "title": "Shuumatsu no Harem After World",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzE4NzY3Ny5qc29u/",
+          "type": "manga",
+          "cover_url": "https://images2.imgbox.com/f8/52/CG8UCHPo_o.jpg"
         }
       ]
     }
