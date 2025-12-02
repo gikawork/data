@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764708887,
-    "totalMangas": 1135,
+    "lastUpdated": 1764708889,
+    "totalMangas": 1136,
     "version": "1.0.4"
   },
   "mangas": {
@@ -13622,6 +13622,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzQzNTYuanNvbg/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/nx103052-0N0URtIZI4nb.jpg"
+        }
+      ]
+    },
+    "mach_2739": {
+      "title": "Wu Liu Qi: Heibai Shuanglong",
+      "chapters": [
+        {
+          "id": "mach_2739",
+          "title": "Wu Liu Qi: Heibai Shuanglong",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF8yNzM5Lmpzb24/",
+          "type": "manhua",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b168974-L1wxRAyL1UK8.jpg"
         }
       ]
     }
