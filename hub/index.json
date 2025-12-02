@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764711874,
-    "totalMangas": 1444,
+    "lastUpdated": 1764711880,
+    "totalMangas": 1445,
     "version": "1.0.4"
   },
   "mangas": {
@@ -17330,6 +17330,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzEwNjk5Lmpzb24/",
           "type": "manga",
           "cover_url": "https://cdn.myanimelist.net/images/manga/1/217941.jpg"
+        }
+      ]
+    },
+    "majp_1737": {
+      "title": "Tsue to Tsurugi no Wistoria",
+      "chapters": [
+        {
+          "id": "1737",
+          "title": "Tsue to Tsurugi no Wistoria",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzE3MzcuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx125116-ZfCpel1WOdmF.jpg"
         }
       ]
     }
