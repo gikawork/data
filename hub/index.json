@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764710768,
-    "totalMangas": 1254,
+    "lastUpdated": 1764710773,
+    "totalMangas": 1255,
     "version": "1.0.4"
   },
   "mangas": {
@@ -15050,6 +15050,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzE0NjguanNvbg/",
           "type": "manga",
           "cover_url": "https://images2.imgbox.com/10/f2/OGd53lJy_o.jpg"
+        }
+      ]
+    },
+    "majp_3286": {
+      "title": "Houkago, Family Restaurant de, Class no Ano Ko to",
+      "chapters": [
+        {
+          "id": "3286",
+          "title": "Houkago, Family Restaurant de, Class no Ano Ko to",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzMyODYuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx182394-SRMSxOJQmpzR.png"
         }
       ]
     }
