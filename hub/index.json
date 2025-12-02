@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764711197,
-    "totalMangas": 1335,
+    "lastUpdated": 1764711202,
+    "totalMangas": 1336,
     "version": "1.0.4"
   },
   "mangas": {
@@ -16022,6 +16022,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzEyMjAwOS5qc29u/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/13733.jpg"
+        }
+      ]
+    },
+    "majp_4439": {
+      "title": "The Vermilion Mask",
+      "chapters": [
+        {
+          "id": "4439",
+          "title": "The Vermilion Mask",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzQ0MzkuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx130729-EOOFhNdcAb6l.png"
         }
       ]
     }
