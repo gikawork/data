@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": 1764709017,
+    "lastUpdated": 1764709023,
     "totalMangas": 1175,
     "version": "1.0.4"
   },
@@ -5858,18 +5858,6 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9KUDk3OC5qc29u/",
           "type": "manga",
           "cover_url": "https://cdn.myanimelist.net/images/manga/1/313219.jpg"
-        }
-      ]
-    },
-    "JP381": {
-      "title": "Itsuwari no Marigold",
-      "chapters": [
-        {
-          "id": 381,
-          "title": "Itsuwari no Marigold",
-          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9KUDM4MS5qc29u/",
-          "type": "manga",
-          "cover_url": "https://cdn.myanimelist.net/images/manga/1/287538.jpg"
         }
       ]
     },
@@ -14102,6 +14090,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzExNTYuanNvbg/",
           "type": "manga",
           "cover_url": "https://images2.imgbox.com/83/de/FY32nyB9_o.jpg"
+        }
+      ]
+    },
+    "majp_381": {
+      "title": "Boruto: Two Blue Vortex",
+      "chapters": [
+        {
+          "id": "majp_381",
+          "title": "Boruto: Two Blue Vortex",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzM4MS5qc29u/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx168468-FEo5x1ZZyWj4.png"
         }
       ]
     }
