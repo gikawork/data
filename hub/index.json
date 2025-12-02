@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764712374,
-    "totalMangas": 1536,
+    "lastUpdated": 1764712380,
+    "totalMangas": 1537,
     "version": "1.0.4"
   },
   "mangas": {
@@ -18434,6 +18434,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF8zNTIzLmpzb24/",
           "type": "manhua",
           "cover_url": "https://images2.imgbox.com/4e/05/Igo3Y1TK_o.png"
+        }
+      ]
+    },
+    "makr_98239": {
+      "title": "A Villain's Will to Survive",
+      "chapters": [
+        {
+          "id": "98239",
+          "title": "A Villain's Will to Survive",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl85ODIzOS5qc29u/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.mangaupdates.com/image/i462648.jpg"
         }
       ]
     }
