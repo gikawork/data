@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764707772,
-    "totalMangas": 1102,
+    "lastUpdated": 1764707775,
+    "totalMangas": 1103,
     "version": "1.0.4"
   },
   "mangas": {
@@ -13226,6 +13226,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8zNzAwMzUuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b199570-itxj3l8F2dxa.jpg"
+        }
+      ]
+    },
+    "majp_35125": {
+      "title": "Moon Land",
+      "chapters": [
+        {
+          "id": "majp_35125",
+          "title": "Moon Land",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzM1MTI1Lmpzb24/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx107446-A169CmHeOqVJ.jpg"
         }
       ]
     }
