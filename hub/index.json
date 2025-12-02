@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": 1764711488,
+    "lastUpdated": 1764711494,
     "totalMangas": 1384,
     "version": "1.0.4"
   },
@@ -9761,18 +9761,6 @@
         }
       ]
     },
-    "JP532": {
-      "title": "Masamune-kun no Revenge",
-      "chapters": [
-        {
-          "id": 532,
-          "title": "Masamune-kun no Revenge",
-          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9KUDUzMi5qc29u/",
-          "type": "manga",
-          "cover_url": "https://cdn.mangaupdates.com/image/i292862.png"
-        }
-      ]
-    },
     "KR702": {
       "title": "Reverse Villain",
       "chapters": [
@@ -16610,6 +16598,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzIyNjMuanNvbg/",
           "type": "manga",
           "cover_url": "https://cdn.myanimelist.net/images/manga/1/188835.jpg"
+        }
+      ]
+    },
+    "majp_532": {
+      "title": "Akagi: The Genius Who Fell Into Darkness",
+      "chapters": [
+        {
+          "id": "532",
+          "title": "Akagi: The Genius Who Fell Into Darkness",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzUzMi5qc29u/",
+          "type": "manga",
+          "cover_url": "https://images2.imgbox.com/72/d3/qQXn1ClI_o.jpg"
         }
       ]
     }
