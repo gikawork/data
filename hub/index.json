@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764710760,
-    "totalMangas": 1252,
+    "lastUpdated": 1764710765,
+    "totalMangas": 1253,
     "version": "1.0.4"
   },
   "mangas": {
@@ -15026,6 +15026,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzIxODUuanNvbg/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx111212-DkjhJls7U2rl.jpg"
+        }
+      ]
+    },
+    "majp_21593": {
+      "title": "Re:Zero kara Hajimeru Isekai Seikatsu: Dai-4 Shou - Seiiki to Gouyoku no Majo",
+      "chapters": [
+        {
+          "id": "21593",
+          "title": "Re:Zero kara Hajimeru Isekai Seikatsu: Dai-4 Shou - Seiiki to Gouyoku no Majo",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzIxNTkzLmpzb24/",
+          "type": "manga",
+          "cover_url": "https://images2.imgbox.com/3f/e9/1iLj85Jc_o.jpg"
         }
       ]
     }
