@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764710907,
-    "totalMangas": 1280,
+    "lastUpdated": 1764710910,
+    "totalMangas": 1281,
     "version": "1.0.4"
   },
   "mangas": {
@@ -15362,6 +15362,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzI0NDMuanNvbg/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/9798.jpg"
+        }
+      ]
+    },
+    "majp_2492": {
+      "title": "The Knight in the Area",
+      "chapters": [
+        {
+          "id": "2492",
+          "title": "The Knight in the Area",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzI0OTIuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx38795-daT8dNvLjJMy.png"
         }
       ]
     }
