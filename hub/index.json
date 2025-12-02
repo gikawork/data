@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764710925,
-    "totalMangas": 1284,
+    "lastUpdated": 1764710929,
+    "totalMangas": 1285,
     "version": "1.0.4"
   },
   "mangas": {
@@ -15410,6 +15410,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF8zMTA2Lmpzb24/",
           "type": "manhua",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx194825-IvuVbSJrmrdL.png"
+        }
+      ]
+    },
+    "maoel_514467": {
+      "title": "Dungeon Crawler Carl",
+      "chapters": [
+        {
+          "id": "514467",
+          "title": "Dungeon Crawler Carl",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21vZWwvbWFvZWxfNTE0NDY3Lmpzb24/",
+          "type": "oel",
+          "cover_url": "https://ap-proxy.mangabaka.dev/proxy.php?url=https://cdn.anime-planet.com/manga/primary/dungeon-crawler-carl-1.webp?t=1754001555"
         }
       ]
     }
