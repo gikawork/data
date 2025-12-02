@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764713083,
-    "totalMangas": 1561,
+    "lastUpdated": 1764713092,
+    "totalMangas": 1562,
     "version": "1.0.4"
   },
   "mangas": {
@@ -18734,6 +18734,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzMwODEuanNvbg/",
           "type": "manga",
           "cover_url": "https://cdn.myanimelist.net/images/manga/1/268163.jpg"
+        }
+      ]
+    },
+    "majp_186858": {
+      "title": "Chikyuu no Ko",
+      "chapters": [
+        {
+          "id": "186858",
+          "title": "Chikyuu no Ko",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzE4Njg1OC5qc29u/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx144861-pRtoC5tBn1CF.jpg"
         }
       ]
     }
