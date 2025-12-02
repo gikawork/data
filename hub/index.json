@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764711705,
-    "totalMangas": 1420,
+    "lastUpdated": 1764711712,
+    "totalMangas": 1421,
     "version": "1.0.4"
   },
   "mangas": {
@@ -17042,6 +17042,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzQ4OC5qc29u/",
           "type": "manga",
           "cover_url": "https://cdn.mangaupdates.com/image/i502367.jpg"
+        }
+      ]
+    },
+    "majp_1487": {
+      "title": "Kanchigai no Atelier Meister",
+      "chapters": [
+        {
+          "id": "1487",
+          "title": "Kanchigai no Atelier Meister",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzE0ODcuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx132298-8OkFbhdeTipK.png"
         }
       ]
     }
