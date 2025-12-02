@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764713152,
-    "totalMangas": 1568,
+    "lastUpdated": 1764713164,
+    "totalMangas": 1569,
     "version": "1.0.4"
   },
   "mangas": {
@@ -18818,6 +18818,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzEyNzcuanNvbg/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx168653-4asgfGc2cDgn.jpg"
+        }
+      ]
+    },
+    "majp_1206": {
+      "title": "Kusunoki's Flunking Her High School Glow-Up",
+      "chapters": [
+        {
+          "id": "1206",
+          "title": "Kusunoki's Flunking Her High School Glow-Up",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzEyMDYuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx159655-Kv58QINz1rXm.jpg"
         }
       ]
     }
