@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764713098,
-    "totalMangas": 1563,
+    "lastUpdated": 1764713108,
+    "totalMangas": 1564,
     "version": "1.0.4"
   },
   "mangas": {
@@ -18758,6 +18758,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzMzMjIuanNvbg/",
           "type": "manga",
           "cover_url": "https://cdn.myanimelist.net/images/manga/2/309149.jpg"
+        }
+      ]
+    },
+    "mach_3821": {
+      "title": "Lily",
+      "chapters": [
+        {
+          "id": "3821",
+          "title": "Lily",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF8zODIxLmpzb24/",
+          "type": "manhua",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx104728-LPvCCO4K4lVL.png"
         }
       ]
     }
