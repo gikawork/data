@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764711522,
-    "totalMangas": 1390,
+    "lastUpdated": 1764711528,
+    "totalMangas": 1391,
     "version": "1.0.4"
   },
   "mangas": {
@@ -16682,6 +16682,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzM5MjQuanNvbg/",
           "type": "manga",
           "cover_url": "https://images2.imgbox.com/0f/be/BJLjBt6M_o.jpg"
+        }
+      ]
+    },
+    "majp_5438": {
+      "title": "Romance of Darkness",
+      "chapters": [
+        {
+          "id": "5438",
+          "title": "Romance of Darkness",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzU0MzguanNvbg/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx34758-SGuuQ2kHsh9L.png"
         }
       ]
     }
