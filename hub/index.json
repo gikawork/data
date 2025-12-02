@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764711550,
-    "totalMangas": 1396,
+    "lastUpdated": 1764711555,
+    "totalMangas": 1397,
     "version": "1.0.4"
   },
   "mangas": {
@@ -16754,6 +16754,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzM1NzE3OC5qc29u/",
           "type": "manga",
           "cover_url": "https://images2.imgbox.com/bd/4b/JQw7SHfO_o.jpg"
+        }
+      ]
+    },
+    "majp_1127": {
+      "title": "Isekai de Te ni Ireta Seisan Skill wa Saikyou Datta you desu",
+      "chapters": [
+        {
+          "id": "1127",
+          "title": "Isekai de Te ni Ireta Seisan Skill wa Saikyou Datta you desu",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzExMjcuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx121920-OYwMkgn7Z4tj.jpg"
         }
       ]
     }
