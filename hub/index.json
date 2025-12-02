@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764711395,
-    "totalMangas": 1367,
+    "lastUpdated": 1764711400,
+    "totalMangas": 1368,
     "version": "1.0.4"
   },
   "mangas": {
@@ -16406,6 +16406,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzYyMS5qc29u/",
           "type": "manga",
           "cover_url": "https://images2.imgbox.com/dd/7f/TDDYrNz4_o.jpg"
+        }
+      ]
+    },
+    "makr_1458": {
+      "title": "Past Life Returner",
+      "chapters": [
+        {
+          "id": "1458",
+          "title": "Past Life Returner",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8xNDU4Lmpzb24/",
+          "type": "manhwa",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx160001-LMKamv7hb9YE.jpg"
         }
       ]
     }
