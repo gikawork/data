@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764709414,
-    "totalMangas": 1216,
+    "lastUpdated": 1764709416,
+    "totalMangas": 1217,
     "version": "1.0.4"
   },
   "mangas": {
@@ -14594,6 +14594,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8xMjMxLmpzb24/",
           "type": "manhwa",
           "cover_url": "https://cdn.myanimelist.net/images/manga/2/312523.jpg"
+        }
+      ]
+    },
+    "majp_1341": {
+      "title": "Haitatsusaki no Onee-san ga Kowa Sugiru",
+      "chapters": [
+        {
+          "id": "1341",
+          "title": "Haitatsusaki no Onee-san ga Kowa Sugiru",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzEzNDEuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://media.kitsu.app/manga/72448/poster_image/large-5c4f53c208967239a18e31f2388aa855.jpeg"
         }
       ]
     }
