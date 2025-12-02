@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764713192,
-    "totalMangas": 1572,
+    "lastUpdated": 1764713201,
+    "totalMangas": 1573,
     "version": "1.0.4"
   },
   "mangas": {
@@ -18866,6 +18866,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl81MTU1Lmpzb24/",
           "type": "manhwa",
           "cover_url": "https://cdn.mangaupdates.com/image/i442210.jpg"
+        }
+      ]
+    },
+    "majp_6644": {
+      "title": "Hazure Skill \"Soine\" ga Kakuseishi, Boku ga Saikyou Harem wo Kizuku made: Micchaku Soine de Ganbou Kaihou!? Yuuwaku saremakutte Komattemasu!!",
+      "chapters": [
+        {
+          "id": "6644",
+          "title": "Hazure Skill \"Soine\" ga Kakuseishi, Boku ga Saikyou Harem wo Kizuku made: Micchaku Soine de Ganbou Kaihou!? Yuuwaku saremakutte Komattemasu!!",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzY2NDQuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://cdn.myanimelist.net/images/manga/3/300059.jpg"
         }
       ]
     }
