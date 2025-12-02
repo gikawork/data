@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764709403,
-    "totalMangas": 1214,
+    "lastUpdated": 1764709409,
+    "totalMangas": 1215,
     "version": "1.0.4"
   },
   "mangas": {
@@ -14570,6 +14570,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzE5OTAuanNvbg/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/nx100733-WgXFvxZMBSFI.jpg"
+        }
+      ]
+    },
+    "makr_8238": {
+      "title": "66,666 Years: Advent of the Dark Mage",
+      "chapters": [
+        {
+          "id": "8238",
+          "title": "66,666 Years: Advent of the Dark Mage",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl84MjM4Lmpzb24/",
+          "type": "manhwa",
+          "cover_url": "https://images2.imgbox.com/a0/69/YRhHHHvN_o.png"
         }
       ]
     }
