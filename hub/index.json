@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764711311,
-    "totalMangas": 1351,
+    "lastUpdated": 1764711316,
+    "totalMangas": 1352,
     "version": "1.0.4"
   },
   "mangas": {
@@ -16214,6 +16214,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8zODkuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://media.kitsu.app/manga/73214/poster_image/large-e61104fa0891cd9df087df24cf183886.jpeg"
+        }
+      ]
+    },
+    "majp_7367": {
+      "title": "Hokago wa Kissaten De",
+      "chapters": [
+        {
+          "id": "7367",
+          "title": "Hokago wa Kissaten De",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzczNjcuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/nx100874-R0tRjl1gkNM3.jpg"
         }
       ]
     }
