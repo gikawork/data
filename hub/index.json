@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764709023,
-    "totalMangas": 1175,
+    "lastUpdated": 1764709026,
+    "totalMangas": 1176,
     "version": "1.0.4"
   },
   "mangas": {
@@ -14102,6 +14102,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzM4MS5qc29u/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx168468-FEo5x1ZZyWj4.png"
+        }
+      ]
+    },
+    "majp_3985": {
+      "title": "Risou no Himo Seikatsu",
+      "chapters": [
+        {
+          "id": "majp_3985",
+          "title": "Risou no Himo Seikatsu",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzM5ODUuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx98347-8WilPyGXtetn.jpg"
         }
       ]
     }
