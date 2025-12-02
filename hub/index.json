@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": 1764711216,
+    "lastUpdated": 1764711222,
     "totalMangas": 1338,
     "version": "1.0.4"
   },
@@ -8873,18 +8873,6 @@
         }
       ]
     },
-    "JP363": {
-      "title": "Isekai de Te ni Ireta Seisan Skill wa Saikyou Datta you desu",
-      "chapters": [
-        {
-          "id": 363,
-          "title": "Isekai de Te ni Ireta Seisan Skill wa Saikyou Datta you desu",
-          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9KUDM2My5qc29u/",
-          "type": "manga",
-          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx121920-OYwMkgn7Z4tj.jpg"
-        }
-      ]
-    },
     "JP707": {
       "title": "Ring ni Kakero: Jun to Jun! Hikari to Kage no Maki",
       "chapters": [
@@ -16058,6 +16046,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8yMjEyLmpzb24/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf /scans/1/obras/7861/wp-content/uploads/2024/12/ssn.jpg"
+        }
+      ]
+    },
+    "majp_363": {
+      "title": "Abandoned: Tsuyosugite Buki ga Kowareru Yuusha to Buki Shokunin no Elf",
+      "chapters": [
+        {
+          "id": "363",
+          "title": "Abandoned: Tsuyosugite Buki ga Kowareru Yuusha to Buki Shokunin no Elf",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzM2My5qc29u/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx187776-GVCJDELrElS4.jpg"
         }
       ]
     }
