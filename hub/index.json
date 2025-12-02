@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764713137,
-    "totalMangas": 1566,
+    "lastUpdated": 1764713146,
+    "totalMangas": 1567,
     "version": "1.0.4"
   },
   "mangas": {
@@ -18794,6 +18794,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzEyMTcuanNvbg/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx180547-e3k2rojddFIS.jpg"
+        }
+      ]
+    },
+    "majp_12397": {
+      "title": "Sachie-chan Guu!!",
+      "chapters": [
+        {
+          "id": "12397",
+          "title": "Sachie-chan Guu!!",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzEyMzk3Lmpzb24/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx40841-dKmjVj9oKQV4.jpg"
         }
       ]
     }
