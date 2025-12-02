@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764711712,
-    "totalMangas": 1421,
+    "lastUpdated": 1764711718,
+    "totalMangas": 1422,
     "version": "1.0.4"
   },
   "mangas": {
@@ -17054,6 +17054,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzE0ODcuanNvbg/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx132298-8OkFbhdeTipK.png"
+        }
+      ]
+    },
+    "majp_7489": {
+      "title": "Angel Densetsu",
+      "chapters": [
+        {
+          "id": "7489",
+          "title": "Angel Densetsu",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzc0ODkuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/nx30838-Tr5B9b3gKbxf.jpg"
         }
       ]
     }
