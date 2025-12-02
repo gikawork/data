@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": 1764711734,
+    "lastUpdated": 1764711741,
     "totalMangas": 1424,
     "version": "1.0.4"
   },
@@ -5246,18 +5246,6 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9KUDg4Lmpzb24%3D/",
           "type": "manga",
           "cover_url": "https://images2.imgbox.com/3d/ab/2nK5Hikn_o.jpg"
-        }
-      ]
-    },
-    "JP262": {
-      "title": "Gangsta",
-      "chapters": [
-        {
-          "id": 262,
-          "title": "Gangsta",
-          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9KUDI2Mi5qc29u/",
-          "type": "manga",
-          "cover_url": "https://cdn.myanimelist.net/images/manga/2/271919.jpg"
         }
       ]
     },
@@ -17090,6 +17078,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzkxNC5qc29u/",
           "type": "manga",
           "cover_url": "https://cdn.mangaupdates.com/image/i468833.jpg"
+        }
+      ]
+    },
+    "majp_262": {
+      "title": "Nue no Onmyouji",
+      "chapters": [
+        {
+          "id": "262",
+          "title": "Nue no Onmyouji",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzI2Mi5qc29u/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx163497-HNrC3KDTVxW5.jpg"
         }
       ]
     }
