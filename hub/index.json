@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764712435,
-    "totalMangas": 1544,
+    "lastUpdated": 1764712678,
+    "totalMangas": 1545,
     "version": "1.0.4"
   },
   "mangas": {
@@ -18530,6 +18530,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzMyNjM3My5qc29u/",
           "type": "manga",
           "cover_url": "https://cdn.myanimelist.net/images/manga/2/323160.jpg"
+        }
+      ]
+    },
+    "majp_2705": {
+      "title": "D.Gray-man",
+      "chapters": [
+        {
+          "id": "2705",
+          "title": "D.Gray-man",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzI3MDUuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx30024-UUUz8xxkt8pc.jpg"
         }
       ]
     }
