@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764709303,
-    "totalMangas": 1194,
+    "lastUpdated": 1764709309,
+    "totalMangas": 1195,
     "version": "1.0.4"
   },
   "mangas": {
@@ -14330,6 +14330,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzc2NzY3Lmpzb24/",
           "type": "manga",
           "cover_url": "https://cdn.myanimelist.net/images/manga/3/322994.jpg"
+        }
+      ]
+    },
+    "mach_1503": {
+      "title": "O Divino Médico Urbano",
+      "chapters": [
+        {
+          "id": "1503",
+          "title": "O Divino Médico Urbano",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF8xNTAzLmpzb24/",
+          "type": "manhua",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/7115/67e8c6e7e8f9c.png"
         }
       ]
     }
