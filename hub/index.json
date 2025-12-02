@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764712930,
-    "totalMangas": 1548,
+    "lastUpdated": 1764712940,
+    "totalMangas": 1549,
     "version": "1.0.4"
   },
   "mangas": {
@@ -18578,6 +18578,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzM0Mi5qc29u/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx169272-1a2RZ43tqOdw.jpg"
+        }
+      ]
+    },
+    "majp_4814": {
+      "title": "Hinomaru Sumo",
+      "chapters": [
+        {
+          "id": "4814",
+          "title": "Hinomaru Sumo",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzQ4MTQuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/55612.jpg"
         }
       ]
     }
