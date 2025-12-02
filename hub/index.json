@@ -1,7 +1,7 @@
 {
   "metadata": {
     "lastUpdated": 1764709007,
-    "totalMangas": 1171,
+    "totalMangas": 1172,
     "version": "1.0.4"
   },
   "mangas": {
@@ -14054,6 +14054,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzIzMTYuanNvbg/",
           "type": "manga",
           "cover_url": "https://cdn.mangaupdates.com/image/i489474.jpg"
+        }
+      ]
+    },
+    "majp_24224": {
+      "title": "Ozanari-Kun",
+      "chapters": [
+        {
+          "id": "majp_24224",
+          "title": "Ozanari-Kun",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzI0MjI0Lmpzb24/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/41011.jpg"
         }
       ]
     }
