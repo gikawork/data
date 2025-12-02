@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764708860,
-    "totalMangas": 1128,
+    "lastUpdated": 1764708863,
+    "totalMangas": 1129,
     "version": "1.0.4"
   },
   "mangas": {
@@ -13538,6 +13538,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF8yNDkwLmpzb24/",
           "type": "manhua",
           "cover_url": "https://images2.imgbox.com/bc/8f/khGB9VlK_o.png"
+        }
+      ]
+    },
+    "majp_37777": {
+      "title": "Tedama ni Toritai Kurokiya-san",
+      "chapters": [
+        {
+          "id": "majp_37777",
+          "title": "Tedama ni Toritai Kurokiya-san",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzM3Nzc3Lmpzb24/",
+          "type": "manga",
+          "cover_url": "https://cdn.mangaupdates.com/image/i405347.jpg"
         }
       ]
     }
