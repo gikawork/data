@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764710862,
-    "totalMangas": 1272,
+    "lastUpdated": 1764710868,
+    "totalMangas": 1273,
     "version": "1.0.4"
   },
   "mangas": {
@@ -15266,6 +15266,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8zNjA1Lmpzb24/",
           "type": "manhwa",
           "cover_url": "https://cdn.myanimelist.net/images/manga/3/261821.jpg"
+        }
+      ]
+    },
+    "majp_24919": {
+      "title": "Rokudou no Onna-tachi",
+      "chapters": [
+        {
+          "id": "24919",
+          "title": "Rokudou no Onna-tachi",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzI0OTE5Lmpzb24/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx98382-Y8RVkFzsAbY1.jpg"
         }
       ]
     }
