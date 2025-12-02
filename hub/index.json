@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": 1764711882,
+    "lastUpdated": 1764711889,
     "totalMangas": 1446,
     "version": "1.0.4"
   },
@@ -2222,18 +2222,6 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9KUDM2NC5qc29u/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx159295-g6rYtqRG5YAm.jpg"
-        }
-      ]
-    },
-    "JP578": {
-      "title": "My Sister, The Cat",
-      "chapters": [
-        {
-          "id": 578,
-          "title": "My Sister, The Cat",
-          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9KUDU3OC5qc29u/",
-          "type": "manga",
-          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx122634-W6aDYrQnMsZ7.jpg"
         }
       ]
     },
@@ -17354,6 +17342,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzQ5NDEuanNvbg/",
           "type": "manga",
           "cover_url": "https://cdn.mangaupdates.com/image/i147092.png"
+        }
+      ]
+    },
+    "majp_578": {
+      "title": "Majo Taisen: 32-nin no Isai no Majo wa Koroshiau",
+      "chapters": [
+        {
+          "id": "578",
+          "title": "Majo Taisen: 32-nin no Isai no Majo wa Koroshiau",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzU3OC5qc29u/",
+          "type": "manga",
+          "cover_url": "https://cdn.mangaupdates.com/image/i495331.jpg"
         }
       ]
     }
