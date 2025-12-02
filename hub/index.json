@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764712940,
-    "totalMangas": 1549,
+    "lastUpdated": 1764712949,
+    "totalMangas": 1550,
     "version": "1.0.4"
   },
   "mangas": {
@@ -18590,6 +18590,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzQ4MTQuanNvbg/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/55612.jpg"
+        }
+      ]
+    },
+    "majp_2869": {
+      "title": "A Song to the Sun",
+      "chapters": [
+        {
+          "id": "2869",
+          "title": "A Song to the Sun",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzI4NjkuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://images2.imgbox.com/10/cf/NhSKgLti_o.jpg"
         }
       ]
     }
