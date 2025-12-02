@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764711055,
-    "totalMangas": 1309,
+    "lastUpdated": 1764711058,
+    "totalMangas": 1310,
     "version": "1.0.4"
   },
   "mangas": {
@@ -15710,6 +15710,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8zNjc2Lmpzb24/",
           "type": "manhwa",
           "cover_url": "https://cdn.myanimelist.net/images/manga/1/293257.jpg"
+        }
+      ]
+    },
+    "majp_3921": {
+      "title": "Tsui no Taimashi Ender Geister",
+      "chapters": [
+        {
+          "id": "3921",
+          "title": "Tsui no Taimashi Ender Geister",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzM5MjEuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx120683-0utkkJowJpvy.jpg"
         }
       ]
     }
