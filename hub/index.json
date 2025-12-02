@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": 1764710737,
+    "lastUpdated": 1764710744,
     "totalMangas": 1249,
     "version": "1.0.4"
   },
@@ -10397,18 +10397,6 @@
         }
       ]
     },
-    "JP328": {
-      "title": "Houkago Kitaku Biyori",
-      "chapters": [
-        {
-          "id": 328,
-          "title": "Houkago Kitaku Biyori",
-          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9KUDMyOC5qc29u/",
-          "type": "manga",
-          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx173062-PH1Lix703MdU.jpg"
-        }
-      ]
-    },
     "KR701": {
       "title": "Revenge of Young Master Peng",
       "chapters": [
@@ -14990,6 +14978,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzc2NDUuanNvbg/",
           "type": "manga",
           "cover_url": "https://cdn.myanimelist.net/images/manga/2/229498.jpg"
+        }
+      ]
+    },
+    "majp_328": {
+      "title": "Furetai wa Koi no Hajimari",
+      "chapters": [
+        {
+          "id": "328",
+          "title": "Furetai wa Koi no Hajimari",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzMyOC5qc29u/",
+          "type": "manga",
+          "cover_url": "https://cdn.myanimelist.net/images/manga/5/323711.jpg"
         }
       ]
     }
