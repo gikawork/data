@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764712064,
-    "totalMangas": 1477,
+    "lastUpdated": 1764712070,
+    "totalMangas": 1478,
     "version": "1.0.4"
   },
   "mangas": {
@@ -17726,6 +17726,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzU0My5qc29u/",
           "type": "manga",
           "cover_url": "https://images2.imgbox.com/8a/68/rbqRDEzL_o.jpg"
+        }
+      ]
+    },
+    "makr_1291": {
+      "title": "Solo Max-Level Newbie",
+      "chapters": [
+        {
+          "id": "1291",
+          "title": "Solo Max-Level Newbie",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8xMjkxLmpzb24/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.myanimelist.net/images/manga/1/274479.jpg"
         }
       ]
     }
