@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764710941,
-    "totalMangas": 1288,
+    "lastUpdated": 1764710947,
+    "totalMangas": 1289,
     "version": "1.0.4"
   },
   "mangas": {
@@ -15458,6 +15458,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzI0MTk5Lmpzb24/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx33044-LMTD1o9jcPSD.png"
+        }
+      ]
+    },
+    "majp_197": {
+      "title": "Uma Musume: Cinderella Gray",
+      "chapters": [
+        {
+          "id": "197",
+          "title": "Uma Musume: Cinderella Gray",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzE5Ny5qc29u/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx119247-8ylxneez5fa8.jpg"
         }
       ]
     }
