@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764711328,
-    "totalMangas": 1355,
+    "lastUpdated": 1764711333,
+    "totalMangas": 1356,
     "version": "1.0.4"
   },
   "mangas": {
@@ -16262,6 +16262,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzEyMjkuanNvbg/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx31013-Suolsv3rhJnA.jpg"
+        }
+      ]
+    },
+    "makr_1488": {
+      "title": "Cleric of Decay",
+      "chapters": [
+        {
+          "id": "1488",
+          "title": "Cleric of Decay",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8xNDg4Lmpzb24/",
+          "type": "manhwa",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx167165-dy0OJVdLzULL.jpg"
         }
       ]
     }
