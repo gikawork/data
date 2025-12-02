@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764711661,
-    "totalMangas": 1415,
+    "lastUpdated": 1764711666,
+    "totalMangas": 1416,
     "version": "1.0.4"
   },
   "mangas": {
@@ -16982,6 +16982,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzk0NTguanNvbg/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx183058-l9Lrs3cNCJWF.jpg"
+        }
+      ]
+    },
+    "majp_5443": {
+      "title": "Baki: New Grappler Baki",
+      "chapters": [
+        {
+          "id": "5443",
+          "title": "Baki: New Grappler Baki",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzU0NDMuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://media.kitsu.app/manga/poster_images/10823/large.jpg"
         }
       ]
     }
