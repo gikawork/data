@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764712343,
-    "totalMangas": 1530,
+    "lastUpdated": 1764712348,
+    "totalMangas": 1531,
     "version": "1.0.4"
   },
   "mangas": {
@@ -18362,6 +18362,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzM5NTUuanNvbg/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx170399-YYy0AhHxo8xt.jpg"
+        }
+      ]
+    },
+    "makr_98329": {
+      "title": "Jovem Herdeiro da Família Necromante",
+      "chapters": [
+        {
+          "id": "98329",
+          "title": "Jovem Herdeiro da Família Necromante",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl85ODMyOS5qc29u/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf /scans/1/obras/9938/6861d2a449818.webp"
         }
       ]
     }
