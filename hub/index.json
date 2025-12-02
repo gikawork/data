@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764709469,
-    "totalMangas": 1227,
+    "lastUpdated": 1764709474,
+    "totalMangas": 1228,
     "version": "1.0.4"
   },
   "mangas": {
@@ -14726,6 +14726,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzUwMTUuanNvbg/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/7181.jpg"
+        }
+      ]
+    },
+    "majp_9776": {
+      "title": "Toaru Nichijou no Index-san",
+      "chapters": [
+        {
+          "id": "9776",
+          "title": "Toaru Nichijou no Index-san",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzk3NzYuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx91305-zgnLCZaXNdQc.jpg"
         }
       ]
     }
