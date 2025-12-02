@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764713173,
-    "totalMangas": 1570,
+    "lastUpdated": 1764713182,
+    "totalMangas": 1571,
     "version": "1.0.4"
   },
   "mangas": {
@@ -18842,6 +18842,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzM4MzkuanNvbg/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx108427-zATm0GQHDbPF.jpg"
+        }
+      ]
+    },
+    "makr_7834": {
+      "title": "Shadow of the Supreme",
+      "chapters": [
+        {
+          "id": "7834",
+          "title": "Shadow of the Supreme",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl83ODM0Lmpzb24/",
+          "type": "manhwa",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx180890-GRVR4m4ImzQN.jpg"
         }
       ]
     }
