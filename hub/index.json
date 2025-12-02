@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764711291,
-    "totalMangas": 1347,
+    "lastUpdated": 1764711296,
+    "totalMangas": 1348,
     "version": "1.0.4"
   },
   "mangas": {
@@ -16166,6 +16166,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21vdC9tYW90XzE4NzAwNS5qc29u/",
           "type": "outro",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/nx98842-Ji0v423UZ4er.jpg"
+        }
+      ]
+    },
+    "majp_7331": {
+      "title": "Kiss Shite Kurenakya Shinjau",
+      "chapters": [
+        {
+          "id": "7331",
+          "title": "Kiss Shite Kurenakya Shinjau",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzczMzEuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx108798-KNH4yCBY2eql.jpg"
         }
       ]
     }
