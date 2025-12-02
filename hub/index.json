@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764711007,
-    "totalMangas": 1299,
+    "lastUpdated": 1764711012,
+    "totalMangas": 1300,
     "version": "1.0.4"
   },
   "mangas": {
@@ -15590,6 +15590,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzM2MTQzLmpzb24/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx107544-r0fa0H1KDoOD.png"
+        }
+      ]
+    },
+    "majp_3271": {
+      "title": "Tsuihou Yuusha no Yuuga na Slow Life: Jiyuu ni Nattara Ore dake no Saiai Tenshi mo Te ni Haitta!",
+      "chapters": [
+        {
+          "id": "3271",
+          "title": "Tsuihou Yuusha no Yuuga na Slow Life: Jiyuu ni Nattara Ore dake no Saiai Tenshi mo Te ni Haitta!",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzMyNzEuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx133753-QI0alt6bqlT6.jpg"
         }
       ]
     }
