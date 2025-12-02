@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764711383,
-    "totalMangas": 1366,
+    "lastUpdated": 1764711388,
+    "totalMangas": 1367,
     "version": "1.0.4"
   },
   "mangas": {
@@ -16394,6 +16394,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzMyMDUuanNvbg/",
           "type": "manga",
           "cover_url": "https://cdn.mangaupdates.com/image/i463142.jpg"
+        }
+      ]
+    },
+    "majp_4497": {
+      "title": "Kono Oto Tomare!",
+      "chapters": [
+        {
+          "id": "4497",
+          "title": "Kono Oto Tomare!",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzQ0OTcuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx75143-qPFON51fyZpt.png"
         }
       ]
     }
