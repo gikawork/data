@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764709432,
-    "totalMangas": 1220,
+    "lastUpdated": 1764709437,
+    "totalMangas": 1221,
     "version": "1.0.4"
   },
   "mangas": {
@@ -14642,6 +14642,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzExNDIuanNvbg/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx188419-smqWNIiF7Y6E.jpg"
+        }
+      ]
+    },
+    "makr_2036": {
+      "title": "Surviving The Game as a Barbarian",
+      "chapters": [
+        {
+          "id": "2036",
+          "title": "Surviving The Game as a Barbarian",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8yMDM2Lmpzb24/",
+          "type": "manhwa",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx164857-MVeV0leMZb0m.jpg"
         }
       ]
     }
