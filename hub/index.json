@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764709298,
-    "totalMangas": 1193,
+    "lastUpdated": 1764709303,
+    "totalMangas": 1194,
     "version": "1.0.4"
   },
   "mangas": {
@@ -14318,6 +14318,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzU3MC5qc29u/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx175426-zKmatApgO232.jpg"
+        }
+      ]
+    },
+    "majp_76767": {
+      "title": "Kimi ni Okuru Eien",
+      "chapters": [
+        {
+          "id": "76767",
+          "title": "Kimi ni Okuru Eien",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzc2NzY3Lmpzb24/",
+          "type": "manga",
+          "cover_url": "https://cdn.myanimelist.net/images/manga/3/322994.jpg"
         }
       ]
     }
