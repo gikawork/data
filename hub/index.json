@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764711677,
-    "totalMangas": 1416,
+    "lastUpdated": 1764711683,
+    "totalMangas": 1417,
     "version": "1.0.4"
   },
   "mangas": {
@@ -16994,6 +16994,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzY5NC5qc29u/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx143516-kIK4iJpcCH30.jpg"
+        }
+      ]
+    },
+    "majp_104693": {
+      "title": "Chiyu Mahou no Machigatta Tsukaikata",
+      "chapters": [
+        {
+          "id": "104693",
+          "title": "Chiyu Mahou no Machigatta Tsukaikata",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzEwNDY5My5qc29u/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx176388-f5zOXUJPYZ8X.jpg"
         }
       ]
     }
