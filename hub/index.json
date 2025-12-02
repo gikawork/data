@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764707775,
-    "totalMangas": 1103,
+    "lastUpdated": 1764707778,
+    "totalMangas": 1104,
     "version": "1.0.4"
   },
   "mangas": {
@@ -13238,6 +13238,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzM1MTI1Lmpzb24/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx107446-A169CmHeOqVJ.jpg"
+        }
+      ]
+    },
+    "makr_4389": {
+      "title": "Invitation of Mystic Messenger",
+      "chapters": [
+        {
+          "id": "makr_4389",
+          "title": "Invitation of Mystic Messenger",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl80Mzg5Lmpzb24/",
+          "type": "manhwa",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx117233-qleNHUPQoM6D.jpg"
         }
       ]
     }
