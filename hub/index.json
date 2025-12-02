@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764712220,
-    "totalMangas": 1507,
+    "lastUpdated": 1764712226,
+    "totalMangas": 1508,
     "version": "1.0.4"
   },
   "mangas": {
@@ -18086,6 +18086,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzI1OTYuanNvbg/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx104503-O9OmaU1sVCNW.jpg"
+        }
+      ]
+    },
+    "makr_6272": {
+      "title": "The Dawn to Come",
+      "chapters": [
+        {
+          "id": "6272",
+          "title": "The Dawn to Come",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl82MjcyLmpzb24/",
+          "type": "manhwa",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx168656-WMACCZQ54LMA.jpg"
         }
       ]
     }
