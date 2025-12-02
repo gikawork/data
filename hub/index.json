@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764712230,
-    "totalMangas": 1509,
+    "lastUpdated": 1764712233,
+    "totalMangas": 1510,
     "version": "1.0.4"
   },
   "mangas": {
@@ -18110,6 +18110,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzI1MTguanNvbg/",
           "type": "manga",
           "cover_url": "https://cdn.mangaupdates.com/image/i464901.jpg"
+        }
+      ]
+    },
+    "majp_4249": {
+      "title": "My Sister, The Cat",
+      "chapters": [
+        {
+          "id": "4249",
+          "title": "My Sister, The Cat",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzQyNDkuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx122634-W6aDYrQnMsZ7.jpg"
         }
       ]
     }
