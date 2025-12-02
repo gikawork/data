@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764709493,
-    "totalMangas": 1232,
+    "lastUpdated": 1764709500,
+    "totalMangas": 1233,
     "version": "1.0.4"
   },
   "mangas": {
@@ -14786,6 +14786,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF80MjM4Lmpzb24/",
           "type": "manhua",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx130613-J0EcUYmtPH85.png"
+        }
+      ]
+    },
+    "makr_57": {
+      "title": "Eleceed",
+      "chapters": [
+        {
+          "id": "57",
+          "title": "Eleceed",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl81Ny5qc29u/",
+          "type": "manhwa",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx106929-flAUvHZDUz5v.jpg"
         }
       ]
     }
