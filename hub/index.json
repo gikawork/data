@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764711850,
-    "totalMangas": 1440,
+    "lastUpdated": 1764711852,
+    "totalMangas": 1441,
     "version": "1.0.4"
   },
   "mangas": {
@@ -17282,6 +17282,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzI0OS5qc29u/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx30756-rlxjQWBAizHX.jpg"
+        }
+      ]
+    },
+    "majp_187584": {
+      "title": "Yane no Shita no Artemis",
+      "chapters": [
+        {
+          "id": "187584",
+          "title": "Yane no Shita no Artemis",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzE4NzU4NC5qc29u/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx191856-1vhqvclyeipq.jpg"
         }
       ]
     }
