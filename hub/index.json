@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764713182,
-    "totalMangas": 1571,
+    "lastUpdated": 1764713192,
+    "totalMangas": 1572,
     "version": "1.0.4"
   },
   "mangas": {
@@ -18854,6 +18854,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl83ODM0Lmpzb24/",
           "type": "manhwa",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx180890-GRVR4m4ImzQN.jpg"
+        }
+      ]
+    },
+    "makr_5155": {
+      "title": "Match Rate 99.99%",
+      "chapters": [
+        {
+          "id": "5155",
+          "title": "Match Rate 99.99%",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl81MTU1Lmpzb24/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.mangaupdates.com/image/i442210.jpg"
         }
       ]
     }
