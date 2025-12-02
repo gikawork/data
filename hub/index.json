@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764712259,
-    "totalMangas": 1515,
+    "lastUpdated": 1764712264,
+    "totalMangas": 1516,
     "version": "1.0.4"
   },
   "mangas": {
@@ -18182,6 +18182,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzUwNTUuanNvbg/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/nx105090-fQ8G1IkTUSBA.jpg"
+        }
+      ]
+    },
+    "majp_9788": {
+      "title": "Please Love the Useless Me",
+      "chapters": [
+        {
+          "id": "9788",
+          "title": "Please Love the Useless Me",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzk3ODguanNvbg/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/nx86317-zlMHxrOQwNq5.jpg"
         }
       ]
     }
