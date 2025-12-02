@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764696002,
-    "totalMangas": 1084,
+    "lastUpdated": 1764707720,
+    "totalMangas": 1085,
     "version": "1.0.4"
   },
   "mangas": {
@@ -13010,6 +13010,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8xOTcwLmpzb24%3D/",
           "type": "manhwa",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx151025-j7nZBNb46cv9.jpg"
+        }
+      ]
+    },
+    "makr_49678": {
+      "title": "Dungeon House",
+      "chapters": [
+        {
+          "id": "makr_49678",
+          "title": "Dungeon House",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl80OTY3OC5qc29u/",
+          "type": "manhwa",
+          "cover_url": "https://media.kitsu.app/manga/poster_images/60794/large.jpg"
         }
       ]
     }
