@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764712142,
-    "totalMangas": 1491,
+    "lastUpdated": 1764712144,
+    "totalMangas": 1492,
     "version": "1.0.4"
   },
   "mangas": {
@@ -17894,6 +17894,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzM1MTMuanNvbg/",
           "type": "manga",
           "cover_url": "https://cdn.myanimelist.net/images/manga/2/127583.jpg"
+        }
+      ]
+    },
+    "majp_3819": {
+      "title": "Jimoto ni Kaettekitara Osananajimi ga Kowareteta",
+      "chapters": [
+        {
+          "id": "3819",
+          "title": "Jimoto ni Kaettekitara Osananajimi ga Kowareteta",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzM4MTkuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://cdn.myanimelist.net/images/manga/1/292482.jpg"
         }
       ]
     }
