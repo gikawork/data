@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764711477,
-    "totalMangas": 1382,
+    "lastUpdated": 1764711482,
+    "totalMangas": 1383,
     "version": "1.0.4"
   },
   "mangas": {
@@ -16586,6 +16586,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzM3NDMxLmpzb24/",
           "type": "manga",
           "cover_url": "https://cdn.mangaupdates.com/image/i501323.jpg"
+        }
+      ]
+    },
+    "majp_2035": {
+      "title": "Shiganbana",
+      "chapters": [
+        {
+          "id": "2035",
+          "title": "Shiganbana",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzIwMzUuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx181881-NgemCRPS1Js6.jpg"
         }
       ]
     }
