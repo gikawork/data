@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764711338,
-    "totalMangas": 1357,
+    "lastUpdated": 1764711344,
+    "totalMangas": 1358,
     "version": "1.0.4"
   },
   "mangas": {
@@ -16286,6 +16286,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzMxMDkuanNvbg/",
           "type": "manga",
           "cover_url": "https://cdn.mangaupdates.com/image/i485196.jpg"
+        }
+      ]
+    },
+    "majp_64805": {
+      "title": "Sousou no Frieren",
+      "chapters": [
+        {
+          "id": "64805",
+          "title": "Sousou no Frieren",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzY0ODA1Lmpzb24/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx118586-CXKgWikBFQgS.jpg"
         }
       ]
     }
