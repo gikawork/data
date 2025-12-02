@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": 1764709033,
+    "lastUpdated": 1764709037,
     "totalMangas": 1178,
     "version": "1.0.4"
   },
@@ -6422,18 +6422,6 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvS1IyMTguanNvbg%3D%3D/",
           "type": "manhwa",
           "cover_url": "https://ap-proxy.mangabaka.dev/proxy.php?url=https://cdn.anime-planet.com/manga/primary/doctors-time-travel-to-joseon-novel-1.webp?t=1726535627"
-        }
-      ]
-    },
-    "JP323": {
-      "title": "Honey Lemon Soda",
-      "chapters": [
-        {
-          "id": 323,
-          "title": "Honey Lemon Soda",
-          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9KUDMyMy5qc29u/",
-          "type": "manga",
-          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx96767-byZGxMjQUXLu.jpg"
         }
       ]
     },
@@ -14138,6 +14126,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzI4OTQuanNvbg/",
           "type": "manga",
           "cover_url": "https://cdn.mangaupdates.com/image/i482757.jpg"
+        }
+      ]
+    },
+    "majp_323": {
+      "title": "Azumi",
+      "chapters": [
+        {
+          "id": "majp_323",
+          "title": "Azumi",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzMyMy5qc29u/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx37842-KmQYJe4GOGNb.jpg"
         }
       ]
     }
