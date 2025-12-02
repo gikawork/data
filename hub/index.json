@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764709254,
-    "totalMangas": 1186,
+    "lastUpdated": 1764709259,
+    "totalMangas": 1187,
     "version": "1.0.4"
   },
   "mangas": {
@@ -14234,6 +14234,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl85NzY2Lmpzb24/",
           "type": "manhwa",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx177982-7ut7tTurvWc2.jpg"
+        }
+      ]
+    },
+    "majp_24": {
+      "title": "Ninja to Koroshiya no Futarigurashi",
+      "chapters": [
+        {
+          "id": "24",
+          "title": "Ninja to Koroshiya no Futarigurashi",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzI0Lmpzb24/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx131538-5igmwHriKuE1.jpg"
         }
       ]
     }
