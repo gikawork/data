@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764712121,
-    "totalMangas": 1487,
+    "lastUpdated": 1764712126,
+    "totalMangas": 1488,
     "version": "1.0.4"
   },
   "mangas": {
@@ -17846,6 +17846,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzMwNTQuanNvbg/",
           "type": "manga",
           "cover_url": "https://cdn.myanimelist.net/images/manga/1/263976.jpg"
+        }
+      ]
+    },
+    "majp_189614": {
+      "title": "Silver Mountain",
+      "chapters": [
+        {
+          "id": "189614",
+          "title": "Silver Mountain",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzE4OTYxNC5qc29u/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx191412-OzpdKcdCNCxZ.png"
         }
       ]
     }
