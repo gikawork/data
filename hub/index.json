@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764712201,
-    "totalMangas": 1503,
+    "lastUpdated": 1764712204,
+    "totalMangas": 1504,
     "version": "1.0.4"
   },
   "mangas": {
@@ -18038,6 +18038,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzk4MTg0Lmpzb24/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx187312-PNCbeBWETmzU.jpg"
+        }
+      ]
+    },
+    "majp_4157": {
+      "title": "Discommunication",
+      "chapters": [
+        {
+          "id": "4157",
+          "title": "Discommunication",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzQxNTcuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx35680-bAXTcDPO91dk.jpg"
         }
       ]
     }
