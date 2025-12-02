@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764712958,
-    "totalMangas": 1551,
+    "lastUpdated": 1764712968,
+    "totalMangas": 1552,
     "version": "1.0.4"
   },
   "mangas": {
@@ -18614,6 +18614,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzExNDguanNvbg/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx190387-hvSb5XpsaByw.jpg"
+        }
+      ]
+    },
+    "majp_8329": {
+      "title": "Murabito desu ga Nani ka?",
+      "chapters": [
+        {
+          "id": "8329",
+          "title": "Murabito desu ga Nani ka?",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzgzMjkuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/nx98982-HswYywmVLXjk.png"
         }
       ]
     }
