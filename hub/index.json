@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764710749,
-    "totalMangas": 1250,
+    "lastUpdated": 1764710755,
+    "totalMangas": 1251,
     "version": "1.0.4"
   },
   "mangas": {
@@ -15002,6 +15002,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzk1NDEuanNvbg/",
           "type": "manga",
           "cover_url": "https://cdn.myanimelist.net/images/manga/1/199044.jpg"
+        }
+      ]
+    },
+    "majp_2064": {
+      "title": "Isekai Walking",
+      "chapters": [
+        {
+          "id": "2064",
+          "title": "Isekai Walking",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzIwNjQuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx147237-hmFvupFmJ8fP.jpg"
         }
       ]
     }
