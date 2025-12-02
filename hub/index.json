@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764710879,
-    "totalMangas": 1274,
+    "lastUpdated": 1764710881,
+    "totalMangas": 1275,
     "version": "1.0.4"
   },
   "mangas": {
@@ -15290,6 +15290,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzM4OC5qc29u/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx152284-9kat9f3v31dA.jpg"
+        }
+      ]
+    },
+    "makr_1263": {
+      "title": "Eternally Regressing Knight",
+      "chapters": [
+        {
+          "id": "1263",
+          "title": "Eternally Regressing Knight",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8xMjYzLmpzb24/",
+          "type": "manhwa",
+          "cover_url": "https://ap-proxy.mangabaka.dev/proxy.php?url=https://cdn.anime-planet.com/manga/primary/eternally-regressing-knight-novel-1.webp?t=1716175084"
         }
       ]
     }
