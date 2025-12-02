@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764708817,
-    "totalMangas": 1114,
+    "lastUpdated": 1764708820,
+    "totalMangas": 1115,
     "version": "1.0.4"
   },
   "mangas": {
@@ -13370,6 +13370,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzc0MTM3Lmpzb24/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx171004-nEWztWU7NQdA.jpg"
+        }
+      ]
+    },
+    "makr_4533": {
+      "title": "Class S Hunter Doesn't Want to Be a Villain Princess",
+      "chapters": [
+        {
+          "id": "makr_4533",
+          "title": "Class S Hunter Doesn't Want to Be a Villain Princess",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl80NTMzLmpzb24/",
+          "type": "manhwa",
+          "cover_url": "https://files.catbox.moe/ssbhso.webp"
         }
       ]
     }
