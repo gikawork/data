@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764710823,
-    "totalMangas": 1265,
+    "lastUpdated": 1764710826,
+    "totalMangas": 1266,
     "version": "1.0.4"
   },
   "mangas": {
@@ -15182,6 +15182,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzU4MDUuanNvbg/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx37075-CHcekUnrZjZj.jpg"
+        }
+      ]
+    },
+    "makr_6731": {
+      "title": "Villain To Kill",
+      "chapters": [
+        {
+          "id": "6731",
+          "title": "Villain To Kill",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl82NzMxLmpzb24/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.myanimelist.net/images/manga/3/260735.jpg"
         }
       ]
     }
