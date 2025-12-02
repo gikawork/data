@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764709004,
-    "totalMangas": 1170,
+    "lastUpdated": 1764709007,
+    "totalMangas": 1171,
     "version": "1.0.4"
   },
   "mangas": {
@@ -14042,6 +14042,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF8xNDQ3Lmpzb24/",
           "type": "manhua",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx160980-KAM0gr3dSMvB.jpg"
+        }
+      ]
+    },
+    "majp_2316": {
+      "title": "Shiunji-ke no Kodomotachi",
+      "chapters": [
+        {
+          "id": "majp_2316",
+          "title": "Shiunji-ke no Kodomotachi",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzIzMTYuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://cdn.mangaupdates.com/image/i489474.jpg"
         }
       ]
     }
