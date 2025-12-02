@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764711962,
-    "totalMangas": 1459,
+    "lastUpdated": 1764711965,
+    "totalMangas": 1460,
     "version": "1.0.4"
   },
   "mangas": {
@@ -17510,6 +17510,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl81NDI0MC5qc29u/",
           "type": "manhwa",
           "cover_url": "https://images2.imgbox.com/53/d7/dNpKkCGv_o.png"
+        }
+      ]
+    },
+    "majp_911": {
+      "title": "Isekai Yurutto Survival Seikatsu ~Gakkou no Minna to Isekai no Mujintou ni Tenishitakedo Ore Dake Rakushou desu~",
+      "chapters": [
+        {
+          "id": "911",
+          "title": "Isekai Yurutto Survival Seikatsu ~Gakkou no Minna to Isekai no Mujintou ni Tenishitakedo Ore Dake Rakushou desu~",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzkxMS5qc29u/",
+          "type": "manga",
+          "cover_url": "https://cdn.mangaupdates.com/image/i480888.jpg"
         }
       ]
     }
