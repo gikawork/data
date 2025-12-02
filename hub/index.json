@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764710920,
-    "totalMangas": 1283,
+    "lastUpdated": 1764710925,
+    "totalMangas": 1284,
     "version": "1.0.4"
   },
   "mangas": {
@@ -15398,6 +15398,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzE4NTQxLmpzb24/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx89980-Zimcu5buWehj.png"
+        }
+      ]
+    },
+    "mach_3106": {
+      "title": "Feng Zhi Chu Gui",
+      "chapters": [
+        {
+          "id": "3106",
+          "title": "Feng Zhi Chu Gui",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF8zMTA2Lmpzb24/",
+          "type": "manhua",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx194825-IvuVbSJrmrdL.png"
         }
       ]
     }
