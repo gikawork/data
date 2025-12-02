@@ -1,7 +1,7 @@
 {
   "metadata": {
     "lastUpdated": 1764708946,
-    "totalMangas": 1152,
+    "totalMangas": 1153,
     "version": "1.0.4"
   },
   "mangas": {
@@ -13826,6 +13826,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzE2MTcuanNvbg/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx124895-lOlg8m6ibImK.png"
+        }
+      ]
+    },
+    "majp_2868": {
+      "title": "Takarazora",
+      "chapters": [
+        {
+          "id": "majp_2868",
+          "title": "Takarazora",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzI4NjguanNvbg/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/15627.jpg"
         }
       ]
     }
