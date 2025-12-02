@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": 1764709295,
+    "lastUpdated": 1764709298,
     "totalMangas": 1193,
     "version": "1.0.4"
   },
@@ -8585,18 +8585,6 @@
         }
       ]
     },
-    "JP570": {
-      "title": "My Boyfriend in Orange",
-      "chapters": [
-        {
-          "id": 570,
-          "title": "My Boyfriend in Orange",
-          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9KUDU3MC5qc29u/",
-          "type": "manga",
-          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/nx99650-2ry3U5fPpHbo.jpg"
-        }
-      ]
-    },
     "KR455": {
       "title": "Kingdom Hearts: 358/2 Days",
       "chapters": [
@@ -14318,6 +14306,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8yMzY2Lmpzb24/",
           "type": "manhwa",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx134191-xqewmy4yDSfR.jpg"
+        }
+      ]
+    },
+    "majp_570": {
+      "title": "Goze Hotaru",
+      "chapters": [
+        {
+          "id": "570",
+          "title": "Goze Hotaru",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzU3MC5qc29u/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx175426-zKmatApgO232.jpg"
         }
       ]
     }
