@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764711424,
-    "totalMangas": 1373,
+    "lastUpdated": 1764711429,
+    "totalMangas": 1374,
     "version": "1.0.4"
   },
   "mangas": {
@@ -16478,6 +16478,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzQ1MzM1Lmpzb24/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx126913-0JeS46A8y85b.jpg"
+        }
+      ]
+    },
+    "majp_45641": {
+      "title": "Gyaru Gamer ni Homeraretai",
+      "chapters": [
+        {
+          "id": "45641",
+          "title": "Gyaru Gamer ni Homeraretai",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzQ1NjQxLmpzb24/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx128260-B6G2i71bemtz.jpg"
         }
       ]
     }
