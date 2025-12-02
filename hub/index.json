@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764709422,
-    "totalMangas": 1218,
+    "lastUpdated": 1764709427,
+    "totalMangas": 1219,
     "version": "1.0.4"
   },
   "mangas": {
@@ -14618,6 +14618,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzEwNTAwLmpzb24/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx43801-eAjGz6G5d5Db.jpg"
+        }
+      ]
+    },
+    "makr_3232": {
+      "title": "Why Did Men Stop Wearing High Heels?",
+      "chapters": [
+        {
+          "id": "3232",
+          "title": "Why Did Men Stop Wearing High Heels?",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8zMjMyLmpzb24/",
+          "type": "manhwa",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/97787-dI6bvDldjKTM.jpg"
         }
       ]
     }
