@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764708820,
-    "totalMangas": 1115,
+    "lastUpdated": 1764708823,
+    "totalMangas": 1116,
     "version": "1.0.4"
   },
   "mangas": {
@@ -13382,6 +13382,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl80NTMzLmpzb24/",
           "type": "manhwa",
           "cover_url": "https://files.catbox.moe/ssbhso.webp"
+        }
+      ]
+    },
+    "majp_1634": {
+      "title": "Henkyou Mob Kizoku no Uchi ni Totsuidekita Akuyaku Reijou ga, Mechakucha Dekiru Yoi Yome Nanda ga?",
+      "chapters": [
+        {
+          "id": "majp_1634",
+          "title": "Henkyou Mob Kizoku no Uchi ni Totsuidekita Akuyaku Reijou ga, Mechakucha Dekiru Yoi Yome Nanda ga?",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzE2MzQuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://cdn.myanimelist.net/images/manga/2/320398.jpg"
         }
       ]
     }
