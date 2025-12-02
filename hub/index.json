@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764711238,
-    "totalMangas": 1339,
+    "lastUpdated": 1764711242,
+    "totalMangas": 1340,
     "version": "1.0.4"
   },
   "mangas": {
@@ -16070,6 +16070,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzk5My5qc29u/",
           "type": "manga",
           "cover_url": "https://cdn.myanimelist.net/images/manga/2/271919.jpg"
+        }
+      ]
+    },
+    "majp_79587": {
+      "title": "The Sasuke Uchiha Sharingan Chronicles",
+      "chapters": [
+        {
+          "id": "79587",
+          "title": "The Sasuke Uchiha Sharingan Chronicles",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzc5NTg3Lmpzb24/",
+          "type": "manga",
+          "cover_url": "https://images2.imgbox.com/ad/7b/qVLoTzP8_o.jpg"
         }
       ]
     }
