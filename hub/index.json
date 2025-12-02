@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764707725,
-    "totalMangas": 1086,
+    "lastUpdated": 1764707728,
+    "totalMangas": 1087,
     "version": "1.0.4"
   },
   "mangas": {
@@ -13034,6 +13034,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzQ5NDMuanNvbg/",
           "type": "manga",
           "cover_url": "https://cdn.mangaupdates.com/image/i203584.jpg"
+        }
+      ]
+    },
+    "majp_25009": {
+      "title": "Sayonara Watashi no Cramer",
+      "chapters": [
+        {
+          "id": "majp_25009",
+          "title": "Sayonara Watashi no Cramer",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzI1MDA5Lmpzb24/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx87440-vsvB0uZGLxrL.jpg"
         }
       ]
     }
