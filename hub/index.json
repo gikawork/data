@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764709385,
-    "totalMangas": 1210,
+    "lastUpdated": 1764709387,
+    "totalMangas": 1211,
     "version": "1.0.4"
   },
   "mangas": {
@@ -14522,6 +14522,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzk5MzEuanNvbg/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx115464-ijnlpcf5YEw1.jpg"
+        }
+      ]
+    },
+    "makr_1459": {
+      "title": "Regressing as the Reincarnated Bastard of the Sword Clan",
+      "chapters": [
+        {
+          "id": "1459",
+          "title": "Regressing as the Reincarnated Bastard of the Sword Clan",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8xNDU5Lmpzb24/",
+          "type": "manhwa",
+          "cover_url": "https://media.kitsu.app/manga/73212/poster_image/large-218b96d6e27f18d81a4b0258353d19c3.jpeg"
         }
       ]
     }
