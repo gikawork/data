@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764712363,
-    "totalMangas": 1534,
+    "lastUpdated": 1764712369,
+    "totalMangas": 1535,
     "version": "1.0.4"
   },
   "mangas": {
@@ -18410,6 +18410,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzM1NTk1NS5qc29u/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b194893-DdoYsivGo0zo.jpg"
+        }
+      ]
+    },
+    "mach_3066": {
+      "title": "SSS-Rank Paladin Who Transcends Common Sense",
+      "chapters": [
+        {
+          "id": "3066",
+          "title": "SSS-Rank Paladin Who Transcends Common Sense",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF8zMDY2Lmpzb24/",
+          "type": "manhua",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx178700-UnfkATzgnZW0.png"
         }
       ]
     }
