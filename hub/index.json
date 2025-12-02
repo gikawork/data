@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764710897,
-    "totalMangas": 1278,
+    "lastUpdated": 1764710902,
+    "totalMangas": 1279,
     "version": "1.0.4"
   },
   "mangas": {
@@ -15338,6 +15338,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzMxNjMyLmpzb24/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx105150-Mx1qjmaQGRY6.jpg"
+        }
+      ]
+    },
+    "majp_2817": {
+      "title": "Jii-san to Baa-san Wakagaeru",
+      "chapters": [
+        {
+          "id": "2817",
+          "title": "Jii-san to Baa-san Wakagaeru",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzI4MTcuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://images2.imgbox.com/d9/d7/q2GI2UKI_o.jpg"
         }
       ]
     }
