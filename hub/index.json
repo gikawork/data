@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764711170,
-    "totalMangas": 1329,
+    "lastUpdated": 1764711175,
+    "totalMangas": 1330,
     "version": "1.0.4"
   },
   "mangas": {
@@ -15950,6 +15950,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzEwMzEwLmpzb24/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/4207-xfRM0pk4fV8g.png"
+        }
+      ]
+    },
+    "majp_2948": {
+      "title": "Oresama Ouji",
+      "chapters": [
+        {
+          "id": "2948",
+          "title": "Oresama Ouji",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzI5NDguanNvbg/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx34626-WK6Yg3ELqq7v.jpg"
         }
       ]
     }
