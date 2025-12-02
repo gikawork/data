@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764711935,
-    "totalMangas": 1455,
+    "lastUpdated": 1764711938,
+    "totalMangas": 1456,
     "version": "1.0.4"
   },
   "mangas": {
@@ -17462,6 +17462,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzM4NjEuanNvbg/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx149107-fVgQ3xT4SKja.jpg"
+        }
+      ]
+    },
+    "majp_1915": {
+      "title": "Black Clover",
+      "chapters": [
+        {
+          "id": "1915",
+          "title": "Black Clover",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzE5MTUuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx86123-Ill8uBdtvWrR.png"
         }
       ]
     }
