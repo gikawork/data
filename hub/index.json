@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764707720,
-    "totalMangas": 1085,
+    "lastUpdated": 1764707725,
+    "totalMangas": 1086,
     "version": "1.0.4"
   },
   "mangas": {
@@ -13022,6 +13022,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl80OTY3OC5qc29u/",
           "type": "manhwa",
           "cover_url": "https://media.kitsu.app/manga/poster_images/60794/large.jpg"
+        }
+      ]
+    },
+    "majp_4943": {
+      "title": "Itadakimasu",
+      "chapters": [
+        {
+          "id": "majp_4943",
+          "title": "Itadakimasu",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzQ5NDMuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://cdn.mangaupdates.com/image/i203584.jpg"
         }
       ]
     }
