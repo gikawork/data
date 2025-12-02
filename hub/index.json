@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764708982,
-    "totalMangas": 1165,
+    "lastUpdated": 1764708985,
+    "totalMangas": 1166,
     "version": "1.0.4"
   },
   "mangas": {
@@ -13982,6 +13982,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzIzNjcuanNvbg/",
           "type": "manga",
           "cover_url": "https://cdn.myanimelist.net/images/manga/1/279303.jpg"
+        }
+      ]
+    },
+    "majp_7491": {
+      "title": "Monster no Niku wo Kutte Itara Oui no Tsuita Ken",
+      "chapters": [
+        {
+          "id": "majp_7491",
+          "title": "Monster no Niku wo Kutte Itara Oui no Tsuita Ken",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzc0OTEuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx180714-7j1Scv9jk2t0.jpg"
         }
       ]
     }
