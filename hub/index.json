@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": 1764711234,
+    "lastUpdated": 1764711238,
     "totalMangas": 1339,
     "version": "1.0.4"
   },
@@ -9977,18 +9977,6 @@
         }
       ]
     },
-    "JP993": {
-      "title": "Ura de Yancha na Gouinda-san",
-      "chapters": [
-        {
-          "id": 993,
-          "title": "Ura de Yancha na Gouinda-san",
-          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9KUDk5My5qc29u/",
-          "type": "manga",
-          "cover_url": "https://cdn.mangaupdates.com/image/i467978.jpg"
-        }
-      ]
-    },
     "KR891": {
       "title": "The Little Lady Behind the Scenes",
       "chapters": [
@@ -16070,6 +16058,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzEwNS5qc29u/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx118741-wBoIp9fDIPh9.jpg"
+        }
+      ]
+    },
+    "majp_993": {
+      "title": "Gangsta",
+      "chapters": [
+        {
+          "id": "993",
+          "title": "Gangsta",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzk5My5qc29u/",
+          "type": "manga",
+          "cover_url": "https://cdn.myanimelist.net/images/manga/2/271919.jpg"
         }
       ]
     }
