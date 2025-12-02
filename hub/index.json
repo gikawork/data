@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764707766,
-    "totalMangas": 1100,
+    "lastUpdated": 1764707769,
+    "totalMangas": 1101,
     "version": "1.0.4"
   },
   "mangas": {
@@ -13202,6 +13202,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl84NDMuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b129579-4CjDJYnWI8el.jpg"
+        }
+      ]
+    },
+    "majp_512688": {
+      "title": "35-sai Dokushin Yamada, Isekai Mura ni Risou no Second House wo Tsukuritai: Isekai to Genjitsu no Iitokodori Life",
+      "chapters": [
+        {
+          "id": "majp_512688",
+          "title": "35-sai Dokushin Yamada, Isekai Mura ni Risou no Second House wo Tsukuritai: Isekai to Genjitsu no Iitokodori Life",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzUxMjY4OC5qc29u/",
+          "type": "manga",
+          "cover_url": "https://images2.imgbox.com/65/d8/SK9oQfUP_o.png"
         }
       ]
     }
