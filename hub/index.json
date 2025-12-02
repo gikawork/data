@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764711995,
-    "totalMangas": 1466,
+    "lastUpdated": 1764712001,
+    "totalMangas": 1467,
     "version": "1.0.4"
   },
   "mangas": {
@@ -17594,6 +17594,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzE4MzguanNvbg/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx126693-hEqUWtBfUHyc.jpg"
+        }
+      ]
+    },
+    "majp_1754": {
+      "title": "Sora wo Matotte",
+      "chapters": [
+        {
+          "id": "1754",
+          "title": "Sora wo Matotte",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzE3NTQuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx164134-3jdWY66JrEo1.jpg"
         }
       ]
     }
