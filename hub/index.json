@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764712999,
-    "totalMangas": 1553,
+    "lastUpdated": 1764713005,
+    "totalMangas": 1554,
     "version": "1.0.4"
   },
   "mangas": {
@@ -18638,6 +18638,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzUyLmpzb24/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx185523-jqY20TjJlMMK.jpg"
+        }
+      ]
+    },
+    "makr_369805": {
+      "title": "Breakers",
+      "chapters": [
+        {
+          "id": "369805",
+          "title": "Breakers",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8zNjk4MDUuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx197888-zIIsJTd8g2Wl.jpg"
         }
       ]
     }
