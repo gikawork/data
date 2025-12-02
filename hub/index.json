@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764711635,
-    "totalMangas": 1411,
+    "lastUpdated": 1764711641,
+    "totalMangas": 1412,
     "version": "1.0.4"
   },
   "mangas": {
@@ -16934,6 +16934,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzE0MjUuanNvbg/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx153007-OvXOv4nRDmtL.jpg"
+        }
+      ]
+    },
+    "majp_1657": {
+      "title": "Hell Mode: Yarikomizuki no Gamer wa Hai Settei no Isekai de Musou suru",
+      "chapters": [
+        {
+          "id": "1657",
+          "title": "Hell Mode: Yarikomizuki no Gamer wa Hai Settei no Isekai de Musou suru",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzE2NTcuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://cdn.myanimelist.net/images/manga/1/244179.jpg"
         }
       ]
     }
