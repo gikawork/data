@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764709437,
-    "totalMangas": 1221,
+    "lastUpdated": 1764709442,
+    "totalMangas": 1222,
     "version": "1.0.4"
   },
   "mangas": {
@@ -14654,6 +14654,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8yMDM2Lmpzb24/",
           "type": "manhwa",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx164857-MVeV0leMZb0m.jpg"
+        }
+      ]
+    },
+    "majp_8636": {
+      "title": "VS EVIL",
+      "chapters": [
+        {
+          "id": "8636",
+          "title": "VS EVIL",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzg2MzYuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx106066-tIBRLxluzDjG.jpg"
         }
       ]
     }
