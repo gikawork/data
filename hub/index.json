@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764712289,
-    "totalMangas": 1520,
+    "lastUpdated": 1764712295,
+    "totalMangas": 1521,
     "version": "1.0.4"
   },
   "mangas": {
@@ -18242,6 +18242,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzkxOTMuanNvbg/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx154357-oGviujkAjg0W.jpg"
+        }
+      ]
+    },
+    "makr_4785": {
+      "title": "Slave B",
+      "chapters": [
+        {
+          "id": "4785",
+          "title": "Slave B",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl80Nzg1Lmpzb24/",
+          "type": "manhwa",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx118655-udIY0PlfHK0q.png"
         }
       ]
     }
