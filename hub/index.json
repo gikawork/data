@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": 1764710981,
+    "lastUpdated": 1764710987,
     "totalMangas": 1295,
     "version": "1.0.4"
   },
@@ -12413,18 +12413,6 @@
         }
       ]
     },
-    "JP386": {
-      "title": "Jii-san to Baa-san Wakagaeru",
-      "chapters": [
-        {
-          "id": 386,
-          "title": "Jii-san to Baa-san Wakagaeru",
-          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9KUDM4Ni5qc29u/",
-          "type": "manga",
-          "cover_url": "https://images2.imgbox.com/d9/d7/q2GI2UKI_o.jpg"
-        }
-      ]
-    },
     "JP786": {
       "title": "Shuumatsu no Walküre Kinden: Kamigami no Apocalypse",
       "chapters": [
@@ -15542,6 +15530,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzM1Njk1OC5qc29u/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx195083-Vds2OgtercJW.png"
+        }
+      ]
+    },
+    "majp_386": {
+      "title": "Mii-chan Wants to be Kept",
+      "chapters": [
+        {
+          "id": "386",
+          "title": "Mii-chan Wants to be Kept",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzM4Ni5qc29u/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx162901-p9GB3jRkvyh5.jpg"
         }
       ]
     }
