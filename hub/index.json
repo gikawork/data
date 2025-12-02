@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": 1764708912,
+    "lastUpdated": 1764708918,
     "totalMangas": 1142,
     "version": "1.0.4"
   },
@@ -8609,18 +8609,6 @@
         }
       ]
     },
-    "JP235": {
-      "title": "Exorcist no Kiyoshi-kun",
-      "chapters": [
-        {
-          "id": 235,
-          "title": "Exorcist no Kiyoshi-kun",
-          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9KUDIzNS5qc29u/",
-          "type": "manga",
-          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx146666-be6Ttk2NICuR.jpg"
-        }
-      ]
-    },
     "JP570": {
       "title": "My Boyfriend in Orange",
       "chapters": [
@@ -13706,6 +13694,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8zMTkwLmpzb24/",
           "type": "manhwa",
           "cover_url": "https://images2.imgbox.com/3d/31/vaEkWzhw_o.jpg"
+        }
+      ]
+    },
+    "majp_235": {
+      "title": "The Strongest Harem of Nobles",
+      "chapters": [
+        {
+          "id": "majp_235",
+          "title": "The Strongest Harem of Nobles",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzIzNS5qc29u/",
+          "type": "manga",
+          "cover_url": "https://images2.imgbox.com/c8/36/YmuKVH9w_o.jpg"
         }
       ]
     }
