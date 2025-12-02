@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764711085,
-    "totalMangas": 1315,
+    "lastUpdated": 1764711087,
+    "totalMangas": 1316,
     "version": "1.0.4"
   },
   "mangas": {
@@ -15782,6 +15782,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzI5NzcuanNvbg/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/nx43492-2mvXJnP6Feqq.png"
+        }
+      ]
+    },
+    "majp_97935": {
+      "title": "Akuyaku Reijou no Oyome-sama",
+      "chapters": [
+        {
+          "id": "97935",
+          "title": "Akuyaku Reijou no Oyome-sama",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzk3OTM1Lmpzb24/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx186869-3VObtuQOOF67.jpg"
         }
       ]
     }
