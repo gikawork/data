@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764710868,
-    "totalMangas": 1273,
+    "lastUpdated": 1764710873,
+    "totalMangas": 1274,
     "version": "1.0.4"
   },
   "mangas": {
@@ -15278,6 +15278,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzI0OTE5Lmpzb24/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx98382-Y8RVkFzsAbY1.jpg"
+        }
+      ]
+    },
+    "majp_18075": {
+      "title": "Shirley",
+      "chapters": [
+        {
+          "id": "18075",
+          "title": "Shirley",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzE4MDc1Lmpzb24/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b31440-ub9X6mNW3BfZ.jpg"
         }
       ]
     }
