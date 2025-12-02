@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764711793,
-    "totalMangas": 1433,
+    "lastUpdated": 1764711799,
+    "totalMangas": 1434,
     "version": "1.0.4"
   },
   "mangas": {
@@ -17198,6 +17198,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzMzMzEuanNvbg/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx158108-9IrZ4h3LIOhW.png"
+        }
+      ]
+    },
+    "majp_581": {
+      "title": "Ore no Ie ga Maryoku Spot datta Ken: Sundeiru dake de Sekai Saikyou",
+      "chapters": [
+        {
+          "id": "581",
+          "title": "Ore no Ie ga Maryoku Spot datta Ken: Sundeiru dake de Sekai Saikyou",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzU4MS5qc29u/",
+          "type": "manga",
+          "cover_url": "https://cdn.myanimelist.net/images/manga/3/220753.jpg"
         }
       ]
     }
