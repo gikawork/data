@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764708975,
-    "totalMangas": 1162,
+    "lastUpdated": 1764708976,
+    "totalMangas": 1163,
     "version": "1.0.4"
   },
   "mangas": {
@@ -13946,6 +13946,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8yMzQwLmpzb24/",
           "type": "manhwa",
           "cover_url": "https://cdn.myanimelist.net/images/manga/2/262597.jpg"
+        }
+      ]
+    },
+    "majp_5168": {
+      "title": "Isekai de Kojiin wo Hiraita kedo, Naze ka Darehitori Sudatou to Shinai Ken",
+      "chapters": [
+        {
+          "id": "majp_5168",
+          "title": "Isekai de Kojiin wo Hiraita kedo, Naze ka Darehitori Sudatou to Shinai Ken",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzUxNjguanNvbg/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx103738-lx4SWO07qRs1.jpg"
         }
       ]
     }
