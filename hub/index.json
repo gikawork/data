@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764710939,
-    "totalMangas": 1287,
+    "lastUpdated": 1764710941,
+    "totalMangas": 1288,
     "version": "1.0.4"
   },
   "mangas": {
@@ -15446,6 +15446,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzcwMjEuanNvbg/",
           "type": "manga",
           "cover_url": "https://cdn.myanimelist.net/images/manga/1/290402.jpg"
+        }
+      ]
+    },
+    "majp_24199": {
+      "title": "WORKING!!",
+      "chapters": [
+        {
+          "id": "24199",
+          "title": "WORKING!!",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzI0MTk5Lmpzb24/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx33044-LMTD1o9jcPSD.png"
         }
       ]
     }
