@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": 1764711388,
+    "lastUpdated": 1764711395,
     "totalMangas": 1367,
     "version": "1.0.4"
   },
@@ -3506,18 +3506,6 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvS1I4NjguanNvbg%3D%3D/",
           "type": "manhwa",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b136849-iUYvao0Z5xuv.png"
-        }
-      ]
-    },
-    "JP621": {
-      "title": "Onii-chan wa Oshimai! - MomiMahi Manga (Doujinshi)",
-      "chapters": [
-        {
-          "id": 621,
-          "title": "Onii-chan wa Oshimai! - MomiMahi Manga (Doujinshi)",
-          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9KUDYyMS5qc29u/",
-          "type": "manga",
-          "cover_url": "https://images2.imgbox.com/dd/7f/TDDYrNz4_o.jpg"
         }
       ]
     },
@@ -16406,6 +16394,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzQ0OTcuanNvbg/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx75143-qPFON51fyZpt.png"
+        }
+      ]
+    },
+    "majp_621": {
+      "title": "Onii-chan wa Oshimai! - MomiMahi Manga (Doujinshi)",
+      "chapters": [
+        {
+          "id": "621",
+          "title": "Onii-chan wa Oshimai! - MomiMahi Manga (Doujinshi)",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzYyMS5qc29u/",
+          "type": "manga",
+          "cover_url": "https://images2.imgbox.com/dd/7f/TDDYrNz4_o.jpg"
         }
       ]
     }
