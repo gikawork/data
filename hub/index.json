@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764710667,
-    "totalMangas": 1236,
+    "lastUpdated": 1764710672,
+    "totalMangas": 1237,
     "version": "1.0.4"
   },
   "mangas": {
@@ -14834,6 +14834,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8xNDY3Lmpzb24/",
           "type": "manhwa",
           "cover_url": "https://cdn.myanimelist.net/images/manga/2/308830.jpg"
+        }
+      ]
+    },
+    "majp_2082": {
+      "title": "Magabanashi Ghost Stories Spreading on Social Media",
+      "chapters": [
+        {
+          "id": "2082",
+          "title": "Magabanashi Ghost Stories Spreading on Social Media",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzIwODIuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://images2.imgbox.com/20/60/FUWrIVqC_o.jpg"
         }
       ]
     }
