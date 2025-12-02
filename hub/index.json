@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764710963,
-    "totalMangas": 1291,
+    "lastUpdated": 1764710968,
+    "totalMangas": 1292,
     "version": "1.0.4"
   },
   "mangas": {
@@ -15494,6 +15494,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8zNTM0Lmpzb24/",
           "type": "manhwa",
           "cover_url": "https://cdn.myanimelist.net/images/manga/3/304669.jpg"
+        }
+      ]
+    },
+    "majp_3068": {
+      "title": "Tougen Anki",
+      "chapters": [
+        {
+          "id": "3068",
+          "title": "Tougen Anki",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzMwNjguanNvbg/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx119968-dFbxdXwpkZ3s.jpg"
         }
       ]
     }
