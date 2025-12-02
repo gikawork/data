@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": 1764711258,
+    "lastUpdated": 1764711262,
     "totalMangas": 1343,
     "version": "1.0.4"
   },
@@ -5702,18 +5702,6 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9KUDMxNS5qc29u/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx113540-MmwNK1a8mhgx.jpg"
-        }
-      ]
-    },
-    "JP1089": {
-      "title": "Date or Kill: Secret Matching",
-      "chapters": [
-        {
-          "id": 1089,
-          "title": "Date or Kill: Secret Matching",
-          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9KUDEwODkuanNvbg%3D%3D/",
-          "type": "manga",
-          "cover_url": "https://images2.imgbox.com/0a/fc/teCjSLTq_o.jpg"
         }
       ]
     },
@@ -16118,6 +16106,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8xMzc4Lmpzb24/",
           "type": "manhwa",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx109957-EgJWdR7l9TBG.jpg"
+        }
+      ]
+    },
+    "majp_1089": {
+      "title": "Flying Witch",
+      "chapters": [
+        {
+          "id": "1089",
+          "title": "Flying Witch",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzEwODkuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx76258-iHRY5gdGQ5HY.png"
         }
       ]
     }
