@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764709259,
-    "totalMangas": 1187,
+    "lastUpdated": 1764709265,
+    "totalMangas": 1188,
     "version": "1.0.4"
   },
   "mangas": {
@@ -14246,6 +14246,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzI0Lmpzb24/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx131538-5igmwHriKuE1.jpg"
+        }
+      ]
+    },
+    "majp_5598": {
+      "title": "Drop",
+      "chapters": [
+        {
+          "id": "5598",
+          "title": "Drop",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzU1OTguanNvbg/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/17106.jpg"
         }
       ]
     }
