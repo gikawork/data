@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764711178,
-    "totalMangas": 1331,
+    "lastUpdated": 1764711183,
+    "totalMangas": 1332,
     "version": "1.0.4"
   },
   "mangas": {
@@ -15974,6 +15974,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzEyODguanNvbg/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx108556-NHjkz0BNJhLx.jpg"
+        }
+      ]
+    },
+    "majp_6485": {
+      "title": "Kanna to Decchi",
+      "chapters": [
+        {
+          "id": "6485",
+          "title": "Kanna to Decchi",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzY0ODUuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://cdn.myanimelist.net/images/manga/2/149716.jpg"
         }
       ]
     }
