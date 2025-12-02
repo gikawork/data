@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764711618,
-    "totalMangas": 1408,
+    "lastUpdated": 1764711624,
+    "totalMangas": 1409,
     "version": "1.0.4"
   },
   "mangas": {
@@ -16898,6 +16898,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF8xNTYzLmpzb24/",
           "type": "manhua",
           "cover_url": "https://images2.imgbox.com/43/aa/JwgiHMnN_o.jpg"
+        }
+      ]
+    },
+    "makr_1227": {
+      "title": "The Little Lady Behind the Scenes",
+      "chapters": [
+        {
+          "id": "1227",
+          "title": "The Little Lady Behind the Scenes",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8xMjI3Lmpzb24/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.myanimelist.net/images/manga/2/261906.jpg"
         }
       ]
     }
