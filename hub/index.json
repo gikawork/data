@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764708805,
-    "totalMangas": 1110,
+    "lastUpdated": 1764708807,
+    "totalMangas": 1111,
     "version": "1.0.4"
   },
   "mangas": {
@@ -13322,6 +13322,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzU0NDEuanNvbg/",
           "type": "manga",
           "cover_url": "https://images2.imgbox.com/4f/cd/YAb3bF6l_o.jpg"
+        }
+      ]
+    },
+    "majp_4997": {
+      "title": "Bakidou (2018)",
+      "chapters": [
+        {
+          "id": "majp_4997",
+          "title": "Bakidou (2018)",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzQ5OTcuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx108066-xTDrhtY5HsbP.jpg"
         }
       ]
     }
