@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764711222,
-    "totalMangas": 1338,
+    "lastUpdated": 1764711227,
+    "totalMangas": 1339,
     "version": "1.0.4"
   },
   "mangas": {
@@ -16058,6 +16058,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzM2My5qc29u/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx187776-GVCJDELrElS4.jpg"
+        }
+      ]
+    },
+    "majp_9904": {
+      "title": "Alice in Borderland",
+      "chapters": [
+        {
+          "id": "9904",
+          "title": "Alice in Borderland",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzk5MDQuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/nx63031-lE9pKD3cpmVK.jpg"
         }
       ]
     }
