@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764710712,
-    "totalMangas": 1244,
+    "lastUpdated": 1764710718,
+    "totalMangas": 1245,
     "version": "1.0.4"
   },
   "mangas": {
@@ -14930,6 +14930,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzIyLmpzb24/",
           "type": "manga",
           "cover_url": "https://cdn.mangaupdates.com/image/i270932.jpg"
+        }
+      ]
+    },
+    "majp_1161": {
+      "title": "Negai no Astro",
+      "chapters": [
+        {
+          "id": "1161",
+          "title": "Negai no Astro",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzExNjEuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx176832-IN4F7iAxqyeR.jpg"
         }
       ]
     }
