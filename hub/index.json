@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764708940,
-    "totalMangas": 1150,
+    "lastUpdated": 1764708943,
+    "totalMangas": 1151,
     "version": "1.0.4"
   },
   "mangas": {
@@ -13802,6 +13802,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl82ODI0Lmpzb24/",
           "type": "manhwa",
           "cover_url": "https://files.catbox.moe/zf7z9d.jpg"
+        }
+      ]
+    },
+    "majp_351628": {
+      "title": "Blue Ursus",
+      "chapters": [
+        {
+          "id": "majp_351628",
+          "title": "Blue Ursus",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzM1MTYyOC5qc29u/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx193903-csO9jcLflVjn.jpg"
         }
       ]
     }
