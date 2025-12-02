@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764709368,
-    "totalMangas": 1207,
+    "lastUpdated": 1764709373,
+    "totalMangas": 1208,
     "version": "1.0.4"
   },
   "mangas": {
@@ -14486,6 +14486,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzI3MzguanNvbg/",
           "type": "manga",
           "cover_url": "https://cdn.mangaupdates.com/image/i455371.jpg"
+        }
+      ]
+    },
+    "makr_1278": {
+      "title": "To Not Die",
+      "chapters": [
+        {
+          "id": "1278",
+          "title": "To Not Die",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8xMjc4Lmpzb24/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.myanimelist.net/images/manga/1/264617.jpg"
         }
       ]
     }
