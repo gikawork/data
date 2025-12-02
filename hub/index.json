@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764711899,
-    "totalMangas": 1448,
+    "lastUpdated": 1764711905,
+    "totalMangas": 1449,
     "version": "1.0.4"
   },
   "mangas": {
@@ -17378,6 +17378,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzM1MzQwMC5qc29u/",
           "type": "manga",
           "cover_url": "https://cdn.mangaupdates.com/image/i491651.png"
+        }
+      ]
+    },
+    "majp_67567": {
+      "title": "Kakkou no Iinazuke",
+      "chapters": [
+        {
+          "id": "67567",
+          "title": "Kakkou no Iinazuke",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzY3NTY3Lmpzb24/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx112024-tz9XJLAlrXgr.jpg"
         }
       ]
     }
