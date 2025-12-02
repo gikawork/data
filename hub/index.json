@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764708807,
-    "totalMangas": 1111,
+    "lastUpdated": 1764708810,
+    "totalMangas": 1112,
     "version": "1.0.4"
   },
   "mangas": {
@@ -13334,6 +13334,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzQ5OTcuanNvbg/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx108066-xTDrhtY5HsbP.jpg"
+        }
+      ]
+    },
+    "majp_98127": {
+      "title": "The Return of the Corpse King",
+      "chapters": [
+        {
+          "id": "majp_98127",
+          "title": "The Return of the Corpse King",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzk4MTI3Lmpzb24/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx187863-8WPtfkNU56rK.jpg"
         }
       ]
     }
