@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764709037,
-    "totalMangas": 1178,
+    "lastUpdated": 1764709040,
+    "totalMangas": 1179,
     "version": "1.0.4"
   },
   "mangas": {
@@ -14138,6 +14138,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzMyMy5qc29u/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx37842-KmQYJe4GOGNb.jpg"
+        }
+      ]
+    },
+    "majp_3729": {
+      "title": "Ragna Crimson",
+      "chapters": [
+        {
+          "id": "majp_3729",
+          "title": "Ragna Crimson",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzM3MjkuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/nx99065-3LKF0OVyP0To.jpg"
         }
       ]
     }
