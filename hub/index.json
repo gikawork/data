@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764712001,
-    "totalMangas": 1467,
+    "lastUpdated": 1764712007,
+    "totalMangas": 1468,
     "version": "1.0.4"
   },
   "mangas": {
@@ -17606,6 +17606,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzE3NTQuanNvbg/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx164134-3jdWY66JrEo1.jpg"
+        }
+      ]
+    },
+    "majp_7400": {
+      "title": "The Great Cleric",
+      "chapters": [
+        {
+          "id": "7400",
+          "title": "The Great Cleric",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzc0MDAuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b110379-ohIMUPd93SnI.jpg"
         }
       ]
     }
