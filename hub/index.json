@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764711724,
-    "totalMangas": 1423,
+    "lastUpdated": 1764711729,
+    "totalMangas": 1424,
     "version": "1.0.4"
   },
   "mangas": {
@@ -17078,6 +17078,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzI5MTcuanNvbg/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx85793-PvROauRZl0VB.png"
+        }
+      ]
+    },
+    "majp_1729": {
+      "title": "A Reincarnated Carrier’s Strategy for Another World",
+      "chapters": [
+        {
+          "id": "1729",
+          "title": "A Reincarnated Carrier’s Strategy for Another World",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzE3MjkuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://images2.imgbox.com/a9/b5/aWu36CDo_o.jpg"
         }
       ]
     }
