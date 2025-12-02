@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764713065,
-    "totalMangas": 1559,
+    "lastUpdated": 1764713074,
+    "totalMangas": 1560,
     "version": "1.0.4"
   },
   "mangas": {
@@ -18710,6 +18710,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzEwNjg1Lmpzb24/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/nx30729-oBQFQX1m4QXK.jpg"
+        }
+      ]
+    },
+    "majp_2409": {
+      "title": "Witch Hat Atelier",
+      "chapters": [
+        {
+          "id": "2409",
+          "title": "Witch Hat Atelier",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzI0MDkuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx98263-kIeaTXrAbGkj.jpg"
         }
       ]
     }
