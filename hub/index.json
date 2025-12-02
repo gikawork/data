@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764710735,
-    "totalMangas": 1248,
+    "lastUpdated": 1764710737,
+    "totalMangas": 1249,
     "version": "1.0.4"
   },
   "mangas": {
@@ -14978,6 +14978,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzQ1NjcuanNvbg/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx51809-o4xMIfXcOHOy.jpg"
+        }
+      ]
+    },
+    "majp_7645": {
+      "title": "Kitsune no Oyome-chan",
+      "chapters": [
+        {
+          "id": "7645",
+          "title": "Kitsune no Oyome-chan",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzc2NDUuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://cdn.myanimelist.net/images/manga/2/229498.jpg"
         }
       ]
     }
