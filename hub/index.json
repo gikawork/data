@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764712251,
-    "totalMangas": 1513,
+    "lastUpdated": 1764712256,
+    "totalMangas": 1514,
     "version": "1.0.4"
   },
   "mangas": {
@@ -18158,6 +18158,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzEwOTAzNS5qc29u/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx190513-lLlpLLvGZsie.png"
+        }
+      ]
+    },
+    "majp_16536": {
+      "title": "As the Gods Will: The Second Series",
+      "chapters": [
+        {
+          "id": "16536",
+          "title": "As the Gods Will: The Second Series",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzE2NTM2Lmpzb24/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx77363-CURZ7bI6XBWb.jpg"
         }
       ]
     }
