@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764708847,
-    "totalMangas": 1125,
+    "lastUpdated": 1764708850,
+    "totalMangas": 1126,
     "version": "1.0.4"
   },
   "mangas": {
@@ -13502,6 +13502,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzE1NzkuanNvbg/",
           "type": "manga",
           "cover_url": "https://cdn.myanimelist.net/images/manga/1/326563.jpg"
+        }
+      ]
+    },
+    "majp_9888": {
+      "title": "Kamigami ni Sodaterareshi Mono, Saikyou to Naru",
+      "chapters": [
+        {
+          "id": "majp_9888",
+          "title": "Kamigami ni Sodaterareshi Mono, Saikyou to Naru",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzk4ODguanNvbg/",
+          "type": "manga",
+          "cover_url": "https://cdn.mangaupdates.com/image/i471744.jpg"
         }
       ]
     }
