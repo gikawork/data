@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764711413,
-    "totalMangas": 1371,
+    "lastUpdated": 1764711418,
+    "totalMangas": 1372,
     "version": "1.0.4"
   },
   "mangas": {
@@ -16454,6 +16454,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl80MzUzNi5qc29u/",
           "type": "manhwa",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx126298-8Hy3AqaClf8Q.jpg"
+        }
+      ]
+    },
+    "majp_186600": {
+      "title": "Isekai kara Kikan shitara Chikyuu mo Kanari Fantasy deshita. Ato, Make Heroine-domo Kocchi Minna.",
+      "chapters": [
+        {
+          "id": "186600",
+          "title": "Isekai kara Kikan shitara Chikyuu mo Kanari Fantasy deshita. Ato, Make Heroine-domo Kocchi Minna.",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzE4NjYwMC5qc29u/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx192188-7tZE9s2uoMBs.jpg"
         }
       ]
     }
