@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764709230,
-    "totalMangas": 1180,
+    "lastUpdated": 1764709234,
+    "totalMangas": 1181,
     "version": "1.0.4"
   },
   "mangas": {
@@ -14162,6 +14162,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzI1OTUuanNvbg/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx54822-RtRk8BhQz7R5.jpg"
+        }
+      ]
+    },
+    "majp_2100": {
+      "title": "To Your Eternity",
+      "chapters": [
+        {
+          "id": "2100",
+          "title": "To Your Eternity",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzIxMDAuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx97830-Xl76R9pzLWOE.jpg"
         }
       ]
     }
