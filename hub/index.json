@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764712287,
-    "totalMangas": 1519,
+    "lastUpdated": 1764712289,
+    "totalMangas": 1520,
     "version": "1.0.4"
   },
   "mangas": {
@@ -18230,6 +18230,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzQxNi5qc29u/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx174798-0R1UEYX1s2XQ.jpg"
+        }
+      ]
+    },
+    "majp_9193": {
+      "title": "Yonezawa-san Is Done Being Human",
+      "chapters": [
+        {
+          "id": "9193",
+          "title": "Yonezawa-san Is Done Being Human",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzkxOTMuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx154357-oGviujkAjg0W.jpg"
         }
       ]
     }
