@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764710915,
-    "totalMangas": 1282,
+    "lastUpdated": 1764710920,
+    "totalMangas": 1283,
     "version": "1.0.4"
   },
   "mangas": {
@@ -15386,6 +15386,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzg1MC5qc29u/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b170223-6hLJH9Qc9WCK.jpg"
+        }
+      ]
+    },
+    "majp_18541": {
+      "title": "Bloody Folklore",
+      "chapters": [
+        {
+          "id": "18541",
+          "title": "Bloody Folklore",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzE4NTQxLmpzb24/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx89980-Zimcu5buWehj.png"
         }
       ]
     }
