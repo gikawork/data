@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764711364,
-    "totalMangas": 1362,
+    "lastUpdated": 1764711370,
+    "totalMangas": 1363,
     "version": "1.0.4"
   },
   "mangas": {
@@ -16346,6 +16346,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl81NDE4My5qc29u/",
           "type": "manhwa",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx150836-vWf0Hgyey7Mj.jpg"
+        }
+      ]
+    },
+    "majp_2435": {
+      "title": "The monster of 1st grade, class A.",
+      "chapters": [
+        {
+          "id": "2435",
+          "title": "The monster of 1st grade, class A.",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzI0MzUuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://images2.imgbox.com/c5/1a/0onI1s83_o.jpg"
         }
       ]
     }
