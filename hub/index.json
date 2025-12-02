@@ -1,7 +1,7 @@
 {
   "metadata": {
     "lastUpdated": 1764708829,
-    "totalMangas": 1118,
+    "totalMangas": 1119,
     "version": "1.0.4"
   },
   "mangas": {
@@ -13418,6 +13418,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzc3NzYuanNvbg/",
           "type": "manga",
           "cover_url": "https://cdn.mangaupdates.com/image/i458964.jpg"
+        }
+      ]
+    },
+    "majp_5561": {
+      "title": "Natsukashi Machi no Rozione",
+      "chapters": [
+        {
+          "id": "majp_5561",
+          "title": "Natsukashi Machi no Rozione",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzU1NjEuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b41733-kBSIRTvwQJyN.jpg"
         }
       ]
     }
