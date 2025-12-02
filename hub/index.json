@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764712047,
-    "totalMangas": 1473,
+    "lastUpdated": 1764712052,
+    "totalMangas": 1474,
     "version": "1.0.4"
   },
   "mangas": {
@@ -17678,6 +17678,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzIwNDEuanNvbg/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx146203-ICn4SRykJjYn.jpg"
+        }
+      ]
+    },
+    "majp_2713": {
+      "title": "Watashi no Oshi wa Akuyaku Reijou",
+      "chapters": [
+        {
+          "id": "2713",
+          "title": "Watashi no Oshi wa Akuyaku Reijou",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzI3MTMuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://cdn.myanimelist.net/images/manga/2/238641.jpg"
         }
       ]
     }
