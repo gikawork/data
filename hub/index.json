@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764711555,
-    "totalMangas": 1397,
+    "lastUpdated": 1764711558,
+    "totalMangas": 1398,
     "version": "1.0.4"
   },
   "mangas": {
@@ -16766,6 +16766,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzExMjcuanNvbg/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx121920-OYwMkgn7Z4tj.jpg"
+        }
+      ]
+    },
+    "maot_308815": {
+      "title": "Ueno-san wa Bukiyou",
+      "chapters": [
+        {
+          "id": "308815",
+          "title": "Ueno-san wa Bukiyou",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21vdC9tYW90XzMwODgxNS5qc29u/",
+          "type": "outro",
+          "cover_url": "https://cdn.myanimelist.net/images/manga/3/184589.jpg"
         }
       ]
     }
