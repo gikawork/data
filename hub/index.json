@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764710744,
-    "totalMangas": 1249,
+    "lastUpdated": 1764710749,
+    "totalMangas": 1250,
     "version": "1.0.4"
   },
   "mangas": {
@@ -14990,6 +14990,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzMyOC5qc29u/",
           "type": "manga",
           "cover_url": "https://cdn.myanimelist.net/images/manga/5/323711.jpg"
+        }
+      ]
+    },
+    "majp_9541": {
+      "title": "Botsuraku Yotei Nanode, Kajishokunin wo Mezasu",
+      "chapters": [
+        {
+          "id": "9541",
+          "title": "Botsuraku Yotei Nanode, Kajishokunin wo Mezasu",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzk1NDEuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://cdn.myanimelist.net/images/manga/1/199044.jpg"
         }
       ]
     }
