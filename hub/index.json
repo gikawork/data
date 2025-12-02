@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764707741,
-    "totalMangas": 1092,
+    "lastUpdated": 1764707745,
+    "totalMangas": 1093,
     "version": "1.0.4"
   },
   "mangas": {
@@ -13106,6 +13106,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8xMDAzNi5qc29u/",
           "type": "manhwa",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx31076-zLUiq2ZO0A2F.jpg"
+        }
+      ]
+    },
+    "makr_652": {
+      "title": "Reincarnated as a Legendary Grimoire",
+      "chapters": [
+        {
+          "id": "makr_652",
+          "title": "Reincarnated as a Legendary Grimoire",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl82NTIuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.mangaupdates.com/image/i478795.jpg"
         }
       ]
     }
