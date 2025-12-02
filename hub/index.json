@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764712107,
-    "totalMangas": 1484,
+    "lastUpdated": 1764712113,
+    "totalMangas": 1485,
     "version": "1.0.4"
   },
   "mangas": {
@@ -17810,6 +17810,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzIxNzcuanNvbg/",
           "type": "manga",
           "cover_url": "https://cdn.myanimelist.net/images/manga/2/284781.jpg"
+        }
+      ]
+    },
+    "majp_9352": {
+      "title": "Hanma Baki",
+      "chapters": [
+        {
+          "id": "9352",
+          "title": "Hanma Baki",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzkzNTIuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx37760-FZlKe8a4yWN2.png"
         }
       ]
     }
