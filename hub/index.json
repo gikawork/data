@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": 1764711673,
+    "lastUpdated": 1764711677,
     "totalMangas": 1416,
     "version": "1.0.4"
   },
@@ -1490,18 +1490,6 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9KUDEwMy5qc29u/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx37842-KmQYJe4GOGNb.jpg"
-        }
-      ]
-    },
-    "JP694": {
-      "title": "Renai Shigou Shugi",
-      "chapters": [
-        {
-          "id": 694,
-          "title": "Renai Shigou Shugi",
-          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9KUDY5NC5qc29u/",
-          "type": "manga",
-          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx30828-I0kacikA1GNk.jpg"
         }
       ]
     },
@@ -16994,6 +16982,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzgzLmpzb24/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx106130-yPNeuSu75ey1.jpg"
+        }
+      ]
+    },
+    "majp_694": {
+      "title": "Make the Exorcist Fall in Love",
+      "chapters": [
+        {
+          "id": "694",
+          "title": "Make the Exorcist Fall in Love",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzY5NC5qc29u/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx143516-kIK4iJpcCH30.jpg"
         }
       ]
     }
