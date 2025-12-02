@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764710672,
-    "totalMangas": 1237,
+    "lastUpdated": 1764710676,
+    "totalMangas": 1238,
     "version": "1.0.4"
   },
   "mangas": {
@@ -14846,6 +14846,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzIwODIuanNvbg/",
           "type": "manga",
           "cover_url": "https://images2.imgbox.com/20/60/FUWrIVqC_o.jpg"
+        }
+      ]
+    },
+    "majp_356039": {
+      "title": "Ore to Seijo ga Dekiteru Koto ga Baretara Kono Party wa Houkai suru",
+      "chapters": [
+        {
+          "id": "356039",
+          "title": "Ore to Seijo ga Dekiteru Koto ga Baretara Kono Party wa Houkai suru",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzM1NjAzOS5qc29u/",
+          "type": "manga",
+          "cover_url": "https://cdn.mangaupdates.com/image/i493061.jpg"
         }
       ]
     }
