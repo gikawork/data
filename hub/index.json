@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764713019,
-    "totalMangas": 1554,
+    "lastUpdated": 1764713028,
+    "totalMangas": 1555,
     "version": "1.0.4"
   },
   "mangas": {
@@ -18650,6 +18650,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzk5Mi5qc29u/",
           "type": "manga",
           "cover_url": "https://cdn.mangaupdates.com/image/i495791.jpg"
+        }
+      ]
+    },
+    "majp_19028": {
+      "title": "Kurumada Suikoden: Hero of Heroes",
+      "chapters": [
+        {
+          "id": "19028",
+          "title": "Kurumada Suikoden: Hero of Heroes",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzE5MDI4Lmpzb24/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx90121-moHv6aAYhNji.jpg"
         }
       ]
     }
