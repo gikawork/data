@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764712059,
-    "totalMangas": 1476,
+    "lastUpdated": 1764712064,
+    "totalMangas": 1477,
     "version": "1.0.4"
   },
   "mangas": {
@@ -17714,6 +17714,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzEyNTkuanNvbg/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx116170-Q9f5Wk6cod5E.jpg"
+        }
+      ]
+    },
+    "majp_543": {
+      "title": "Kakkou no Iinazuke (Oneshot)",
+      "chapters": [
+        {
+          "id": "543",
+          "title": "Kakkou no Iinazuke (Oneshot)",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzU0My5qc29u/",
+          "type": "manga",
+          "cover_url": "https://images2.imgbox.com/8a/68/rbqRDEzL_o.jpg"
         }
       ]
     }
