@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764709452,
-    "totalMangas": 1224,
+    "lastUpdated": 1764709458,
+    "totalMangas": 1225,
     "version": "1.0.4"
   },
   "mangas": {
@@ -14690,6 +14690,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzE3My5qc29u/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx132182-maXh2QzYPrqR.jpg"
+        }
+      ]
+    },
+    "makr_4643": {
+      "title": "Chronicles of the Demon Faction",
+      "chapters": [
+        {
+          "id": "4643",
+          "title": "Chronicles of the Demon Faction",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl80NjQzLmpzb24/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.myanimelist.net/images/manga/2/279966.jpg"
         }
       ]
     }
