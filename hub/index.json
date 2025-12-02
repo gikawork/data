@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764710881,
-    "totalMangas": 1275,
+    "lastUpdated": 1764710887,
+    "totalMangas": 1276,
     "version": "1.0.4"
   },
   "mangas": {
@@ -15302,6 +15302,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8xMjYzLmpzb24/",
           "type": "manhwa",
           "cover_url": "https://ap-proxy.mangabaka.dev/proxy.php?url=https://cdn.anime-planet.com/manga/primary/eternally-regressing-knight-novel-1.webp?t=1716175084"
+        }
+      ]
+    },
+    "majp_247": {
+      "title": "Sakamoto Days",
+      "chapters": [
+        {
+          "id": "247",
+          "title": "Sakamoto Days",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzI0Ny5qc29u/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx125828-p78Z8SflkfmO.jpg"
         }
       ]
     }
