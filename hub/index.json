@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764712391,
-    "totalMangas": 1539,
+    "lastUpdated": 1764712394,
+    "totalMangas": 1540,
     "version": "1.0.4"
   },
   "mangas": {
@@ -18470,6 +18470,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzEwNTYwMS5qc29u/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/nx30007-jVUNk721L0Uz.jpg"
+        }
+      ]
+    },
+    "majp_1644": {
+      "title": "Kaette Kudasai! Akutsu-san",
+      "chapters": [
+        {
+          "id": "1644",
+          "title": "Kaette Kudasai! Akutsu-san",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzE2NDQuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://cdn.mangaupdates.com/image/i471801.jpg"
         }
       ]
     }
