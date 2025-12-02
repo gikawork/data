@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764711102,
-    "totalMangas": 1319,
+    "lastUpdated": 1764711107,
+    "totalMangas": 1320,
     "version": "1.0.4"
   },
   "mangas": {
@@ -15830,6 +15830,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzUyOTcuanNvbg/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx179402-VMuLHgvLnh7i.jpg"
+        }
+      ]
+    },
+    "majp_32832": {
+      "title": "Splash!!",
+      "chapters": [
+        {
+          "id": "32832",
+          "title": "Splash!!",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzMyODMyLmpzb24/",
+          "type": "manga",
+          "cover_url": "https://cdn.mangaupdates.com/image/i217219.jpg"
         }
       ]
     }
