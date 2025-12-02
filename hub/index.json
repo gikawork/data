@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764708835,
-    "totalMangas": 1121,
+    "lastUpdated": 1764708838,
+    "totalMangas": 1122,
     "version": "1.0.4"
   },
   "mangas": {
@@ -13454,6 +13454,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzI0NDcuanNvbg/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx86890-hYxIiVM6rBBG.jpg"
+        }
+      ]
+    },
+    "majp_81943": {
+      "title": "Disney Twisted-Wonderland the Comic: Episode of Scarabia",
+      "chapters": [
+        {
+          "id": "majp_81943",
+          "title": "Disney Twisted-Wonderland the Comic: Episode of Scarabia",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzgxOTQzLmpzb24/",
+          "type": "manga",
+          "cover_url": "https://cdn.myanimelist.net/images/manga/1/320438.jpg"
         }
       ]
     }
