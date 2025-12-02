@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764710838,
-    "totalMangas": 1268,
+    "lastUpdated": 1764710842,
+    "totalMangas": 1269,
     "version": "1.0.4"
   },
   "mangas": {
@@ -15218,6 +15218,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8zMjEzLmpzb24/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf /scans/1/obras/9800/67abac23bd13e.png"
+        }
+      ]
+    },
+    "majp_178161": {
+      "title": "Ane no Tomodachi",
+      "chapters": [
+        {
+          "id": "178161",
+          "title": "Ane no Tomodachi",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzE3ODE2MS5qc29u/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx174315-ww59pBzOsNrM.jpg"
         }
       ]
     }
