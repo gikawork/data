@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764710976,
-    "totalMangas": 1294,
+    "lastUpdated": 1764710981,
+    "totalMangas": 1295,
     "version": "1.0.4"
   },
   "mangas": {
@@ -15530,6 +15530,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzMxNTguanNvbg/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx78151-o2g4GiqaiPyO.jpg"
+        }
+      ]
+    },
+    "majp_356958": {
+      "title": "Osananananajimi",
+      "chapters": [
+        {
+          "id": "356958",
+          "title": "Osananananajimi",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzM1Njk1OC5qc29u/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx195083-Vds2OgtercJW.png"
         }
       ]
     }
