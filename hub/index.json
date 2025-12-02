@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764712126,
-    "totalMangas": 1488,
+    "lastUpdated": 1764712131,
+    "totalMangas": 1489,
     "version": "1.0.4"
   },
   "mangas": {
@@ -17858,6 +17858,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzE4OTYxNC5qc29u/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx191412-OzpdKcdCNCxZ.png"
+        }
+      ]
+    },
+    "majp_2377": {
+      "title": "Kawaisou na Imouto-chan",
+      "chapters": [
+        {
+          "id": "2377",
+          "title": "Kawaisou na Imouto-chan",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzIzNzcuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx186187-IcZb956YVgT4.jpg"
         }
       ]
     }
