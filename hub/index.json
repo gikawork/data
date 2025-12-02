@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1759349303,
-    "totalMangas": 1085,
+    "lastUpdated": 1764696002,
+    "totalMangas": 1084,
     "version": "1.0.4"
   },
   "mangas": {
@@ -1178,18 +1178,6 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9KUDk4NC5qc29u/",
           "type": "manga",
           "cover_url": "https://cdn.myanimelist.net/images/manga/3/224102.jpg"
-        }
-      ]
-    },
-    "KR342": {
-      "title": "I Obtained a Mythic Item",
-      "chapters": [
-        {
-          "id": 342,
-          "title": "I Obtained a Mythic Item",
-          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvS1IzNDIuanNvbg%3D%3D/",
-          "type": "manhwa",
-          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx151025-j7nZBNb46cv9.jpg"
         }
       ]
     },
@@ -13010,6 +12998,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9KUDE3NS5qc29u/",
           "type": "manga",
           "cover_url": "https://cdn.myanimelist.net/images/manga/2/335092.jpg"
+        }
+      ]
+    },
+    "makr_1970": {
+      "title": "I Obtained a Mythic Item",
+      "chapters": [
+        {
+          "id": 1970,
+          "title": "I Obtained a Mythic Item",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8xOTcwLmpzb24%3D/",
+          "type": "manhwa",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx151025-j7nZBNb46cv9.jpg"
         }
       ]
     }
