@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764711965,
-    "totalMangas": 1460,
+    "lastUpdated": 1764711971,
+    "totalMangas": 1461,
     "version": "1.0.4"
   },
   "mangas": {
@@ -17522,6 +17522,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzkxMS5qc29u/",
           "type": "manga",
           "cover_url": "https://cdn.mangaupdates.com/image/i480888.jpg"
+        }
+      ]
+    },
+    "majp_1520": {
+      "title": "Tokyo Babylon",
+      "chapters": [
+        {
+          "id": "1520",
+          "title": "Tokyo Babylon",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzE1MjAuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://cdn.myanimelist.net/images/manga/1/260527.jpg"
         }
       ]
     }
