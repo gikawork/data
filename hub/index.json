@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": 1764711468,
+    "lastUpdated": 1764711471,
     "totalMangas": 1381,
     "version": "1.0.4"
   },
@@ -8258,18 +8258,6 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9KUDQyOS5qc29u/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx189125-VMlENdsPS214.jpg"
-        }
-      ]
-    },
-    "JP925": {
-      "title": "The Summer Hikaru Died",
-      "chapters": [
-        {
-          "id": 925,
-          "title": "The Summer Hikaru Died",
-          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9KUDkyNS5qc29u/",
-          "type": "manga",
-          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx138603-j0gcshf7PVkN.jpg"
         }
       ]
     },
@@ -16574,6 +16562,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzMyODguanNvbg/",
           "type": "manga",
           "cover_url": "https://images2.imgbox.com/cf/c9/s9p6kjA0_o.png"
+        }
+      ]
+    },
+    "majp_925": {
+      "title": "Kimi wa 008",
+      "chapters": [
+        {
+          "id": "925",
+          "title": "Kimi wa 008",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzkyNS5qc29u/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/nx101473-ZYSrh2EUemkw.jpg"
         }
       ]
     }
