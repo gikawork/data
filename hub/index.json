@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764711035,
-    "totalMangas": 1305,
+    "lastUpdated": 1764711039,
+    "totalMangas": 1306,
     "version": "1.0.4"
   },
   "mangas": {
@@ -15662,6 +15662,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzQ4MDEuanNvbg/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx45578-mjbt1QSVTlCi.jpg"
+        }
+      ]
+    },
+    "makr_7396": {
+      "title": "Frozen Hearts",
+      "chapters": [
+        {
+          "id": "7396",
+          "title": "Frozen Hearts",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl83Mzk2Lmpzb24/",
+          "type": "manhwa",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx186018-Mf88MwLPyd3B.jpg"
         }
       ]
     }
