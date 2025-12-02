@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764711353,
-    "totalMangas": 1360,
+    "lastUpdated": 1764711359,
+    "totalMangas": 1361,
     "version": "1.0.4"
   },
   "mangas": {
@@ -16322,6 +16322,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8zNTUxNTYuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://images2.imgbox.com/f5/d5/FOSpojgC_o.jpg"
+        }
+      ]
+    },
+    "majp_1287": {
+      "title": "Kill Blue",
+      "chapters": [
+        {
+          "id": "1287",
+          "title": "Kill Blue",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzEyODcuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx163495-tCWQW0kSvfjO.jpg"
         }
       ]
     }
