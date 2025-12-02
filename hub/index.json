@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764711938,
-    "totalMangas": 1456,
+    "lastUpdated": 1764711944,
+    "totalMangas": 1457,
     "version": "1.0.4"
   },
   "mangas": {
@@ -17474,6 +17474,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzE5MTUuanNvbg/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx86123-Ill8uBdtvWrR.png"
+        }
+      ]
+    },
+    "majp_2173": {
+      "title": "Gachiakuta",
+      "chapters": [
+        {
+          "id": "2173",
+          "title": "Gachiakuta",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzIxNzMuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx144946-cscic3n2SwdY.jpg"
         }
       ]
     }
