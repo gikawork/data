@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764708937,
-    "totalMangas": 1149,
+    "lastUpdated": 1764708940,
+    "totalMangas": 1150,
     "version": "1.0.4"
   },
   "mangas": {
@@ -13790,6 +13790,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzUyMjguanNvbg/",
           "type": "manga",
           "cover_url": "https://cdn.myanimelist.net/images/manga/2/239721.jpg"
+        }
+      ]
+    },
+    "makr_6824": {
+      "title": "Chronicles Of The Martial God's Return",
+      "chapters": [
+        {
+          "id": "makr_6824",
+          "title": "Chronicles Of The Martial God's Return",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl82ODI0Lmpzb24/",
+          "type": "manhwa",
+          "cover_url": "https://files.catbox.moe/zf7z9d.jpg"
         }
       ]
     }
