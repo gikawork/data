@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764711956,
-    "totalMangas": 1458,
+    "lastUpdated": 1764711962,
+    "totalMangas": 1459,
     "version": "1.0.4"
   },
   "mangas": {
@@ -17498,6 +17498,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8yNTU2Lmpzb24/",
           "type": "manhwa",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx156477-uM3wUBlYEaap.png"
+        }
+      ]
+    },
+    "makr_54240": {
+      "title": "A Dance of Swords in the Night",
+      "chapters": [
+        {
+          "id": "54240",
+          "title": "A Dance of Swords in the Night",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl81NDI0MC5qc29u/",
+          "type": "manhwa",
+          "cover_url": "https://images2.imgbox.com/53/d7/dNpKkCGv_o.png"
         }
       ]
     }
