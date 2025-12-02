@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764711987,
-    "totalMangas": 1464,
+    "lastUpdated": 1764711992,
+    "totalMangas": 1465,
     "version": "1.0.4"
   },
   "mangas": {
@@ -17570,6 +17570,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzIwODEuanNvbg/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx186345-0EUlBbAvqfGf.jpg"
+        }
+      ]
+    },
+    "majp_3714": {
+      "title": "The Solitary Gal Narumi-san Loves Cute Things",
+      "chapters": [
+        {
+          "id": "3714",
+          "title": "The Solitary Gal Narumi-san Loves Cute Things",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzM3MTQuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://images2.imgbox.com/2e/8b/hSMNmnwy_o.jpg"
         }
       ]
     }
