@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": 1764711863,
+    "lastUpdated": 1764711869,
     "totalMangas": 1443,
     "version": "1.0.4"
   },
@@ -5642,18 +5642,6 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvQ0g5ODguanNvbg%3D%3D/",
           "type": "manhua",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx165063-lXGNwxADe2S1.png"
-        }
-      ]
-    },
-    "JP722": {
-      "title": "Saboten no Himitsu",
-      "chapters": [
-        {
-          "id": 722,
-          "title": "Saboten no Himitsu",
-          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9KUDcyMi5qc29u/",
-          "type": "manga",
-          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx31329-pcCYJUXKvjd4.png"
         }
       ]
     },
@@ -17318,6 +17306,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzQ5NjU2Lmpzb24/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx141091-5mLjbfr6iitF.jpg"
+        }
+      ]
+    },
+    "majp_722": {
+      "title": "Class de 2-banme ni Kawaii Onnanoko to Tomodachi ni Natta",
+      "chapters": [
+        {
+          "id": "722",
+          "title": "Class de 2-banme ni Kawaii Onnanoko to Tomodachi ni Natta",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzcyMi5qc29u/",
+          "type": "manga",
+          "cover_url": "https://cdn.mangaupdates.com/image/i451549.jpg"
         }
       ]
     }
