@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764711296,
-    "totalMangas": 1348,
+    "lastUpdated": 1764711301,
+    "totalMangas": 1349,
     "version": "1.0.4"
   },
   "mangas": {
@@ -16178,6 +16178,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzczMzEuanNvbg/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx108798-KNH4yCBY2eql.jpg"
+        }
+      ]
+    },
+    "majp_1667": {
+      "title": "The Isekai Doctor: Any Sufficiently Advanced Medical Science Is Indistinguishable from Magic",
+      "chapters": [
+        {
+          "id": "1667",
+          "title": "The Isekai Doctor: Any Sufficiently Advanced Medical Science Is Indistinguishable from Magic",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzE2NjcuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx144599-FXY0u4YOfcsm.jpg"
         }
       ]
     }
