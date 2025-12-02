@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764709398,
-    "totalMangas": 1213,
+    "lastUpdated": 1764709403,
+    "totalMangas": 1214,
     "version": "1.0.4"
   },
   "mangas": {
@@ -14558,6 +14558,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl81MDI4NS5qc29u/",
           "type": "manhwa",
           "cover_url": "https://files.catbox.moe/v4nmje.png"
+        }
+      ]
+    },
+    "majp_1990": {
+      "title": "Seichou Cheat de Nandemo Dekiru you ni Natta ga, Mushoku dake wa Yamerarenai you desu",
+      "chapters": [
+        {
+          "id": "1990",
+          "title": "Seichou Cheat de Nandemo Dekiru you ni Natta ga, Mushoku dake wa Yamerarenai you desu",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzE5OTAuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/nx100733-WgXFvxZMBSFI.jpg"
         }
       ]
     }
