@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": 1764711202,
+    "lastUpdated": 1764711205,
     "totalMangas": 1336,
     "version": "1.0.4"
   },
@@ -7598,18 +7598,6 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9KUDY2Lmpzb24%3D/",
           "type": "manga",
           "cover_url": "https://cdn.myanimelist.net/images/manga/1/260104.jpg"
-        }
-      ]
-    },
-    "JP1047": {
-      "title": "Yowa Yowa Sensei",
-      "chapters": [
-        {
-          "id": 1047,
-          "title": "Yowa Yowa Sensei",
-          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9KUDEwNDcuanNvbg%3D%3D/",
-          "type": "manga",
-          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx157128-yRTFqweyaOkv.jpg"
         }
       ]
     },
@@ -16034,6 +16022,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzQ0MzkuanNvbg/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx130729-EOOFhNdcAb6l.png"
+        }
+      ]
+    },
+    "majp_1047": {
+      "title": "One Room, Hiatari Futsuu, Tenshi-tsuki",
+      "chapters": [
+        {
+          "id": "1047",
+          "title": "One Room, Hiatari Futsuu, Tenshi-tsuki",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzEwNDcuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://cdn.myanimelist.net/images/manga/1/243534.jpg"
         }
       ]
     }
