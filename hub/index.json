@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764712233,
-    "totalMangas": 1510,
+    "lastUpdated": 1764712239,
+    "totalMangas": 1511,
     "version": "1.0.4"
   },
   "mangas": {
@@ -18122,6 +18122,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzQyNDkuanNvbg/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx122634-W6aDYrQnMsZ7.jpg"
+        }
+      ]
+    },
+    "majp_4076": {
+      "title": "Aishiteru Game wo Owarasetai",
+      "chapters": [
+        {
+          "id": "4076",
+          "title": "Aishiteru Game wo Owarasetai",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzQwNzYuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx143031-TP062dcP0V8C.jpg"
         }
       ]
     }
