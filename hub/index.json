@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764712015,
-    "totalMangas": 1468,
+    "lastUpdated": 1764712021,
+    "totalMangas": 1469,
     "version": "1.0.4"
   },
   "mangas": {
@@ -17618,6 +17618,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzM1Lmpzb24/",
           "type": "manga",
           "cover_url": "https://cdn.mangaupdates.com/image/i499786.jpg"
+        }
+      ]
+    },
+    "majp_4284": {
+      "title": "The Water Dragon's Bride",
+      "chapters": [
+        {
+          "id": "4284",
+          "title": "The Water Dragon's Bride",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzQyODQuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx85830-qAuhZu9l3bHS.png"
         }
       ]
     }
