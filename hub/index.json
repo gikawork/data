@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764712102,
-    "totalMangas": 1483,
+    "lastUpdated": 1764712107,
+    "totalMangas": 1484,
     "version": "1.0.4"
   },
   "mangas": {
@@ -17798,6 +17798,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzU5NC5qc29u/",
           "type": "manga",
           "cover_url": "https://cdn.myanimelist.net/images/manga/1/299691.jpg"
+        }
+      ]
+    },
+    "majp_2177": {
+      "title": "Sensitive Boy",
+      "chapters": [
+        {
+          "id": "2177",
+          "title": "Sensitive Boy",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzIxNzcuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://cdn.myanimelist.net/images/manga/2/284781.jpg"
         }
       ]
     }
