@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764709285,
-    "totalMangas": 1191,
+    "lastUpdated": 1764709290,
+    "totalMangas": 1192,
     "version": "1.0.4"
   },
   "mangas": {
@@ -14294,6 +14294,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzM3MzQuanNvbg/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx96834-N5hCllCng8pg.jpg"
+        }
+      ]
+    },
+    "majp_1568": {
+      "title": "Okiraku Ryoushu no Tanoshii Ryouchi Bouei ~Seisan-kei Majutsu de Na mo na Kimura wo Saikyou no Jousai Toshi ni~",
+      "chapters": [
+        {
+          "id": "1568",
+          "title": "Okiraku Ryoushu no Tanoshii Ryouchi Bouei ~Seisan-kei Majutsu de Na mo na Kimura wo Saikyou no Jousai Toshi ni~",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzE1NjguanNvbg/",
+          "type": "manga",
+          "cover_url": "https://cdn.mangaupdates.com/image/i485542.jpg"
         }
       ]
     }
