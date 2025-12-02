@@ -1,7 +1,7 @@
 {
   "metadata": {
     "lastUpdated": 1764708860,
-    "totalMangas": 1127,
+    "totalMangas": 1128,
     "version": "1.0.4"
   },
   "mangas": {
@@ -13526,6 +13526,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzc1My5qc29u/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx103082-LyfcRaS80jy7.jpg"
+        }
+      ]
+    },
+    "mach_2490": {
+      "title": "The Evil Alchemist Can't Handle His Own Experiment",
+      "chapters": [
+        {
+          "id": "mach_2490",
+          "title": "The Evil Alchemist Can't Handle His Own Experiment",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF8yNDkwLmpzb24/",
+          "type": "manhua",
+          "cover_url": "https://images2.imgbox.com/bc/8f/khGB9VlK_o.png"
         }
       ]
     }
