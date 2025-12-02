@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764710999,
-    "totalMangas": 1297,
+    "lastUpdated": 1764711001,
+    "totalMangas": 1298,
     "version": "1.0.4"
   },
   "mangas": {
@@ -15566,6 +15566,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzEyMTUuanNvbg/",
           "type": "manga",
           "cover_url": "https://cdn.mangaupdates.com/image/i468956.jpg"
+        }
+      ]
+    },
+    "majp_1578": {
+      "title": "Gunsmith Cats",
+      "chapters": [
+        {
+          "id": "1578",
+          "title": "Gunsmith Cats",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzE1NzguanNvbg/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx31319-8Ykl1NYqaX6r.png"
         }
       ]
     }
