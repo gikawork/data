@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764712269,
-    "totalMangas": 1517,
+    "lastUpdated": 1764712274,
+    "totalMangas": 1518,
     "version": "1.0.4"
   },
   "mangas": {
@@ -18206,6 +18206,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzM4NjMuanNvbg/",
           "type": "manga",
           "cover_url": "https://cdn.mangaupdates.com/image/i479046.jpg"
+        }
+      ]
+    },
+    "majp_82535": {
+      "title": "Classroom of the Elite 2nd Year Edition 2nd Stage",
+      "chapters": [
+        {
+          "id": "82535",
+          "title": "Classroom of the Elite 2nd Year Edition 2nd Stage",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzgyNTM1Lmpzb24/",
+          "type": "manga",
+          "cover_url": "https://images2.imgbox.com/60/cc/KLzTFEY1_o.jpg"
         }
       ]
     }
