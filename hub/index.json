@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764709244,
-    "totalMangas": 1184,
+    "lastUpdated": 1764709249,
+    "totalMangas": 1185,
     "version": "1.0.4"
   },
   "mangas": {
@@ -14210,6 +14210,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzQ4MzUuanNvbg/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx117084-S8EiQPF9leD0.jpg"
+        }
+      ]
+    },
+    "majp_3696": {
+      "title": "Live Dungeon!",
+      "chapters": [
+        {
+          "id": "3696",
+          "title": "Live Dungeon!",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzM2OTYuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx110999-1fyFZOPsfcrV.jpg"
         }
       ]
     }
