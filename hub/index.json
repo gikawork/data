@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764708998,
-    "totalMangas": 1168,
+    "lastUpdated": 1764709000,
+    "totalMangas": 1169,
     "version": "1.0.4"
   },
   "mangas": {
@@ -14018,6 +14018,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzI1My5qc29u/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx165258-OkXWo9kVhyxX.jpg"
+        }
+      ]
+    },
+    "majp_2582": {
+      "title": "Kesa mo Yuraretemasu",
+      "chapters": [
+        {
+          "id": "majp_2582",
+          "title": "Kesa mo Yuraretemasu",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzI1ODIuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx172729-1owQQ5lhCBog.jpg"
         }
       ]
     }
