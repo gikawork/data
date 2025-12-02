@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764708909,
-    "totalMangas": 1141,
+    "lastUpdated": 1764708912,
+    "totalMangas": 1142,
     "version": "1.0.4"
   },
   "mangas": {
@@ -13694,6 +13694,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8xMjEzLmpzb24/",
           "type": "manhwa",
           "cover_url": "https://images2.imgbox.com/0d/3c/RHbFsHht_o.png"
+        }
+      ]
+    },
+    "makr_3190": {
+      "title": "The Archmage's Daughter",
+      "chapters": [
+        {
+          "id": "makr_3190",
+          "title": "The Archmage's Daughter",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8zMTkwLmpzb24/",
+          "type": "manhwa",
+          "cover_url": "https://images2.imgbox.com/3d/31/vaEkWzhw_o.jpg"
         }
       ]
     }
