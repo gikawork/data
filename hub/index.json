@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764711001,
-    "totalMangas": 1298,
+    "lastUpdated": 1764711007,
+    "totalMangas": 1299,
     "version": "1.0.4"
   },
   "mangas": {
@@ -15578,6 +15578,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzE1NzguanNvbg/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx31319-8Ykl1NYqaX6r.png"
+        }
+      ]
+    },
+    "majp_36143": {
+      "title": "The King's Beast",
+      "chapters": [
+        {
+          "id": "36143",
+          "title": "The King's Beast",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzM2MTQzLmpzb24/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx107544-r0fa0H1KDoOD.png"
         }
       ]
     }
