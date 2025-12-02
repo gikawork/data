@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764708838,
-    "totalMangas": 1122,
+    "lastUpdated": 1764708841,
+    "totalMangas": 1123,
     "version": "1.0.4"
   },
   "mangas": {
@@ -13466,6 +13466,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzgxOTQzLmpzb24/",
           "type": "manga",
           "cover_url": "https://cdn.myanimelist.net/images/manga/1/320438.jpg"
+        }
+      ]
+    },
+    "mach_9043": {
+      "title": "Stay Low Profile, Sect Chief",
+      "chapters": [
+        {
+          "id": "mach_9043",
+          "title": "Stay Low Profile, Sect Chief",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF85MDQzLmpzb24/",
+          "type": "manhua",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx145689-ZP2bQbl6VTZO.png"
         }
       ]
     }
