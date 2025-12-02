@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764711097,
-    "totalMangas": 1318,
+    "lastUpdated": 1764711102,
+    "totalMangas": 1319,
     "version": "1.0.4"
   },
   "mangas": {
@@ -15818,6 +15818,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzI0MTEuanNvbg/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx159549-RsF9cqFieqsh.jpg"
+        }
+      ]
+    },
+    "majp_5297": {
+      "title": "Grand Metal Organs",
+      "chapters": [
+        {
+          "id": "5297",
+          "title": "Grand Metal Organs",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzUyOTcuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx179402-VMuLHgvLnh7i.jpg"
         }
       ]
     }
