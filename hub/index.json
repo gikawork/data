@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764708946,
-    "totalMangas": 1153,
+    "lastUpdated": 1764708948,
+    "totalMangas": 1154,
     "version": "1.0.4"
   },
   "mangas": {
@@ -13838,6 +13838,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzI4NjguanNvbg/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/15627.jpg"
+        }
+      ]
+    },
+    "majp_4037": {
+      "title": "Taisho Detective",
+      "chapters": [
+        {
+          "id": "majp_4037",
+          "title": "Taisho Detective",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzQwMzcuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://images2.imgbox.com/c9/ce/isDOe1cv_o.jpg"
         }
       ]
     }
