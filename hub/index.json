@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764709314,
-    "totalMangas": 1196,
+    "lastUpdated": 1764709320,
+    "totalMangas": 1197,
     "version": "1.0.4"
   },
   "mangas": {
@@ -14354,6 +14354,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzE2MzkuanNvbg/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx165668-7n7X9Aj1quDx.jpg"
+        }
+      ]
+    },
+    "majp_2089": {
+      "title": "Detective Conan",
+      "chapters": [
+        {
+          "id": "2089",
+          "title": "Detective Conan",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzIwODkuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://images2.imgbox.com/d8/50/ixsFCHUg_o.jpg"
         }
       ]
     }
