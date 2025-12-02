@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": 1764708992,
+    "lastUpdated": 1764708998,
     "totalMangas": 1168,
     "version": "1.0.4"
   },
@@ -11645,18 +11645,6 @@
         }
       ]
     },
-    "JP253": {
-      "title": "Furetai wa Koi no Hajimari",
-      "chapters": [
-        {
-          "id": 253,
-          "title": "Furetai wa Koi no Hajimari",
-          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9KUDI1My5qc29u/",
-          "type": "manga",
-          "cover_url": "https://cdn.myanimelist.net/images/manga/5/323711.jpg"
-        }
-      ]
-    },
     "JP374": {
       "title": "Issho ni Kurashite Ii desu ka?",
       "chapters": [
@@ -14018,6 +14006,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21vZWwvbWFvZWxfNDQ1NjMuanNvbg/",
           "type": "oel",
           "cover_url": "https://files.catbox.moe/kpxhah.jpg"
+        }
+      ]
+    },
+    "majp_253": {
+      "title": "The Otaku Love Connection",
+      "chapters": [
+        {
+          "id": "majp_253",
+          "title": "The Otaku Love Connection",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzI1My5qc29u/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx165258-OkXWo9kVhyxX.jpg"
         }
       ]
     }
