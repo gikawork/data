@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764712204,
-    "totalMangas": 1504,
+    "lastUpdated": 1764712209,
+    "totalMangas": 1505,
     "version": "1.0.4"
   },
   "mangas": {
@@ -18050,6 +18050,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzQxNTcuanNvbg/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx35680-bAXTcDPO91dk.jpg"
+        }
+      ]
+    },
+    "majp_5190": {
+      "title": "Oukoku e Tsuzuku Michi: Dorei Kenshi no Nariagari Harem Life",
+      "chapters": [
+        {
+          "id": "5190",
+          "title": "Oukoku e Tsuzuku Michi: Dorei Kenshi no Nariagari Harem Life",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzUxOTAuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://images2.imgbox.com/03/a5/TR68XZr6_o.jpg"
         }
       ]
     }
