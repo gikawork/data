@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764707769,
-    "totalMangas": 1101,
+    "lastUpdated": 1764707772,
+    "totalMangas": 1102,
     "version": "1.0.4"
   },
   "mangas": {
@@ -13214,6 +13214,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzUxMjY4OC5qc29u/",
           "type": "manga",
           "cover_url": "https://images2.imgbox.com/65/d8/SK9oQfUP_o.png"
+        }
+      ]
+    },
+    "makr_370035": {
+      "title": "Hujakga Daegongjaneun Murimin",
+      "chapters": [
+        {
+          "id": "makr_370035",
+          "title": "Hujakga Daegongjaneun Murimin",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8zNzAwMzUuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b199570-itxj3l8F2dxa.jpg"
         }
       ]
     }
