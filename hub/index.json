@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": 1764712007,
+    "lastUpdated": 1764712015,
     "totalMangas": 1468,
     "version": "1.0.4"
   },
@@ -6014,18 +6014,6 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvS1I4OTQuanNvbg%3D%3D/",
           "type": "manhwa",
           "cover_url": "https://files.catbox.moe/u6yvmg.jpg"
-        }
-      ]
-    },
-    "JP35": {
-      "title": "10-manbun no 1",
-      "chapters": [
-        {
-          "id": 35,
-          "title": "10-manbun no 1",
-          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9KUDM1Lmpzb24%3D/",
-          "type": "manga",
-          "cover_url": "https://cdn.mangaupdates.com/image/i453401.png"
         }
       ]
     },
@@ -17618,6 +17606,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzc0MDAuanNvbg/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b110379-ohIMUPd93SnI.jpg"
+        }
+      ]
+    },
+    "majp_35": {
+      "title": "Ogami Tsumiki to Ki Nichijou",
+      "chapters": [
+        {
+          "id": "35",
+          "title": "Ogami Tsumiki to Ki Nichijou",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzM1Lmpzb24/",
+          "type": "manga",
+          "cover_url": "https://cdn.mangaupdates.com/image/i499786.jpg"
         }
       ]
     }
