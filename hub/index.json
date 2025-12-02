@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764711820,
-    "totalMangas": 1437,
+    "lastUpdated": 1764711825,
+    "totalMangas": 1438,
     "version": "1.0.4"
   },
   "mangas": {
@@ -17246,6 +17246,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzM1My5qc29u/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/nx58533-svgTPMaF3J7y.png"
+        }
+      ]
+    },
+    "majp_11502": {
+      "title": "Kingdom Hearts꞉ Chain of Memories",
+      "chapters": [
+        {
+          "id": "11502",
+          "title": "Kingdom Hearts꞉ Chain of Memories",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzExNTAyLmpzb24/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx30397-05ZjcMKVLbk6.jpg"
         }
       ]
     }
