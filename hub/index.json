@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764711165,
-    "totalMangas": 1328,
+    "lastUpdated": 1764711170,
+    "totalMangas": 1329,
     "version": "1.0.4"
   },
   "mangas": {
@@ -15938,6 +15938,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF81NTY5Lmpzb24/",
           "type": "manhua",
           "cover_url": "https://images2.imgbox.com/ae/1c/paRu1CWI_o.jpg"
+        }
+      ]
+    },
+    "majp_10310": {
+      "title": "Boku no Hatsukoi o Kimi ni Sasagu",
+      "chapters": [
+        {
+          "id": "10310",
+          "title": "Boku no Hatsukoi o Kimi ni Sasagu",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzEwMzEwLmpzb24/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/4207-xfRM0pk4fV8g.png"
         }
       ]
     }
