@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764711045,
-    "totalMangas": 1307,
+    "lastUpdated": 1764711050,
+    "totalMangas": 1308,
     "version": "1.0.4"
   },
   "mangas": {
@@ -15686,6 +15686,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzMwNzYwLmpzb24/",
           "type": "manga",
           "cover_url": "https://cdn.mangaupdates.com/image/i292862.png"
+        }
+      ]
+    },
+    "majp_2841": {
+      "title": "Ore no Level Up ga Okashii! - Dekiru Otoko no Isekai Tensei",
+      "chapters": [
+        {
+          "id": "2841",
+          "title": "Ore no Level Up ga Okashii! - Dekiru Otoko no Isekai Tensei",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzI4NDEuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://cdn.myanimelist.net/images/manga/3/278816.jpg"
         }
       ]
     }
