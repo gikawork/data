@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764712380,
-    "totalMangas": 1537,
+    "lastUpdated": 1764712385,
+    "totalMangas": 1538,
     "version": "1.0.4"
   },
   "mangas": {
@@ -18446,6 +18446,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl85ODIzOS5qc29u/",
           "type": "manhwa",
           "cover_url": "https://cdn.mangaupdates.com/image/i462648.jpg"
+        }
+      ]
+    },
+    "majp_29": {
+      "title": "Hyakumanjou Labyrinth",
+      "chapters": [
+        {
+          "id": "29",
+          "title": "Hyakumanjou Labyrinth",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzI5Lmpzb24/",
+          "type": "manga",
+          "cover_url": "https://cdn.myanimelist.net/images/manga/1/196858.jpg"
         }
       ]
     }
