@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764709464,
-    "totalMangas": 1226,
+    "lastUpdated": 1764709469,
+    "totalMangas": 1227,
     "version": "1.0.4"
   },
   "mangas": {
@@ -14714,6 +14714,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzI5MjkuanNvbg/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b30634-LSh2wXdmuCBz.jpg"
+        }
+      ]
+    },
+    "majp_5015": {
+      "title": "Metro・Survive",
+      "chapters": [
+        {
+          "id": "5015",
+          "title": "Metro・Survive",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzUwMTUuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/7181.jpg"
         }
       ]
     }
