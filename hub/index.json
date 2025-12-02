@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764711534,
-    "totalMangas": 1393,
+    "lastUpdated": 1764711540,
+    "totalMangas": 1394,
     "version": "1.0.4"
   },
   "mangas": {
@@ -16718,6 +16718,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzQ4MjMuanNvbg/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx139976-RoGiZ5ReatiD.png"
+        }
+      ]
+    },
+    "majp_40835": {
+      "title": "Shuumatsu no Harem: Fantasia Gakuen",
+      "chapters": [
+        {
+          "id": "40835",
+          "title": "Shuumatsu no Harem: Fantasia Gakuen",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzQwODM1Lmpzb24/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx118483-Pf44HtaaiyC4.png"
         }
       ]
     }
