@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764711545,
-    "totalMangas": 1395,
+    "lastUpdated": 1764711550,
+    "totalMangas": 1396,
     "version": "1.0.4"
   },
   "mangas": {
@@ -16742,6 +16742,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzE4MzY4Lmpzb24/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx31322-fqZMU9R5gp6M.jpg"
+        }
+      ]
+    },
+    "majp_357178": {
+      "title": "35-sai dokushin Yamada, isekai mura ni risou no sekando hausu o tsukuritai ~isekai to genjitsu no ii tokodori raifu~",
+      "chapters": [
+        {
+          "id": "357178",
+          "title": "35-sai dokushin Yamada, isekai mura ni risou no sekando hausu o tsukuritai ~isekai to genjitsu no ii tokodori raifu~",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzM1NzE3OC5qc29u/",
+          "type": "manga",
+          "cover_url": "https://images2.imgbox.com/bd/4b/JQw7SHfO_o.jpg"
         }
       ]
     }
