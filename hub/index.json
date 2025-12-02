@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764711616,
-    "totalMangas": 1407,
+    "lastUpdated": 1764711618,
+    "totalMangas": 1408,
     "version": "1.0.4"
   },
   "mangas": {
@@ -16886,6 +16886,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzI4NC5qc29u/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx85646-sIQChZcqyBGs.jpg"
+        }
+      ]
+    },
+    "mach_1563": {
+      "title": "Modern MoGal",
+      "chapters": [
+        {
+          "id": "1563",
+          "title": "Modern MoGal",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF8xNTYzLmpzb24/",
+          "type": "manhua",
+          "cover_url": "https://images2.imgbox.com/43/aa/JwgiHMnN_o.jpg"
         }
       ]
     }
