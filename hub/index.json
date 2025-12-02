@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764708964,
-    "totalMangas": 1159,
+    "lastUpdated": 1764708967,
+    "totalMangas": 1160,
     "version": "1.0.4"
   },
   "mangas": {
@@ -13910,6 +13910,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzE2NzcuanNvbg/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx105778-euxXZEIfDY2u.png"
+        }
+      ]
+    },
+    "majp_101698": {
+      "title": "Chotto dake Ai ga Omoi Dark Elf ga Isekai kara Oikaketekita",
+      "chapters": [
+        {
+          "id": "majp_101698",
+          "title": "Chotto dake Ai ga Omoi Dark Elf ga Isekai kara Oikaketekita",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzEwMTY5OC5qc29u/",
+          "type": "manga",
+          "cover_url": "https://images2.imgbox.com/93/1f/f0hFMtFN_o.jpg"
         }
       ]
     }
