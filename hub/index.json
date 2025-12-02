@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": 1764712419,
+    "lastUpdated": 1764712424,
     "totalMangas": 1543,
     "version": "1.0.4"
   },
@@ -6830,18 +6830,6 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9KUDE2NC5qc29u/",
           "type": "manga",
           "cover_url": "https://images2.imgbox.com/d7/03/vPEYIKvo_o.jpg"
-        }
-      ]
-    },
-    "JP268": {
-      "title": "Giant Killing",
-      "chapters": [
-        {
-          "id": 268,
-          "title": "Giant Killing",
-          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9KUDI2OC5qc29u/",
-          "type": "manga",
-          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx43897-nWNzhEW9ibIf.jpg"
         }
       ]
     },
@@ -18518,6 +18506,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl84Mzc2Lmpzb24/",
           "type": "manhwa",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx119276-wqzyyB3xuPVo.jpg"
+        }
+      ]
+    },
+    "majp_268": {
+      "title": "Shihai Shoujo Kubaru-chan",
+      "chapters": [
+        {
+          "id": "268",
+          "title": "Shihai Shoujo Kubaru-chan",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzI2OC5qc29u/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx167107-IZD3SxepnU2m.jpg"
         }
       ]
     }
