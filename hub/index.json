@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764710788,
-    "totalMangas": 1258,
+    "lastUpdated": 1764710794,
+    "totalMangas": 1259,
     "version": "1.0.4"
   },
   "mangas": {
@@ -15098,6 +15098,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzEzMTYxNC5qc29u/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx180753-h6JdysFBEIla.jpg"
+        }
+      ]
+    },
+    "majp_1781": {
+      "title": "Isekai Kenkokuki",
+      "chapters": [
+        {
+          "id": "1781",
+          "title": "Isekai Kenkokuki",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzE3ODEuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://cdn.myanimelist.net/images/manga/2/209371.jpg"
         }
       ]
     }
