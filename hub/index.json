@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764709309,
-    "totalMangas": 1195,
+    "lastUpdated": 1764709314,
+    "totalMangas": 1196,
     "version": "1.0.4"
   },
   "mangas": {
@@ -14342,6 +14342,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF8xNTAzLmpzb24/",
           "type": "manhua",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/7115/67e8c6e7e8f9c.png"
+        }
+      ]
+    },
+    "majp_1639": {
+      "title": "DOGSRED",
+      "chapters": [
+        {
+          "id": "1639",
+          "title": "DOGSRED",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzE2MzkuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx165668-7n7X9Aj1quDx.jpg"
         }
       ]
     }
