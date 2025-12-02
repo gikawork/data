@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764712196,
-    "totalMangas": 1502,
+    "lastUpdated": 1764712201,
+    "totalMangas": 1503,
     "version": "1.0.4"
   },
   "mangas": {
@@ -18026,6 +18026,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzE5NzYuanNvbg/",
           "type": "manga",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/13275/687db381a3e58.webp"
+        }
+      ]
+    },
+    "majp_98184": {
+      "title": "Kyuuketsuki-san wa Chitoraretai",
+      "chapters": [
+        {
+          "id": "98184",
+          "title": "Kyuuketsuki-san wa Chitoraretai",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzk4MTg0Lmpzb24/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx187312-PNCbeBWETmzU.jpg"
         }
       ]
     }
