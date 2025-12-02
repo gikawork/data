@@ -1,7 +1,7 @@
 {
   "metadata": {
     "lastUpdated": 1764707760,
-    "totalMangas": 1097,
+    "totalMangas": 1098,
     "version": "1.0.4"
   },
   "mangas": {
@@ -13166,6 +13166,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzI0MTAuanNvbg/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx30012-1epmVfTSv2rr.png"
+        }
+      ]
+    },
+    "majp_3812": {
+      "title": "Captain Tsubasa: The Strongest Opponent! Holland Youth",
+      "chapters": [
+        {
+          "id": "majp_3812",
+          "title": "Captain Tsubasa: The Strongest Opponent! Holland Youth",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzM4MTIuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/3150.jpg"
         }
       ]
     }
