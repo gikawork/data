@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764711434,
-    "totalMangas": 1375,
+    "lastUpdated": 1764711439,
+    "totalMangas": 1376,
     "version": "1.0.4"
   },
   "mangas": {
@@ -16502,6 +16502,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzI0MjMuanNvbg/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx30556-J595SEy1nNjG.jpg"
+        }
+      ]
+    },
+    "majp_35079": {
+      "title": "Kumo desu ga, Nani ka?",
+      "chapters": [
+        {
+          "id": "35079",
+          "title": "Kumo desu ga, Nani ka?",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzM1MDc5Lmpzb24/",
+          "type": "manga",
+          "cover_url": "https://cdn.mangaupdates.com/image/i376980.jpg"
         }
       ]
     }
