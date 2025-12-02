@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764709502,
-    "totalMangas": 1234,
+    "lastUpdated": 1764709508,
+    "totalMangas": 1235,
     "version": "1.0.4"
   },
   "mangas": {
@@ -14810,6 +14810,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzEwNDI5Lmpzb24/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx30862-M7N7ySFyttKu.png"
+        }
+      ]
+    },
+    "majp_4537": {
+      "title": "Kiichi!!",
+      "chapters": [
+        {
+          "id": "4537",
+          "title": "Kiichi!!",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzQ1MzcuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx33064-TaMTZVD59ThX.jpg"
         }
       ]
     }
