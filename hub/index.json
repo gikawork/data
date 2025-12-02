@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764709344,
-    "totalMangas": 1202,
+    "lastUpdated": 1764709349,
+    "totalMangas": 1203,
     "version": "1.0.4"
   },
   "mangas": {
@@ -14426,6 +14426,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8zNzcwNi5qc29u/",
           "type": "manhwa",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx118593-IrSHdpP3PD0q.jpg"
+        }
+      ]
+    },
+    "majp_1311": {
+      "title": "The Jet Black Hedgehog꞉ Shadow the Hedgehog",
+      "chapters": [
+        {
+          "id": "1311",
+          "title": "The Jet Black Hedgehog꞉ Shadow the Hedgehog",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzEzMTEuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://cdn.mangaupdates.com/image/i485175.jpg"
         }
       ]
     }
