@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764712305,
-    "totalMangas": 1523,
+    "lastUpdated": 1764712311,
+    "totalMangas": 1524,
     "version": "1.0.4"
   },
   "mangas": {
@@ -18278,6 +18278,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzMzMDkuanNvbg/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx33082-YrGJ9Tj3UJ3a.png"
+        }
+      ]
+    },
+    "majp_14994": {
+      "title": "Butsu Zone",
+      "chapters": [
+        {
+          "id": "14994",
+          "title": "Butsu Zone",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzE0OTk0Lmpzb24/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx33539-y2OiAK6QXUEU.jpg"
         }
       ]
     }
