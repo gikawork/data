@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764712315,
-    "totalMangas": 1525,
+    "lastUpdated": 1764712320,
+    "totalMangas": 1526,
     "version": "1.0.4"
   },
   "mangas": {
@@ -18302,6 +18302,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzY0OTIuanNvbg/",
           "type": "manga",
           "cover_url": "https://images2.imgbox.com/19/3b/3O5YYkpa_o.jpg"
+        }
+      ]
+    },
+    "majp_2458": {
+      "title": "Florescer do Amor",
+      "chapters": [
+        {
+          "id": "2458",
+          "title": "Florescer do Amor",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzI0NTguanNvbg/",
+          "type": "manga",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/13323/687fe5c7958a5.png"
         }
       ]
     }
