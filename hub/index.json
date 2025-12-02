@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764709474,
-    "totalMangas": 1228,
+    "lastUpdated": 1764709476,
+    "totalMangas": 1229,
     "version": "1.0.4"
   },
   "mangas": {
@@ -14738,6 +14738,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzk3NzYuanNvbg/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx91305-zgnLCZaXNdQc.jpg"
+        }
+      ]
+    },
+    "makr_4594": {
+      "title": "Dungeon Porter",
+      "chapters": [
+        {
+          "id": "4594",
+          "title": "Dungeon Porter",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl80NTk0Lmpzb24/",
+          "type": "manhwa",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx193904-IrQP0Hw7Rqhg.jpg"
         }
       ]
     }
