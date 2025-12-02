@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764711689,
-    "totalMangas": 1418,
+    "lastUpdated": 1764711695,
+    "totalMangas": 1419,
     "version": "1.0.4"
   },
   "mangas": {
@@ -17018,6 +17018,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8xMTUuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.myanimelist.net/images/manga/1/306015.jpg"
+        }
+      ]
+    },
+    "makr_3587": {
+      "title": "Log-in Murim",
+      "chapters": [
+        {
+          "id": "3587",
+          "title": "Log-in Murim",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8zNTg3Lmpzb24/",
+          "type": "manhwa",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx120385-4JYGuOR6cn72.jpg"
         }
       ]
     }
