@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764711187,
-    "totalMangas": 1333,
+    "lastUpdated": 1764711192,
+    "totalMangas": 1334,
     "version": "1.0.4"
   },
   "mangas": {
@@ -15998,6 +15998,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzMwMzguanNvbg/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/nx99650-2ry3U5fPpHbo.jpg"
+        }
+      ]
+    },
+    "mach_2612": {
+      "title": "Tycoon’s Goddess Contract System",
+      "chapters": [
+        {
+          "id": "2612",
+          "title": "Tycoon’s Goddess Contract System",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF8yNjEyLmpzb24/",
+          "type": "manhua",
+          "cover_url": "https://files.catbox.moe/1uxbxy.jpg"
         }
       ]
     }
