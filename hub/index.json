@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764711512,
-    "totalMangas": 1388,
+    "lastUpdated": 1764711516,
+    "totalMangas": 1389,
     "version": "1.0.4"
   },
   "mangas": {
@@ -16658,6 +16658,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzY5MS5qc29u/",
           "type": "manga",
           "cover_url": "https://cdn.myanimelist.net/images/manga/2/309152.jpg"
+        }
+      ]
+    },
+    "majp_3993": {
+      "title": "Ano Otome Game wa Oretachi ni Kibishii Sekai desu",
+      "chapters": [
+        {
+          "id": "3993",
+          "title": "Ano Otome Game wa Oretachi ni Kibishii Sekai desu",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzM5OTMuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx167103-MEuQsPHHuEU0.jpg"
         }
       ]
     }
