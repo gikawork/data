@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": 1764711558,
+    "lastUpdated": 1764711564,
     "totalMangas": 1398,
     "version": "1.0.4"
   },
@@ -1694,18 +1694,6 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvS1I4NzYuanNvbg%3D%3D/",
           "type": "manhwa",
           "cover_url": "https://files.catbox.moe/v4nmje.png"
-        }
-      ]
-    },
-    "JP542": {
-      "title": "Metaphor: ReFantazio",
-      "chapters": [
-        {
-          "id": 542,
-          "title": "Metaphor: ReFantazio",
-          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9KUDU0Mi5qc29u/",
-          "type": "manga",
-          "cover_url": "https://cdn.myanimelist.net/images/manga/3/326566.jpg"
         }
       ]
     },
@@ -16778,6 +16766,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21vdC9tYW90XzMwODgxNS5qc29u/",
           "type": "outro",
           "cover_url": "https://cdn.myanimelist.net/images/manga/3/184589.jpg"
+        }
+      ]
+    },
+    "majp_542": {
+      "title": "Fate/EXTRA",
+      "chapters": [
+        {
+          "id": "542",
+          "title": "Fate/EXTRA",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzU0Mi5qc29u/",
+          "type": "manga",
+          "cover_url": "https://cdn.myanimelist.net/images/manga/2/139337.jpg"
         }
       ]
     }
