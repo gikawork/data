@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764711747,
-    "totalMangas": 1425,
+    "lastUpdated": 1764711753,
+    "totalMangas": 1426,
     "version": "1.0.4"
   },
   "mangas": {
@@ -17102,6 +17102,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzQ3ODEuanNvbg/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx30564-RbyFbLzbnKea.jpg"
+        }
+      ]
+    },
+    "makr_7971": {
+      "title": "Absolute Sword Sense",
+      "chapters": [
+        {
+          "id": "7971",
+          "title": "Absolute Sword Sense",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl83OTcxLmpzb24/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.myanimelist.net/images/manga/3/268566.jpg"
         }
       ]
     }
