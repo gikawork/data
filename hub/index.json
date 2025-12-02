@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764711817,
-    "totalMangas": 1436,
+    "lastUpdated": 1764711820,
+    "totalMangas": 1437,
     "version": "1.0.4"
   },
   "mangas": {
@@ -17234,6 +17234,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzIyNzcuanNvbg/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx105263-r8PwuxORXWFP.png"
+        }
+      ]
+    },
+    "majp_353": {
+      "title": "Watashi ga Motenai no wa Dou Kangaetemo Omaera ga Warui!",
+      "chapters": [
+        {
+          "id": "353",
+          "title": "Watashi ga Motenai no wa Dou Kangaetemo Omaera ga Warui!",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzM1My5qc29u/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/nx58533-svgTPMaF3J7y.png"
         }
       ]
     }
