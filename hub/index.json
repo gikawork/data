@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764712920,
-    "totalMangas": 1547,
+    "lastUpdated": 1764712930,
+    "totalMangas": 1548,
     "version": "1.0.4"
   },
   "mangas": {
@@ -18566,6 +18566,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzE5Mjg1Lmpzb24/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/25679.jpg"
+        }
+      ]
+    },
+    "majp_342": {
+      "title": "Mayonaka Heart Tune",
+      "chapters": [
+        {
+          "id": "342",
+          "title": "Mayonaka Heart Tune",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzM0Mi5qc29u/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx169272-1a2RZ43tqOdw.jpg"
         }
       ]
     }
