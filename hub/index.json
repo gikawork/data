@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764709030,
-    "totalMangas": 1177,
+    "lastUpdated": 1764709033,
+    "totalMangas": 1178,
     "version": "1.0.4"
   },
   "mangas": {
@@ -14126,6 +14126,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl82OTY4OC5qc29u/",
           "type": "manhwa",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx170884-7D6cudb4rINH.png"
+        }
+      ]
+    },
+    "majp_2894": {
+      "title": "Tsuihousareru Tabi ni Skill wo Te ni Ireta Ore ga, 100 no Isekai de 2-shuume Musou",
+      "chapters": [
+        {
+          "id": "majp_2894",
+          "title": "Tsuihousareru Tabi ni Skill wo Te ni Ireta Ore ga, 100 no Isekai de 2-shuume Musou",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzI4OTQuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://cdn.mangaupdates.com/image/i482757.jpg"
         }
       ]
     }
