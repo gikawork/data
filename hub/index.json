@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764713108,
-    "totalMangas": 1564,
+    "lastUpdated": 1764713117,
+    "totalMangas": 1565,
     "version": "1.0.4"
   },
   "mangas": {
@@ -18770,6 +18770,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF8zODIxLmpzb24/",
           "type": "manhua",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx104728-LPvCCO4K4lVL.png"
+        }
+      ]
+    },
+    "majp_208867": {
+      "title": "Yashahime",
+      "chapters": [
+        {
+          "id": "208867",
+          "title": "Yashahime",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzIwODg2Ny5qc29u/",
+          "type": "manga",
+          "cover_url": "https://cdn.mangaupdates.com/image/i272977.jpg"
         }
       ]
     }
