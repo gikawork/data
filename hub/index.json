@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764712144,
-    "totalMangas": 1492,
+    "lastUpdated": 1764712150,
+    "totalMangas": 1493,
     "version": "1.0.4"
   },
   "mangas": {
@@ -17906,6 +17906,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzM4MTkuanNvbg/",
           "type": "manga",
           "cover_url": "https://cdn.myanimelist.net/images/manga/1/292482.jpg"
+        }
+      ]
+    },
+    "mach_359141": {
+      "title": "Chongsheng Hou Wo Yong Jingmian Fan Zhuan Fuchou",
+      "chapters": [
+        {
+          "id": "359141",
+          "title": "Chongsheng Hou Wo Yong Jingmian Fan Zhuan Fuchou",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF8zNTkxNDEuanNvbg/",
+          "type": "manhua",
+          "cover_url": "https://cdn.mangaupdates.com/image/i492726.jpg"
         }
       ]
     }
