@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764713046,
-    "totalMangas": 1557,
+    "lastUpdated": 1764713056,
+    "totalMangas": 1558,
     "version": "1.0.4"
   },
   "mangas": {
@@ -18686,6 +18686,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzEwNDIyMC5qc29u/",
           "type": "manga",
           "cover_url": "https://images2.imgbox.com/3d/ab/2nK5Hikn_o.jpg"
+        }
+      ]
+    },
+    "majp_33106": {
+      "title": "Kimetsu no Yaiba",
+      "chapters": [
+        {
+          "id": "33106",
+          "title": "Kimetsu no Yaiba",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzMzMTA2Lmpzb24/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx87216-c9bSNVD10UuD.png"
         }
       ]
     }
