@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764711063,
-    "totalMangas": 1311,
+    "lastUpdated": 1764711069,
+    "totalMangas": 1312,
     "version": "1.0.4"
   },
   "mangas": {
@@ -15734,6 +15734,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzE5NTYuanNvbg/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx106835-WMt0gPex9VvW.jpg"
+        }
+      ]
+    },
+    "majp_10319": {
+      "title": "Variante: Requiem for the world",
+      "chapters": [
+        {
+          "id": "10319",
+          "title": "Variante: Requiem for the world",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzEwMzE5Lmpzb24/",
+          "type": "manga",
+          "cover_url": "https://images2.imgbox.com/92/97/MzYSECOP_o.jpg"
         }
       ]
     }
