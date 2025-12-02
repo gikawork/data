@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764711889,
-    "totalMangas": 1446,
+    "lastUpdated": 1764711894,
+    "totalMangas": 1447,
     "version": "1.0.4"
   },
   "mangas": {
@@ -17354,6 +17354,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzU3OC5qc29u/",
           "type": "manga",
           "cover_url": "https://cdn.mangaupdates.com/image/i495331.jpg"
+        }
+      ]
+    },
+    "mach_386217": {
+      "title": "With My Price Deduction System, I Became Invincible",
+      "chapters": [
+        {
+          "id": "386217",
+          "title": "With My Price Deduction System, I Became Invincible",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF8zODYyMTcuanNvbg/",
+          "type": "manhua",
+          "cover_url": "https://ap-proxy.mangabaka.dev/proxy.php?url=https://cdn.anime-planet.com/manga/primary/with-my-price-deduction-system-i-became-invincible-1.webp?t=1744529301"
         }
       ]
     }
