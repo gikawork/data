@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764709014,
-    "totalMangas": 1174,
+    "lastUpdated": 1764709017,
+    "totalMangas": 1175,
     "version": "1.0.4"
   },
   "mangas": {
@@ -14090,6 +14090,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzE3MDIuanNvbg/",
           "type": "manga",
           "cover_url": "https://cdn.mangaupdates.com/image/i483981.jpg"
+        }
+      ]
+    },
+    "majp_1156": {
+      "title": "Uragirareta Boukensha, Andeddo Toshite Yomigaeri Musou Suru",
+      "chapters": [
+        {
+          "id": "majp_1156",
+          "title": "Uragirareta Boukensha, Andeddo Toshite Yomigaeri Musou Suru",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzExNTYuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://images2.imgbox.com/83/de/FY32nyB9_o.jpg"
         }
       ]
     }
