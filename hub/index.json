@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764709444,
-    "totalMangas": 1223,
+    "lastUpdated": 1764709452,
+    "totalMangas": 1224,
     "version": "1.0.4"
   },
   "mangas": {
@@ -14678,6 +14678,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8xNjcuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx184733-6RpmXF3eCMDv.png"
+        }
+      ]
+    },
+    "majp_173": {
+      "title": "Blue Box",
+      "chapters": [
+        {
+          "id": "173",
+          "title": "Blue Box",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzE3My5qc29u/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx132182-maXh2QzYPrqR.jpg"
         }
       ]
     }
