@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764711050,
-    "totalMangas": 1308,
+    "lastUpdated": 1764711055,
+    "totalMangas": 1309,
     "version": "1.0.4"
   },
   "mangas": {
@@ -15698,6 +15698,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzI4NDEuanNvbg/",
           "type": "manga",
           "cover_url": "https://cdn.myanimelist.net/images/manga/3/278816.jpg"
+        }
+      ]
+    },
+    "makr_3676": {
+      "title": "I Killed an Academy Player",
+      "chapters": [
+        {
+          "id": "3676",
+          "title": "I Killed an Academy Player",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8zNjc2Lmpzb24/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.myanimelist.net/images/manga/1/293257.jpg"
         }
       ]
     }
