@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764712136,
-    "totalMangas": 1490,
+    "lastUpdated": 1764712142,
+    "totalMangas": 1491,
     "version": "1.0.4"
   },
   "mangas": {
@@ -17882,6 +17882,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzExMzc2Lmpzb24/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx54561-R98YS8r4RUqy.jpg"
+        }
+      ]
+    },
+    "majp_3513": {
+      "title": "Rurouni Kenshin: Meiji Kenkaku Romantan",
+      "chapters": [
+        {
+          "id": "3513",
+          "title": "Rurouni Kenshin: Meiji Kenkaku Romantan",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzM1MTMuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://cdn.myanimelist.net/images/manga/2/127583.jpg"
         }
       ]
     }
