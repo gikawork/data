@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764709476,
-    "totalMangas": 1229,
+    "lastUpdated": 1764709481,
+    "totalMangas": 1230,
     "version": "1.0.4"
   },
   "mangas": {
@@ -14750,6 +14750,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl80NTk0Lmpzb24/",
           "type": "manhwa",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx193904-IrQP0Hw7Rqhg.jpg"
+        }
+      ]
+    },
+    "majp_2209": {
+      "title": "Kojiin Tamer",
+      "chapters": [
+        {
+          "id": "2209",
+          "title": "Kojiin Tamer",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzIyMDkuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx130801-RXTjByhTVnKW.jpg"
         }
       ]
     }
