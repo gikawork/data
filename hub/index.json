@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764710993,
-    "totalMangas": 1296,
+    "lastUpdated": 1764710999,
+    "totalMangas": 1297,
     "version": "1.0.4"
   },
   "mangas": {
@@ -15554,6 +15554,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF8yMjU1Lmpzb24/",
           "type": "manhua",
           "cover_url": "https://ap-proxy.mangabaka.dev/proxy.php?url=https://cdn.anime-planet.com/manga/primary/girls-frontline-1.jpg?t=1625923781"
+        }
+      ]
+    },
+    "majp_1215": {
+      "title": "Yamada-kun to Lv999 no Koi wo Suru",
+      "chapters": [
+        {
+          "id": "1215",
+          "title": "Yamada-kun to Lv999 no Koi wo Suru",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzEyMTUuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://cdn.mangaupdates.com/image/i468956.jpg"
         }
       ]
     }
