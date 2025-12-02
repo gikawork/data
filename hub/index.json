@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764711349,
-    "totalMangas": 1359,
+    "lastUpdated": 1764711353,
+    "totalMangas": 1360,
     "version": "1.0.4"
   },
   "mangas": {
@@ -16310,6 +16310,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl83NzMyMC5qc29u/",
           "type": "manhwa",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx180410-WXqCk450ha1C.png"
+        }
+      ]
+    },
+    "makr_355156": {
+      "title": "Hoegwisuseonjeon",
+      "chapters": [
+        {
+          "id": "355156",
+          "title": "Hoegwisuseonjeon",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8zNTUxNTYuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://images2.imgbox.com/f5/d5/FOSpojgC_o.jpg"
         }
       ]
     }
