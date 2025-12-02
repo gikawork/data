@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764711494,
-    "totalMangas": 1384,
+    "lastUpdated": 1764711496,
+    "totalMangas": 1385,
     "version": "1.0.4"
   },
   "mangas": {
@@ -16610,6 +16610,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzUzMi5qc29u/",
           "type": "manga",
           "cover_url": "https://images2.imgbox.com/72/d3/qQXn1ClI_o.jpg"
+        }
+      ]
+    },
+    "majp_356209": {
+      "title": "Gal to Honya",
+      "chapters": [
+        {
+          "id": "356209",
+          "title": "Gal to Honya",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzM1NjIwOS5qc29u/",
+          "type": "manga",
+          "cover_url": "https://cdn.myanimelist.net/images/manga/2/328453.jpg"
         }
       ]
     }
