@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764710812,
-    "totalMangas": 1263,
+    "lastUpdated": 1764710817,
+    "totalMangas": 1264,
     "version": "1.0.4"
   },
   "mangas": {
@@ -15158,6 +15158,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzU4MjUwLmpzb24/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx169712-GB3UpRAVeUgf.jpg"
+        }
+      ]
+    },
+    "makr_5566": {
+      "title": "The Story of the Gatekeeper",
+      "chapters": [
+        {
+          "id": "5566",
+          "title": "The Story of the Gatekeeper",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl81NTY2Lmpzb24/",
+          "type": "manhwa",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/3896.jpg"
         }
       ]
     }
