@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764710765,
-    "totalMangas": 1253,
+    "lastUpdated": 1764710768,
+    "totalMangas": 1254,
     "version": "1.0.4"
   },
   "mangas": {
@@ -15038,6 +15038,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzIxNTkzLmpzb24/",
           "type": "manga",
           "cover_url": "https://images2.imgbox.com/3f/e9/1iLj85Jc_o.jpg"
+        }
+      ]
+    },
+    "majp_1468": {
+      "title": "Class no Daikirai na Joshi to Kekkon Suru Koto ni Natta",
+      "chapters": [
+        {
+          "id": "1468",
+          "title": "Class no Daikirai na Joshi to Kekkon Suru Koto ni Natta",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzE0NjguanNvbg/",
+          "type": "manga",
+          "cover_url": "https://images2.imgbox.com/10/f2/OGd53lJy_o.jpg"
         }
       ]
     }
