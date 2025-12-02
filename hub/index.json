@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764711247,
-    "totalMangas": 1341,
+    "lastUpdated": 1764711252,
+    "totalMangas": 1342,
     "version": "1.0.4"
   },
   "mangas": {
@@ -16094,6 +16094,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzU0MTEyLmpzb24/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx147582-4T9c9f7sL8WJ.png"
+        }
+      ]
+    },
+    "majp_7173": {
+      "title": "Mijuku na Futari de Gozaimasu ga",
+      "chapters": [
+        {
+          "id": "7173",
+          "title": "Mijuku na Futari de Gozaimasu ga",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzcxNzMuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/nx104864-l3fCiOGecE6F.jpg"
         }
       ]
     }
