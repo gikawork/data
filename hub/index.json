@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764712394,
-    "totalMangas": 1540,
+    "lastUpdated": 1764712399,
+    "totalMangas": 1541,
     "version": "1.0.4"
   },
   "mangas": {
@@ -18482,6 +18482,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzE2NDQuanNvbg/",
           "type": "manga",
           "cover_url": "https://cdn.mangaupdates.com/image/i471801.jpg"
+        }
+      ]
+    },
+    "majp_5329": {
+      "title": "Boku wa Isekai de Fuyo Mahou to Shoukan Mahou wo Tenbin ni Kakeru",
+      "chapters": [
+        {
+          "id": "5329",
+          "title": "Boku wa Isekai de Fuyo Mahou to Shoukan Mahou wo Tenbin ni Kakeru",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzUzMjkuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx86447-eaVdagCwsWVk.jpg"
         }
       ]
     }
