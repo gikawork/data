@@ -1,0 +1,85 @@
+{
+  "title": "Mabataki no Oto",
+  "description": "O jovem garoto “Eu” se vê engolido pelo prazer de desenhar e completar uma pintura, embarcando em uma longa jornada criativa. Ao longo do caminho, ele deve confrontar “você”, que reside nas sombras. Qual é a verdadeira natureza de “Eu”, que se tece entre o impulso e a imaginação?",
+  "artist": "Oshimi Shuzo",
+  "author": "Oshimi Shuzo",
+  "cover": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx185523-jqY20TjJlMMK.jpg",
+  "status": "OnGoing",
+  "chapters": {
+    "06": {
+      "title": "Capítulo 06",
+      "volume": "",
+      "last_updated": "1758879301",
+      "groups": {
+        "gikamura": [
+          "https://cdn.mangalivre.ru/manga_68973b415b121/d61cadfa87559012e3bdb3762a1039f4/1.webp",
+          "https://cdn.mangalivre.ru/manga_68973b415b121/d61cadfa87559012e3bdb3762a1039f4/2.webp",
+          "https://cdn.mangalivre.ru/manga_68973b415b121/d61cadfa87559012e3bdb3762a1039f4/3.webp"
+        ]
+      }
+    },
+    "05": {
+      "title": "Capítulo 05",
+      "volume": "",
+      "last_updated": "1758879299",
+      "groups": {
+        "gikamura": [
+          "https://cdn.mangalivre.ru/manga_68973b415b121/f1c87c3d20354e7e522390ad48114d30/1.webp",
+          "https://cdn.mangalivre.ru/manga_68973b415b121/f1c87c3d20354e7e522390ad48114d30/2.webp",
+          "https://cdn.mangalivre.ru/manga_68973b415b121/f1c87c3d20354e7e522390ad48114d30/3.webp"
+        ]
+      }
+    },
+    "04": {
+      "title": "Capítulo 04",
+      "volume": "",
+      "last_updated": "1758879295",
+      "groups": {
+        "gikamura": [
+          "https://cdn.mangalivre.ru/manga_68973b415b121/370e340c362f1acbc702528977aa9485/1.webp",
+          "https://cdn.mangalivre.ru/manga_68973b415b121/370e340c362f1acbc702528977aa9485/2.webp",
+          "https://cdn.mangalivre.ru/manga_68973b415b121/370e340c362f1acbc702528977aa9485/3.webp"
+        ]
+      }
+    },
+    "03": {
+      "title": "Capítulo 03",
+      "volume": "",
+      "last_updated": "1758879291",
+      "groups": {
+        "gikamura": [
+          "https://cdn.mangalivre.ru//011e117d5a1565c78751c5180b405b83/1.webp",
+          "https://cdn.mangalivre.ru//011e117d5a1565c78751c5180b405b83/2.webp",
+          "https://cdn.mangalivre.ru//011e117d5a1565c78751c5180b405b83/3.webp"
+        ]
+      }
+    },
+    "02": {
+      "title": "Capítulo 02",
+      "volume": "",
+      "last_updated": "1758879287",
+      "groups": {
+        "gikamura": [
+          "https://cdn.mangalivre.ru//91546f6412863d5efec38ccbc73a8565/1.webp",
+          "https://cdn.mangalivre.ru//91546f6412863d5efec38ccbc73a8565/2.webp",
+          "https://cdn.mangalivre.ru//91546f6412863d5efec38ccbc73a8565/3.webp"
+        ]
+      }
+    },
+    "01": {
+      "title": "Capítulo 01",
+      "volume": "",
+      "last_updated": "1758879283",
+      "groups": {
+        "gikamura": [
+          "https://cdn.mangalivre.ru//41690396d1e70fe2e8401c853d70e9c2/1.webp",
+          "https://cdn.mangalivre.ru//41690396d1e70fe2e8401c853d70e9c2/2.webp",
+          "https://cdn.mangalivre.ru//41690396d1e70fe2e8401c853d70e9c2/3.webp"
+        ]
+      }
+    }
+  },
+  "source_anilist_response_synonyms": [
+    "Mabataki no Oto"
+  ]
+}
