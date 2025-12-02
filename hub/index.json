@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": 1764710853,
+    "lastUpdated": 1764710856,
     "totalMangas": 1271,
     "version": "1.0.4"
   },
@@ -1166,18 +1166,6 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9KUDI4Mi5qc29u/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx141127-MJrvungcbkfQ.jpg"
-        }
-      ]
-    },
-    "JP984": {
-      "title": "Uchi no Musuko wa Tabun Gay",
-      "chapters": [
-        {
-          "id": 984,
-          "title": "Uchi no Musuko wa Tabun Gay",
-          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9KUDk4NC5qc29u/",
-          "type": "manga",
-          "cover_url": "https://cdn.myanimelist.net/images/manga/3/224102.jpg"
         }
       ]
     },
@@ -15254,6 +15242,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8xNTQzLmpzb24/",
           "type": "manhwa",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx187169-KwlSwFdW7gOa.png"
+        }
+      ]
+    },
+    "majp_984": {
+      "title": "Make Heroine ga Oosugiru! @comic",
+      "chapters": [
+        {
+          "id": "984",
+          "title": "Make Heroine ga Oosugiru! @comic",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzk4NC5qc29u/",
+          "type": "manga",
+          "cover_url": "https://cdn.myanimelist.net/images/manga/3/270079.jpg"
         }
       ]
     }
