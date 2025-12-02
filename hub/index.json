@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764711528,
-    "totalMangas": 1391,
+    "lastUpdated": 1764711529,
+    "totalMangas": 1392,
     "version": "1.0.4"
   },
   "mangas": {
@@ -16694,6 +16694,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzU0MzguanNvbg/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx34758-SGuuQ2kHsh9L.png"
+        }
+      ]
+    },
+    "maot_4867": {
+      "title": "Bully Me If You Can",
+      "chapters": [
+        {
+          "id": "4867",
+          "title": "Bully Me If You Can",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21vdC9tYW90XzQ4NjcuanNvbg/",
+          "type": "outro",
+          "cover_url": "https://cdn.mangaupdates.com/image/i470004.png"
         }
       ]
     }
