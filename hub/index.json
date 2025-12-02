@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": 1764711643,
+    "lastUpdated": 1764711650,
     "totalMangas": 1413,
     "version": "1.0.4"
   },
@@ -2186,18 +2186,6 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvS1IyNC5qc29u/",
           "type": "manhwa",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx159441-n919hUzb0j44.jpg"
-        }
-      ]
-    },
-    "JP620": {
-      "title": "Onii-chan Is Done For! Official Anthology Comic",
-      "chapters": [
-        {
-          "id": 620,
-          "title": "Onii-chan Is Done For! Official Anthology Comic",
-          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9KUDYyMC5qc29u/",
-          "type": "manga",
-          "cover_url": "https://images2.imgbox.com/3c/a8/UhysdeZY_o.jpg"
         }
       ]
     },
@@ -16958,6 +16946,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzM0MDIuanNvbg/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx170995-vKi5MLfgkkoU.jpg"
+        }
+      ]
+    },
+    "majp_620": {
+      "title": "Marriage Toxin",
+      "chapters": [
+        {
+          "id": "620",
+          "title": "Marriage Toxin",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzYyMC5qc29u/",
+          "type": "manga",
+          "cover_url": "https://cdn.myanimelist.net/images/manga/1/265955.jpg"
         }
       ]
     }
