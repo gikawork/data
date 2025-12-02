@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": 1764711843,
+    "lastUpdated": 1764711850,
     "totalMangas": 1440,
     "version": "1.0.4"
   },
@@ -5834,18 +5834,6 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9KUDM4NS5qc29u/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/nx98842-Ji0v423UZ4er.jpg"
-        }
-      ]
-    },
-    "JP249": {
-      "title": "Fujiyuu Sekai",
-      "chapters": [
-        {
-          "id": 249,
-          "title": "Fujiyuu Sekai",
-          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9KUDI0OS5qc29u/",
-          "type": "manga",
-          "cover_url": "https://cdn.mangaupdates.com/image/i147092.png"
         }
       ]
     },
@@ -17282,6 +17270,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzY1NC5qc29u/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx157128-yRTFqweyaOkv.jpg"
+        }
+      ]
+    },
+    "majp_249": {
+      "title": "Banana Fish",
+      "chapters": [
+        {
+          "id": "249",
+          "title": "Banana Fish",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzI0OS5qc29u/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx30756-rlxjQWBAizHX.jpg"
         }
       ]
     }
