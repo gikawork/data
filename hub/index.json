@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764711453,
-    "totalMangas": 1378,
+    "lastUpdated": 1764711458,
+    "totalMangas": 1379,
     "version": "1.0.4"
   },
   "mangas": {
@@ -16538,6 +16538,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzQ0NDIuanNvbg/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/13268.jpg"
+        }
+      ]
+    },
+    "maot_339154": {
+      "title": "Okinawa de Suki ni Natta Ko ga Hougen Sugite Tsurasugiru",
+      "chapters": [
+        {
+          "id": "339154",
+          "title": "Okinawa de Suki ni Natta Ko ga Hougen Sugite Tsurasugiru",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21vdC9tYW90XzMzOTE1NC5qc29u/",
+          "type": "outro",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx114638-Y9ZRw4dqqt9n.jpg"
         }
       ]
     }
