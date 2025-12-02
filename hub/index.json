@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": 1764711442,
+    "lastUpdated": 1764711448,
     "totalMangas": 1377,
     "version": "1.0.4"
   },
@@ -8909,18 +8909,6 @@
         }
       ]
     },
-    "JP567": {
-      "title": "Multiverse no Watashi, Koishite Ii desu ka?",
-      "chapters": [
-        {
-          "id": 567,
-          "title": "Multiverse no Watashi, Koishite Ii desu ka?",
-          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9KUDU2Ny5qc29u/",
-          "type": "manga",
-          "cover_url": "https://cdn.myanimelist.net/images/manga/1/306435.jpg"
-        }
-      ]
-    },
     "KR353": {
       "title": "I'm the Only One With Genius DNA",
       "chapters": [
@@ -16526,6 +16514,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzM5MzcuanNvbg/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx97216-hleh4PmFoUgr.png"
+        }
+      ]
+    },
+    "majp_567": {
+      "title": "The Summer Hikaru Died",
+      "chapters": [
+        {
+          "id": "567",
+          "title": "The Summer Hikaru Died",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzU2Ny5qc29u/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx138603-j0gcshf7PVkN.jpg"
         }
       ]
     }
