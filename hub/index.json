@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764712116,
-    "totalMangas": 1486,
+    "lastUpdated": 1764712121,
+    "totalMangas": 1487,
     "version": "1.0.4"
   },
   "mangas": {
@@ -17834,6 +17834,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzk3NjguanNvbg/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx87178-CPMk8QdPo7c8.png"
+        }
+      ]
+    },
+    "majp_3054": {
+      "title": "Sasha-chan to Classmate Otaku-kun",
+      "chapters": [
+        {
+          "id": "3054",
+          "title": "Sasha-chan to Classmate Otaku-kun",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzMwNTQuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://cdn.myanimelist.net/images/manga/1/263976.jpg"
         }
       ]
     }
