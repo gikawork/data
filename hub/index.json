@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764710987,
-    "totalMangas": 1295,
+    "lastUpdated": 1764710993,
+    "totalMangas": 1296,
     "version": "1.0.4"
   },
   "mangas": {
@@ -15542,6 +15542,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzM4Ni5qc29u/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx162901-p9GB3jRkvyh5.jpg"
+        }
+      ]
+    },
+    "mach_2255": {
+      "title": "Girls' Frontline",
+      "chapters": [
+        {
+          "id": "2255",
+          "title": "Girls' Frontline",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF8yMjU1Lmpzb24/",
+          "type": "manhua",
+          "cover_url": "https://ap-proxy.mangabaka.dev/proxy.php?url=https://cdn.anime-planet.com/manga/primary/girls-frontline-1.jpg?t=1625923781"
         }
       ]
     }
