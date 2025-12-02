@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764709270,
-    "totalMangas": 1189,
+    "lastUpdated": 1764709272,
+    "totalMangas": 1190,
     "version": "1.0.4"
   },
   "mangas": {
@@ -14270,6 +14270,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzY1ODYuanNvbg/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx84761-0Ku5EUQ7Yavb.jpg"
+        }
+      ]
+    },
+    "majp_18183": {
+      "title": "Shinobigoto",
+      "chapters": [
+        {
+          "id": "18183",
+          "title": "Shinobigoto",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzE4MTgzLmpzb24/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx49900-cCDe5AvysDRS.png"
         }
       ]
     }
