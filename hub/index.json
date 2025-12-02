@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764708979,
-    "totalMangas": 1164,
+    "lastUpdated": 1764708982,
+    "totalMangas": 1165,
     "version": "1.0.4"
   },
   "mangas": {
@@ -13970,6 +13970,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl81MjI0Lmpzb24/",
           "type": "manhwa",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx125076-8rwqvG4mNUsM.jpg"
+        }
+      ]
+    },
+    "majp_2367": {
+      "title": "Versus",
+      "chapters": [
+        {
+          "id": "majp_2367",
+          "title": "Versus",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzIzNjcuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://cdn.myanimelist.net/images/manga/1/279303.jpg"
         }
       ]
     }
