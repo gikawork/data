@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764711160,
-    "totalMangas": 1327,
+    "lastUpdated": 1764711165,
+    "totalMangas": 1328,
     "version": "1.0.4"
   },
   "mangas": {
@@ -15926,6 +15926,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzMwMC5qc29u/",
           "type": "manga",
           "cover_url": "https://cdn.mangaupdates.com/image/i425189.png"
+        }
+      ]
+    },
+    "mach_5569": {
+      "title": "I'm Stuck on the Same Day for a Thousand Years",
+      "chapters": [
+        {
+          "id": "5569",
+          "title": "I'm Stuck on the Same Day for a Thousand Years",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF81NTY5Lmpzb24/",
+          "type": "manhua",
+          "cover_url": "https://images2.imgbox.com/ae/1c/paRu1CWI_o.jpg"
         }
       ]
     }
