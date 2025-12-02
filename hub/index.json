@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764712089,
-    "totalMangas": 1482,
+    "lastUpdated": 1764712095,
+    "totalMangas": 1483,
     "version": "1.0.4"
   },
   "mangas": {
@@ -17786,6 +17786,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzY1Nzk2Lmpzb24/",
           "type": "manga",
           "cover_url": "https://cdn.myanimelist.net/images/manga/1/268710.jpg"
+        }
+      ]
+    },
+    "majp_3251": {
+      "title": "Bungou Stray Dogs",
+      "chapters": [
+        {
+          "id": "3251",
+          "title": "Bungou Stray Dogs",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzMyNTEuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://cdn.mangaupdates.com/image/i336852.jpg"
         }
       ]
     }
