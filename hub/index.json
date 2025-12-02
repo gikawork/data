@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764712369,
-    "totalMangas": 1535,
+    "lastUpdated": 1764712374,
+    "totalMangas": 1536,
     "version": "1.0.4"
   },
   "mangas": {
@@ -18422,6 +18422,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF8zMDY2Lmpzb24/",
           "type": "manhua",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx178700-UnfkATzgnZW0.png"
+        }
+      ]
+    },
+    "mach_3523": {
+      "title": "Lord of the Mysteries (Remake)",
+      "chapters": [
+        {
+          "id": "3523",
+          "title": "Lord of the Mysteries (Remake)",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF8zNTIzLmpzb24/",
+          "type": "manhua",
+          "cover_url": "https://images2.imgbox.com/4e/05/Igo3Y1TK_o.png"
         }
       ]
     }
