@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": 1764711152,
+    "lastUpdated": 1764711160,
     "totalMangas": 1327,
     "version": "1.0.4"
   },
@@ -8165,18 +8165,6 @@
         }
       ]
     },
-    "JP300": {
-      "title": "Hanma Baki",
-      "chapters": [
-        {
-          "id": 300,
-          "title": "Hanma Baki",
-          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9KUDMwMC5qc29u/",
-          "type": "manga",
-          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx37760-FZlKe8a4yWN2.png"
-        }
-      ]
-    },
     "CH647": {
       "title": "Our Similarities",
       "chapters": [
@@ -15926,6 +15914,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzYyOTIuanNvbg/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx108066-xTDrhtY5HsbP.jpg"
+        }
+      ]
+    },
+    "majp_300": {
+      "title": "Kekkon surutte, Hontou desu ka",
+      "chapters": [
+        {
+          "id": "300",
+          "title": "Kekkon surutte, Hontou desu ka",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzMwMC5qc29u/",
+          "type": "manga",
+          "cover_url": "https://cdn.mangaupdates.com/image/i425189.png"
         }
       ]
     }
