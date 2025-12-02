@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764709327,
-    "totalMangas": 1199,
+    "lastUpdated": 1764709333,
+    "totalMangas": 1200,
     "version": "1.0.4"
   },
   "mangas": {
@@ -14390,6 +14390,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzQ4MjAuanNvbg/",
           "type": "manga",
           "cover_url": "https://cdn.myanimelist.net/images/manga/3/234725.jpg"
+        }
+      ]
+    },
+    "maoel_1238": {
+      "title": "The Beginning After the End",
+      "chapters": [
+        {
+          "id": "1238",
+          "title": "The Beginning After the End",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21vZWwvbWFvZWxfMTIzOC5qc29u/",
+          "type": "oel",
+          "cover_url": "https://media.kitsu.app/manga/54597/poster_image/543b6857c9ef3086fea523105a8edaa0.jpg"
         }
       ]
     }
