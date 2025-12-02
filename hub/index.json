@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764711741,
-    "totalMangas": 1424,
+    "lastUpdated": 1764711747,
+    "totalMangas": 1425,
     "version": "1.0.4"
   },
   "mangas": {
@@ -17090,6 +17090,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzI2Mi5qc29u/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx163497-HNrC3KDTVxW5.jpg"
+        }
+      ]
+    },
+    "majp_4781": {
+      "title": "Gantz",
+      "chapters": [
+        {
+          "id": "4781",
+          "title": "Gantz",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzQ3ODEuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx30564-RbyFbLzbnKea.jpg"
         }
       ]
     }
