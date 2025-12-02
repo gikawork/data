@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764708943,
-    "totalMangas": 1151,
+    "lastUpdated": 1764708946,
+    "totalMangas": 1152,
     "version": "1.0.4"
   },
   "mangas": {
@@ -13814,6 +13814,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzM1MTYyOC5qc29u/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx193903-csO9jcLflVjn.jpg"
+        }
+      ]
+    },
+    "majp_1617": {
+      "title": "Ron Kamonohashi: Deranged Detective",
+      "chapters": [
+        {
+          "id": "majp_1617",
+          "title": "Ron Kamonohashi: Deranged Detective",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzE2MTcuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx124895-lOlg8m6ibImK.png"
         }
       ]
     }
