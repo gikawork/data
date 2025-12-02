@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": 1764711131,
+    "lastUpdated": 1764711138,
     "totalMangas": 1325,
     "version": "1.0.4"
   },
@@ -9881,18 +9881,6 @@
         }
       ]
     },
-    "JP968": {
-      "title": "Tougen Anki",
-      "chapters": [
-        {
-          "id": 968,
-          "title": "Tougen Anki",
-          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9KUDk2OC5qc29u/",
-          "type": "manga",
-          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx119968-dFbxdXwpkZ3s.jpg"
-        }
-      ]
-    },
     "JP266": {
       "title": "Genkaku Shoujo ga Tsukimatou Hanashi",
       "chapters": [
@@ -15902,6 +15890,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzIwNzAuanNvbg/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx38300-TXX5KLxitjb1.jpg"
+        }
+      ]
+    },
+    "majp_968": {
+      "title": "Sekai Saikyou no Kouei: Meikyuukoku no Shinjin Tansakusha",
+      "chapters": [
+        {
+          "id": "968",
+          "title": "Sekai Saikyou no Kouei: Meikyuukoku no Shinjin Tansakusha",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzk2OC5qc29u/",
+          "type": "manga",
+          "cover_url": "https://cdn.myanimelist.net/images/manga/1/211960.jpg"
         }
       ]
     }
