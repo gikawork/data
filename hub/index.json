@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764708832,
-    "totalMangas": 1120,
+    "lastUpdated": 1764708835,
+    "totalMangas": 1121,
     "version": "1.0.4"
   },
   "mangas": {
@@ -13442,6 +13442,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzI1MDAuanNvbg/",
           "type": "manga",
           "cover_url": "https://cdn.myanimelist.net/images/manga/2/280095.jpg"
+        }
+      ]
+    },
+    "majp_2447": {
+      "title": "Blue Giant",
+      "chapters": [
+        {
+          "id": "majp_2447",
+          "title": "Blue Giant",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzI0NDcuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx86890-hYxIiVM6rBBG.jpg"
         }
       ]
     }
