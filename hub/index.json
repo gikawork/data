@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764711695,
-    "totalMangas": 1419,
+    "lastUpdated": 1764711701,
+    "totalMangas": 1420,
     "version": "1.0.4"
   },
   "mangas": {
@@ -17030,6 +17030,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8zNTg3Lmpzb24/",
           "type": "manhwa",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx120385-4JYGuOR6cn72.jpg"
+        }
+      ]
+    },
+    "makr_1276": {
+      "title": "Dungeon Odyssey",
+      "chapters": [
+        {
+          "id": "1276",
+          "title": "Dungeon Odyssey",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8xMjc2Lmpzb24/",
+          "type": "manhwa",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx155485-YlWPkBFvWG3v.jpg"
         }
       ]
     }
