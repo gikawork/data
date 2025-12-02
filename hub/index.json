@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764708922,
-    "totalMangas": 1144,
+    "lastUpdated": 1764708925,
+    "totalMangas": 1145,
     "version": "1.0.4"
   },
   "mangas": {
@@ -13730,6 +13730,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzM2OTkuanNvbg/",
           "type": "manga",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/5746/wp-content/uploads/2024/10/pZQEr.format-avif.original.png"
+        }
+      ]
+    },
+    "makr_3391": {
+      "title": "The Greatest Estate Developer",
+      "chapters": [
+        {
+          "id": "makr_3391",
+          "title": "The Greatest Estate Developer",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8zMzkxLmpzb24/",
+          "type": "manhwa",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx140407-fJQr0fmqq1IO.png"
         }
       ]
     }
