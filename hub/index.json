@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764711806,
-    "totalMangas": 1434,
+    "lastUpdated": 1764711811,
+    "totalMangas": 1435,
     "version": "1.0.4"
   },
   "mangas": {
@@ -17210,6 +17210,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzU0MC5qc29u/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx59887-0JeSQsLQ1VO8.jpg"
+        }
+      ]
+    },
+    "majp_1360": {
+      "title": "Yomi no Tsugai",
+      "chapters": [
+        {
+          "id": "1360",
+          "title": "Yomi no Tsugai",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzEzNjAuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx136899-VXDZKWvu2UAu.jpg"
         }
       ]
     }
