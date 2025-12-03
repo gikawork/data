@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764740183,
-    "totalMangas": 2271,
+    "lastUpdated": 1764740192,
+    "totalMangas": 2272,
     "version": "1.0.5"
   },
   "mangas": {
@@ -27254,6 +27254,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl9kYzlmNGEuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/9112/67970060a6bd5.png"
+        }
+      ]
+    },
+    "makr_c9f03d": {
+      "title": "DICE: O cubo que muda tudo",
+      "chapters": [
+        {
+          "id": "c9f03d",
+          "title": "DICE: O cubo que muda tudo",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl9jOWYwM2QuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/13119/6875639e1b89d.png"
         }
       ]
     }
