@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764732392,
-    "totalMangas": 1419,
+    "lastUpdated": 1764732399,
+    "totalMangas": 1420,
     "version": "1.0.5"
   },
   "mangas": {
@@ -17030,6 +17030,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8zMTIuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/13893/68d5f2cdee40a.webp"
+        }
+      ]
+    },
+    "maoel_42927": {
+      "title": "Aliança Secreta",
+      "chapters": [
+        {
+          "id": "42927",
+          "title": "Aliança Secreta",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21vZWwvbWFvZWxfNDI5MjcuanNvbg/",
+          "type": "oel",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/8784/6795375f2c2c9.png"
         }
       ]
     }
