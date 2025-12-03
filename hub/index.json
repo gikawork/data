@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764734801,
-    "totalMangas": 1688,
+    "lastUpdated": 1764734810,
+    "totalMangas": 1689,
     "version": "1.0.5"
   },
   "mangas": {
@@ -20258,6 +20258,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21vZWwvbWFvZWxfNTEyMjcuanNvbg/",
           "type": "oel",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/8969/6795c30a01641.png"
+        }
+      ]
+    },
+    "makr_0136e1": {
+      "title": "O Genial Neto do Rei Agiota",
+      "chapters": [
+        {
+          "id": "0136e1",
+          "title": "O Genial Neto do Rei Agiota",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8wMTM2ZTEuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/8590/68c492dfe5cf5.png"
         }
       ]
     }
