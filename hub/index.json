@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764761058,
-    "totalMangas": 2612,
+    "lastUpdated": 1764761068,
+    "totalMangas": 2613,
     "version": "1.0.6"
   },
   "mangas": {
@@ -31346,6 +31346,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl81MzU3NC5qc29u/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/9945/67bdec9c71964.png"
+        }
+      ]
+    },
+    "mach_ea028e": {
+      "title": "Tudo Começa Levando o Jogo a Sério",
+      "chapters": [
+        {
+          "id": "ea028e",
+          "title": "Tudo Começa Levando o Jogo a Sério",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF9lYTAyOGUuanNvbg/",
+          "type": "manhua",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/9729/67a7b47877511.jpg"
         }
       ]
     }
