@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764727765,
-    "totalMangas": 1141,
+    "lastUpdated": 1764727776,
+    "totalMangas": 1142,
     "version": "1.0.5"
   },
   "mangas": {
@@ -13694,6 +13694,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21vdC9tYW90XzMyMDAxNS5qc29u/",
           "type": "outro",
           "cover_url": "https://images2.imgbox.com/6e/80/6IQ1rmX0_o.jpg"
+        }
+      ]
+    },
+    "majp_4780": {
+      "title": "Papa no Iukoto wo Kikinasai!",
+      "chapters": [
+        {
+          "id": "4780",
+          "title": "Papa no Iukoto wo Kikinasai!",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzQ3ODAuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/27615.jpg"
         }
       ]
     }
