@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764731043,
-    "totalMangas": 1270,
+    "lastUpdated": 1764731051,
+    "totalMangas": 1271,
     "version": "1.0.5"
   },
   "mangas": {
@@ -15242,6 +15242,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF8yNWRjNDcuanNvbg/",
           "type": "manhua",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/10979/68160cc6b5ed8.jpg"
+        }
+      ]
+    },
+    "makr_50253": {
+      "title": "Outro romance típico de fantasia",
+      "chapters": [
+        {
+          "id": "50253",
+          "title": "Outro romance típico de fantasia",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl81MDI1My5qc29u/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/8314/wp-content/uploads/2024/12/Another-Typical-Fantasy-Romance-193x278-1.jpeg"
         }
       ]
     }
