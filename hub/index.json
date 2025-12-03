@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": 1764724485,
+    "lastUpdated": 1764724500,
     "totalMangas": 1106,
     "version": "1.0.5"
   },
@@ -13262,6 +13262,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzIxNTYuanNvbg/",
           "type": "manga",
           "cover_url": "https://cdn.myanimelist.net/images/manga/3/283127.jpg"
+        }
+      ]
+    },
+    "mach_1093": {
+      "title": "Dao of the Bizarre Immortal",
+      "chapters": [
+        {
+          "id": "1093",
+          "title": "Dao of the Bizarre Immortal",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF8xMDkzLmpzb24/",
+          "type": "manhua",
+          "cover_url": "https://cdn.mangaupdates.com/image/i493049.png"
         }
       ]
     }
