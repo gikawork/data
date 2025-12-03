@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764736741,
-    "totalMangas": 1899,
+    "lastUpdated": 1764736750,
+    "totalMangas": 1900,
     "version": "1.0.5"
   },
   "mangas": {
@@ -22790,6 +22790,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl84NGE5ZDEuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/8909/6795ad0d07d84.png"
+        }
+      ]
+    },
+    "makr_60bc2b": {
+      "title": "A Princesa Monstro",
+      "chapters": [
+        {
+          "id": "60bc2b",
+          "title": "A Princesa Monstro",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl82MGJjMmIuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/8760/679489b2587e0.png"
         }
       ]
     }
