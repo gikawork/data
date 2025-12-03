@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764736399,
-    "totalMangas": 1862,
+    "lastUpdated": 1764736409,
+    "totalMangas": 1863,
     "version": "1.0.5"
   },
   "mangas": {
@@ -22346,6 +22346,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF83MWQ2ZmUuanNvbg/",
           "type": "manhua",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/10081/67c51eb2ab8db.png"
+        }
+      ]
+    },
+    "makr_4cf688": {
+      "title": "O Homem Forte do Hospital Psiquiátrico",
+      "chapters": [
+        {
+          "id": "4cf688",
+          "title": "O Homem Forte do Hospital Psiquiátrico",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl80Y2Y2ODguanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/5245/67db32295557b.jpg"
         }
       ]
     }
