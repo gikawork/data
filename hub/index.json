@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764731441,
-    "totalMangas": 1315,
+    "lastUpdated": 1764731450,
+    "totalMangas": 1316,
     "version": "1.0.5"
   },
   "mangas": {
@@ -15782,6 +15782,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8xMjEyMDQuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/9926/67bbe7556d984.png"
+        }
+      ]
+    },
+    "makr_cc550e": {
+      "title": "Case Com o Meu Marido",
+      "chapters": [
+        {
+          "id": "cc550e",
+          "title": "Case Com o Meu Marido",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl9jYzU1MGUuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/9814/67ad1e293b267.avif"
         }
       ]
     }
