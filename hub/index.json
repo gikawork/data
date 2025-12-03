@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764729554,
-    "totalMangas": 1178,
+    "lastUpdated": 1764729564,
+    "totalMangas": 1179,
     "version": "1.0.5"
   },
   "mangas": {
@@ -14138,6 +14138,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl81MTE5Lmpzb24/",
           "type": "manhwa",
           "cover_url": "https://images2.imgbox.com/54/6b/dL4gXWgt_o.png"
+        }
+      ]
+    },
+    "makr_4870": {
+      "title": "Só eu tenho DNA de Gênio",
+      "chapters": [
+        {
+          "id": "4870",
+          "title": "Só eu tenho DNA de Gênio",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl80ODcwLmpzb24/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/8673/67a7a867c5320.png"
         }
       ]
     }
