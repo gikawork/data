@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": 1764726359,
+    "lastUpdated": 1764726374,
     "totalMangas": 1126,
     "version": "1.0.5"
   },
@@ -13502,6 +13502,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8zNTU0Lmpzb24/",
           "type": "manhwa",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx198936-sLJEfGKx5ict.png"
+        }
+      ]
+    },
+    "makr_4144": {
+      "title": "Night of Shadows",
+      "chapters": [
+        {
+          "id": "4144",
+          "title": "Night of Shadows",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl80MTQ0Lmpzb24/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.myanimelist.net/images/manga/2/270824.jpg"
         }
       ]
     }
