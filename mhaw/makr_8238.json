@@ -122,6 +122,19 @@
         ]
       }
     },
+    "153.5": {
+      "title": "Capítulo 153.5",
+      "groups": {
+        "gikamura": [
+          "https://cdn.verdinha.wtf/scans/1/obras/1775/capitulos/153.5/00.jpg",
+          "https://cdn.verdinha.wtf/scans/1/obras/1775/capitulos/153.5/01.jpg",
+          "https://cdn.verdinha.wtf/scans/1/obras/1775/capitulos/153.5/02.jpg",
+          "https://cdn.verdinha.wtf/scans/1/obras/1775/capitulos/153.5/03.jpg",
+          "https://cdn.verdinha.wtf/scans/1/obras/1775/capitulos/153.5/04.jpg",
+          "https://cdn.verdinha.wtf/scans/1/obras/1775/capitulos/153.5/05.jpg"
+        ]
+      }
+    },
     "153": {
       "title": "Capítulo 153",
       "volume": "",
@@ -9606,19 +9619,6 @@
           "https://cdn.mangalivre.ru//886d578c0f6a300d650fc4ef3aa0d1ee/90.webp",
           "https://cdn.mangalivre.ru//886d578c0f6a300d650fc4ef3aa0d1ee/91.webp",
           "https://cdn.mangalivre.ru//886d578c0f6a300d650fc4ef3aa0d1ee/92.webp"
-        ]
-      }
-    },
-    "153.5": {
-      "title": "Capítulo 153.5",
-      "groups": {
-        "gikamura": [
-          "https://cdn.verdinha.wtf /scans/1/obras/1775/capitulos/153.5/00.jpg",
-          "https://cdn.verdinha.wtf /scans/1/obras/1775/capitulos/153.5/01.jpg",
-          "https://cdn.verdinha.wtf /scans/1/obras/1775/capitulos/153.5/02.jpg",
-          "https://cdn.verdinha.wtf /scans/1/obras/1775/capitulos/153.5/03.jpg",
-          "https://cdn.verdinha.wtf /scans/1/obras/1775/capitulos/153.5/04.jpg",
-          "https://cdn.verdinha.wtf /scans/1/obras/1775/capitulos/153.5/05.jpg"
         ]
       }
     }
