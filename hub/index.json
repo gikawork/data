@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764737904,
-    "totalMangas": 2020,
+    "lastUpdated": 1764737913,
+    "totalMangas": 2021,
     "version": "1.0.5"
   },
   "mangas": {
@@ -24242,6 +24242,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl9hOTIwOWEuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/9941/67bcb3a2481de.jpg"
+        }
+      ]
+    },
+    "makr_d75584": {
+      "title": "Dias da Morte",
+      "chapters": [
+        {
+          "id": "d75584",
+          "title": "Dias da Morte",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl9kNzU1ODQuanNvbg/",
+          "type": "manhwa",
+          "cover_url": ""
         }
       ]
     }
