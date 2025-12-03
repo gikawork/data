@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": 1764726029,
+    "lastUpdated": 1764726045,
     "totalMangas": 1126,
     "version": "1.0.5"
   },
@@ -13502,6 +13502,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzM4MzQuanNvbg/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx82005-hw4GjRGAvcpG.jpg"
+        }
+      ]
+    },
+    "majp_6517": {
+      "title": "Spoil Me Plzzz, Hinamori-san!",
+      "chapters": [
+        {
+          "id": "6517",
+          "title": "Spoil Me Plzzz, Hinamori-san!",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzY1MTcuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx139399-FWwdEpGYln1y.jpg"
         }
       ]
     }
