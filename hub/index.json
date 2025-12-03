@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764735384,
-    "totalMangas": 1751,
+    "lastUpdated": 1764735393,
+    "totalMangas": 1752,
     "version": "1.0.5"
   },
   "mangas": {
@@ -21014,6 +21014,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl9lOGUxZDkuanNvbg/",
           "type": "manhwa",
           "cover_url": ""
+        }
+      ]
+    },
+    "makr_67e91f": {
+      "title": "Dança da Fada Açucarada",
+      "chapters": [
+        {
+          "id": "67e91f",
+          "title": "Dança da Fada Açucarada",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl82N2U5MWYuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/10423/67d9f3293ff88.png"
         }
       ]
     }
