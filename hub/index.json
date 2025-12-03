@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764738748,
-    "totalMangas": 2113,
+    "lastUpdated": 1764738757,
+    "totalMangas": 2114,
     "version": "1.0.5"
   },
   "mangas": {
@@ -25358,6 +25358,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8xNDMxLmpzb24/",
           "type": "manhwa",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx129632-ArHo6qvYQoHs.jpg"
+        }
+      ]
+    },
+    "makr_2c7517": {
+      "title": "O Emissário de Luz de Arad",
+      "chapters": [
+        {
+          "id": "2c7517",
+          "title": "O Emissário de Luz de Arad",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8yYzc1MTcuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/5161/6861faf0e5f1d.webp"
         }
       ]
     }
