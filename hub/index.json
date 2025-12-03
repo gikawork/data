@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764731470,
-    "totalMangas": 1318,
+    "lastUpdated": 1764731479,
+    "totalMangas": 1319,
     "version": "1.0.5"
   },
   "mangas": {
@@ -15818,6 +15818,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl84MDAwNS5qc29u/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/10519/67e878453f52a.png"
+        }
+      ]
+    },
+    "makr_9986": {
+      "title": "Promessa de uma Orquídea",
+      "chapters": [
+        {
+          "id": "9986",
+          "title": "Promessa de uma Orquídea",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl85OTg2Lmpzb24/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/10063/67c499f7d626b.png"
         }
       ]
     }
