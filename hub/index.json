@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": 1764726832,
+    "lastUpdated": 1764726847,
     "totalMangas": 1131,
     "version": "1.0.5"
   },
@@ -13562,6 +13562,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzQ1NjEuanNvbg/",
           "type": "manga",
           "cover_url": "https://cdn.mangaupdates.com/image/i470937.jpg"
+        }
+      ]
+    },
+    "makr_1434": {
+      "title": "The Novel’s Extra",
+      "chapters": [
+        {
+          "id": "1434",
+          "title": "The Novel’s Extra",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8xNDM0Lmpzb24/",
+          "type": "manhwa",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx152128-hk1Dq8zlEPVn.png"
         }
       ]
     }
