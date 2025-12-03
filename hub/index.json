@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764738377,
-    "totalMangas": 2072,
+    "lastUpdated": 1764738387,
+    "totalMangas": 2073,
     "version": "1.0.5"
   },
   "mangas": {
@@ -24866,6 +24866,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8zOTZhNzcuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/9719/67a69e458cdfb.png"
+        }
+      ]
+    },
+    "makr_9155": {
+      "title": "The Tyrant's Translator",
+      "chapters": [
+        {
+          "id": "9155",
+          "title": "The Tyrant's Translator",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl85MTU1Lmpzb24/",
+          "type": "manhwa",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx152428-m8SPY6ANzn5i.png"
         }
       ]
     }
