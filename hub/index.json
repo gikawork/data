@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764723003,
-    "totalMangas": 1097,
+    "lastUpdated": 1764723013,
+    "totalMangas": 1098,
     "version": "1.0.5"
   },
   "mangas": {
@@ -13166,6 +13166,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzEwNTMuanNvbg/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx177544-zqt30TXeQLfO.jpg"
+        }
+      ]
+    },
+    "majp_882": {
+      "title": "Ura de Yancha na Gouinda-san",
+      "chapters": [
+        {
+          "id": "882",
+          "title": "Ura de Yancha na Gouinda-san",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzg4Mi5qc29u/",
+          "type": "manga",
+          "cover_url": "https://cdn.mangaupdates.com/image/i467978.jpg"
         }
       ]
     }
