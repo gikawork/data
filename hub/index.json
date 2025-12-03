@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764730454,
-    "totalMangas": 1203,
+    "lastUpdated": 1764730463,
+    "totalMangas": 1204,
     "version": "1.0.5"
   },
   "mangas": {
@@ -14438,6 +14438,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8yMzk1Lmpzb24/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/12741/685c8cf5db3aa.png"
+        }
+      ]
+    },
+    "makr_7763": {
+      "title": "The Crimson Lady",
+      "chapters": [
+        {
+          "id": "7763",
+          "title": "The Crimson Lady",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl83NzYzLmpzb24/",
+          "type": "manhwa",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx153514-SzieZSJ5SzBq.jpg"
         }
       ]
     }
