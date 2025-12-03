@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764739033,
-    "totalMangas": 2144,
+    "lastUpdated": 1764739041,
+    "totalMangas": 2145,
     "version": "1.0.5"
   },
   "mangas": {
@@ -25730,6 +25730,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl82ODQ0Lmpzb24/",
           "type": "manhwa",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx173521-MeJOgxW87QTW.png"
+        }
+      ]
+    },
+    "makr_92b898": {
+      "title": "Sou O Vilão, Mas Estou Sendo Favorecido",
+      "chapters": [
+        {
+          "id": "92b898",
+          "title": "Sou O Vilão, Mas Estou Sendo Favorecido",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl85MmI4OTguanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/9188/679ae14f47cca.png"
         }
       ]
     }
