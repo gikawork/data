@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764736547,
-    "totalMangas": 1878,
+    "lastUpdated": 1764736558,
+    "totalMangas": 1879,
     "version": "1.0.5"
   },
   "mangas": {
@@ -22538,6 +22538,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8yZTA5M2MuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/11167/682f7dbaa095f.jpg"
+        }
+      ]
+    },
+    "makr_24287": {
+      "title": "ANZ",
+      "chapters": [
+        {
+          "id": "24287",
+          "title": "ANZ",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8yNDI4Ny5qc29u/",
+          "type": "manhwa",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx118522-oZEI8tbwuGrP.png"
         }
       ]
     }
