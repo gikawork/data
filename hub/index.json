@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": 1764727429,
+    "lastUpdated": 1764727444,
     "totalMangas": 1136,
     "version": "1.0.5"
   },
@@ -13622,6 +13622,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzI3MzQuanNvbg/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx175717-cERkjiw9mzkj.jpg"
+        }
+      ]
+    },
+    "makr_4485": {
+      "title": "The Golden-Haired Summoner",
+      "chapters": [
+        {
+          "id": "4485",
+          "title": "The Golden-Haired Summoner",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl80NDg1Lmpzb24/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.myanimelist.net/images/manga/2/331253.jpg"
         }
       ]
     }
