@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764735058,
-    "totalMangas": 1715,
+    "lastUpdated": 1764735066,
+    "totalMangas": 1716,
     "version": "1.0.5"
   },
   "mangas": {
@@ -20582,6 +20582,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl83Mjg0My5qc29u/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/12745/685c96ed3de22.png"
+        }
+      ]
+    },
+    "makr_a7a6c2": {
+      "title": "A Garota que Consegue Ler a Mente de Quem Está Sentado ao Lado Dela",
+      "chapters": [
+        {
+          "id": "a7a6c2",
+          "title": "A Garota que Consegue Ler a Mente de Quem Está Sentado ao Lado Dela",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl9hN2E2YzIuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/10930/680eb5805c5e5.jpg"
         }
       ]
     }
