@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764740035,
-    "totalMangas": 2255,
+    "lastUpdated": 1764740043,
+    "totalMangas": 2256,
     "version": "1.0.5"
   },
   "mangas": {
@@ -27062,6 +27062,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl85MDY0Lmpzb24/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/9702/67a516ed4c88a.png"
+        }
+      ]
+    },
+    "makr_cc5f27": {
+      "title": "Me Chame de D1abo",
+      "chapters": [
+        {
+          "id": "cc5f27",
+          "title": "Me Chame de D1abo",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl9jYzVmMjcuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/9267/67a3e67a4f688.png"
         }
       ]
     }
