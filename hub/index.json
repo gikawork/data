@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764730488,
-    "totalMangas": 1207,
+    "lastUpdated": 1764730497,
+    "totalMangas": 1208,
     "version": "1.0.5"
   },
   "mangas": {
@@ -14486,6 +14486,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8xNDU1Lmpzb24/",
           "type": "manhwa",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx181513-q7L9YpGyBOWK.jpg"
+        }
+      ]
+    },
+    "makr_ece096": {
+      "title": "O Assassino Genial que Absorve Tudo",
+      "chapters": [
+        {
+          "id": "ece096",
+          "title": "O Assassino Genial que Absorve Tudo",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl9lY2UwOTYuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/3480/6864c22203e51.jpg"
         }
       ]
     }
