@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764730757,
-    "totalMangas": 1237,
+    "lastUpdated": 1764730765,
+    "totalMangas": 1238,
     "version": "1.0.5"
   },
   "mangas": {
@@ -14846,6 +14846,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF82OTgzLmpzb24/",
           "type": "manhua",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/7659/wp-content/uploads/2024/12/godi.jpg"
+        }
+      ]
+    },
+    "makr_84f3d4": {
+      "title": "Amor Acidental",
+      "chapters": [
+        {
+          "id": "84f3d4",
+          "title": "Amor Acidental",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl84NGYzZDQuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/8112/67a8c65e54078.png"
         }
       ]
     }
