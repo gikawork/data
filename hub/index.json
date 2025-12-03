@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": 1764730103,
+    "lastUpdated": 1764730118,
     "totalMangas": 1189,
     "version": "1.0.5"
   },
@@ -14258,6 +14258,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzM2NS5qc29u/",
           "type": "manga",
           "cover_url": "https://cdn.myanimelist.net/images/manga/1/226146.jpg"
+        }
+      ]
+    },
+    "majp_3635": {
+      "title": "Yuri no Hajimari wa Dorei Kara",
+      "chapters": [
+        {
+          "id": "3635",
+          "title": "Yuri no Hajimari wa Dorei Kara",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzM2MzUuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://cdn.myanimelist.net/images/manga/3/318777.jpg"
         }
       ]
     }
