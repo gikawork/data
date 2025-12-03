@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764740429,
-    "totalMangas": 2298,
+    "lastUpdated": 1764740438,
+    "totalMangas": 2299,
     "version": "1.0.5"
   },
   "mangas": {
@@ -27578,6 +27578,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl84OTkyZDcuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/2585/wp-content/uploads/2024/06/xxlarge-1-1.png"
+        }
+      ]
+    },
+    "mach_10c8d1": {
+      "title": "Minha Discípula Morreu de Novo!",
+      "chapters": [
+        {
+          "id": "10c8d1",
+          "title": "Minha Discípula Morreu de Novo!",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF8xMGM4ZDEuanNvbg/",
+          "type": "manhua",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/9837/67afb178564f6.png"
         }
       ]
     }
