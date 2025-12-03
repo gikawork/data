@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764730611,
-    "totalMangas": 1221,
+    "lastUpdated": 1764730622,
+    "totalMangas": 1222,
     "version": "1.0.5"
   },
   "mangas": {
@@ -14654,6 +14654,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF8yMjk0Lmpzb24/",
           "type": "manhua",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/9833/67af6dd867f69.png"
+        }
+      ]
+    },
+    "makr_4213f9": {
+      "title": "O Caçador com 990 Mil Vidas Passadas",
+      "chapters": [
+        {
+          "id": "4213f9",
+          "title": "O Caçador com 990 Mil Vidas Passadas",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl80MjEzZjkuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/8672/6789b9ad25995.png"
         }
       ]
     }
