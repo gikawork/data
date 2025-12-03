@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": 1764723814,
+    "lastUpdated": 1764723831,
     "totalMangas": 1101,
     "version": "1.0.5"
   },
@@ -13202,6 +13202,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzE0MDguanNvbg/",
           "type": "manga",
           "cover_url": "https://cdn.mangaupdates.com/image/i380111.jpg"
+        }
+      ]
+    },
+    "majp_7713": {
+      "title": "Akuyaku Reijou desu ga, Watashi o Anata no Seidorei ni Shite Kudasai!",
+      "chapters": [
+        {
+          "id": "7713",
+          "title": "Akuyaku Reijou desu ga, Watashi o Anata no Seidorei ni Shite Kudasai!",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzc3MTMuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://cdn.mangaupdates.com/image/i459072.jpg"
         }
       ]
     }
