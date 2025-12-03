@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764738414,
-    "totalMangas": 2076,
+    "lastUpdated": 1764738422,
+    "totalMangas": 2077,
     "version": "1.0.5"
   },
   "mangas": {
@@ -24914,6 +24914,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzk1MjIuanNvbg/",
           "type": "manga",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/10087/67c5afe1a20af.png"
+        }
+      ]
+    },
+    "makr_323ab8": {
+      "title": "Cai nos Braços do Vilão Louco",
+      "chapters": [
+        {
+          "id": "323ab8",
+          "title": "Cai nos Braços do Vilão Louco",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8zMjNhYjguanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/9784/67ab849cf0f3c.avif"
         }
       ]
     }
