@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764734953,
-    "totalMangas": 1703,
+    "lastUpdated": 1764734962,
+    "totalMangas": 1704,
     "version": "1.0.5"
   },
   "mangas": {
@@ -20438,6 +20438,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF81NTg3NS5qc29u/",
           "type": "manhua",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/10116/67c88f6b8075e.jpg"
+        }
+      ]
+    },
+    "mach_34208": {
+      "title": "Jogador Renascido",
+      "chapters": [
+        {
+          "id": "34208",
+          "title": "Jogador Renascido",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF8zNDIwOC5qc29u/",
+          "type": "manhua",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/8344/wp-content/uploads/2024/12/420.format-avif.original_cObxx3n.jpg"
         }
       ]
     }
