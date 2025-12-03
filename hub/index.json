@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764738495,
-    "totalMangas": 2085,
+    "lastUpdated": 1764738504,
+    "totalMangas": 2086,
     "version": "1.0.5"
   },
   "mangas": {
@@ -25022,6 +25022,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8wZGEyMzUuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/4933/67db2b77472bc.jpg"
+        }
+      ]
+    },
+    "makr_902c61": {
+      "title": "School Bus Graveyard",
+      "chapters": [
+        {
+          "id": "902c61",
+          "title": "School Bus Graveyard",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl85MDJjNjEuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/11193/68434f89dd223.png"
         }
       ]
     }
