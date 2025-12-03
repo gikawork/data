@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": 1764723870,
+    "lastUpdated": 1764723885,
     "totalMangas": 1102,
     "version": "1.0.5"
   },
@@ -13214,6 +13214,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzE2MjAuanNvbg/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/nx96842-gTB8CygGvG4n.jpg"
+        }
+      ]
+    },
+    "majp_2855": {
+      "title": "Puzzle+",
+      "chapters": [
+        {
+          "id": "2855",
+          "title": "Puzzle+",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzI4NTUuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx40742-HZLx4U0UuCBV.png"
         }
       ]
     }
