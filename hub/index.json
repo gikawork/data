@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764732862,
-    "totalMangas": 1472,
+    "lastUpdated": 1764732871,
+    "totalMangas": 1473,
     "version": "1.0.5"
   },
   "mangas": {
@@ -17666,6 +17666,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF81MDc3ZTIuanNvbg/",
           "type": "manhua",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/10255/67cf3f7d5df34.png"
+        }
+      ]
+    },
+    "makr_4106": {
+      "title": "Complexo de Amigos de Infância",
+      "chapters": [
+        {
+          "id": "4106",
+          "title": "Complexo de Amigos de Infância",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl80MTA2Lmpzb24/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/8147/wp-content/uploads/2024/12/complexo-de-amigos-de-infancia.jpeg"
         }
       ]
     }
