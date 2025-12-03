@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764732845,
-    "totalMangas": 1470,
+    "lastUpdated": 1764732853,
+    "totalMangas": 1471,
     "version": "1.0.5"
   },
   "mangas": {
@@ -17642,6 +17642,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl85MjFmMmUuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/189/wp-content/uploads/2024/05/d932bb45-287d-462f-a553-8c6c539dbe47.jpg.512-210x300-1.jpg"
+        }
+      ]
+    },
+    "mach_378347": {
+      "title": "O Cultivador Demoníaco Renascido Encontro Um Mundo De Zumbis",
+      "chapters": [
+        {
+          "id": "378347",
+          "title": "O Cultivador Demoníaco Renascido Encontro Um Mundo De Zumbis",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF8zNzgzNDcuanNvbg/",
+          "type": "manhua",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/5432/67fc0a32ecef4.png"
         }
       ]
     }
