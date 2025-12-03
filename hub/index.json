@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764740245,
-    "totalMangas": 2278,
+    "lastUpdated": 1764740255,
+    "totalMangas": 2279,
     "version": "1.0.5"
   },
   "mangas": {
@@ -27338,6 +27338,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8yYjE4ZDguanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/8666/680f873dc41dd.jpg"
+        }
+      ]
+    },
+    "makr_170594": {
+      "title": "C",
+      "chapters": [
+        {
+          "id": "170594",
+          "title": "C",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8xNzA1OTQuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx187595-eg9WyvLIYYJE.png"
         }
       ]
     }
