@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": 1764723090,
+    "lastUpdated": 1764723105,
     "totalMangas": 1097,
     "version": "1.0.5"
   },
@@ -13154,6 +13154,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzEwNTkuanNvbg/",
           "type": "manga",
           "cover_url": "https://cdn.myanimelist.net/images/manga/1/326574.jpg"
+        }
+      ]
+    },
+    "makr_1650": {
+      "title": "Absolute Reign",
+      "chapters": [
+        {
+          "id": "1650",
+          "title": "Absolute Reign",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8xNjUwLmpzb24/",
+          "type": "manhwa",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx183285-ZfemXvC1AHGk.jpg"
         }
       ]
     }
