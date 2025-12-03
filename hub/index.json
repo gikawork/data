@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764731700,
-    "totalMangas": 1340,
+    "lastUpdated": 1764731708,
+    "totalMangas": 1341,
     "version": "1.0.5"
   },
   "mangas": {
@@ -16082,6 +16082,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21vZWwvbWFvZWxfNzA1ODAuanNvbg/",
           "type": "oel",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/13851/68cc928bcd78b.webp"
+        }
+      ]
+    },
+    "makr_47812": {
+      "title": "Espinhos Que Me Perfuram",
+      "chapters": [
+        {
+          "id": "47812",
+          "title": "Espinhos Que Me Perfuram",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl80NzgxMi5qc29u/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/10306/67d0fc139f2b2.png"
         }
       ]
     }
