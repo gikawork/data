@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": 1764728300,
+    "lastUpdated": 1764728315,
     "totalMangas": 1149,
     "version": "1.0.5"
   },
@@ -13778,6 +13778,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzE1MTguanNvbg/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx39982-68LS2Z9075Kw.jpg"
+        }
+      ]
+    },
+    "majp_4453": {
+      "title": "Kobayashi-san Chi no Maid Dragon꞉ Iruru wa Koi toka Wakarimasen!",
+      "chapters": [
+        {
+          "id": "4453",
+          "title": "Kobayashi-san Chi no Maid Dragon꞉ Iruru wa Koi toka Wakarimasen!",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzQ0NTMuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://cdn.mangaupdates.com/image/i468106.jpg"
         }
       ]
     }
