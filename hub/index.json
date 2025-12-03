@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764733867,
-    "totalMangas": 1584,
+    "lastUpdated": 1764733876,
+    "totalMangas": 1585,
     "version": "1.0.5"
   },
   "mangas": {
@@ -19010,6 +19010,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8zMTg1ZTUuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/9841/67afdfe70a745.png"
+        }
+      ]
+    },
+    "mach_9270": {
+      "title": "Mágico Taoísta de Outro Mundo",
+      "chapters": [
+        {
+          "id": "9270",
+          "title": "Mágico Taoísta de Outro Mundo",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF85MjcwLmpzb24/",
+          "type": "manhua",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/9977/67c0fd9f6e496.png"
         }
       ]
     }
