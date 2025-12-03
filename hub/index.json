@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": 1764724929,
+    "lastUpdated": 1764724944,
     "totalMangas": 1110,
     "version": "1.0.5"
   },
@@ -13310,6 +13310,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8xOTY2Lmpzb24/",
           "type": "manhwa",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx157412-NA9zhfwDWkDl.jpg"
+        }
+      ]
+    },
+    "majp_4133": {
+      "title": "Afterschool Connection",
+      "chapters": [
+        {
+          "id": "4133",
+          "title": "Afterschool Connection",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzQxMzMuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx120671-JT5Ajkys7tP0.jpg"
         }
       ]
     }
