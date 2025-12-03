@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764736612,
-    "totalMangas": 1885,
+    "lastUpdated": 1764736621,
+    "totalMangas": 1886,
     "version": "1.0.5"
   },
   "mangas": {
@@ -22622,6 +22622,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8yNzQ2Lmpzb24/",
           "type": "manhwa",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx177170-0vsr8HwShZrZ.jpg"
+        }
+      ]
+    },
+    "mach_b9c8d8": {
+      "title": "Senhor das Invocações: Apocalipse Dimensional",
+      "chapters": [
+        {
+          "id": "b9c8d8",
+          "title": "Senhor das Invocações: Apocalipse Dimensional",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF9iOWM4ZDguanNvbg/",
+          "type": "manhua",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/11271/683ed2c55400a.jpg"
         }
       ]
     }
