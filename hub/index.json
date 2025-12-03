@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764740155,
-    "totalMangas": 2268,
+    "lastUpdated": 1764740165,
+    "totalMangas": 2269,
     "version": "1.0.5"
   },
   "mangas": {
@@ -27218,6 +27218,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8xNDUwLmpzb24/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/7050/wp-content/uploads/2024/12/pseudoguia.webp"
+        }
+      ]
+    },
+    "makr_2a0196": {
+      "title": "O Grande Domador de Bestas",
+      "chapters": [
+        {
+          "id": "2a0196",
+          "title": "O Grande Domador de Bestas",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8yYTAxOTYuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/5724/wp-content/uploads/2024/10/CAPA-DO-GRANDE-TEMPORARIA.png"
         }
       ]
     }
