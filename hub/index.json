@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764737362,
-    "totalMangas": 1965,
+    "lastUpdated": 1764737374,
+    "totalMangas": 1966,
     "version": "1.0.5"
   },
   "mangas": {
@@ -23582,6 +23582,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl81MDU3NS5qc29u/",
           "type": "manhwa",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx144124-McRlQYNjlTR9.jpg"
+        }
+      ]
+    },
+    "mach_cd2df4": {
+      "title": "Depois de fazer login por 30 dias, posso aniquilar estrelas",
+      "chapters": [
+        {
+          "id": "cd2df4",
+          "title": "Depois de fazer login por 30 dias, posso aniquilar estrelas",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF9jZDJkZjQuanNvbg/",
+          "type": "manhua",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/13745/68be3d6dd9b6f.png"
         }
       ]
     }
