@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": 1764727776,
+    "lastUpdated": 1764727792,
     "totalMangas": 1142,
     "version": "1.0.5"
   },
@@ -13694,6 +13694,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzQ3ODAuanNvbg/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/27615.jpg"
+        }
+      ]
+    },
+    "majp_601": {
+      "title": "Ouji-sama no Tomodachi",
+      "chapters": [
+        {
+          "id": "601",
+          "title": "Ouji-sama no Tomodachi",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzYwMS5qc29u/",
+          "type": "manga",
+          "cover_url": "https://cdn.myanimelist.net/images/manga/3/293031.jpg"
         }
       ]
     }
