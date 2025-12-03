@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764729816,
-    "totalMangas": 1182,
+    "lastUpdated": 1764729826,
+    "totalMangas": 1183,
     "version": "1.0.5"
   },
   "mangas": {
@@ -14186,6 +14186,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzczOS5qc29u/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx144866-ummLIg6x419I.jpg"
+        }
+      ]
+    },
+    "majp_4897": {
+      "title": "Akame ga KILL!",
+      "chapters": [
+        {
+          "id": "4897",
+          "title": "Akame ga KILL!",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzQ4OTcuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://cdn.myanimelist.net/images/manga/1/260104.jpg"
         }
       ]
     }
