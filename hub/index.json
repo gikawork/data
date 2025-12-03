@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764731675,
-    "totalMangas": 1337,
+    "lastUpdated": 1764731683,
+    "totalMangas": 1338,
     "version": "1.0.5"
   },
   "mangas": {
@@ -16046,6 +16046,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl82N2NkOWUuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/8690/6791375157b90.png"
+        }
+      ]
+    },
+    "makr_1b2709": {
+      "title": "A Tank Rank C Não Morre!",
+      "chapters": [
+        {
+          "id": "1b2709",
+          "title": "A Tank Rank C Não Morre!",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8xYjI3MDkuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/13967/68dde59fa4cfb.webp"
         }
       ]
     }
