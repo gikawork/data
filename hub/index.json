@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764736988,
-    "totalMangas": 1926,
+    "lastUpdated": 1764736998,
+    "totalMangas": 1927,
     "version": "1.0.5"
   },
   "mangas": {
@@ -23114,6 +23114,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl83OTdlNmEuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/8381/wp-content/uploads/2024/12/65ef19a95a6b8.jpg"
+        }
+      ]
+    },
+    "makr_412da8": {
+      "title": "O Primeiro Caçador",
+      "chapters": [
+        {
+          "id": "412da8",
+          "title": "O Primeiro Caçador",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl80MTJkYTguanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/7281/wp-content/uploads/2024/12/b20251e4-5577-4f82-9747-cc7b15cfee55.jpg"
         }
       ]
     }
