@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764733940,
-    "totalMangas": 1592,
+    "lastUpdated": 1764733949,
+    "totalMangas": 1593,
     "version": "1.0.5"
   },
   "mangas": {
@@ -19106,6 +19106,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl84Nzc1My5qc29u/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/10207/67ce4fc61905f.png"
+        }
+      ]
+    },
+    "makr_f31c05": {
+      "title": "Por Trás da Fachada Alegre da Princesa Sobrevivente",
+      "chapters": [
+        {
+          "id": "f31c05",
+          "title": "Por Trás da Fachada Alegre da Princesa Sobrevivente",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl9mMzFjMDUuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/9265/67a3ae4652324.png"
         }
       ]
     }
