@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764730721,
-    "totalMangas": 1233,
+    "lastUpdated": 1764730729,
+    "totalMangas": 1234,
     "version": "1.0.5"
   },
   "mangas": {
@@ -14798,6 +14798,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl9iYzBlYzUuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/9250/67a29404b4728.png"
+        }
+      ]
+    },
+    "mach_43784": {
+      "title": "Meu Mestre é uma Divindade",
+      "chapters": [
+        {
+          "id": "43784",
+          "title": "Meu Mestre é uma Divindade",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF80Mzc4NC5qc29u/",
+          "type": "manhua",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/9778/67ab7791d57a6.avif"
         }
       ]
     }
