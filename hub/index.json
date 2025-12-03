@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764731269,
-    "totalMangas": 1296,
+    "lastUpdated": 1764731278,
+    "totalMangas": 1297,
     "version": "1.0.5"
   },
   "mangas": {
@@ -15554,6 +15554,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8zNTI4Ni5qc29u/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/10226/67cf0e1918cb9.png"
+        }
+      ]
+    },
+    "makr_b51541": {
+      "title": "Veletric",
+      "chapters": [
+        {
+          "id": "b51541",
+          "title": "Veletric",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl9iNTE1NDEuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/2263/6864b9f2e5dc7.webp"
         }
       ]
     }
