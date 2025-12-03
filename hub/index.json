@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764739531,
-    "totalMangas": 2199,
+    "lastUpdated": 1764739540,
+    "totalMangas": 2200,
     "version": "1.0.5"
   },
   "mangas": {
@@ -26390,6 +26390,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF9kMTE2MTIuanNvbg/",
           "type": "manhua",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/9145/6798da099cafc.png"
+        }
+      ]
+    },
+    "mach_4f48f7": {
+      "title": "O Jogo do Cultivo Imortal",
+      "chapters": [
+        {
+          "id": "4f48f7",
+          "title": "O Jogo do Cultivo Imortal",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF80ZjQ4ZjcuanNvbg/",
+          "type": "manhua",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/12837/685f6eafcbf0d.png"
         }
       ]
     }
