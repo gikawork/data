@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764733037,
-    "totalMangas": 1491,
+    "lastUpdated": 1764733046,
+    "totalMangas": 1492,
     "version": "1.0.5"
   },
   "mangas": {
@@ -17894,6 +17894,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8xYzAzZWUuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/10920/680eb10903974.jpg"
+        }
+      ]
+    },
+    "majp_4222": {
+      "title": "Minha Habilidade de Treinamento é Meio Estranha",
+      "chapters": [
+        {
+          "id": "4222",
+          "title": "Minha Habilidade de Treinamento é Meio Estranha",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzQyMjIuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/10804/680ea8f126444.jpg"
         }
       ]
     }
