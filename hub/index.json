@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764735720,
-    "totalMangas": 1788,
+    "lastUpdated": 1764735728,
+    "totalMangas": 1789,
     "version": "1.0.5"
   },
   "mangas": {
@@ -21458,6 +21458,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl9hZTNhNjQuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/7354/wp-content/uploads/2024/12/aaaaaaaaa.png"
+        }
+      ]
+    },
+    "makr_3cc042": {
+      "title": "As 100 Namoradas Que Amam Você Muito, Muito, Muito, Muito, Muito",
+      "chapters": [
+        {
+          "id": "3cc042",
+          "title": "As 100 Namoradas Que Amam Você Muito, Muito, Muito, Muito, Muito",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8zY2MwNDIuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/10835/680eaa5705bfc.jpg"
         }
       ]
     }
