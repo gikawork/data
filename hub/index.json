@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764733645,
-    "totalMangas": 1559,
+    "lastUpdated": 1764733654,
+    "totalMangas": 1560,
     "version": "1.0.5"
   },
   "mangas": {
@@ -18710,6 +18710,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl82NzE1Lmpzb24/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/3401/wp-content/uploads/2024/06/Ice_Lord_COVER_ORBITAL.png"
+        }
+      ]
+    },
+    "mach_437e46": {
+      "title": "Forjado Por Cem Mil Anos de Tribulações",
+      "chapters": [
+        {
+          "id": "437e46",
+          "title": "Forjado Por Cem Mil Anos de Tribulações",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF80MzdlNDYuanNvbg/",
+          "type": "manhua",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/11105/68253776efd5d.png"
         }
       ]
     }
