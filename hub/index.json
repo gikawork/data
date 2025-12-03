@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764737607,
-    "totalMangas": 1991,
+    "lastUpdated": 1764737616,
+    "totalMangas": 1992,
     "version": "1.0.5"
   },
   "mangas": {
@@ -23894,6 +23894,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF83MzA0NS5qc29u/",
           "type": "manhua",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/11259/683db9fcd8a8e.png"
+        }
+      ]
+    },
+    "makr_d654bc": {
+      "title": "A Estrela do Desejo",
+      "chapters": [
+        {
+          "id": "d654bc",
+          "title": "A Estrela do Desejo",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl9kNjU0YmMuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/10853/680eab05cd917.jpg"
         }
       ]
     }
