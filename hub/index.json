@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764738209,
-    "totalMangas": 2054,
+    "lastUpdated": 1764738222,
+    "totalMangas": 2055,
     "version": "1.0.5"
   },
   "mangas": {
@@ -24650,6 +24650,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwX2FlZjk5ZS5qc29u/",
           "type": "manga",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/10976/68153414e98ff.jpg"
+        }
+      ]
+    },
+    "makr_862671": {
+      "title": "Branca De Neve",
+      "chapters": [
+        {
+          "id": "862671",
+          "title": "Branca De Neve",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl84NjI2NzEuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/6706/wp-content/uploads/2024/11/upload_4049688676676087908_480x623-1.jpg"
         }
       ]
     }
