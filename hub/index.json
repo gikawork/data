@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764734181,
-    "totalMangas": 1619,
+    "lastUpdated": 1764734189,
+    "totalMangas": 1620,
     "version": "1.0.5"
   },
   "mangas": {
@@ -19430,6 +19430,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl9hOWQ3ZGQuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/5340/wp-content/uploads/2024/10/eu-revivo-sozinho.png"
+        }
+      ]
+    },
+    "mach_6741": {
+      "title": "Universo Marcial",
+      "chapters": [
+        {
+          "id": "6741",
+          "title": "Universo Marcial",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF82NzQxLmpzb24/",
+          "type": "manhua",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/9795/67aba27494a05.jpg"
         }
       ]
     }
