@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": 1764737251,
+    "lastUpdated": 1764737262,
     "totalMangas": 1954,
     "version": "1.0.5"
   },
@@ -554,18 +554,6 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9KUDQ3OS5qc29u/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/nx85702-bViMuf2lzC0f.jpg"
-        }
-      ]
-    },
-    "KR1093": {
-      "title": "Divine Beast Kindergarten",
-      "chapters": [
-        {
-          "id": 1093,
-          "title": "Divine Beast Kindergarten",
-          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvS1IxMDkzLmpzb24%3D/",
-          "type": "manhwa",
-          "cover_url": "https://cdn.mangabaka.dev/0x350,q90,sEXe21IIZpv3_45DpUpaizCoB6spKqmkpcT06spGSnGE=/https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx191112-KwUoLHHjaiIN.jpg"
         }
       ]
     },
@@ -23450,6 +23438,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl85MjU5Lmpzb24/",
           "type": "manhwa",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx174370-rN4wWFEbss9D.jpg"
+        }
+      ]
+    },
+    "makr_1093": {
+      "title": "Abnormal Immortal Record of Spooky Daoist",
+      "chapters": [
+        {
+          "id": "1093",
+          "title": "Abnormal Immortal Record of Spooky Daoist",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8xMDkzLmpzb24/",
+          "type": "manhwa",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b185572-opVSBTGYKGT6.png"
         }
       ]
     }
