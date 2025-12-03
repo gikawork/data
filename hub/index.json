@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": 1764764407,
+    "lastUpdated": 1764764414,
     "totalMangas": 2624,
     "version": "1.0.6"
   },
@@ -31481,15 +31481,15 @@
         }
       ]
     },
-    "makr_2827": {
-      "title": "A Salvadora Favorita",
+    "maoel_29066": {
+      "title": "O Lamento da Sereia",
       "chapters": [
         {
-          "id": "2827",
-          "title": "A Salvadora Favorita",
-          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8yODI3Lmpzb24/",
-          "type": "manhwa",
-          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/8767/67948b206fb8f.png"
+          "id": "29066",
+          "title": "O Lamento da Sereia",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21vZWwvbWFvZWxfMjkwNjYuanNvbg/",
+          "type": "oel",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/10509/67e4bead0e51a.png"
         }
       ]
     }
