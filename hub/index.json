@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": 1764723591,
+    "lastUpdated": 1764723606,
     "totalMangas": 1101,
     "version": "1.0.5"
   },
@@ -13202,6 +13202,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzgxMDcuanNvbg/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx114917-MLwVfspWGBYw.jpg"
+        }
+      ]
+    },
+    "majp_1960": {
+      "title": "Misumi-san Can't See Through",
+      "chapters": [
+        {
+          "id": "1960",
+          "title": "Misumi-san Can't See Through",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzE5NjAuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b131401-JUhZ8V7FGwOs.jpg"
         }
       ]
     }
