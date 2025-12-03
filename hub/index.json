@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764735075,
-    "totalMangas": 1717,
+    "lastUpdated": 1764735084,
+    "totalMangas": 1718,
     "version": "1.0.5"
   },
   "mangas": {
@@ -20606,6 +20606,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl84YTQyMjguanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/9079/6796e22a53484.webp"
+        }
+      ]
+    },
+    "makr_76219": {
+      "title": "Coroando Meu Príncipe Feroz",
+      "chapters": [
+        {
+          "id": "76219",
+          "title": "Coroando Meu Príncipe Feroz",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl83NjIxOS5qc29u/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/8955/6795be63df38e.png"
         }
       ]
     }
