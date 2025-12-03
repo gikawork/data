@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764738368,
-    "totalMangas": 2071,
+    "lastUpdated": 1764738377,
+    "totalMangas": 2072,
     "version": "1.0.5"
   },
   "mangas": {
@@ -24854,6 +24854,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl81MTIwNy5qc29u/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/10232/67cf1b99197d8.png"
+        }
+      ]
+    },
+    "makr_396a77": {
+      "title": "Regressei para Minha Família Arruinada",
+      "chapters": [
+        {
+          "id": "396a77",
+          "title": "Regressei para Minha Família Arruinada",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8zOTZhNzcuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/9719/67a69e458cdfb.png"
         }
       ]
     }
