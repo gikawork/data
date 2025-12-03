@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764740355,
-    "totalMangas": 2290,
+    "lastUpdated": 1764740365,
+    "totalMangas": 2291,
     "version": "1.0.5"
   },
   "mangas": {
@@ -27482,6 +27482,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl81NTBjNTAuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/7272/wp-content/uploads/2024/12/pedade.jpg"
+        }
+      ]
+    },
+    "makr_0535e1": {
+      "title": "Ganhei Poder Morrendo",
+      "chapters": [
+        {
+          "id": "0535e1",
+          "title": "Ganhei Poder Morrendo",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8wNTM1ZTEuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/4341/wp-content/uploads/2024/10/GANHEI_PODER_CAPA_OFICIAL-193x278_upscayl_2100px_realesrgan-x4plus-anime.png"
         }
       ]
     }
