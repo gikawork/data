@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764731146,
-    "totalMangas": 1282,
+    "lastUpdated": 1764731154,
+    "totalMangas": 1283,
     "version": "1.0.5"
   },
   "mangas": {
@@ -15386,6 +15386,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl9kZTI5OGUuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/5386/67a7a635f2335.png"
+        }
+      ]
+    },
+    "makr_212998": {
+      "title": "Laços Sombrios",
+      "chapters": [
+        {
+          "id": "212998",
+          "title": "Laços Sombrios",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8yMTI5OTguanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/9008/6795d1b037d13.png"
         }
       ]
     }
