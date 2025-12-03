@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764740339,
-    "totalMangas": 2288,
+    "lastUpdated": 1764740348,
+    "totalMangas": 2289,
     "version": "1.0.5"
   },
   "mangas": {
@@ -27458,6 +27458,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF8xNzkxLmpzb24/",
           "type": "manhua",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/9131/6797b0ad4ad0e.png"
+        }
+      ]
+    },
+    "makr_019be3": {
+      "title": "Invencível (Eu só queria ser mortal)",
+      "chapters": [
+        {
+          "id": "019be3",
+          "title": "Invencível (Eu só queria ser mortal)",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8wMTliZTMuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/5924/wp-content/uploads/2024/10/ordiandsijsdj.png"
         }
       ]
     }
