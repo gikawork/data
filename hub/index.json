@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764739068,
-    "totalMangas": 2148,
+    "lastUpdated": 1764739077,
+    "totalMangas": 2149,
     "version": "1.0.5"
   },
   "mangas": {
@@ -25778,6 +25778,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl9kYjVkOWEuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/6054/67ac22b6a2ebe.png"
+        }
+      ]
+    },
+    "majp_784": {
+      "title": "DOOOOM",
+      "chapters": [
+        {
+          "id": "784",
+          "title": "DOOOOM",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzc4NC5qc29u/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx151278-fjkFzaIvACjM.jpg"
         }
       ]
     }
