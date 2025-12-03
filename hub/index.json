@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764736916,
-    "totalMangas": 1918,
+    "lastUpdated": 1764736925,
+    "totalMangas": 1919,
     "version": "1.0.5"
   },
   "mangas": {
@@ -23018,6 +23018,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl84MjE0Lmpzb24/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/9217/679e526c69aa2.avif"
+        }
+      ]
+    },
+    "mach_75222": {
+      "title": "A Semente Abissal",
+      "chapters": [
+        {
+          "id": "75222",
+          "title": "A Semente Abissal",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF83NTIyMi5qc29u/",
+          "type": "manhua",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/10182/67cdcb81ecf92.png"
         }
       ]
     }
