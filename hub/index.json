@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764732295,
-    "totalMangas": 1408,
+    "lastUpdated": 1764732303,
+    "totalMangas": 1409,
     "version": "1.0.5"
   },
   "mangas": {
@@ -16898,6 +16898,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl85ODA3Ny5qc29u/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/11485/6859b52b3e403.png"
+        }
+      ]
+    },
+    "makr_8113": {
+      "title": "Operação: Amor Verdadeiro",
+      "chapters": [
+        {
+          "id": "8113",
+          "title": "Operação: Amor Verdadeiro",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl84MTEzLmpzb24/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/2123/67ce2f16a74cf.png"
         }
       ]
     }
