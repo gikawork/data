@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764731565,
-    "totalMangas": 1326,
+    "lastUpdated": 1764731574,
+    "totalMangas": 1327,
     "version": "1.0.5"
   },
   "mangas": {
@@ -15914,6 +15914,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl9mYjJlNGIuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/10085/67c51f630eb9b.png"
+        }
+      ]
+    },
+    "mach_64757": {
+      "title": "Eu Aprendo A Matar Deuses Em Um Asilo",
+      "chapters": [
+        {
+          "id": "64757",
+          "title": "Eu Aprendo A Matar Deuses Em Um Asilo",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF82NDc1Ny5qc29u/",
+          "type": "manhua",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/6365/wp-content/uploads/2024/11/rand.jpg"
         }
       ]
     }
