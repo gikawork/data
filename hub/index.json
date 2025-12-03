@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764736731,
-    "totalMangas": 1898,
+    "lastUpdated": 1764736741,
+    "totalMangas": 1899,
     "version": "1.0.5"
   },
   "mangas": {
@@ -22778,6 +22778,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl84YzNiMWYuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/10077/67c4fac22b308.png"
+        }
+      ]
+    },
+    "makr_84a9d1": {
+      "title": "Espinhos de Calor (Completo)",
+      "chapters": [
+        {
+          "id": "84a9d1",
+          "title": "Espinhos de Calor (Completo)",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl84NGE5ZDEuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/8909/6795ad0d07d84.png"
         }
       ]
     }
