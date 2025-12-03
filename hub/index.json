@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": 1764727324,
+    "lastUpdated": 1764727338,
     "totalMangas": 1134,
     "version": "1.0.5"
   },
@@ -13598,6 +13598,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl80MDYxLmpzb24/",
           "type": "manhwa",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx175946-rx6eIfakvWYV.jpg"
+        }
+      ]
+    },
+    "majp_1264": {
+      "title": "Grand Blue",
+      "chapters": [
+        {
+          "id": "1264",
+          "title": "Grand Blue",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzEyNjQuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx87395-axsA49kSZp72.jpg"
         }
       ]
     }
