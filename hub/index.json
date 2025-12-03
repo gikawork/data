@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": 1764725735,
+    "lastUpdated": 1764725750,
     "totalMangas": 1120,
     "version": "1.0.5"
   },
@@ -13430,6 +13430,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzg2MTU1Lmpzb24/",
           "type": "manga",
           "cover_url": "https://images2.imgbox.com/27/58/gz56THww_o.jpg"
+        }
+      ]
+    },
+    "majp_4024": {
+      "title": "Attack on Titan",
+      "chapters": [
+        {
+          "id": "4024",
+          "title": "Attack on Titan",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzQwMjQuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx53390-1RsuABC34P9D.jpg"
         }
       ]
     }
