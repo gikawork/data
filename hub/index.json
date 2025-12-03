@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764730679,
-    "totalMangas": 1228,
+    "lastUpdated": 1764730687,
+    "totalMangas": 1229,
     "version": "1.0.5"
   },
   "mangas": {
@@ -14738,6 +14738,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl85MDA1Lmpzb24/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/316/6888a99eb269b.webp"
+        }
+      ]
+    },
+    "maoel_375098": {
+      "title": "Eu Sou a Vilã",
+      "chapters": [
+        {
+          "id": "375098",
+          "title": "Eu Sou a Vilã",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21vZWwvbWFvZWxfMzc1MDk4Lmpzb24/",
+          "type": "oel",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/9266/67a3b13d8afa7.png"
         }
       ]
     }
