@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764740192,
-    "totalMangas": 2272,
+    "lastUpdated": 1764740200,
+    "totalMangas": 2273,
     "version": "1.0.5"
   },
   "mangas": {
@@ -27266,6 +27266,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl9jOWYwM2QuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/13119/6875639e1b89d.png"
+        }
+      ]
+    },
+    "makr_6f8803": {
+      "title": " Que o Santo Venha",
+      "chapters": [
+        {
+          "id": "6f8803",
+          "title": " Que o Santo Venha",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl82Zjg4MDMuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/8935/6795b96083b53.png"
         }
       ]
     }
