@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764734846,
-    "totalMangas": 1693,
+    "lastUpdated": 1764734855,
+    "totalMangas": 1694,
     "version": "1.0.5"
   },
   "mangas": {
@@ -20318,6 +20318,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl80MDIzNC5qc29u/",
           "type": "manhwa",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx118944-2FPFruJgmig8.jpg"
+        }
+      ]
+    },
+    "makr_704": {
+      "title": "I Am The Fated Villain",
+      "chapters": [
+        {
+          "id": "704",
+          "title": "I Am The Fated Villain",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl83MDQuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx142287-nlT7oSUzHnNv.jpg"
         }
       ]
     }
