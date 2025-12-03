@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764730774,
-    "totalMangas": 1239,
+    "lastUpdated": 1764730783,
+    "totalMangas": 1240,
     "version": "1.0.5"
   },
   "mangas": {
@@ -14870,6 +14870,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8yMWUxN2QuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/11077/6820d9523072e.webp"
+        }
+      ]
+    },
+    "makr_2b4221": {
+      "title": "Ascendendo dos Escombros",
+      "chapters": [
+        {
+          "id": "2b4221",
+          "title": "Ascendendo dos Escombros",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8yYjQyMjEuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/171/wp-content/uploads/2024/05/216899bb-optimized.webp"
         }
       ]
     }
