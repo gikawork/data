@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764731321,
-    "totalMangas": 1302,
+    "lastUpdated": 1764731331,
+    "totalMangas": 1303,
     "version": "1.0.5"
   },
   "mangas": {
@@ -15626,6 +15626,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8yYmQ0YzguanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/9214/679e4ed48fd64.avif"
+        }
+      ]
+    },
+    "majp_15441": {
+      "title": "Noite dos Goblins",
+      "chapters": [
+        {
+          "id": "15441",
+          "title": "Noite dos Goblins",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzE1NDQxLmpzb24/",
+          "type": "manga",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/321/67a6538483b0d.png"
         }
       ]
     }
