@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": 1764728493,
+    "lastUpdated": 1764728509,
     "totalMangas": 1151,
     "version": "1.0.5"
   },
@@ -13802,6 +13802,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8xODY1NTEuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://ap-proxy.mangabaka.dev/proxy.php?url=https://cdn.anime-planet.com/manga/primary/i-became-the-demonic-cult-leaders-husband-novel-1.webp?t=1753058032"
+        }
+      ]
+    },
+    "majp_3174": {
+      "title": "Trigun Maximum",
+      "chapters": [
+        {
+          "id": "3174",
+          "title": "Trigun Maximum",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzMxNzQuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx30704-l8ouaKlmym4a.jpg"
         }
       ]
     }
