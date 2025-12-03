@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": 1764724335,
+    "lastUpdated": 1764724350,
     "totalMangas": 1104,
     "version": "1.0.5"
   },
@@ -13238,6 +13238,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzIyNDUuanNvbg/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx120502-hcoa5cQG0RD1.jpg"
+        }
+      ]
+    },
+    "majp_251": {
+      "title": "Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken: After the Rain",
+      "chapters": [
+        {
+          "id": "251",
+          "title": "Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken: After the Rain",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzI1MS5qc29u/",
+          "type": "manga",
+          "cover_url": "https://cdn.myanimelist.net/images/manga/1/308127.jpg"
         }
       ]
     }
