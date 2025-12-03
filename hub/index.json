@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764732524,
-    "totalMangas": 1434,
+    "lastUpdated": 1764732533,
+    "totalMangas": 1435,
     "version": "1.0.5"
   },
   "mangas": {
@@ -17210,6 +17210,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl84MDMyNy5qc29u/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/10150/67cbde654d715.png"
+        }
+      ]
+    },
+    "makr_356897": {
+      "title": "O Guerreiro de Sangue Frio",
+      "chapters": [
+        {
+          "id": "356897",
+          "title": "O Guerreiro de Sangue Frio",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8zNTY4OTcuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/13289/687ee49ae94f1.png"
         }
       ]
     }
