@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764732533,
-    "totalMangas": 1435,
+    "lastUpdated": 1764732542,
+    "totalMangas": 1436,
     "version": "1.0.5"
   },
   "mangas": {
@@ -17222,6 +17222,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8zNTY4OTcuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/13289/687ee49ae94f1.png"
+        }
+      ]
+    },
+    "makr_fa9984": {
+      "title": "O Bebê do Senhor da Terra se Aposenta",
+      "chapters": [
+        {
+          "id": "fa9984",
+          "title": "O Bebê do Senhor da Terra se Aposenta",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl9mYTk5ODQuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/10581/67f42f1fe5794.png"
         }
       ]
     }
