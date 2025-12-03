@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764731111,
-    "totalMangas": 1278,
+    "lastUpdated": 1764731119,
+    "totalMangas": 1279,
     "version": "1.0.5"
   },
   "mangas": {
@@ -15338,6 +15338,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl9iMWI1YjkuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/8747/679486c76f5e8.png"
+        }
+      ]
+    },
+    "makr_48450": {
+      "title": "Baroness Goes on Strike",
+      "chapters": [
+        {
+          "id": "48450",
+          "title": "Baroness Goes on Strike",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl80ODQ1MC5qc29u/",
+          "type": "manhwa",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx139958-8H94WGlIVCiD.jpg"
         }
       ]
     }
