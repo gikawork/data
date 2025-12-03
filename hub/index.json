@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764728383,
-    "totalMangas": 1150,
+    "lastUpdated": 1764728391,
+    "totalMangas": 1151,
     "version": "1.0.5"
   },
   "mangas": {
@@ -13802,6 +13802,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzM4MjExOS5qc29u/",
           "type": "manga",
           "cover_url": "https://cdn.myanimelist.net/images/manga/1/306435.jpg"
+        }
+      ]
+    },
+    "maot_337693": {
+      "title": "Kaii to Otome to Kamikakushi",
+      "chapters": [
+        {
+          "id": "337693",
+          "title": "Kaii to Otome to Kamikakushi",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21vdC9tYW90XzMzNzY5My5qc29u/",
+          "type": "outro",
+          "cover_url": "https://cdn.myanimelist.net/images/manga/1/232653.jpg"
         }
       ]
     }
