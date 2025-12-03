@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764737832,
-    "totalMangas": 2012,
+    "lastUpdated": 1764737841,
+    "totalMangas": 2013,
     "version": "1.0.5"
   },
   "mangas": {
@@ -24146,6 +24146,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzE4ODY4MC5qc29u/",
           "type": "manga",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/10734/680be2162ed6d.webp"
+        }
+      ]
+    },
+    "makr_3070d4": {
+      "title": "Acidentalmente Me Tornei Famoso",
+      "chapters": [
+        {
+          "id": "3070d4",
+          "title": "Acidentalmente Me Tornei Famoso",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8zMDcwZDQuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/6413/wp-content/uploads/2024/11/famos.png"
         }
       ]
     }
