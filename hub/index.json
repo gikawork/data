@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": 1764724186,
+    "lastUpdated": 1764724200,
     "totalMangas": 1105,
     "version": "1.0.5"
   },
@@ -13250,6 +13250,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzI4OTMuanNvbg/",
           "type": "manga",
           "cover_url": "https://cdn.mangaupdates.com/image/i497999.jpg"
+        }
+      ]
+    },
+    "mach_3": {
+      "title": "Kill the Male Lead to Become the Villainess",
+      "chapters": [
+        {
+          "id": "3",
+          "title": "Kill the Male Lead to Become the Villainess",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF8zLmpzb24/",
+          "type": "manhua",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx176488-mz7VGCXVObEb.png"
         }
       ]
     }
