@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": 1764730127,
+    "lastUpdated": 1764730142,
     "totalMangas": 1190,
     "version": "1.0.5"
   },
@@ -14270,6 +14270,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzIyMTMuanNvbg/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx150683-NmXUbc0BQvhP.jpg"
+        }
+      ]
+    },
+    "majp_5484": {
+      "title": "COSMOS",
+      "chapters": [
+        {
+          "id": "5484",
+          "title": "COSMOS",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzU0ODQuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx162799-BV5ihIw9qOoa.jpg"
         }
       ]
     }
