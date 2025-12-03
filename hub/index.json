@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": 1764729497,
+    "lastUpdated": 1764729509,
     "totalMangas": 1176,
     "version": "1.0.5"
   },
@@ -1790,18 +1790,6 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvS1IyNDMuanNvbg%3D%3D/",
           "type": "manhwa",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx187140-KaOPLwtIStid.png"
-        }
-      ]
-    },
-    "JP952": {
-      "title": "Tokyo Ghoul꞉ Redrawn",
-      "chapters": [
-        {
-          "id": 952,
-          "title": "Tokyo Ghoul꞉ Redrawn",
-          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9KUDk1Mi5qc29u/",
-          "type": "manga",
-          "cover_url": "https://images2.imgbox.com/7e/48/ehTnMBux_o.jpg"
         }
       ]
     },
@@ -14114,6 +14102,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzQ1NTIuanNvbg/",
           "type": "manga",
           "cover_url": "https://cdn.mangaupdates.com/image/i424590.png"
+        }
+      ]
+    },
+    "majp_952": {
+      "title": "Tokyo Ghoul꞉ Redrawn",
+      "chapters": [
+        {
+          "id": "952",
+          "title": "Tokyo Ghoul꞉ Redrawn",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzk1Mi5qc29u/",
+          "type": "manga",
+          "cover_url": "https://images2.imgbox.com/7e/48/ehTnMBux_o.jpg"
         }
       ]
     }
