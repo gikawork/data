@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764738478,
-    "totalMangas": 2083,
+    "lastUpdated": 1764738486,
+    "totalMangas": 2084,
     "version": "1.0.5"
   },
   "mangas": {
@@ -24998,6 +24998,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl81NWYzMzMuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/10861/680eab4b2c9c9.jpg"
+        }
+      ]
+    },
+    "mach_be6d01": {
+      "title": "Mestre Heroico, Eu e Meus Dez Discípulos Lendários",
+      "chapters": [
+        {
+          "id": "be6d01",
+          "title": "Mestre Heroico, Eu e Meus Dez Discípulos Lendários",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF9iZTZkMDEuanNvbg/",
+          "type": "manhua",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/11143/682b333baec97.jpg"
         }
       ]
     }
