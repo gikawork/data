@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764733287,
-    "totalMangas": 1519,
+    "lastUpdated": 1764733295,
+    "totalMangas": 1520,
     "version": "1.0.5"
   },
   "mangas": {
@@ -18230,6 +18230,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8xNmM1ODMuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/4372/6861f3d24d07b.jpg"
+        }
+      ]
+    },
+    "makr_d366fc": {
+      "title": "O Príncipe Herdeiro que Vende Remédios",
+      "chapters": [
+        {
+          "id": "d366fc",
+          "title": "O Príncipe Herdeiro que Vende Remédios",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl9kMzY2ZmMuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/4164/wp-content/uploads/2024/10/capa-png.png.png.webp"
         }
       ]
     }
