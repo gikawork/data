@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": 1764724619,
+    "lastUpdated": 1764724634,
     "totalMangas": 1106,
     "version": "1.0.5"
   },
@@ -13262,6 +13262,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzUyNy5qc29u/",
           "type": "manga",
           "cover_url": "https://cdn.myanimelist.net/images/manga/1/274769.jpg"
+        }
+      ]
+    },
+    "majp_9333": {
+      "title": "Shin no Nakama ja Nai to Yuusha no Party wo Oidasareta node, Henkyou de Slow Life suru Koto ni Shimashita",
+      "chapters": [
+        {
+          "id": "9333",
+          "title": "Shin no Nakama ja Nai to Yuusha no Party wo Oidasareta node, Henkyou de Slow Life suru Koto ni Shimashita",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzkzMzMuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://cdn.myanimelist.net/images/manga/2/223659.jpg"
         }
       ]
     }
