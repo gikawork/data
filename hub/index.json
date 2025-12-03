@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764724224,
-    "totalMangas": 1106,
+    "lastUpdated": 1764724241,
+    "totalMangas": 1105,
     "version": "1.0.5"
   },
   "mangas": {
@@ -3986,18 +3986,6 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvS1I4NjUuanNvbg%3D%3D/",
           "type": "manhwa",
           "cover_url": "https://cdn.mangaupdates.com/image/i484079.jpg"
-        }
-      ]
-    },
-    "JP142": {
-      "title": "Break Shot",
-      "chapters": [
-        {
-          "id": 142,
-          "title": "Break Shot",
-          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9KUDE0Mi5qc29u/",
-          "type": "manga",
-          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/882.jpg"
         }
       ]
     },
@@ -13262,6 +13250,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzUxOTMuanNvbg/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx146168-1zK1XElOkEDD.jpg"
+        }
+      ]
+    },
+    "majp_142": {
+      "title": "Shadows House (Official Colored)",
+      "chapters": [
+        {
+          "id": "142",
+          "title": "Shadows House (Official Colored)",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzE0Mi5qc29u/",
+          "type": "manga",
+          "cover_url": "https://images2.imgbox.com/d4/d0/39LOyYP8_o.jpg"
         }
       ]
     }
