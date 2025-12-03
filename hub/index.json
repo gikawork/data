@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": 1764727554,
+    "lastUpdated": 1764727569,
     "totalMangas": 1137,
     "version": "1.0.5"
   },
@@ -13634,6 +13634,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzUxODIuanNvbg/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx115604-ylt10PGTDDyu.jpg"
+        }
+      ]
+    },
+    "makr_80224": {
+      "title": "The Academy’s Genius Tamer",
+      "chapters": [
+        {
+          "id": "80224",
+          "title": "The Academy’s Genius Tamer",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl84MDIyNC5qc29u/",
+          "type": "manhwa",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx183698-TmBjV6nJIHeq.jpg"
         }
       ]
     }
