@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764733876,
-    "totalMangas": 1585,
+    "lastUpdated": 1764733886,
+    "totalMangas": 1586,
     "version": "1.0.5"
   },
   "mangas": {
@@ -19022,6 +19022,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF85MjcwLmpzb24/",
           "type": "manhua",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/9977/67c0fd9f6e496.png"
+        }
+      ]
+    },
+    "mach_3422": {
+      "title": "Mestre Supremo de Artes Marciais",
+      "chapters": [
+        {
+          "id": "3422",
+          "title": "Mestre Supremo de Artes Marciais",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF8zNDIyLmpzb24/",
+          "type": "manhua",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/5074/wp-content/uploads/2024/10/472.jpeg"
         }
       ]
     }
