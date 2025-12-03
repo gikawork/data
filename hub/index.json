@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": 1764731655,
+    "lastUpdated": 1764731666,
     "totalMangas": 1336,
     "version": "1.0.5"
   },
@@ -170,18 +170,6 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvS1I0NS5qc29u/",
           "type": "manhwa",
           "cover_url": "https://ap-proxy.mangabaka.dev/proxy.php?url=https://cdn.anime-planet.com/manga/primary/a-regressors-tale-of-cultivation-novel-1.webp?t=1709073380"
-        }
-      ]
-    },
-    "KR974": {
-      "title": "True Beauty",
-      "chapters": [
-        {
-          "id": 974,
-          "title": "True Beauty",
-          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvS1I5NzQuanNvbg%3D%3D/",
-          "type": "manhwa",
-          "cover_url": "https://cdn.myanimelist.net/images/manga/3/246434.jpg"
         }
       ]
     },
@@ -16034,6 +16022,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl9jODI3OTYuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/8774/67948c67627a4.png"
+        }
+      ]
+    },
+    "makr_974": {
+      "title": "The Little Princess and Her Monster Prince",
+      "chapters": [
+        {
+          "id": "974",
+          "title": "The Little Princess and Her Monster Prince",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl85NzQuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx132156-nULyIIYiddTr.jpg"
         }
       ]
     }
