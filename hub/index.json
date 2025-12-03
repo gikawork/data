@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764736334,
-    "totalMangas": 1855,
+    "lastUpdated": 1764736344,
+    "totalMangas": 1856,
     "version": "1.0.5"
   },
   "mangas": {
@@ -22262,6 +22262,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl85YjA3YzguanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/8667/678995769d92d.png"
+        }
+      ]
+    },
+    "makr_69931": {
+      "title": "O Jovem Mestre com Doença Terminal do Clã Baek",
+      "chapters": [
+        {
+          "id": "69931",
+          "title": "O Jovem Mestre com Doença Terminal do Clã Baek",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl82OTkzMS5qc29u/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/1494/68b4bd2c24899.jpg"
         }
       ]
     }
