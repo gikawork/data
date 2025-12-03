@@ -1,0 +1,43 @@
+{
+  "title": "Senhorita Pendleton",
+  "author": "Autor não encontrado",
+  "artist": "Artista não encontrado",
+  "description": "Uma renomada casamenteira da alta sociedade londrina, uma 'solteirona' de 29 anos. Ambos os modificadores contrastantes referem-se a Laura Pendleton. Ela recebe um pedido para encontrar um par para um homem chamado Ian Dalton. No entanto, a pessoa a quem ele propõe casamento, que, segundo todos os relatos, é um solteiro de primeira linha, não é ninguém menos que a própria Laura",
+  "cover": "https://cdn.verdinha.wtf/scans/1/obras/11253/683db7548cdaa.png",
+  "status": "Em Andamento",
+  "chapters": {
+    "2": {
+      "title": "Capítulo 2",
+      "groups": {
+        "gikamura": [
+          "https://cdn.verdinha.wtf/scans/1/obras/11253/capitulos/2/01.jpg",
+          "https://cdn.verdinha.wtf/scans/1/obras/11253/capitulos/2/02.jpg",
+          "https://cdn.verdinha.wtf/scans/1/obras/11253/capitulos/2/03.jpg",
+          "https://cdn.verdinha.wtf/scans/1/obras/11253/capitulos/2/04.jpg",
+          "https://cdn.verdinha.wtf/scans/1/obras/11253/capitulos/2/05.jpg",
+          "https://cdn.verdinha.wtf/scans/1/obras/11253/capitulos/2/06.jpg",
+          "https://cdn.verdinha.wtf/scans/1/obras/11253/capitulos/2/07.jpg",
+          "https://cdn.verdinha.wtf/scans/1/obras/11253/capitulos/2/08.jpg",
+          "https://cdn.verdinha.wtf/scans/1/obras/11253/capitulos/2/09.jpg"
+        ]
+      }
+    },
+    "1": {
+      "title": "Capítulo 1",
+      "groups": {
+        "gikamura": [
+          "https://cdn.verdinha.wtf/scans/1/obras/11253/capitulos/1/01.jpg",
+          "https://cdn.verdinha.wtf/scans/1/obras/11253/capitulos/1/02.jpg",
+          "https://cdn.verdinha.wtf/scans/1/obras/11253/capitulos/1/03.jpg",
+          "https://cdn.verdinha.wtf/scans/1/obras/11253/capitulos/1/04.jpg",
+          "https://cdn.verdinha.wtf/scans/1/obras/11253/capitulos/1/05.jpg",
+          "https://cdn.verdinha.wtf/scans/1/obras/11253/capitulos/1/06.jpg",
+          "https://cdn.verdinha.wtf/scans/1/obras/11253/capitulos/1/07.jpg",
+          "https://cdn.verdinha.wtf/scans/1/obras/11253/capitulos/1/08.jpg",
+          "https://cdn.verdinha.wtf/scans/1/obras/11253/capitulos/1/09.jpg",
+          "https://cdn.verdinha.wtf/scans/1/obras/11253/capitulos/1/10.jpg"
+        ]
+      }
+    }
+  }
+}
