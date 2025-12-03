@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764724365,
-    "totalMangas": 1104,
+    "lastUpdated": 1764724373,
+    "totalMangas": 1105,
     "version": "1.0.5"
   },
   "mangas": {
@@ -13250,6 +13250,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8zNjM3Lmpzb24/",
           "type": "manhwa",
           "cover_url": "https://cdn.myanimelist.net/images/manga/1/331088.jpg"
+        }
+      ]
+    },
+    "maot_253205": {
+      "title": "Kin no Hitsuji",
+      "chapters": [
+        {
+          "id": "253205",
+          "title": "Kin no Hitsuji",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21vdC9tYW90XzI1MzIwNS5qc29u/",
+          "type": "outro",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/nx100331-KOOhIcmF8JL6.jpg"
         }
       ]
     }
