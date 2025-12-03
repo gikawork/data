@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764728172,
-    "totalMangas": 1148,
+    "lastUpdated": 1764728182,
+    "totalMangas": 1149,
     "version": "1.0.5"
   },
   "mangas": {
@@ -13778,6 +13778,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzE5MzYuanNvbg/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx179256-TRND01mxfNgM.jpg"
+        }
+      ]
+    },
+    "majp_830": {
+      "title": "Marika-chan no Koukando wa Bukkowarete iru",
+      "chapters": [
+        {
+          "id": "830",
+          "title": "Marika-chan no Koukando wa Bukkowarete iru",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzgzMC5qc29u/",
+          "type": "manga",
+          "cover_url": "https://cdn.mangaupdates.com/image/i450259.jpg"
         }
       ]
     }
