@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764731556,
-    "totalMangas": 1325,
+    "lastUpdated": 1764731565,
+    "totalMangas": 1326,
     "version": "1.0.5"
   },
   "mangas": {
@@ -15902,6 +15902,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl81MTYxLmpzb24/",
           "type": "manhwa",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx137868-5qPHXU3MS2EQ.jpg"
+        }
+      ]
+    },
+    "makr_fb2e4b": {
+      "title": "Retorno do Cultivo no Campus",
+      "chapters": [
+        {
+          "id": "fb2e4b",
+          "title": "Retorno do Cultivo no Campus",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl9mYjJlNGIuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/10085/67c51f630eb9b.png"
         }
       ]
     }
