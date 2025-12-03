@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764740500,
-    "totalMangas": 2306,
+    "lastUpdated": 1764740509,
+    "totalMangas": 2307,
     "version": "1.0.5"
   },
   "mangas": {
@@ -27674,6 +27674,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl82ZjIwMTAuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/13245/687c245d919ed.png"
+        }
+      ]
+    },
+    "makr_4dcf23": {
+      "title": "De Goblin a Deus Goblin",
+      "chapters": [
+        {
+          "id": "4dcf23",
+          "title": "De Goblin a Deus Goblin",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl80ZGNmMjMuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/3390/6795197c94294.png"
         }
       ]
     }
