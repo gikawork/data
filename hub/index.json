@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": 1764722863,
+    "lastUpdated": 1764722875,
     "totalMangas": 1098,
     "version": "1.0.5"
   },
@@ -13166,6 +13166,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzcyNi5qc29u/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx178851-OMaHwm4Chjfs.jpg"
+        }
+      ]
+    },
+    "majp_6925": {
+      "title": "Houkago no Idol ni wa Himitsu ga aru",
+      "chapters": [
+        {
+          "id": "6925",
+          "title": "Houkago no Idol ni wa Himitsu ga aru",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzY5MjUuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx152235-ckNVfSZs9Lqt.jpg"
         }
       ]
     }
