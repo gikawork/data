@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764739375,
-    "totalMangas": 2182,
+    "lastUpdated": 1764739385,
+    "totalMangas": 2183,
     "version": "1.0.5"
   },
   "mangas": {
@@ -26186,6 +26186,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl83ODI5MmUuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/705/6864c46950e4e.jpg"
+        }
+      ]
+    },
+    "makr_90508": {
+      "title": "Me Tornei A Nora Do Cachorro Louco Justiceiro",
+      "chapters": [
+        {
+          "id": "90508",
+          "title": "Me Tornei A Nora Do Cachorro Louco Justiceiro",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl85MDUwOC5qc29u/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/10665/67faefa4ba921.jpg"
         }
       ]
     }
