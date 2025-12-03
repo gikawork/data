@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764740792,
-    "totalMangas": 2336,
+    "lastUpdated": 1764740802,
+    "totalMangas": 2337,
     "version": "1.0.5"
   },
   "mangas": {
@@ -28034,6 +28034,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl81MmQ2MDYuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/454/wp-content/uploads/2024/05/03_12_.png"
+        }
+      ]
+    },
+    "makr_4742": {
+      "title": "Guowang Wansui",
+      "chapters": [
+        {
+          "id": "4742",
+          "title": "Guowang Wansui",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl80NzQyLmpzb24/",
+          "type": "manhwa",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b116452-CA7rFt7QzuLD.jpg"
         }
       ]
     }
