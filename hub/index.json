@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764735209,
-    "totalMangas": 1732,
+    "lastUpdated": 1764735218,
+    "totalMangas": 1733,
     "version": "1.0.5"
   },
   "mangas": {
@@ -20786,6 +20786,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl9jZGZjYTcuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/8699/67926982d1c1b.png"
+        }
+      ]
+    },
+    "mach_189042": {
+      "title": "Apocalipse: As Baratas Me Dão Buffs",
+      "chapters": [
+        {
+          "id": "189042",
+          "title": "Apocalipse: As Baratas Me Dão Buffs",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF8xODkwNDIuanNvbg/",
+          "type": "manhua",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/11063/681f7b4eb50bf.png"
         }
       ]
     }
