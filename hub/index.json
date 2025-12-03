@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764731842,
-    "totalMangas": 1356,
+    "lastUpdated": 1764731851,
+    "totalMangas": 1357,
     "version": "1.0.5"
   },
   "mangas": {
@@ -16274,6 +16274,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl9iMmZkMTUuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/9838/67afd7876bf46.avif"
+        }
+      ]
+    },
+    "mach_51d25b": {
+      "title": "O Caçador de Demônios Retorna Como um Deles",
+      "chapters": [
+        {
+          "id": "51d25b",
+          "title": "O Caçador de Demônios Retorna Como um Deles",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF81MWQyNWIuanNvbg/",
+          "type": "manhua",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/13583/68b24c191490c.jpg"
         }
       ]
     }
