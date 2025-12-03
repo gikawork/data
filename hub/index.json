@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764728374,
-    "totalMangas": 1149,
+    "lastUpdated": 1764728383,
+    "totalMangas": 1150,
     "version": "1.0.5"
   },
   "mangas": {
@@ -13790,6 +13790,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzE5MTYuanNvbg/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx188645-Uzzro38POHo2.png"
+        }
+      ]
+    },
+    "majp_382119": {
+      "title": "Multiverse no Watashi, Koishite Ii desu ka?",
+      "chapters": [
+        {
+          "id": "382119",
+          "title": "Multiverse no Watashi, Koishite Ii desu ka?",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzM4MjExOS5qc29u/",
+          "type": "manga",
+          "cover_url": "https://cdn.myanimelist.net/images/manga/1/306435.jpg"
         }
       ]
     }
