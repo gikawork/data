@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": 1764727309,
+    "lastUpdated": 1764727324,
     "totalMangas": 1134,
     "version": "1.0.5"
   },
@@ -13598,6 +13598,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzU4Ni5qc29u/",
           "type": "manga",
           "cover_url": "https://cdn.mangaupdates.com/image/i499010.jpg"
+        }
+      ]
+    },
+    "makr_4061": {
+      "title": "Myst, Might, Mayhem",
+      "chapters": [
+        {
+          "id": "4061",
+          "title": "Myst, Might, Mayhem",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl80MDYxLmpzb24/",
+          "type": "manhwa",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx175946-rx6eIfakvWYV.jpg"
         }
       ]
     }
