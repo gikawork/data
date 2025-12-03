@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764736344,
-    "totalMangas": 1856,
+    "lastUpdated": 1764736353,
+    "totalMangas": 1857,
     "version": "1.0.5"
   },
   "mangas": {
@@ -22274,6 +22274,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl82OTkzMS5qc29u/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/1494/68b4bd2c24899.jpg"
+        }
+      ]
+    },
+    "makr_45916": {
+      "title": "The Flower Dances and the Wind Sings",
+      "chapters": [
+        {
+          "id": "45916",
+          "title": "The Flower Dances and the Wind Sings",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl80NTkxNi5qc29u/",
+          "type": "manhwa",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx128483-cTlSgVsdeBCF.jpg"
         }
       ]
     }
