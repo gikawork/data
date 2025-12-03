@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764728391,
-    "totalMangas": 1151,
+    "lastUpdated": 1764728407,
+    "totalMangas": 1150,
     "version": "1.0.5"
   },
   "mangas": {
@@ -1694,18 +1694,6 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9KUDMxMS5qc29u/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/nx86590-U0teU02heegZ.jpg"
-        }
-      ]
-    },
-    "JP677": {
-      "title": "R15+ Ja Dame Desuka",
-      "chapters": [
-        {
-          "id": 677,
-          "title": "R15+ Ja Dame Desuka",
-          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9KUDY3Ny5qc29u/",
-          "type": "manga",
-          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx148936-GEt1HZAJQjmr.jpg"
         }
       ]
     },
@@ -13802,6 +13790,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21vdC9tYW90XzMzNzY5My5qc29u/",
           "type": "outro",
           "cover_url": "https://cdn.myanimelist.net/images/manga/1/232653.jpg"
+        }
+      ]
+    },
+    "majp_677": {
+      "title": "HUNTER x HUNTER",
+      "chapters": [
+        {
+          "id": "677",
+          "title": "HUNTER x HUNTER",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzY3Ny5qc29u/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx30026-uCvXMudMzmwI.jpg"
         }
       ]
     }
