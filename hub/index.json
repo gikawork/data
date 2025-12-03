@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764731602,
-    "totalMangas": 1330,
+    "lastUpdated": 1764731610,
+    "totalMangas": 1331,
     "version": "1.0.5"
   },
   "mangas": {
@@ -15962,6 +15962,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl9iMzkyYjkuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/9875/67b39303993ec.png"
+        }
+      ]
+    },
+    "makr_0ce996": {
+      "title": "A Caçadora Mirim Está em Busca de Guardiões",
+      "chapters": [
+        {
+          "id": "0ce996",
+          "title": "A Caçadora Mirim Está em Busca de Guardiões",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8wY2U5OTYuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/9870/6818022eb7695.png"
         }
       ]
     }
