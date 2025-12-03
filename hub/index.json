@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764732701,
-    "totalMangas": 1454,
+    "lastUpdated": 1764732710,
+    "totalMangas": 1455,
     "version": "1.0.5"
   },
   "mangas": {
@@ -17450,6 +17450,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl82ZjFmNTcuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/10476/67ddcb781f956.jpg"
+        }
+      ]
+    },
+    "makr_43900": {
+      "title": "Esposa Após o Amor",
+      "chapters": [
+        {
+          "id": "43900",
+          "title": "Esposa Após o Amor",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl80MzkwMC5qc29u/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/9088/6796e71736a76.png"
         }
       ]
     }
