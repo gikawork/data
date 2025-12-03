@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764731629,
-    "totalMangas": 1333,
+    "lastUpdated": 1764731637,
+    "totalMangas": 1334,
     "version": "1.0.5"
   },
   "mangas": {
@@ -15998,6 +15998,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21vZWwvbWFvZWxfNjc1Ni5qc29u/",
           "type": "oel",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/9993/67c1f30392e75.png"
+        }
+      ]
+    },
+    "makr_978a27": {
+      "title": "Eu Ressuscitei Os Deuses",
+      "chapters": [
+        {
+          "id": "978a27",
+          "title": "Eu Ressuscitei Os Deuses",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl85NzhhMjcuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/8652/6786c1115c796.png"
         }
       ]
     }
