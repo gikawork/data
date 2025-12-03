@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764727530,
-    "totalMangas": 1136,
+    "lastUpdated": 1764727540,
+    "totalMangas": 1137,
     "version": "1.0.5"
   },
   "mangas": {
@@ -13634,6 +13634,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzEzOS5qc29u/",
           "type": "manga",
           "cover_url": "https://cdn.myanimelist.net/images/manga/3/235471.jpg"
+        }
+      ]
+    },
+    "mach_900": {
+      "title": "Myriad Realms Gatekeeper",
+      "chapters": [
+        {
+          "id": "900",
+          "title": "Myriad Realms Gatekeeper",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF85MDAuanNvbg/",
+          "type": "manhua",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx187111-pCmmiQRYI2yi.jpg"
         }
       ]
     }
