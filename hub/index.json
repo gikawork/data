@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764731726,
-    "totalMangas": 1343,
+    "lastUpdated": 1764731735,
+    "totalMangas": 1344,
     "version": "1.0.5"
   },
   "mangas": {
@@ -16118,6 +16118,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzk5MjE1ZC5qc29u/",
           "type": "manga",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/11035/681cb375d3c49.jpg"
+        }
+      ]
+    },
+    "makr_8485": {
+      "title": "O Melhor do Mundo",
+      "chapters": [
+        {
+          "id": "8485",
+          "title": "O Melhor do Mundo",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl84NDg1Lmpzb24/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/8030/wp-content/uploads/2024/12/sat.jpg"
         }
       ]
     }
