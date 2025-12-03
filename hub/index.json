@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764725245,
-    "totalMangas": 1112,
+    "lastUpdated": 1764725254,
+    "totalMangas": 1113,
     "version": "1.0.5"
   },
   "mangas": {
@@ -13346,6 +13346,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzgyMzIzLmpzb24/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx187656-NCqos7cMdxg4.jpg"
+        }
+      ]
+    },
+    "majp_2818": {
+      "title": "Tensei Kizoku, Kantei Skill de Nariagaru",
+      "chapters": [
+        {
+          "id": "2818",
+          "title": "Tensei Kizoku, Kantei Skill de Nariagaru",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzI4MTguanNvbg/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx121753-vhvIdfxdaEdF.jpg"
         }
       ]
     }
