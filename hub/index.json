@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": 1764724141,
+    "lastUpdated": 1764724155,
     "totalMangas": 1105,
     "version": "1.0.5"
   },
@@ -13250,6 +13250,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzU5MC5qc29u/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx129117-jDUfR7a1VYlK.jpg"
+        }
+      ]
+    },
+    "majp_98327": {
+      "title": "Taida na Akuyaku Kizoku no Ore ni, Konyaku Haki sareta Akuyaku Reijou ga Totsuidara Saikyou no Fuufu ni Narimashita @comic",
+      "chapters": [
+        {
+          "id": "98327",
+          "title": "Taida na Akuyaku Kizoku no Ore ni, Konyaku Haki sareta Akuyaku Reijou ga Totsuidara Saikyou no Fuufu ni Narimashita @comic",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzk4MzI3Lmpzb24/",
+          "type": "manga",
+          "cover_url": "https://cdn.mangaupdates.com/image/i492297.jpg"
         }
       ]
     }
