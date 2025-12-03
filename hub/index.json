@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764730818,
-    "totalMangas": 1244,
+    "lastUpdated": 1764730826,
+    "totalMangas": 1245,
     "version": "1.0.5"
   },
   "mangas": {
@@ -14930,6 +14930,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl9lMTc5NWUuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/6985/wp-content/uploads/2024/12/HeroXDemonQueen512_20240110T063919614Z.jpg"
+        }
+      ]
+    },
+    "makr_7ad5e7": {
+      "title": "Yongsa High: Saqueadores de Masmorras",
+      "chapters": [
+        {
+          "id": "7ad5e7",
+          "title": "Yongsa High: Saqueadores de Masmorras",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl83YWQ1ZTcuanNvbg/",
+          "type": "manhwa",
+          "cover_url": ""
         }
       ]
     }
