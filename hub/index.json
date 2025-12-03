@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764725680,
-    "totalMangas": 1119,
+    "lastUpdated": 1764725691,
+    "totalMangas": 1120,
     "version": "1.0.5"
   },
   "mangas": {
@@ -13430,6 +13430,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF8yNzQ3Lmpzb24/",
           "type": "manhua",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/9882/67e02fee3bbda.png"
+        }
+      ]
+    },
+    "majp_98019": {
+      "title": "Jikken Ningyou Dummy Oscar",
+      "chapters": [
+        {
+          "id": "98019",
+          "title": "Jikken Ningyou Dummy Oscar",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzk4MDE5Lmpzb24/",
+          "type": "manga",
+          "cover_url": "https://cdn.mangaupdates.com/image/i230819.jpg"
         }
       ]
     }
