@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764736640,
-    "totalMangas": 1888,
+    "lastUpdated": 1764736649,
+    "totalMangas": 1889,
     "version": "1.0.5"
   },
   "mangas": {
@@ -22658,6 +22658,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl9lYzRiZDIuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/8294/67ce320e76869.png"
+        }
+      ]
+    },
+    "makr_d70722": {
+      "title": "De Tantas Coisas, Me Tornei um Corvo",
+      "chapters": [
+        {
+          "id": "d70722",
+          "title": "De Tantas Coisas, Me Tornei um Corvo",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl9kNzA3MjIuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/8157/wp-content/uploads/2024/12/b38ac3aa-optimized.png"
         }
       ]
     }
