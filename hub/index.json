@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764732900,
-    "totalMangas": 1476,
+    "lastUpdated": 1764732913,
+    "totalMangas": 1477,
     "version": "1.0.5"
   },
   "mangas": {
@@ -17714,6 +17714,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl9jMmM2ZjcuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/5580/wp-content/uploads/2024/10/420-4.jpeg"
+        }
+      ]
+    },
+    "makr_48453": {
+      "title": "Aí Vem a Colher de Prata!",
+      "chapters": [
+        {
+          "id": "48453",
+          "title": "Aí Vem a Colher de Prata!",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl80ODQ1My5qc29u/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/10019/67e0b3dbf169e.png"
         }
       ]
     }
