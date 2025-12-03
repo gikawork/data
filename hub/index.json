@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764730594,
-    "totalMangas": 1219,
+    "lastUpdated": 1764730602,
+    "totalMangas": 1220,
     "version": "1.0.5"
   },
   "mangas": {
@@ -14630,6 +14630,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzY0YTI5Mi5qc29u/",
           "type": "manga",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/11087/68222fca9b6b8.png"
+        }
+      ]
+    },
+    "makr_3d69a9": {
+      "title": "Sua Montanha, Seu Oceano",
+      "chapters": [
+        {
+          "id": "3d69a9",
+          "title": "Sua Montanha, Seu Oceano",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8zZDY5YTkuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/10453/67db6a3cce8d2.png"
         }
       ]
     }
