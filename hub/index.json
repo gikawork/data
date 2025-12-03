@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764725774,
-    "totalMangas": 1121,
+    "lastUpdated": 1764725784,
+    "totalMangas": 1122,
     "version": "1.0.5"
   },
   "mangas": {
@@ -13454,6 +13454,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzMwNzUuanNvbg/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b177186-pyo9nP3zCZel.jpg"
+        }
+      ]
+    },
+    "majp_4128": {
+      "title": "Toki-sensei wa Kigaetai",
+      "chapters": [
+        {
+          "id": "4128",
+          "title": "Toki-sensei wa Kigaetai",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzQxMjguanNvbg/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx155189-L7ZmIYokc2NB.jpg"
         }
       ]
     }
