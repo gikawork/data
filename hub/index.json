@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764726847,
-    "totalMangas": 1131,
+    "lastUpdated": 1764726857,
+    "totalMangas": 1132,
     "version": "1.0.5"
   },
   "mangas": {
@@ -13574,6 +13574,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8xNDM0Lmpzb24/",
           "type": "manhwa",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx152128-hk1Dq8zlEPVn.png"
+        }
+      ]
+    },
+    "makr_10318": {
+      "title": "Koimoku",
+      "chapters": [
+        {
+          "id": "10318",
+          "title": "Koimoku",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8xMDMxOC5qc29u/",
+          "type": "manhwa",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/24275.jpg"
         }
       ]
     }
