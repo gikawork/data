@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764733814,
-    "totalMangas": 1578,
+    "lastUpdated": 1764733823,
+    "totalMangas": 1579,
     "version": "1.0.5"
   },
   "mangas": {
@@ -18938,6 +18938,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl9jMWZjZTEuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/10806/680ea90042781.jpg"
+        }
+      ]
+    },
+    "makr_447": {
+      "title": "Flores da Juventude",
+      "chapters": [
+        {
+          "id": "447",
+          "title": "Flores da Juventude",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl80NDcuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/10135/67cad875d33d3.png"
         }
       ]
     }
