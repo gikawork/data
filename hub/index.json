@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764733976,
-    "totalMangas": 1596,
+    "lastUpdated": 1764733985,
+    "totalMangas": 1597,
     "version": "1.0.5"
   },
   "mangas": {
@@ -19154,6 +19154,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl9mNzRiNWUuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/10917/680eb07191dbc.jpg"
+        }
+      ]
+    },
+    "makr_596": {
+      "title": "The Legendary Spearman Returns",
+      "chapters": [
+        {
+          "id": "596",
+          "title": "The Legendary Spearman Returns",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl81OTYuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx141479-9h8eyaxyRZP8.jpg"
         }
       ]
     }
