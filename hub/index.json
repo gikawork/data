@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764731708,
-    "totalMangas": 1341,
+    "lastUpdated": 1764731717,
+    "totalMangas": 1342,
     "version": "1.0.5"
   },
   "mangas": {
@@ -16094,6 +16094,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl80NzgxMi5qc29u/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/10306/67d0fc139f2b2.png"
+        }
+      ]
+    },
+    "makr_3cb7ad": {
+      "title": "A Essência De Um Casamento Perfeito",
+      "chapters": [
+        {
+          "id": "3cb7ad",
+          "title": "A Essência De Um Casamento Perfeito",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8zY2I3YWQuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/8739/679484a70ce92.png"
         }
       ]
     }
