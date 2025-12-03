@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764734633,
-    "totalMangas": 1670,
+    "lastUpdated": 1764734643,
+    "totalMangas": 1671,
     "version": "1.0.5"
   },
   "mangas": {
@@ -20042,6 +20042,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl9iNzFjMDcuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/6409/67e8c89e46676.webp"
+        }
+      ]
+    },
+    "makr_684c97": {
+      "title": "Capturar o Golem e fugir da pobreza",
+      "chapters": [
+        {
+          "id": "684c97",
+          "title": "Capturar o Golem e fugir da pobreza",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl82ODRjOTcuanNvbg/",
+          "type": "manhwa",
+          "cover_url": ""
         }
       ]
     }
