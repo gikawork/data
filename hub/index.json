@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": 1764725095,
+    "lastUpdated": 1764725111,
     "totalMangas": 1110,
     "version": "1.0.5"
   },
@@ -13310,6 +13310,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzI2MTUyLmpzb24/",
           "type": "manga",
           "cover_url": "https://images2.imgbox.com/c6/0d/Zz2hRASd_o.jpg"
+        }
+      ]
+    },
+    "majp_10229": {
+      "title": "One Outs",
+      "chapters": [
+        {
+          "id": "10229",
+          "title": "One Outs",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzEwMjI5Lmpzb24/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx41327-ayO3EwG9Hcgk.png"
         }
       ]
     }
