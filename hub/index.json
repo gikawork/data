@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": 1764726724,
+    "lastUpdated": 1764726739,
     "totalMangas": 1129,
     "version": "1.0.5"
   },
@@ -13538,6 +13538,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzQ0ODQuanNvbg/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx151997-F8CpfLHsrnxM.png"
+        }
+      ]
+    },
+    "majp_7575": {
+      "title": "Shuumatsu no Harem꞉ Fantasia",
+      "chapters": [
+        {
+          "id": "7575",
+          "title": "Shuumatsu no Harem꞉ Fantasia",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzc1NzUuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://images2.imgbox.com/89/61/DMUoHRsf_o.jpg"
         }
       ]
     }
