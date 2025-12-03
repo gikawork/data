@@ -1,0 +1,49 @@
+{
+  "title": "A Fada Bebê é Uma Vilã!",
+  "author": "Autor não encontrado",
+  "artist": "Artista não encontrado",
+  "description": "\"A filha de uma fada louca, conhecida por sua natureza cruel, se transforma em um bebê para se infiltrar em uma família nobre e descobrir quem realizou experimentos em sua mãe. No entanto, os homens excêntricos da família se apegam excessivamente a ela, complicando seus planos. Enquanto luta para escapar, ela descobre que não consegue voltar à sua forma adulta, e seus inimigos se aproximam.",
+  "cover": "https://cdn.verdinha.wtf/scans/1/obras/10515/67e6c84b330e4.png",
+  "status": "Em Andamento",
+  "chapters": {
+    "2": {
+      "title": "Capítulo 2",
+      "groups": {
+        "gikamura": [
+          "https://cdn.verdinha.wtf/scans/1/obras/10515/capitulos/2/001.jpg",
+          "https://cdn.verdinha.wtf/scans/1/obras/10515/capitulos/2/002.jpg",
+          "https://cdn.verdinha.wtf/scans/1/obras/10515/capitulos/2/003.jpg",
+          "https://cdn.verdinha.wtf/scans/1/obras/10515/capitulos/2/004.jpg",
+          "https://cdn.verdinha.wtf/scans/1/obras/10515/capitulos/2/005.jpg",
+          "https://cdn.verdinha.wtf/scans/1/obras/10515/capitulos/2/006.jpg",
+          "https://cdn.verdinha.wtf/scans/1/obras/10515/capitulos/2/007.jpg",
+          "https://cdn.verdinha.wtf/scans/1/obras/10515/capitulos/2/008.jpg",
+          "https://cdn.verdinha.wtf/scans/1/obras/10515/capitulos/2/009.jpg",
+          "https://cdn.verdinha.wtf/scans/1/obras/10515/capitulos/2/010.jpg",
+          "https://cdn.verdinha.wtf/scans/1/obras/10515/capitulos/2/011.jpg",
+          "https://cdn.verdinha.wtf/scans/1/obras/10515/capitulos/2/012.jpg"
+        ]
+      }
+    },
+    "1": {
+      "title": "Capítulo 1",
+      "groups": {
+        "gikamura": [
+          "https://cdn.verdinha.wtf/scans/1/obras/10515/capitulos/1/001.jpg",
+          "https://cdn.verdinha.wtf/scans/1/obras/10515/capitulos/1/002.jpg",
+          "https://cdn.verdinha.wtf/scans/1/obras/10515/capitulos/1/003.jpg",
+          "https://cdn.verdinha.wtf/scans/1/obras/10515/capitulos/1/004.jpg",
+          "https://cdn.verdinha.wtf/scans/1/obras/10515/capitulos/1/005.jpg",
+          "https://cdn.verdinha.wtf/scans/1/obras/10515/capitulos/1/006.jpg",
+          "https://cdn.verdinha.wtf/scans/1/obras/10515/capitulos/1/007.jpg",
+          "https://cdn.verdinha.wtf/scans/1/obras/10515/capitulos/1/008.jpg",
+          "https://cdn.verdinha.wtf/scans/1/obras/10515/capitulos/1/009.jpg",
+          "https://cdn.verdinha.wtf/scans/1/obras/10515/capitulos/1/010.jpg",
+          "https://cdn.verdinha.wtf/scans/1/obras/10515/capitulos/1/011.jpg",
+          "https://cdn.verdinha.wtf/scans/1/obras/10515/capitulos/1/012.jpg",
+          "https://cdn.verdinha.wtf/scans/1/obras/10515/capitulos/1/013.jpg"
+        ]
+      }
+    }
+  }
+}
