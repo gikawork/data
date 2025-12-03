@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764729312,
-    "totalMangas": 1173,
+    "lastUpdated": 1764729321,
+    "totalMangas": 1174,
     "version": "1.0.5"
   },
   "mangas": {
@@ -14078,6 +14078,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzQ1ODguanNvbg/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx194544-FKA23mXUx8lg.jpg"
+        }
+      ]
+    },
+    "makr_150": {
+      "title": "The Dang Clan’s Swordmaster Heir Just Wants a Normal Life",
+      "chapters": [
+        {
+          "id": "150",
+          "title": "The Dang Clan’s Swordmaster Heir Just Wants a Normal Life",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8xNTAuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx180163-Wkn2WPbIiOdl.jpg"
         }
       ]
     }
