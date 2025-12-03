@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764736036,
-    "totalMangas": 1822,
+    "lastUpdated": 1764736044,
+    "totalMangas": 1823,
     "version": "1.0.5"
   },
   "mangas": {
@@ -21866,6 +21866,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl9hMDZlOGYuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/8568/wp-content/uploads/2025/01/Picsart_25-01-08_22-05-57-511.jpg"
+        }
+      ]
+    },
+    "makr_353534": {
+      "title": "Unrivaled Spear Ghost",
+      "chapters": [
+        {
+          "id": "353534",
+          "title": "Unrivaled Spear Ghost",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8zNTM1MzQuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.mangaupdates.com/image/i490427.jpg"
         }
       ]
     }
