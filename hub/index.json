@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764738405,
-    "totalMangas": 2075,
+    "lastUpdated": 1764738414,
+    "totalMangas": 2076,
     "version": "1.0.5"
   },
   "mangas": {
@@ -24902,6 +24902,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl84MTM3OC5qc29u/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/10732/683e2e8565fc7.png"
+        }
+      ]
+    },
+    "majp_9522": {
+      "title": "Lobo Faminto Preto e Azul - Punho da Estrela do Norte: Rei Gaiden",
+      "chapters": [
+        {
+          "id": "9522",
+          "title": "Lobo Faminto Preto e Azul - Punho da Estrela do Norte: Rei Gaiden",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzk1MjIuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/10087/67c5afe1a20af.png"
         }
       ]
     }
