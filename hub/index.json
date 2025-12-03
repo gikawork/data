@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764739085,
-    "totalMangas": 2150,
+    "lastUpdated": 1764739094,
+    "totalMangas": 2151,
     "version": "1.0.5"
   },
   "mangas": {
@@ -25802,6 +25802,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl9lNzRmZTcuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/11257/683db9a9f0a7c.png"
+        }
+      ]
+    },
+    "makr_fc700e": {
+      "title": "O Que Significa Ser Você",
+      "chapters": [
+        {
+          "id": "fc700e",
+          "title": "O Que Significa Ser Você",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl9mYzcwMGUuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/8230/wp-content/uploads/2024/12/What-it-Means-to-Be-you.jpg"
         }
       ]
     }
