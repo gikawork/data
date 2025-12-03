@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764731432,
-    "totalMangas": 1314,
+    "lastUpdated": 1764731441,
+    "totalMangas": 1315,
     "version": "1.0.5"
   },
   "mangas": {
@@ -15770,6 +15770,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF85MTM0Lmpzb24/",
           "type": "manhua",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/5474/wp-content/uploads/2024/10/The-Hidden-Hand_waifu2x_art_noise3_scale.png"
+        }
+      ]
+    },
+    "makr_121204": {
+      "title": "Posso Matar o Protagonista Masculino?",
+      "chapters": [
+        {
+          "id": "121204",
+          "title": "Posso Matar o Protagonista Masculino?",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8xMjEyMDQuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/9926/67bbe7556d984.png"
         }
       ]
     }
