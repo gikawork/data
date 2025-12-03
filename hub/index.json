@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": 1764724694,
+    "lastUpdated": 1764724709,
     "totalMangas": 1106,
     "version": "1.0.5"
   },
@@ -13262,6 +13262,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzQzNC5qc29u/",
           "type": "manga",
           "cover_url": "https://cdn.myanimelist.net/images/manga/1/313219.jpg"
+        }
+      ]
+    },
+    "majp_28008": {
+      "title": "Saint Seiya꞉ Episode Zero",
+      "chapters": [
+        {
+          "id": "28008",
+          "title": "Saint Seiya꞉ Episode Zero",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzI4MDA4Lmpzb24/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx117393-IDuJ0V2Tx2nT.jpg"
         }
       ]
     }
