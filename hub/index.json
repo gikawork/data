@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764738919,
-    "totalMangas": 2131,
+    "lastUpdated": 1764738927,
+    "totalMangas": 2132,
     "version": "1.0.5"
   },
   "mangas": {
@@ -25574,6 +25574,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8zODE4Lmpzb24/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/13517/689a64083f0e6.jpg"
+        }
+      ]
+    },
+    "makr_1373": {
+      "title": "O Bárbaro da Estação Seoul",
+      "chapters": [
+        {
+          "id": "1373",
+          "title": "O Bárbaro da Estação Seoul",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8xMzczLmpzb24/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/6016/wp-content/uploads/2024/10/barb.png"
         }
       ]
     }
