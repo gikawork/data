@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764733789,
-    "totalMangas": 1575,
+    "lastUpdated": 1764733797,
+    "totalMangas": 1576,
     "version": "1.0.5"
   },
   "mangas": {
@@ -18902,6 +18902,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl9kY2EwZWEuanNvbg/",
           "type": "manhwa",
           "cover_url": ""
+        }
+      ]
+    },
+    "majp_7112": {
+      "title": "Ah, É Maravilhoso Estar Vivo",
+      "chapters": [
+        {
+          "id": "7112",
+          "title": "Ah, É Maravilhoso Estar Vivo",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzcxMTIuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/5545/67bb7eb6c91b0.png"
         }
       ]
     }
