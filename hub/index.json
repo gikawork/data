@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764734607,
-    "totalMangas": 1667,
+    "lastUpdated": 1764734616,
+    "totalMangas": 1668,
     "version": "1.0.5"
   },
   "mangas": {
@@ -20006,6 +20006,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl84MjFjZjcuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/8333/wp-content/uploads/2024/12/i-log-in-alone-1.jpg"
+        }
+      ]
+    },
+    "makr_9105": {
+      "title": "The Villainess Empress's Attendant",
+      "chapters": [
+        {
+          "id": "9105",
+          "title": "The Villainess Empress's Attendant",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl85MTA1Lmpzb24/",
+          "type": "manhwa",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx169280-ye4g9e98zIVY.jpg"
         }
       ]
     }
