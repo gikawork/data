@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764731389,
-    "totalMangas": 1309,
+    "lastUpdated": 1764731397,
+    "totalMangas": 1310,
     "version": "1.0.5"
   },
   "mangas": {
@@ -15710,6 +15710,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF80NzI4Ny5qc29u/",
           "type": "manhua",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/9162/67999f7b6ead6.png"
+        }
+      ]
+    },
+    "makr_5e6fa1": {
+      "title": "Reencarnação de um Prodígio Marcial",
+      "chapters": [
+        {
+          "id": "5e6fa1",
+          "title": "Reencarnação de um Prodígio Marcial",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl81ZTZmYTEuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/10125/67c8e68529aa3.png"
         }
       ]
     }
