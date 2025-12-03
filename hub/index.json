@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764730687,
-    "totalMangas": 1229,
+    "lastUpdated": 1764730696,
+    "totalMangas": 1230,
     "version": "1.0.5"
   },
   "mangas": {
@@ -14750,6 +14750,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21vZWwvbWFvZWxfMzc1MDk4Lmpzb24/",
           "type": "oel",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/9266/67a3b13d8afa7.png"
+        }
+      ]
+    },
+    "makr_d23cd2": {
+      "title": "A Hora do Salvador",
+      "chapters": [
+        {
+          "id": "d23cd2",
+          "title": "A Hora do Salvador",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl9kMjNjZDIuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/8280/wp-content/uploads/2024/12/fodaaa.jpg"
         }
       ]
     }
