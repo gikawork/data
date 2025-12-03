@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764739701,
-    "totalMangas": 2218,
+    "lastUpdated": 1764739710,
+    "totalMangas": 2219,
     "version": "1.0.5"
   },
   "mangas": {
@@ -26618,6 +26618,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl80MjQ1Lmpzb24/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/9918/67bb7dc091d2a.png"
+        }
+      ]
+    },
+    "makr_798f05": {
+      "title": "Coração de leâo",
+      "chapters": [
+        {
+          "id": "798f05",
+          "title": "Coração de leâo",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl83OThmMDUuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/10510/67e4c08fab405.png"
         }
       ]
     }
