@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764738148,
-    "totalMangas": 2047,
+    "lastUpdated": 1764738158,
+    "totalMangas": 2048,
     "version": "1.0.5"
   },
   "mangas": {
@@ -24566,6 +24566,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF8xNTE3Lmpzb24/",
           "type": "manhua",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/330/686ddcae78cfe.webp"
+        }
+      ]
+    },
+    "makr_abcbdc": {
+      "title": "Tornei-me um Vilão de Fantasia Negra",
+      "chapters": [
+        {
+          "id": "abcbdc",
+          "title": "Tornei-me um Vilão de Fantasia Negra",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl9hYmNiZGMuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/13879/68d2c28fb5f51.png"
         }
       ]
     }
