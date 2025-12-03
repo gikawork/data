@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764737299,
-    "totalMangas": 1958,
+    "lastUpdated": 1764737307,
+    "totalMangas": 1959,
     "version": "1.0.5"
   },
   "mangas": {
@@ -23498,6 +23498,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8xNTE4Lmpzb24/",
           "type": "manhwa",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx39982-68LS2Z9075Kw.jpg"
+        }
+      ]
+    },
+    "makr_6423": {
+      "title": "Paciência, Senhorita!",
+      "chapters": [
+        {
+          "id": "6423",
+          "title": "Paciência, Senhorita!",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl82NDIzLmpzb24/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/10348/67d4330ac3501.jpg"
         }
       ]
     }
