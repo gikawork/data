@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764732068,
-    "totalMangas": 1382,
+    "lastUpdated": 1764732077,
+    "totalMangas": 1383,
     "version": "1.0.5"
   },
   "mangas": {
@@ -16586,6 +16586,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8zODA3NS5qc29u/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/2142/68703940b7170.jpg"
+        }
+      ]
+    },
+    "maot_362684": {
+      "title": "Ascensão do Devorador",
+      "chapters": [
+        {
+          "id": "362684",
+          "title": "Ascensão do Devorador",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21vdC9tYW90XzM2MjY4NC5qc29u/",
+          "type": "outro",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/13569/68c4944f3c851.png"
         }
       ]
     }
