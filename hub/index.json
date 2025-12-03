@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764736219,
-    "totalMangas": 1842,
+    "lastUpdated": 1764736227,
+    "totalMangas": 1843,
     "version": "1.0.5"
   },
   "mangas": {
@@ -22106,6 +22106,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl81NDA1OS5qc29u/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/4473/wp-content/uploads/2024/10/7452.png"
+        }
+      ]
+    },
+    "mach_74755": {
+      "title": " Jovem Mestre, Por Favor, Não se Exiba",
+      "chapters": [
+        {
+          "id": "74755",
+          "title": " Jovem Mestre, Por Favor, Não se Exiba",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF83NDc1NS5qc29u/",
+          "type": "manhua",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/9786/67ab88bcd1f9b.avif"
         }
       ]
     }
