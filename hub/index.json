@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764731226,
-    "totalMangas": 1291,
+    "lastUpdated": 1764731235,
+    "totalMangas": 1292,
     "version": "1.0.5"
   },
   "mangas": {
@@ -15494,6 +15494,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF80MTI3Ny5qc29u/",
           "type": "manhua",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/10190/68d430e667d29.jpg"
+        }
+      ]
+    },
+    "makr_fefe7a": {
+      "title": "O Retorno do Imperador Imortal Luo Wuji",
+      "chapters": [
+        {
+          "id": "fefe7a",
+          "title": "O Retorno do Imperador Imortal Luo Wuji",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl9mZWZlN2EuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/3943/wp-content/uploads/2024/10/19cfVCc0TrMf0ENriZnjugKgk5kIffLsGYRAqmq4.jpg"
         }
       ]
     }
