@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764735959,
-    "totalMangas": 1814,
+    "lastUpdated": 1764735970,
+    "totalMangas": 1815,
     "version": "1.0.5"
   },
   "mangas": {
@@ -21770,6 +21770,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl9jY2U3MTMuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/9177/679adaa40f54b.png"
+        }
+      ]
+    },
+    "makr_8331": {
+      "title": "Os Filmes são reais",
+      "chapters": [
+        {
+          "id": "8331",
+          "title": "Os Filmes são reais",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl84MzMxLmpzb24/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/5381/wp-content/uploads/2024/10/filmes.jpg"
         }
       ]
     }
