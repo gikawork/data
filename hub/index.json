@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764738701,
-    "totalMangas": 2108,
+    "lastUpdated": 1764738711,
+    "totalMangas": 2109,
     "version": "1.0.5"
   },
   "mangas": {
@@ -25298,6 +25298,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl81NDkxLmpzb24/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/9819/67ddb4a9a9df8.jpg"
+        }
+      ]
+    },
+    "mach_03e4e9": {
+      "title": "Começando a Evolução como uma Grande Árvore",
+      "chapters": [
+        {
+          "id": "03e4e9",
+          "title": "Começando a Evolução como uma Grande Árvore",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF8wM2U0ZTkuanNvbg/",
+          "type": "manhua",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/282/6807b17a61e1c.png"
         }
       ]
     }
