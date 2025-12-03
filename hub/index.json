@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764734206,
-    "totalMangas": 1622,
+    "lastUpdated": 1764734216,
+    "totalMangas": 1623,
     "version": "1.0.5"
   },
   "mangas": {
@@ -19466,6 +19466,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8xMjBmZjkuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/8744/679485e11f975.png"
+        }
+      ]
+    },
+    "makr_ebb44a": {
+      "title": "Retorno do Mago de 8ª Classe",
+      "chapters": [
+        {
+          "id": "ebb44a",
+          "title": "Retorno do Mago de 8ª Classe",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl9lYmI0NGEuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/7357/wp-content/uploads/2024/12/marg.jpg"
         }
       ]
     }
