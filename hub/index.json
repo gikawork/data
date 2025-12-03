@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764723992,
-    "totalMangas": 1103,
+    "lastUpdated": 1764724002,
+    "totalMangas": 1104,
     "version": "1.0.5"
   },
   "mangas": {
@@ -13238,6 +13238,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzUzNC5qc29u/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx107780-SWoW1oBmgU8K.jpg"
+        }
+      ]
+    },
+    "makr_7044": {
+      "title": "Time-Limited Genius Dark Knight",
+      "chapters": [
+        {
+          "id": "7044",
+          "title": "Time-Limited Genius Dark Knight",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl83MDQ0Lmpzb24/",
+          "type": "manhwa",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx165182-k4Jfk2XMkylP.jpg"
         }
       ]
     }
