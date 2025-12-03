@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764736491,
-    "totalMangas": 1872,
+    "lastUpdated": 1764736500,
+    "totalMangas": 1873,
     "version": "1.0.5"
   },
   "mangas": {
@@ -22466,6 +22466,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl83MGI5OWYuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/10884/680eaca604c79.jpg"
+        }
+      ]
+    },
+    "makr_4e6390": {
+      "title": "Eu me Tornei um Vilão numa Fantasia Sombria",
+      "chapters": [
+        {
+          "id": "4e6390",
+          "title": "Eu me Tornei um Vilão numa Fantasia Sombria",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl80ZTYzOTAuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/2136/wp-content/uploads/2024/05/82cc6110-d190-408e-afe0-66621ff95a00.jpg.512.jpg"
         }
       ]
     }
