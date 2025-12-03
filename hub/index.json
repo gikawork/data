@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764736128,
-    "totalMangas": 1832,
+    "lastUpdated": 1764736137,
+    "totalMangas": 1833,
     "version": "1.0.5"
   },
   "mangas": {
@@ -21986,6 +21986,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl85MDUwNi5qc29u/",
           "type": "manhwa",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx187662-0s6Wvn4aqdw5.jpg"
+        }
+      ]
+    },
+    "makr_58ff6e": {
+      "title": "Monopolizando Fortunas",
+      "chapters": [
+        {
+          "id": "58ff6e",
+          "title": "Monopolizando Fortunas",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl81OGZmNmUuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/13857/68cde50f0bdbc.webp"
         }
       ]
     }
