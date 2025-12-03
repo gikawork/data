@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": 1764723885,
+    "lastUpdated": 1764723900,
     "totalMangas": 1102,
     "version": "1.0.5"
   },
@@ -13214,6 +13214,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzI4NTUuanNvbg/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx40742-HZLx4U0UuCBV.png"
+        }
+      ]
+    },
+    "mach_8609": {
+      "title": "Falling Blue",
+      "chapters": [
+        {
+          "id": "8609",
+          "title": "Falling Blue",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF84NjA5Lmpzb24/",
+          "type": "manhua",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx150391-qIIldjs5eBaR.jpg"
         }
       ]
     }
