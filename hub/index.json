@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764730919,
-    "totalMangas": 1256,
+    "lastUpdated": 1764730928,
+    "totalMangas": 1257,
     "version": "1.0.5"
   },
   "mangas": {
@@ -15074,6 +15074,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzIyNzkxOS5qc29u/",
           "type": "manga",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/10864/680eab5cd5f90.jpg"
+        }
+      ]
+    },
+    "mach_45218": {
+      "title": "Bom discípulo, tenha piedade do seu mestre!",
+      "chapters": [
+        {
+          "id": "45218",
+          "title": "Bom discípulo, tenha piedade do seu mestre!",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF80NTIxOC5qc29u/",
+          "type": "manhua",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/9765/67aa3071b0f58.png"
         }
       ]
     }
