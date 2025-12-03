@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764739756,
-    "totalMangas": 2224,
+    "lastUpdated": 1764739764,
+    "totalMangas": 2225,
     "version": "1.0.5"
   },
   "mangas": {
@@ -26690,6 +26690,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21vZWwvbWFvZWxfMjU3MjEuanNvbg/",
           "type": "oel",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/8934/6795b8abd85d5.jpg"
+        }
+      ]
+    },
+    "makr_bb7450": {
+      "title": "Descendente de um Dragão Divino",
+      "chapters": [
+        {
+          "id": "bb7450",
+          "title": "Descendente de um Dragão Divino",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl9iYjc0NTAuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/6243/wp-content/uploads/2024/11/am.jpg"
         }
       ]
     }
