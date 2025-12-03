@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764734029,
-    "totalMangas": 1602,
+    "lastUpdated": 1764734037,
+    "totalMangas": 1603,
     "version": "1.0.5"
   },
   "mangas": {
@@ -19226,6 +19226,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl9hNmQ3MmQuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/7608/wp-content/uploads/2024/12/pseudouasidjsiuj.jpg"
+        }
+      ]
+    },
+    "makr_e3c496": {
+      "title": "Estou Desistindo Grupo do herói",
+      "chapters": [
+        {
+          "id": "e3c496",
+          "title": "Estou Desistindo Grupo do herói",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl9lM2M0OTYuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/8593/68c4935abfaac.png"
         }
       ]
     }
