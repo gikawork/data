@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764732348,
-    "totalMangas": 1414,
+    "lastUpdated": 1764732357,
+    "totalMangas": 1415,
     "version": "1.0.5"
   },
   "mangas": {
@@ -16970,6 +16970,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl9kYTIwNDMuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/13329/68802e2bcf0b5.webp"
+        }
+      ]
+    },
+    "mach_351029": {
+      "title": "Reencarnei Como um Canalha: Rumo à Imortalidade com Minha Esposa e Filha",
+      "chapters": [
+        {
+          "id": "351029",
+          "title": "Reencarnei Como um Canalha: Rumo à Imortalidade com Minha Esposa e Filha",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF8zNTEwMjkuanNvbg/",
+          "type": "manhua",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/11337/6849a99ae4754.png"
         }
       ]
     }
