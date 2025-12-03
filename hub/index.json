@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764738835,
-    "totalMangas": 2122,
+    "lastUpdated": 1764738844,
+    "totalMangas": 2123,
     "version": "1.0.5"
   },
   "mangas": {
@@ -25466,6 +25466,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl84MzYuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/3962/6864b8942f530.webp"
+        }
+      ]
+    },
+    "makr_50317": {
+      "title": "A Seleção do Salvador da Terra",
+      "chapters": [
+        {
+          "id": "50317",
+          "title": "A Seleção do Salvador da Terra",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl81MDMxNy5qc29u/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/10054/67c44a83e8219.png"
         }
       ]
     }
