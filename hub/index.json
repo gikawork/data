@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": 1764727277,
+    "lastUpdated": 1764727292,
     "totalMangas": 1135,
     "version": "1.0.5"
   },
@@ -13610,6 +13610,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzUzMjk1Lmpzb24/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx142839-LwBW1ZWjMXkx.jpg"
+        }
+      ]
+    },
+    "majp_2882": {
+      "title": "Akazukin to Yasashii Ookami",
+      "chapters": [
+        {
+          "id": "2882",
+          "title": "Akazukin to Yasashii Ookami",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzI4ODIuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://cdn.mangaupdates.com/image/i81943.png"
         }
       ]
     }
