@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": 1764723962,
+    "lastUpdated": 1764723977,
     "totalMangas": 1103,
     "version": "1.0.5"
   },
@@ -13226,6 +13226,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzE2MTguanNvbg/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx187713-2CQqpvUEN3RE.jpg"
+        }
+      ]
+    },
+    "makr_4831": {
+      "title": "Farmer Of Spirits",
+      "chapters": [
+        {
+          "id": "4831",
+          "title": "Farmer Of Spirits",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl80ODMxLmpzb24/",
+          "type": "manhwa",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx125653-EtaMhXUvgSta.jpg"
         }
       ]
     }
