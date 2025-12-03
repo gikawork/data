@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764736854,
-    "totalMangas": 1911,
+    "lastUpdated": 1764736863,
+    "totalMangas": 1912,
     "version": "1.0.5"
   },
   "mangas": {
@@ -22934,6 +22934,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl9mOTc4YTMuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/10124/67c8e1d8005cb.png"
+        }
+      ]
+    },
+    "makr_0778a8": {
+      "title": "Três Reinos e Seis Caminhos",
+      "chapters": [
+        {
+          "id": "0778a8",
+          "title": "Três Reinos e Seis Caminhos",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8wNzc4YTguanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/6540/wp-content/uploads/2024/11/ban.jpg"
         }
       ]
     }
