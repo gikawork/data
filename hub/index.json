@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764728004,
-    "totalMangas": 1146,
+    "lastUpdated": 1764728012,
+    "totalMangas": 1147,
     "version": "1.0.5"
   },
   "mangas": {
@@ -13754,6 +13754,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8xNDE3Lmpzb24/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/1801/wp-content/uploads/2024/05/d7223fc4-c05d-4a95-bfbe-ab6d08836d5e.png.512.jpg"
+        }
+      ]
+    },
+    "maot_1738": {
+      "title": "Amelia the Level Zero Hero",
+      "chapters": [
+        {
+          "id": "1738",
+          "title": "Amelia the Level Zero Hero",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21vdC9tYW90XzE3MzguanNvbg/",
+          "type": "outro",
+          "cover_url": "https://cdn.mangaupdates.com/image/i490269.jpg"
         }
       ]
     }
