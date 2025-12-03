@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": 1764729564,
+    "lastUpdated": 1764729578,
     "totalMangas": 1179,
     "version": "1.0.5"
   },
@@ -14138,6 +14138,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl80ODcwLmpzb24/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/8673/67a7a867c5320.png"
+        }
+      ]
+    },
+    "mach_3966": {
+      "title": "LaLa",
+      "chapters": [
+        {
+          "id": "3966",
+          "title": "LaLa",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF8zOTY2Lmpzb24/",
+          "type": "manhua",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx104729-2aZV4QvfNVjy.png"
         }
       ]
     }
