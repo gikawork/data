@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": 1764728644,
+    "lastUpdated": 1764728659,
     "totalMangas": 1156,
     "version": "1.0.5"
   },
@@ -13862,6 +13862,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzM3NjU3OC5qc29u/",
           "type": "manga",
           "cover_url": "https://cdn.myanimelist.net/images/manga/2/293657.jpg"
+        }
+      ]
+    },
+    "majp_2454": {
+      "title": "My Crush's Crush",
+      "chapters": [
+        {
+          "id": "2454",
+          "title": "My Crush's Crush",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzI0NTQuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b156867-h4fzUwVpiy6i.jpg"
         }
       ]
     }
