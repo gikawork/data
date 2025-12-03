@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": 1764725784,
+    "lastUpdated": 1764725797,
     "totalMangas": 1122,
     "version": "1.0.5"
   },
@@ -13454,6 +13454,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzQxMjguanNvbg/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx155189-L7ZmIYokc2NB.jpg"
+        }
+      ]
+    },
+    "majp_1351": {
+      "title": "Kingdom Hearts III",
+      "chapters": [
+        {
+          "id": "1351",
+          "title": "Kingdom Hearts III",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzEzNTEuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx111962-C3o9VkGwtbwy.jpg"
         }
       ]
     }
