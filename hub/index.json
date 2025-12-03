@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": 1764729239,
+    "lastUpdated": 1764729253,
     "totalMangas": 1170,
     "version": "1.0.5"
   },
@@ -14030,6 +14030,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl81MjkwOC5qc29u/",
           "type": "manhwa",
           "cover_url": "https://images2.imgbox.com/8b/22/s4JpU51B_o.jpg"
+        }
+      ]
+    },
+    "majp_3646": {
+      "title": "Captain Tsubasa: Rising Sun - The Final",
+      "chapters": [
+        {
+          "id": "3646",
+          "title": "Captain Tsubasa: Rising Sun - The Final",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzM2NDYuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://cdn.mangaupdates.com/image/i487151.jpg"
         }
       ]
     }
