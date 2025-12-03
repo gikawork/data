@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764738113,
-    "totalMangas": 2043,
+    "lastUpdated": 1764738122,
+    "totalMangas": 2044,
     "version": "1.0.5"
   },
   "mangas": {
@@ -24518,6 +24518,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl83NzE3Mi5qc29u/",
           "type": "manhwa",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx180253-91ZH3uWsDk5B.jpg"
+        }
+      ]
+    },
+    "makr_34591": {
+      "title": "Mercenário Dimensional",
+      "chapters": [
+        {
+          "id": "34591",
+          "title": "Mercenário Dimensional",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8zNDU5MS5qc29u/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/1726/68968626c02bc.webp"
         }
       ]
     }
