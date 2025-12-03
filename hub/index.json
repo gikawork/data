@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764733745,
-    "totalMangas": 1570,
+    "lastUpdated": 1764733754,
+    "totalMangas": 1571,
     "version": "1.0.5"
   },
   "mangas": {
@@ -18842,6 +18842,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl80MTYzMy5qc29u/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/8983/6795ca821d0e0.png"
+        }
+      ]
+    },
+    "makr_1528": {
+      "title": "O Zênite",
+      "chapters": [
+        {
+          "id": "1528",
+          "title": "O Zênite",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8xNTI4Lmpzb24/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/6492/wp-content/uploads/2024/11/25ebf8ca-d393-4c0f-839e-4690723fb04d.jpg.512.jpg"
         }
       ]
     }
