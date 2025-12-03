@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764728789,
-    "totalMangas": 1160,
+    "lastUpdated": 1764728798,
+    "totalMangas": 1161,
     "version": "1.0.5"
   },
   "mangas": {
@@ -13922,6 +13922,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzI3NDguanNvbg/",
           "type": "manga",
           "cover_url": "https://images2.imgbox.com/e3/fc/vHds2pVB_o.jpg"
+        }
+      ]
+    },
+    "majp_2320": {
+      "title": "Yoku Wakaranai Keredo Isekai ni Tensei Shiteita You Desu",
+      "chapters": [
+        {
+          "id": "2320",
+          "title": "Yoku Wakaranai Keredo Isekai ni Tensei Shiteita You Desu",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzIzMjAuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://cdn.myanimelist.net/images/manga/1/229276.jpg"
         }
       ]
     }
