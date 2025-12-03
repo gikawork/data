@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764740200,
-    "totalMangas": 2273,
+    "lastUpdated": 1764740209,
+    "totalMangas": 2274,
     "version": "1.0.5"
   },
   "mangas": {
@@ -27278,6 +27278,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl82Zjg4MDMuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/8935/6795b96083b53.png"
+        }
+      ]
+    },
+    "makr_02daef": {
+      "title": "Gênio Regressado Criador de Itens Mítico",
+      "chapters": [
+        {
+          "id": "02daef",
+          "title": "Gênio Regressado Criador de Itens Mítico",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8wMmRhZWYuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/9211/679e487ebe6c0.png"
         }
       ]
     }
