@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": 1764727886,
+    "lastUpdated": 1764727901,
     "totalMangas": 1143,
     "version": "1.0.5"
   },
@@ -13706,6 +13706,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzQwMzUuanNvbg/",
           "type": "manga",
           "cover_url": "https://cdn.myanimelist.net/images/manga/1/287538.jpg"
+        }
+      ]
+    },
+    "majp_1692": {
+      "title": "Berserk",
+      "chapters": [
+        {
+          "id": "1692",
+          "title": "Berserk",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzE2OTIuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx30002-Cul4OeN7bYtn.jpg"
         }
       ]
     }
