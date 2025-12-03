@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": 1764727970,
+    "lastUpdated": 1764727986,
     "totalMangas": 1144,
     "version": "1.0.5"
   },
@@ -13718,6 +13718,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzk3MDYuanNvbg/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx30936-P55KMUW1sgLN.jpg"
+        }
+      ]
+    },
+    "majp_356": {
+      "title": "Hima-Ten!",
+      "chapters": [
+        {
+          "id": "356",
+          "title": "Hima-Ten!",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzM1Ni5qc29u/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx178202-DChIIiw57fRG.jpg"
         }
       ]
     }
