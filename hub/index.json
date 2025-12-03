@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764734998,
-    "totalMangas": 1708,
+    "lastUpdated": 1764735006,
+    "totalMangas": 1709,
     "version": "1.0.5"
   },
   "mangas": {
@@ -20498,6 +20498,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzQ3OTYuanNvbg/",
           "type": "manga",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/867/wp-content/uploads/2024/05/61xtIttt3fL._AC_UF10001000_QL80_.jpg"
+        }
+      ]
+    },
+    "makr_a6ae57": {
+      "title": "1 Mais 1",
+      "chapters": [
+        {
+          "id": "a6ae57",
+          "title": "1 Mais 1",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl9hNmFlNTcuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/9269/67a3ed8d46fe1.png"
         }
       ]
     }
