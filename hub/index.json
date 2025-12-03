@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764735218,
-    "totalMangas": 1733,
+    "lastUpdated": 1764735226,
+    "totalMangas": 1734,
     "version": "1.0.5"
   },
   "mangas": {
@@ -20798,6 +20798,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF8xODkwNDIuanNvbg/",
           "type": "manhua",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/11063/681f7b4eb50bf.png"
+        }
+      ]
+    },
+    "majp_4008": {
+      "title": "Cidade Arco-Íris",
+      "chapters": [
+        {
+          "id": "4008",
+          "title": "Cidade Arco-Íris",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzQwMDguanNvbg/",
+          "type": "manga",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/8923/6795b3bf8d2e0.png"
         }
       ]
     }
