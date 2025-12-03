@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764736227,
-    "totalMangas": 1843,
+    "lastUpdated": 1764736236,
+    "totalMangas": 1844,
     "version": "1.0.5"
   },
   "mangas": {
@@ -22118,6 +22118,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF83NDc1NS5qc29u/",
           "type": "manhua",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/9786/67ab88bcd1f9b.avif"
+        }
+      ]
+    },
+    "makr_55050": {
+      "title": "Debut or Die!",
+      "chapters": [
+        {
+          "id": "55050",
+          "title": "Debut or Die!",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl81NTA1MC5qc29u/",
+          "type": "manhwa",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx154361-exmdrQ6zZJdR.jpg"
         }
       ]
     }
