@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764730834,
-    "totalMangas": 1246,
+    "lastUpdated": 1764730843,
+    "totalMangas": 1247,
     "version": "1.0.5"
   },
   "mangas": {
@@ -14954,6 +14954,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8zNTY1NTkuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/8892/67959b06aa36a.png"
+        }
+      ]
+    },
+    "makr_e7f8d2": {
+      "title": "7 Maravilhas - Lágrimas de um Tirano ",
+      "chapters": [
+        {
+          "id": "e7f8d2",
+          "title": "7 Maravilhas - Lágrimas de um Tirano ",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl9lN2Y4ZDIuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/10945/6810586040f5e.png"
         }
       ]
     }
