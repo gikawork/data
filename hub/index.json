@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764740775,
-    "totalMangas": 2334,
+    "lastUpdated": 1764740784,
+    "totalMangas": 2335,
     "version": "1.0.5"
   },
   "mangas": {
@@ -28010,6 +28010,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF85MDEuanNvbg/",
           "type": "manhua",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/5601/67fc0a7d8fc64.png"
+        }
+      ]
+    },
+    "makr_149ea7": {
+      "title": "O Anel Maligno",
+      "chapters": [
+        {
+          "id": "149ea7",
+          "title": "O Anel Maligno",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8xNDllYTcuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/6370/wp-content/uploads/2024/11/ring.jpg"
         }
       ]
     }
