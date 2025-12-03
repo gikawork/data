@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764734888,
-    "totalMangas": 1696,
+    "lastUpdated": 1764734898,
+    "totalMangas": 1697,
     "version": "1.0.5"
   },
   "mangas": {
@@ -20354,6 +20354,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl85MDAuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx187111-pCmmiQRYI2yi.jpg"
+        }
+      ]
+    },
+    "makr_94beed": {
+      "title": "O Espadachim Mágico e o Basileu",
+      "chapters": [
+        {
+          "id": "94beed",
+          "title": "O Espadachim Mágico e o Basileu",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl85NGJlZWQuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/10918/680eb0c73f749.jpg"
         }
       ]
     }
