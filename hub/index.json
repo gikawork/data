@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764731825,
-    "totalMangas": 1354,
+    "lastUpdated": 1764731833,
+    "totalMangas": 1355,
     "version": "1.0.5"
   },
   "mangas": {
@@ -16250,6 +16250,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl9jNzIyZjQuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/12825/686057eef238a.png"
+        }
+      ]
+    },
+    "makr_ce4f79": {
+      "title": "Sam Joga o Jogo",
+      "chapters": [
+        {
+          "id": "ce4f79",
+          "title": "Sam Joga o Jogo",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl9jZTRmNzkuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/6163/wp-content/uploads/2024/11/sammm.jpg"
         }
       ]
     }
