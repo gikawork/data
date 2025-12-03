@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764737692,
-    "totalMangas": 1997,
+    "lastUpdated": 1764737701,
+    "totalMangas": 1998,
     "version": "1.0.5"
   },
   "mangas": {
@@ -23966,6 +23966,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl82NDIuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx180861-psqFHxGV9kkh.jpg"
+        }
+      ]
+    },
+    "makr_65975": {
+      "title": "11336",
+      "chapters": [
+        {
+          "id": "65975",
+          "title": "11336",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl82NTk3NS5qc29u/",
+          "type": "manhwa",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx175005-PtLZnxWPMz9Z.jpg"
         }
       ]
     }
