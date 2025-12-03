@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": 1764729965,
+    "lastUpdated": 1764729981,
     "totalMangas": 1187,
     "version": "1.0.5"
   },
@@ -14234,6 +14234,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8yNzY5Lmpzb24/",
           "type": "manhwa",
           "cover_url": "https://cdn.myanimelist.net/images/manga/2/236758.jpg"
+        }
+      ]
+    },
+    "majp_188862": {
+      "title": "Majo to Kyurasu",
+      "chapters": [
+        {
+          "id": "188862",
+          "title": "Majo to Kyurasu",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzE4ODg2Mi5qc29u/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx190971-jRS2lklc08cC.jpg"
         }
       ]
     }
