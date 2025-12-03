@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": 1764724094,
+    "lastUpdated": 1764724109,
     "totalMangas": 1103,
     "version": "1.0.5"
   },
@@ -13226,6 +13226,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8zNzI1Lmpzb24/",
           "type": "manhwa",
           "cover_url": "https://cdn.myanimelist.net/images/manga/3/276004.jpg"
+        }
+      ]
+    },
+    "majp_3896": {
+      "title": "Sket Dance",
+      "chapters": [
+        {
+          "id": "3896",
+          "title": "Sket Dance",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzM4OTYuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx31414-tz6DO9Tns3e0.png"
         }
       ]
     }
