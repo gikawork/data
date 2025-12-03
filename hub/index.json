@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764732587,
-    "totalMangas": 1441,
+    "lastUpdated": 1764732596,
+    "totalMangas": 1442,
     "version": "1.0.5"
   },
   "mangas": {
@@ -17294,6 +17294,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl9iZDQzODAuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/143/6861f38464e73.jpg"
+        }
+      ]
+    },
+    "makr_55685": {
+      "title": "Hectopascal",
+      "chapters": [
+        {
+          "id": "55685",
+          "title": "Hectopascal",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl81NTY4NS5qc29u/",
+          "type": "manhwa",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx155482-7iEKKemFgr5P.jpg"
         }
       ]
     }
