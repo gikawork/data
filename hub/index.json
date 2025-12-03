@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764739041,
-    "totalMangas": 2145,
+    "lastUpdated": 1764739050,
+    "totalMangas": 2146,
     "version": "1.0.5"
   },
   "mangas": {
@@ -25742,6 +25742,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl85MmI4OTguanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/9188/679ae14f47cca.png"
+        }
+      ]
+    },
+    "makr_4736": {
+      "title": "Traição da Dignidade",
+      "chapters": [
+        {
+          "id": "4736",
+          "title": "Traição da Dignidade",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl80NzM2Lmpzb24/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/8695/6791d70013c9a.png"
         }
       ]
     }
