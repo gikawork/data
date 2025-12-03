@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764732145,
-    "totalMangas": 1391,
+    "lastUpdated": 1764732155,
+    "totalMangas": 1392,
     "version": "1.0.5"
   },
   "mangas": {
@@ -16694,6 +16694,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8yYmU1YmYuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/7549/wp-content/uploads/2024/12/maxxxxx.jpg"
+        }
+      ]
+    },
+    "majp_91d8d8": {
+      "title": "Abissal",
+      "chapters": [
+        {
+          "id": "91d8d8",
+          "title": "Abissal",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzkxZDhkOC5qc29u/",
+          "type": "manga",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/11311/6844d2fa5cf02.png"
         }
       ]
     }
