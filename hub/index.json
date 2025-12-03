@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764738954,
-    "totalMangas": 2135,
+    "lastUpdated": 1764738962,
+    "totalMangas": 2136,
     "version": "1.0.5"
   },
   "mangas": {
@@ -25622,6 +25622,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8yNzA5NS5qc29u/",
           "type": "manhwa",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx34268-ut2IB60oKyj0.jpg"
+        }
+      ]
+    },
+    "maot_7830": {
+      "title": "Quando Me Aposentei de ser o rei demonio",
+      "chapters": [
+        {
+          "id": "7830",
+          "title": "Quando Me Aposentei de ser o rei demonio",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21vdC9tYW90Xzc4MzAuanNvbg/",
+          "type": "outro",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/8698/679240b168e7f.jpg"
         }
       ]
     }
