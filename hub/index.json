@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764734916,
-    "totalMangas": 1699,
+    "lastUpdated": 1764734926,
+    "totalMangas": 1700,
     "version": "1.0.5"
   },
   "mangas": {
@@ -20390,6 +20390,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8xNGZkZmEuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/10279/67cfb266e807d.png"
+        }
+      ]
+    },
+    "makr_7562b9": {
+      "title": "Nasci Como Filha do Lorde Demônio",
+      "chapters": [
+        {
+          "id": "7562b9",
+          "title": "Nasci Como Filha do Lorde Demônio",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl83NTYyYjkuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/9052/6795f0c30e260.png"
         }
       ]
     }
