@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764732693,
-    "totalMangas": 1453,
+    "lastUpdated": 1764732701,
+    "totalMangas": 1454,
     "version": "1.0.5"
   },
   "mangas": {
@@ -17438,6 +17438,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl9kZGM2MTYuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/9061/6795fa59395a2.jpg"
+        }
+      ]
+    },
+    "makr_6f1f57": {
+      "title": " Laboratório Maravilhoso",
+      "chapters": [
+        {
+          "id": "6f1f57",
+          "title": " Laboratório Maravilhoso",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl82ZjFmNTcuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/10476/67ddcb781f956.jpg"
         }
       ]
     }
