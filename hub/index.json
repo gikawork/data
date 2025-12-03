@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764738122,
-    "totalMangas": 2044,
+    "lastUpdated": 1764738131,
+    "totalMangas": 2045,
     "version": "1.0.5"
   },
   "mangas": {
@@ -24530,6 +24530,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8zNDU5MS5qc29u/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/1726/68968626c02bc.webp"
+        }
+      ]
+    },
+    "mach_77070": {
+      "title": "O Melhor Jogador Retornou",
+      "chapters": [
+        {
+          "id": "77070",
+          "title": "O Melhor Jogador Retornou",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF83NzA3MC5qc29u/",
+          "type": "manhua",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/6421/wp-content/uploads/2024/11/miorr.jpg"
         }
       ]
     }
