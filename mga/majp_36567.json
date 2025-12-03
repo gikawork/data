@@ -6,7 +6,7 @@
   "cover": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx122810-VMBg4azX0WzH.jpg",
   "status": "Completed",
   "chapters": {
-    "03": {
+    "3": {
       "title": "Capítulo 03 - FIM",
       "volume": "",
       "last_updated": "1758926715",
@@ -18,7 +18,7 @@
         ]
       }
     },
-    "02": {
+    "2": {
       "title": "Capítulo 02",
       "volume": "",
       "last_updated": "1758926715",
@@ -31,7 +31,7 @@
         ]
       }
     },
-    "01": {
+    "1": {
       "title": "Capítulo 01",
       "volume": "",
       "last_updated": "1758926715",
