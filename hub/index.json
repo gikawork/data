@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764733019,
-    "totalMangas": 1489,
+    "lastUpdated": 1764733028,
+    "totalMangas": 1490,
     "version": "1.0.5"
   },
   "mangas": {
@@ -17870,6 +17870,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8yNjE5NC5qc29u/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/11431/68543096d6156.png"
+        }
+      ]
+    },
+    "makr_991": {
+      "title": "O Conto do Erudito",
+      "chapters": [
+        {
+          "id": "991",
+          "title": "O Conto do Erudito",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl85OTEuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/9908/67c21634443f5.png"
         }
       ]
     }
