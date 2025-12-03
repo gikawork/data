@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764735602,
-    "totalMangas": 1775,
+    "lastUpdated": 1764735614,
+    "totalMangas": 1776,
     "version": "1.0.5"
   },
   "mangas": {
@@ -21302,6 +21302,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl80MWY0ZGMuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/8170/67cbe081f4080.png"
+        }
+      ]
+    },
+    "makr_26401": {
+      "title": "Doce Lar",
+      "chapters": [
+        {
+          "id": "26401",
+          "title": "Doce Lar",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8yNjQwMS5qc29u/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/13237/687c03967a895.jpg"
         }
       ]
     }
