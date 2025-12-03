@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764734749,
-    "totalMangas": 1682,
+    "lastUpdated": 1764734758,
+    "totalMangas": 1683,
     "version": "1.0.5"
   },
   "mangas": {
@@ -20186,6 +20186,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl82MjIzNC5qc29u/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/11121/682930e943e1f.jpg"
+        }
+      ]
+    },
+    "makr_f571ff": {
+      "title": "A Construção",
+      "chapters": [
+        {
+          "id": "f571ff",
+          "title": "A Construção",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl9mNTcxZmYuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/5866/wp-content/uploads/2024/10/c61a9b74-d536-4746-b21b-93b6f9b6f450.jpg.512.jpg"
         }
       ]
     }
