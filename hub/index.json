@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764738350,
-    "totalMangas": 2069,
+    "lastUpdated": 1764738359,
+    "totalMangas": 2070,
     "version": "1.0.5"
   },
   "mangas": {
@@ -24830,6 +24830,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8xNDg2Lmpzb24/",
           "type": "manhwa",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx158706-rGGTXRjqJQgu.jpg"
+        }
+      ]
+    },
+    "makr_d934f6": {
+      "title": "O Figurante é Muito Forte",
+      "chapters": [
+        {
+          "id": "d934f6",
+          "title": "O Figurante é Muito Forte",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl9kOTM0ZjYuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/2130/6861f09c00705.webp"
         }
       ]
     }
