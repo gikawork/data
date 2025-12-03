@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764735923,
-    "totalMangas": 1810,
+    "lastUpdated": 1764735933,
+    "totalMangas": 1811,
     "version": "1.0.5"
   },
   "mangas": {
@@ -21722,6 +21722,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl81NzY2OS5qc29u/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/5999/wp-content/uploads/2024/10/b875d245-32e8-4b8c-acb5-d391698ed2b3.jpg.512.jpg"
+        }
+      ]
+    },
+    "makr_ae728a": {
+      "title": "Homens do Harém",
+      "chapters": [
+        {
+          "id": "ae728a",
+          "title": "Homens do Harém",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl9hZTcyOGEuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/10210/67ce5301d09c5.png"
         }
       ]
     }
