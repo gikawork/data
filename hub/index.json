@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764730400,
-    "totalMangas": 1197,
+    "lastUpdated": 1764730410,
+    "totalMangas": 1198,
     "version": "1.0.5"
   },
   "mangas": {
@@ -14366,6 +14366,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl85OThiYTAuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/5586/wp-content/uploads/2024/10/f4f1699f-3eff-47dc-b566-9469c65e2c01.jpg.512.jpg"
+        }
+      ]
+    },
+    "makr_1622": {
+      "title": " Meu Marido, Minha Irmã e Eu",
+      "chapters": [
+        {
+          "id": "1622",
+          "title": " Meu Marido, Minha Irmã e Eu",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8xNjIyLmpzb24/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/8882/679593c8b04b0.png"
         }
       ]
     }
