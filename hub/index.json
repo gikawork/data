@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": 1764728012,
+    "lastUpdated": 1764728025,
     "totalMangas": 1147,
     "version": "1.0.5"
   },
@@ -13754,6 +13754,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21vdC9tYW90XzE3MzguanNvbg/",
           "type": "outro",
           "cover_url": "https://cdn.mangaupdates.com/image/i490269.jpg"
+        }
+      ]
+    },
+    "majp_5478": {
+      "title": "Deserted Place",
+      "chapters": [
+        {
+          "id": "5478",
+          "title": "Deserted Place",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzU0NzguanNvbg/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx35980-EzOW6vBqUtfL.png"
         }
       ]
     }
