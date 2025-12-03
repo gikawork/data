@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764733482,
-    "totalMangas": 1541,
+    "lastUpdated": 1764733491,
+    "totalMangas": 1542,
     "version": "1.0.5"
   },
   "mangas": {
@@ -18494,6 +18494,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8zNzM0MS5qc29u/",
           "type": "manhwa",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx114986-pFSR2YBltPBm.jpg"
+        }
+      ]
+    },
+    "makr_ee236d": {
+      "title": "A Revanche da Filha Ilegítima da Família de Magos",
+      "chapters": [
+        {
+          "id": "ee236d",
+          "title": "A Revanche da Filha Ilegítima da Família de Magos",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl9lZTIzNmQuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/10544/67edf4a4a921b.png"
         }
       ]
     }
