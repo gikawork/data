@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": 1764730065,
+    "lastUpdated": 1764730079,
     "totalMangas": 1188,
     "version": "1.0.5"
   },
@@ -14246,6 +14246,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzM1OTcwOS5qc29u/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b195644-CKI65sBGCvDc.jpg"
+        }
+      ]
+    },
+    "majp_23846": {
+      "title": "Azfareo no Sobayounin",
+      "chapters": [
+        {
+          "id": "23846",
+          "title": "Azfareo no Sobayounin",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzIzODQ2Lmpzb24/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b99617-m2sQ8IBlkzmZ.jpg"
         }
       ]
     }
