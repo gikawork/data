@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764726995,
-    "totalMangas": 1134,
+    "lastUpdated": 1764727005,
+    "totalMangas": 1135,
     "version": "1.0.5"
   },
   "mangas": {
@@ -13610,6 +13610,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF82NDc5Lmpzb24/",
           "type": "manhua",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx159301-zlQC2YuT8Wcy.jpg"
+        }
+      ]
+    },
+    "mach_331": {
+      "title": "Minhas Namoradas de Mentira defendendo seus Ataques",
+      "chapters": [
+        {
+          "id": "331",
+          "title": "Minhas Namoradas de Mentira defendendo seus Ataques",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF8zMzEuanNvbg/",
+          "type": "manhua",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/5168/67d0248ce15a8.png"
         }
       ]
     }
