@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": 1764727540,
+    "lastUpdated": 1764727554,
     "totalMangas": 1137,
     "version": "1.0.5"
   },
@@ -13634,6 +13634,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF85MDAuanNvbg/",
           "type": "manhua",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx187111-pCmmiQRYI2yi.jpg"
+        }
+      ]
+    },
+    "majp_5182": {
+      "title": "Nito no Taida na Isekai Shoukougun: Saijakushoku \"Healer\" nanoni Saikyou wa Cheat desu ka?",
+      "chapters": [
+        {
+          "id": "5182",
+          "title": "Nito no Taida na Isekai Shoukougun: Saijakushoku \"Healer\" nanoni Saikyou wa Cheat desu ka?",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzUxODIuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx115604-ylt10PGTDDyu.jpg"
         }
       ]
     }
