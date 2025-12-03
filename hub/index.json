@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764736006,
-    "totalMangas": 1819,
+    "lastUpdated": 1764736016,
+    "totalMangas": 1820,
     "version": "1.0.5"
   },
   "mangas": {
@@ -21830,6 +21830,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl9jYTc3ZjYuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/10834/680eaa50ecad1.jpg"
+        }
+      ]
+    },
+    "mach_2647": {
+      "title": "Artes Marciais Globais:",
+      "chapters": [
+        {
+          "id": "2647",
+          "title": "Artes Marciais Globais:",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF8yNjQ3Lmpzb24/",
+          "type": "manhua",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/8487/68c491e94f00f.png"
         }
       ]
     }
