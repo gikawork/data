@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764739603,
-    "totalMangas": 2207,
+    "lastUpdated": 1764739611,
+    "totalMangas": 2208,
     "version": "1.0.5"
   },
   "mangas": {
@@ -26486,6 +26486,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzU2MTU0Lmpzb24/",
           "type": "manga",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/7324/68c2656f083f0.jpg"
+        }
+      ]
+    },
+    "makr_a66119": {
+      "title": "Preso no mesmo dia por 10000 anos",
+      "chapters": [
+        {
+          "id": "a66119",
+          "title": "Preso no mesmo dia por 10000 anos",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl9hNjYxMTkuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/3932/wp-content/uploads/2024/10/imagem_2024-10-05_205126483.png"
         }
       ]
     }
