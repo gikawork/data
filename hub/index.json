@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": 1764728763,
+    "lastUpdated": 1764728777,
     "totalMangas": 1159,
     "version": "1.0.5"
   },
@@ -13898,6 +13898,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzkwODAuanNvbg/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx159295-g6rYtqRG5YAm.jpg"
+        }
+      ]
+    },
+    "mach_351298": {
+      "title": "The Strongest Crystal Beast Master",
+      "chapters": [
+        {
+          "id": "351298",
+          "title": "The Strongest Crystal Beast Master",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF8zNTEyOTguanNvbg/",
+          "type": "manhua",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx195075-ihTiKium9JrI.jpg"
         }
       ]
     }
