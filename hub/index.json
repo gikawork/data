@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": 1764724016,
+    "lastUpdated": 1764724031,
     "totalMangas": 1104,
     "version": "1.0.5"
   },
@@ -13238,6 +13238,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzkxNi5qc29u/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx114416-XtRJ8tI9GtuI.jpg"
+        }
+      ]
+    },
+    "majp_3188": {
+      "title": "Super no Ura de Yani Suu Futari",
+      "chapters": [
+        {
+          "id": "3188",
+          "title": "Super no Ura de Yani Suu Futari",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzMxODguanNvbg/",
+          "type": "manga",
+          "cover_url": "https://cdn.myanimelist.net/images/manga/3/267255.jpg"
         }
       ]
     }
