@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764739403,
-    "totalMangas": 2185,
+    "lastUpdated": 1764739412,
+    "totalMangas": 2186,
     "version": "1.0.5"
   },
   "mangas": {
@@ -26222,6 +26222,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF82NmIxYjcuanNvbg/",
           "type": "manhua",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/10120/67c8bde314b36.jpg"
+        }
+      ]
+    },
+    "makr_55610": {
+      "title": "The Night Without Shadows",
+      "chapters": [
+        {
+          "id": "55610",
+          "title": "The Night Without Shadows",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl81NTYxMC5qc29u/",
+          "type": "manhwa",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx154429-fcqCNyFP5hY8.jpg"
         }
       ]
     }
