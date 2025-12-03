@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764739149,
-    "totalMangas": 2157,
+    "lastUpdated": 1764739158,
+    "totalMangas": 2158,
     "version": "1.0.5"
   },
   "mangas": {
@@ -25886,6 +25886,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl9jY2Y1ZDMuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/6459/wp-content/uploads/2024/11/break.jpg"
+        }
+      ]
+    },
+    "makr_368666": {
+      "title": "Renascimento do Deus Pródigo",
+      "chapters": [
+        {
+          "id": "368666",
+          "title": "Renascimento do Deus Pródigo",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8zNjg2NjYuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/6071/wp-content/uploads/2024/11/marcii.jpg"
         }
       ]
     }
