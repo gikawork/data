@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": 1764730035,
+    "lastUpdated": 1764730050,
     "totalMangas": 1188,
     "version": "1.0.5"
   },
@@ -14246,6 +14246,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzc4Ni5qc29u/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx99365-8SjmtaFNfZWE.png"
+        }
+      ]
+    },
+    "majp_2874": {
+      "title": "Selling Me Softly",
+      "chapters": [
+        {
+          "id": "2874",
+          "title": "Selling Me Softly",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzI4NzQuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/27537.jpg"
         }
       ]
     }
