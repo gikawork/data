@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764739848,
-    "totalMangas": 2234,
+    "lastUpdated": 1764739856,
+    "totalMangas": 2235,
     "version": "1.0.5"
   },
   "mangas": {
@@ -26810,6 +26810,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8xMTIyMDQuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/10205/67ce4b60d93e7.png"
+        }
+      ]
+    },
+    "majp_8545": {
+      "title": "Kunon, o Feiticeiro, Pode Ver",
+      "chapters": [
+        {
+          "id": "8545",
+          "title": "Kunon, o Feiticeiro, Pode Ver",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzg1NDUuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/13931/68db1616996f9.webp"
         }
       ]
     }
