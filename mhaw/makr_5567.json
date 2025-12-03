@@ -1,0 +1,32 @@
+{
+  "title": "Terror (Terror)",
+  "description": "Todos os dias, sem falhar, exatamente à meia-noite, ela vem…",
+  "artist": "JIN Kyoung",
+  "author": "JIN Kyoung",
+  "cover": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx165480-imqrmEItJOEz.png",
+  "status": "Completed",
+  "chapters": {
+    "0": {
+      "title": "Oneshot",
+      "volume": "",
+      "last_updated": "1758926955",
+      "groups": {
+        "gikamura": [
+          "https://cdn.mangalivre.ru//543108d12e6fdc21a287afc1e7191ccf/01.png",
+          "https://cdn.mangalivre.ru//543108d12e6fdc21a287afc1e7191ccf/02.png",
+          "https://cdn.mangalivre.ru//543108d12e6fdc21a287afc1e7191ccf/03.png",
+          "https://cdn.mangalivre.ru//543108d12e6fdc21a287afc1e7191ccf/04.png",
+          "https://cdn.mangalivre.ru//543108d12e6fdc21a287afc1e7191ccf/05.png",
+          "https://cdn.mangalivre.ru//543108d12e6fdc21a287afc1e7191ccf/06.png",
+          "https://cdn.mangalivre.ru//543108d12e6fdc21a287afc1e7191ccf/07.png",
+          "https://cdn.mangalivre.ru//543108d12e6fdc21a287afc1e7191ccf/08.png",
+          "https://cdn.mangalivre.ru//543108d12e6fdc21a287afc1e7191ccf/09.png",
+          "https://cdn.mangalivre.ru//543108d12e6fdc21a287afc1e7191ccf/10.png"
+        ]
+      }
+    }
+  },
+  "source_anilist_response_synonyms": [
+    "Terror (Terror)"
+  ]
+}
