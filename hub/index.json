@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764724793,
-    "totalMangas": 1107,
+    "lastUpdated": 1764724803,
+    "totalMangas": 1108,
     "version": "1.0.5"
   },
   "mangas": {
@@ -13286,6 +13286,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzEyODIuanNvbg/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx41652-GXnIbmI4lUoM.png"
+        }
+      ]
+    },
+    "makr_2336": {
+      "title": "O Arquimago retorna após 4000 anos",
+      "chapters": [
+        {
+          "id": "2336",
+          "title": "O Arquimago retorna após 4000 anos",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8yMzM2Lmpzb24/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/230/685dfebc4ba65.webp"
         }
       ]
     }
