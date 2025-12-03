@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764738359,
-    "totalMangas": 2070,
+    "lastUpdated": 1764738368,
+    "totalMangas": 2071,
     "version": "1.0.5"
   },
   "mangas": {
@@ -24842,6 +24842,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl9kOTM0ZjYuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/2130/6861f09c00705.webp"
+        }
+      ]
+    },
+    "makr_51207": {
+      "title": "Nossa Aliança Secreta",
+      "chapters": [
+        {
+          "id": "51207",
+          "title": "Nossa Aliança Secreta",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl81MTIwNy5qc29u/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/10232/67cf1b99197d8.png"
         }
       ]
     }
