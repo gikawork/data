@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764740446,
-    "totalMangas": 2300,
+    "lastUpdated": 1764740456,
+    "totalMangas": 2301,
     "version": "1.0.5"
   },
   "mangas": {
@@ -27602,6 +27602,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl9lYTg5ZGQuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/10669/67fd503f82e5f.png"
+        }
+      ]
+    },
+    "makr_11c209": {
+      "title": "Morte ao Furão Branco!",
+      "chapters": [
+        {
+          "id": "11c209",
+          "title": "Morte ao Furão Branco!",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8xMWMyMDkuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/8823/67cced14c8d3a.png"
         }
       ]
     }
