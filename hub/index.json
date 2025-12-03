@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764738014,
-    "totalMangas": 2032,
+    "lastUpdated": 1764738023,
+    "totalMangas": 2033,
     "version": "1.0.5"
   },
   "mangas": {
@@ -24386,6 +24386,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl9hMjE1YTYuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/7714/67c6492c27da2.png"
+        }
+      ]
+    },
+    "makr_79b562": {
+      "title": "O Cultivo Começa ao Criar a Imperatriz do Clã Demoníaco",
+      "chapters": [
+        {
+          "id": "79b562",
+          "title": "O Cultivo Começa ao Criar a Imperatriz do Clã Demoníaco",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl83OWI1NjIuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/12885/6867505ad6012.webp"
         }
       ]
     }
