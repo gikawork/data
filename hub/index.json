@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764739901,
-    "totalMangas": 2240,
+    "lastUpdated": 1764739909,
+    "totalMangas": 2241,
     "version": "1.0.5"
   },
   "mangas": {
@@ -26882,6 +26882,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl81YTA2YTkuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/9187/679ae0984ca66.png"
+        }
+      ]
+    },
+    "makr_3631ad": {
+      "title": "O Progresso de um Sábio Banido na Descoberta do Mundo",
+      "chapters": [
+        {
+          "id": "3631ad",
+          "title": "O Progresso de um Sábio Banido na Descoberta do Mundo",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8zNjMxYWQuanNvbg/",
+          "type": "manhwa",
+          "cover_url": ""
         }
       ]
     }
