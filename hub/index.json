@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764729835,
-    "totalMangas": 1184,
+    "lastUpdated": 1764729843,
+    "totalMangas": 1185,
     "version": "1.0.5"
   },
   "mangas": {
@@ -14210,6 +14210,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzE4ODY4Ny5qc29u/",
           "type": "manga",
           "cover_url": "https://images2.imgbox.com/0a/fc/teCjSLTq_o.jpg"
+        }
+      ]
+    },
+    "maot_204168": {
+      "title": "Shikanoko Nokonoko Koshitantan",
+      "chapters": [
+        {
+          "id": "204168",
+          "title": "Shikanoko Nokonoko Koshitantan",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21vdC9tYW90XzIwNDE2OC5qc29u/",
+          "type": "outro",
+          "cover_url": "https://cdn.myanimelist.net/images/manga/2/243191.jpg"
         }
       ]
     }
