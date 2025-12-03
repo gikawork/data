@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764732481,
-    "totalMangas": 1429,
+    "lastUpdated": 1764732490,
+    "totalMangas": 1430,
     "version": "1.0.5"
   },
   "mangas": {
@@ -17150,6 +17150,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8xNzg0Lmpzb24/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/7894/67ca93299d3ed.png"
+        }
+      ]
+    },
+    "makr_4677": {
+      "title": "Pegue Um e Leve Dois",
+      "chapters": [
+        {
+          "id": "4677",
+          "title": "Pegue Um e Leve Dois",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl80Njc3Lmpzb24/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/9076/6796cc16a3407.png"
         }
       ]
     }
