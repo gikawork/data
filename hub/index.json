@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764740465,
-    "totalMangas": 2302,
+    "lastUpdated": 1764740474,
+    "totalMangas": 2303,
     "version": "1.0.5"
   },
   "mangas": {
@@ -27626,6 +27626,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF8zOGNiMDAuanNvbg/",
           "type": "manhua",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/9738/67ac2399375e1.png"
+        }
+      ]
+    },
+    "makr_57615": {
+      "title": "Hawar in the Winter Garden",
+      "chapters": [
+        {
+          "id": "57615",
+          "title": "Hawar in the Winter Garden",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl81NzYxNS5qc29u/",
+          "type": "manhwa",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx159394-EilDvfsAvthh.jpg"
         }
       ]
     }
