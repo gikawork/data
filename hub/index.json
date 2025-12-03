@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": 1764725419,
+    "lastUpdated": 1764725434,
     "totalMangas": 1115,
     "version": "1.0.5"
   },
@@ -13370,6 +13370,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzIyNzIuanNvbg/",
           "type": "manga",
           "cover_url": "https://images2.imgbox.com/39/a8/zjuR4Av6_o.jpg"
+        }
+      ]
+    },
+    "majp_27548": {
+      "title": "Kirameki no Lion Boy",
+      "chapters": [
+        {
+          "id": "27548",
+          "title": "Kirameki no Lion Boy",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzI3NTQ4Lmpzb24/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx99577-yun78X9vXpVF.jpg"
         }
       ]
     }
