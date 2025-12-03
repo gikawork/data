@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": 1764726092,
+    "lastUpdated": 1764726107,
     "totalMangas": 1125,
     "version": "1.0.5"
   },
@@ -13490,6 +13490,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzY4MC5qc29u/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx86600-22xv3IewBq4T.jpg"
+        }
+      ]
+    },
+    "majp_1012": {
+      "title": "Saint Seiya Episode G: Requiem",
+      "chapters": [
+        {
+          "id": "1012",
+          "title": "Saint Seiya Episode G: Requiem",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzEwMTIuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx118757-qCvRWuKoNWWB.jpg"
         }
       ]
     }
