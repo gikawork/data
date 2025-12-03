@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764737795,
-    "totalMangas": 2008,
+    "lastUpdated": 1764737804,
+    "totalMangas": 2009,
     "version": "1.0.5"
   },
   "mangas": {
@@ -24098,6 +24098,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl81MzQ2Lmpzb24/",
           "type": "manhwa",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx141013-YZhKrs2IqxWY.png"
+        }
+      ]
+    },
+    "mach_f356a4": {
+      "title": "Os Rivais do Amor Estranho Aumentaram",
+      "chapters": [
+        {
+          "id": "f356a4",
+          "title": "Os Rivais do Amor Estranho Aumentaram",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF9mMzU2YTQuanNvbg/",
+          "type": "manhua",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/10401/67d78b9fbb5f7.webp"
         }
       ]
     }
