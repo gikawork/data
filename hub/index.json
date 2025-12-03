@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764732189,
-    "totalMangas": 1396,
+    "lastUpdated": 1764732198,
+    "totalMangas": 1397,
     "version": "1.0.5"
   },
   "mangas": {
@@ -16754,6 +16754,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8xMjA1MzUuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/10366/67d58fdca2c9c.png"
+        }
+      ]
+    },
+    "makr_792fe2": {
+      "title": "Só por um Miado",
+      "chapters": [
+        {
+          "id": "792fe2",
+          "title": "Só por um Miado",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl83OTJmZTIuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/8984/6795cb1302728.png"
         }
       ]
     }
