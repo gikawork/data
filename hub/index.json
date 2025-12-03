@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764728606,
-    "totalMangas": 1155,
+    "lastUpdated": 1764728615,
+    "totalMangas": 1156,
     "version": "1.0.5"
   },
   "mangas": {
@@ -13862,6 +13862,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzI0NTIuanNvbg/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx105097-nMpc8bjBeuXE.jpg"
+        }
+      ]
+    },
+    "majp_75574": {
+      "title": "Get Married So I Can Curse Your Firstborn and Finally Be Free!",
+      "chapters": [
+        {
+          "id": "75574",
+          "title": "Get Married So I Can Curse Your Firstborn and Finally Be Free!",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzc1NTc0Lmpzb24/",
+          "type": "manga",
+          "cover_url": "https://images2.imgbox.com/6b/9e/EaIQig0k_o.jpg"
         }
       ]
     }
