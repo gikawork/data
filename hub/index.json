@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764736630,
-    "totalMangas": 1887,
+    "lastUpdated": 1764736640,
+    "totalMangas": 1888,
     "version": "1.0.5"
   },
   "mangas": {
@@ -22646,6 +22646,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl80NjQ2NjcuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx190477-p9vRvIDJxANP.jpg"
+        }
+      ]
+    },
+    "makr_ec4bd2": {
+      "title": "O Quarto Secreto de uma Filha Real Deprimida",
+      "chapters": [
+        {
+          "id": "ec4bd2",
+          "title": "O Quarto Secreto de uma Filha Real Deprimida",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl9lYzRiZDIuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/8294/67ce320e76869.png"
         }
       ]
     }
