@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": 1764729026,
+    "lastUpdated": 1764729041,
     "totalMangas": 1165,
     "version": "1.0.5"
   },
@@ -13970,6 +13970,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzQ5NDIuanNvbg/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx31111-ldPYMNd3PvHa.png"
+        }
+      ]
+    },
+    "majp_4826": {
+      "title": "TS Eiseihei-san no Senjou Nikki",
+      "chapters": [
+        {
+          "id": "4826",
+          "title": "TS Eiseihei-san no Senjou Nikki",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzQ4MjYuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx168928-c7feONOMZafA.jpg"
         }
       ]
     }
