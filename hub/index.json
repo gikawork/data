@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764730622,
-    "totalMangas": 1222,
+    "lastUpdated": 1764730632,
+    "totalMangas": 1223,
     "version": "1.0.5"
   },
   "mangas": {
@@ -14666,6 +14666,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl80MjEzZjkuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/8672/6789b9ad25995.png"
+        }
+      ]
+    },
+    "makr_35667c": {
+      "title": "O Genro Diabólico",
+      "chapters": [
+        {
+          "id": "35667c",
+          "title": "O Genro Diabólico",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8zNTY2N2MuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/9194/679ae54eb2f0f.webp"
         }
       ]
     }
