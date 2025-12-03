@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764735834,
-    "totalMangas": 1800,
+    "lastUpdated": 1764735843,
+    "totalMangas": 1801,
     "version": "1.0.5"
   },
   "mangas": {
@@ -21602,6 +21602,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF82ZDI3N2EuanNvbg/",
           "type": "manhua",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/8663/6861cd8bbee89.jpg"
+        }
+      ]
+    },
+    "mach_c6156c": {
+      "title": "Faca Matadora de Porcos",
+      "chapters": [
+        {
+          "id": "c6156c",
+          "title": "Faca Matadora de Porcos",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF9jNjE1NmMuanNvbg/",
+          "type": "manhua",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/13171/68770f856f27b.webp"
         }
       ]
     }
