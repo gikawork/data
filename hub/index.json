@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764730632,
-    "totalMangas": 1223,
+    "lastUpdated": 1764730640,
+    "totalMangas": 1224,
     "version": "1.0.5"
   },
   "mangas": {
@@ -14678,6 +14678,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8zNTY2N2MuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/9194/679ae54eb2f0f.webp"
+        }
+      ]
+    },
+    "makr_e42c1f": {
+      "title": "Um Sinal de Repetição",
+      "chapters": [
+        {
+          "id": "e42c1f",
+          "title": "Um Sinal de Repetição",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl9lNDJjMWYuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/8765/67948abbe123c.png"
         }
       ]
     }
