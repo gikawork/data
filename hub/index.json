@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764732499,
-    "totalMangas": 1431,
+    "lastUpdated": 1764732507,
+    "totalMangas": 1432,
     "version": "1.0.5"
   },
   "mangas": {
@@ -17174,6 +17174,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF85ZTU3NjUuanNvbg/",
           "type": "manhua",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/11115/6828f53cdf4ce.avif"
+        }
+      ]
+    },
+    "makr_7d4bbb": {
+      "title": "Acabe Comigo",
+      "chapters": [
+        {
+          "id": "7d4bbb",
+          "title": "Acabe Comigo",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl83ZDRiYmIuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/10570/67f20e501617a.jpg"
         }
       ]
     }
