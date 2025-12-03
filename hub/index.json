@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764736325,
-    "totalMangas": 1854,
+    "lastUpdated": 1764736334,
+    "totalMangas": 1855,
     "version": "1.0.5"
   },
   "mangas": {
@@ -22250,6 +22250,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8zZDQzOGUuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/10239/67cf27d5908bd.png"
+        }
+      ]
+    },
+    "makr_9b07c8": {
+      "title": "Eu Retornei Como um Xamã de Classe FFF",
+      "chapters": [
+        {
+          "id": "9b07c8",
+          "title": "Eu Retornei Como um Xamã de Classe FFF",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl85YjA3YzguanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/8667/678995769d92d.png"
         }
       ]
     }
