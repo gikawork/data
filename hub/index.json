@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764739177,
-    "totalMangas": 2160,
+    "lastUpdated": 1764739186,
+    "totalMangas": 2161,
     "version": "1.0.5"
   },
   "mangas": {
@@ -25922,6 +25922,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8xNjU5Lmpzb24/",
           "type": "manhwa",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx129758-3VpObYcgeT1j.jpg"
+        }
+      ]
+    },
+    "mach_755": {
+      "title": "Release that Witch",
+      "chapters": [
+        {
+          "id": "755",
+          "title": "Release that Witch",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF83NTUuanNvbg/",
+          "type": "manhua",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b108152-QG8LtVNX5ox2.png"
         }
       ]
     }
