@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764740274,
-    "totalMangas": 2281,
+    "lastUpdated": 1764740283,
+    "totalMangas": 2282,
     "version": "1.0.5"
   },
   "mangas": {
@@ -27374,6 +27374,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF8yOTQ1Y2IuanNvbg/",
           "type": "manhua",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/11051/681f5a3479c66.png"
+        }
+      ]
+    },
+    "makr_2dc497": {
+      "title": "Chamas de resgate",
+      "chapters": [
+        {
+          "id": "2dc497",
+          "title": "Chamas de resgate",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8yZGM0OTcuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/8689/6861eb6704b9e.jpg"
         }
       ]
     }
