@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764733394,
-    "totalMangas": 1531,
+    "lastUpdated": 1764733403,
+    "totalMangas": 1532,
     "version": "1.0.5"
   },
   "mangas": {
@@ -18374,6 +18374,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8wMTZjMTYuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/568/wp-content/uploads/2024/05/Missao_Barbara-1.png"
+        }
+      ]
+    },
+    "mach_9120": {
+      "title": "Mestres Imperiais de Nian",
+      "chapters": [
+        {
+          "id": "9120",
+          "title": "Mestres Imperiais de Nian",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF85MTIwLmpzb24/",
+          "type": "manhua",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/7485/wp-content/uploads/2024/12/nian.webp"
         }
       ]
     }
