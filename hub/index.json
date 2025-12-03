@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764733260,
-    "totalMangas": 1516,
+    "lastUpdated": 1764733269,
+    "totalMangas": 1517,
     "version": "1.0.5"
   },
   "mangas": {
@@ -18194,6 +18194,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8xYzBhMDYuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/7279/wp-content/uploads/2024/12/uberr.jpg"
+        }
+      ]
+    },
+    "makr_35839": {
+      "title": " A 101ª Heroína",
+      "chapters": [
+        {
+          "id": "35839",
+          "title": " A 101ª Heroína",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8zNTgzOS5qc29u/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/10946/68105a7a39539.jpg"
         }
       ]
     }
