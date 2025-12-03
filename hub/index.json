@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764740255,
-    "totalMangas": 2279,
+    "lastUpdated": 1764740265,
+    "totalMangas": 2280,
     "version": "1.0.5"
   },
   "mangas": {
@@ -27350,6 +27350,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8xNzA1OTQuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx187595-eg9WyvLIYYJE.png"
+        }
+      ]
+    },
+    "majp_4089": {
+      "title": "Sun-Ken Rock",
+      "chapters": [
+        {
+          "id": "4089",
+          "title": "Sun-Ken Rock",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzQwODkuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx38848-hOSCdwE8xjYl.jpg"
         }
       ]
     }
