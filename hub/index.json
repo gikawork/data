@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764737983,
-    "totalMangas": 2029,
+    "lastUpdated": 1764737993,
+    "totalMangas": 2030,
     "version": "1.0.5"
   },
   "mangas": {
@@ -24350,6 +24350,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl81OGQyOTguanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/8949/6795bd7784a98.png"
+        }
+      ]
+    },
+    "makr_52287": {
+      "title": "De Empregada a Rainha",
+      "chapters": [
+        {
+          "id": "52287",
+          "title": "De Empregada a Rainha",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl81MjI4Ny5qc29u/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/9161/67999de2da42b.png"
         }
       ]
     }
