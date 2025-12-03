@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764733304,
-    "totalMangas": 1521,
+    "lastUpdated": 1764733313,
+    "totalMangas": 1522,
     "version": "1.0.5"
   },
   "mangas": {
@@ -18254,6 +18254,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl81ZTA1YjIuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/11045/681e12791fd2e.jpg"
+        }
+      ]
+    },
+    "makr_5ec829": {
+      "title": " A Musa de Yumyeong",
+      "chapters": [
+        {
+          "id": "5ec829",
+          "title": " A Musa de Yumyeong",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl81ZWM4MjkuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/8888/679597f8a41dd.png"
         }
       ]
     }
