@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764732913,
-    "totalMangas": 1477,
+    "lastUpdated": 1764732921,
+    "totalMangas": 1478,
     "version": "1.0.5"
   },
   "mangas": {
@@ -17726,6 +17726,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl80ODQ1My5qc29u/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/10019/67e0b3dbf169e.png"
+        }
+      ]
+    },
+    "mach_8aaf9a": {
+      "title": "O Imortal da Espada de Energia Nuclear",
+      "chapters": [
+        {
+          "id": "8aaf9a",
+          "title": "O Imortal da Espada de Energia Nuclear",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF84YWFmOWEuanNvbg/",
+          "type": "manhua",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/11145/682b33d51fa45.jpg"
         }
       ]
     }
