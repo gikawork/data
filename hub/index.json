@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764737383,
-    "totalMangas": 1967,
+    "lastUpdated": 1764737393,
+    "totalMangas": 1968,
     "version": "1.0.5"
   },
   "mangas": {
@@ -23606,6 +23606,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl81MTc0NC5qc29u/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/7779/wp-content/uploads/2024/12/he-cant-be-this-dumb-1.jpg"
+        }
+      ]
+    },
+    "makr_3dfee9": {
+      "title": "Mate o Dragão",
+      "chapters": [
+        {
+          "id": "3dfee9",
+          "title": "Mate o Dragão",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8zZGZlZTkuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/273/6861f25c2e9f0.jpg"
         }
       ]
     }
