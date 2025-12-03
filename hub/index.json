@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764738158,
-    "totalMangas": 2048,
+    "lastUpdated": 1764738167,
+    "totalMangas": 2049,
     "version": "1.0.5"
   },
   "mangas": {
@@ -24578,6 +24578,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl9hYmNiZGMuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/13879/68d2c28fb5f51.png"
+        }
+      ]
+    },
+    "majp_28890": {
+      "title": "Sol Negro",
+      "chapters": [
+        {
+          "id": "28890",
+          "title": "Sol Negro",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzI4ODkwLmpzb24/",
+          "type": "manga",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/6012/6861fff99dded.webp"
         }
       ]
     }
