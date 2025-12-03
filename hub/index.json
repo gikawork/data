@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764735576,
-    "totalMangas": 1772,
+    "lastUpdated": 1764735585,
+    "totalMangas": 1773,
     "version": "1.0.5"
   },
   "mangas": {
@@ -21266,6 +21266,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl9jMTc1MTIuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/10307/67d0fdc23329e.png"
+        }
+      ]
+    },
+    "makr_fbeb4a": {
+      "title": "A Lâmina da Evolução Andando Sozinho na Masmorra",
+      "chapters": [
+        {
+          "id": "fbeb4a",
+          "title": "A Lâmina da Evolução Andando Sozinho na Masmorra",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl9mYmViNGEuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/1487/wp-content/uploads/2024/05/evolution-2-scaled.webp"
         }
       ]
     }
