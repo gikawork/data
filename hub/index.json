@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764740174,
-    "totalMangas": 2270,
+    "lastUpdated": 1764740183,
+    "totalMangas": 2271,
     "version": "1.0.5"
   },
   "mangas": {
@@ -27242,6 +27242,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl81NDI3MS5qc29u/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/10064/67c4a4211d3a9.png"
+        }
+      ]
+    },
+    "makr_dc9f4a": {
+      "title": "A caminho de ver a minha mãe",
+      "chapters": [
+        {
+          "id": "dc9f4a",
+          "title": "A caminho de ver a minha mãe",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl9kYzlmNGEuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/9112/67970060a6bd5.png"
         }
       ]
     }
