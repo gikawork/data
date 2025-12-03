@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": 1764725300,
+    "lastUpdated": 1764725314,
     "totalMangas": 1115,
     "version": "1.0.5"
   },
@@ -13370,6 +13370,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzgyNjQ0Lmpzb24/",
           "type": "manga",
           "cover_url": "https://cdn.mangaupdates.com/image/i501149.jpg"
+        }
+      ]
+    },
+    "majp_3235": {
+      "title": "Captain Tsubasa: 2000 Millennium Dream",
+      "chapters": [
+        {
+          "id": "3235",
+          "title": "Captain Tsubasa: 2000 Millennium Dream",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzMyMzUuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://images2.imgbox.com/33/8d/fs864BAp_o.jpg"
         }
       ]
     }
