@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764740291,
-    "totalMangas": 2283,
+    "lastUpdated": 1764740302,
+    "totalMangas": 2284,
     "version": "1.0.5"
   },
   "mangas": {
@@ -27398,6 +27398,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8zZGZmODUuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/1165/6861f90523f26.webp"
+        }
+      ]
+    },
+    "makr_42361b": {
+      "title": "Sobrevivendo Como Um Espião No Culto Demoníaco",
+      "chapters": [
+        {
+          "id": "42361b",
+          "title": "Sobrevivendo Como Um Espião No Culto Demoníaco",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl80MjM2MWIuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/9721/67f2feed5a398.png"
         }
       ]
     }
