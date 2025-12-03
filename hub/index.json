@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764733591,
-    "totalMangas": 1553,
+    "lastUpdated": 1764733600,
+    "totalMangas": 1554,
     "version": "1.0.5"
   },
   "mangas": {
@@ -18638,6 +18638,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwX2E1NTM3MC5qc29u/",
           "type": "manga",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/10346/67d3920f2d94c.png"
+        }
+      ]
+    },
+    "mach_40202": {
+      "title": "Renascido como Imperador",
+      "chapters": [
+        {
+          "id": "40202",
+          "title": "Renascido como Imperador",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF80MDIwMi5qc29u/",
+          "type": "manhua",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/9062/67960fb6db900.webp"
         }
       ]
     }
