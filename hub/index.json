@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764739962,
-    "totalMangas": 2247,
+    "lastUpdated": 1764739972,
+    "totalMangas": 2248,
     "version": "1.0.5"
   },
   "mangas": {
@@ -26966,6 +26966,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8yODYyMjguanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/10801/680ea867979d3.jpg"
+        }
+      ]
+    },
+    "makr_55414": {
+      "title": "I'm the Queen in This Life",
+      "chapters": [
+        {
+          "id": "55414",
+          "title": "I'm the Queen in This Life",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl81NTQxNC5qc29u/",
+          "type": "manhwa",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx153983-n3I1eIkzQghC.jpg"
         }
       ]
     }
