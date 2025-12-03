@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764734332,
-    "totalMangas": 1636,
+    "lastUpdated": 1764734341,
+    "totalMangas": 1637,
     "version": "1.0.5"
   },
   "mangas": {
@@ -19634,6 +19634,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8yNmY2NjkuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/248/67dc6610dce6f.jpg"
+        }
+      ]
+    },
+    "mach_44679": {
+      "title": "Companhia Pós-Apocalíptica de Entregas",
+      "chapters": [
+        {
+          "id": "44679",
+          "title": "Companhia Pós-Apocalíptica de Entregas",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF80NDY3OS5qc29u/",
+          "type": "manhua",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/6536/wp-content/uploads/2024/11/apot.jpg"
         }
       ]
     }
