@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764740228,
-    "totalMangas": 2276,
+    "lastUpdated": 1764740236,
+    "totalMangas": 2277,
     "version": "1.0.5"
   },
   "mangas": {
@@ -27314,6 +27314,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl9iNDBlNjUuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/10947/68105d7fe77ba.jpg"
+        }
+      ]
+    },
+    "mach_b79571": {
+      "title": "Elefante Invisível ",
+      "chapters": [
+        {
+          "id": "b79571",
+          "title": "Elefante Invisível ",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF9iNzk1NzEuanNvbg/",
+          "type": "manhua",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/9797/67aba36653c05.jpg"
         }
       ]
     }
