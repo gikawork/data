@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764737064,
-    "totalMangas": 1934,
+    "lastUpdated": 1764737073,
+    "totalMangas": 1935,
     "version": "1.0.5"
   },
   "mangas": {
@@ -23210,6 +23210,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl82NDQuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/7788/6789837c09f3b.png"
+        }
+      ]
+    },
+    "mach_1541": {
+      "title": "Meu Mestre Vilão Traz Aprendizes Incomparáveis",
+      "chapters": [
+        {
+          "id": "1541",
+          "title": "Meu Mestre Vilão Traz Aprendizes Incomparáveis",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF8xNTQxLmpzb24/",
+          "type": "manhua",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/10001/67c245622f06b.png"
         }
       ]
     }
