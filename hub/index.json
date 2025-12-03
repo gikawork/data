@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764730505,
-    "totalMangas": 1209,
+    "lastUpdated": 1764730513,
+    "totalMangas": 1210,
     "version": "1.0.5"
   },
   "mangas": {
@@ -14510,6 +14510,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8yMTQwMWYuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/10386/67d601f5a7a25.png"
+        }
+      ]
+    },
+    "makr_49676": {
+      "title": "The Millionaire Divorcee",
+      "chapters": [
+        {
+          "id": "49676",
+          "title": "The Millionaire Divorcee",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl80OTY3Ni5qc29u/",
+          "type": "manhwa",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx141585-l7fbpRRG2plg.jpg"
         }
       ]
     }
