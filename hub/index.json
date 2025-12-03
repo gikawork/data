@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": 1764725065,
+    "lastUpdated": 1764725080,
     "totalMangas": 1110,
     "version": "1.0.5"
   },
@@ -13310,6 +13310,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF8zMjcyLmpzb24/",
           "type": "manhua",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/nx105674-CHRp759Ywqxr.jpg"
+        }
+      ]
+    },
+    "majp_2799": {
+      "title": "Zatch Bell",
+      "chapters": [
+        {
+          "id": "2799",
+          "title": "Zatch Bell",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzI3OTkuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx30869-74jlFKeVhvsG.jpg"
         }
       ]
     }
