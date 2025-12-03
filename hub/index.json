@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764733690,
-    "totalMangas": 1564,
+    "lastUpdated": 1764733700,
+    "totalMangas": 1565,
     "version": "1.0.5"
   },
   "mangas": {
@@ -18770,6 +18770,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl9hNDhiOTkuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/8675/678ab385675ea.jpg"
+        }
+      ]
+    },
+    "mach_26658": {
+      "title": "Principles of Heavens: Zen’s Cultivation of Immortality",
+      "chapters": [
+        {
+          "id": "26658",
+          "title": "Principles of Heavens: Zen’s Cultivation of Immortality",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF8yNjY1OC5qc29u/",
+          "type": "manhua",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx101408-Ym79QPjdXk8F.jpg"
         }
       ]
     }
