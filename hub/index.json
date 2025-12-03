@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764737502,
-    "totalMangas": 1980,
+    "lastUpdated": 1764737511,
+    "totalMangas": 1981,
     "version": "1.0.5"
   },
   "mangas": {
@@ -23762,6 +23762,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl9mNWNmN2MuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/8240/wp-content/uploads/2024/12/Untouchable_Lady.jpg"
+        }
+      ]
+    },
+    "makr_ea1919": {
+      "title": "O Sobrevivente Mais Forte do Mundo",
+      "chapters": [
+        {
+          "id": "ea1919",
+          "title": "O Sobrevivente Mais Forte do Mundo",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl9lYTE5MTkuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/10950/681149591d8b5.png"
         }
       ]
     }
