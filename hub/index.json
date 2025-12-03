@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764723846,
-    "totalMangas": 1101,
+    "lastUpdated": 1764723856,
+    "totalMangas": 1102,
     "version": "1.0.5"
   },
   "mangas": {
@@ -13214,6 +13214,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzE4MDkuanNvbg/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx125528-BOF55llKv2d7.jpg"
+        }
+      ]
+    },
+    "majp_4040": {
+      "title": "Honey Lemon Soda",
+      "chapters": [
+        {
+          "id": "4040",
+          "title": "Honey Lemon Soda",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzQwNDAuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx96767-byZGxMjQUXLu.jpg"
         }
       ]
     }
