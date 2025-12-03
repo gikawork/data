@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764732437,
-    "totalMangas": 1424,
+    "lastUpdated": 1764732446,
+    "totalMangas": 1425,
     "version": "1.0.5"
   },
   "mangas": {
@@ -17090,6 +17090,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl9kZGVkMjguanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/11347/684b30414cb94.png"
+        }
+      ]
+    },
+    "makr_bf413a": {
+      "title": "Espadachim Em Tempo Integral",
+      "chapters": [
+        {
+          "id": "bf413a",
+          "title": "Espadachim Em Tempo Integral",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl9iZjQxM2EuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/4098/wp-content/uploads/2024/10/00-Capa-espadachim_waifu2x_2x_1n_jpg.webp"
         }
       ]
     }
