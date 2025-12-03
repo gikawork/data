@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764735319,
-    "totalMangas": 1744,
+    "lastUpdated": 1764735330,
+    "totalMangas": 1745,
     "version": "1.0.5"
   },
   "mangas": {
@@ -20930,6 +20930,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwX2VhODk3Ni5qc29u/",
           "type": "manga",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/12915/686aa99411ee1.webp"
+        }
+      ]
+    },
+    "makr_147f17": {
+      "title": "O Mago Devorador de Talentos",
+      "chapters": [
+        {
+          "id": "147f17",
+          "title": "O Mago Devorador de Talentos",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8xNDdmMTcuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/2148/wp-content/uploads/2024/05/Capa_magodevorador.format-avif.width-320.jpg"
         }
       ]
     }
