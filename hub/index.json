@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": 1764724709,
+    "lastUpdated": 1764724724,
     "totalMangas": 1106,
     "version": "1.0.5"
   },
@@ -13262,6 +13262,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzI4MDA4Lmpzb24/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx117393-IDuJ0V2Tx2nT.jpg"
+        }
+      ]
+    },
+    "majp_25024": {
+      "title": "Please Love the Useless Me R",
+      "chapters": [
+        {
+          "id": "25024",
+          "title": "Please Love the Useless Me R",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzI1MDI0Lmpzb24/",
+          "type": "manga",
+          "cover_url": "https://cdn.mangaupdates.com/image/i453100.jpg"
         }
       ]
     }
