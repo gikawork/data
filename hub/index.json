@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764739286,
-    "totalMangas": 2172,
+    "lastUpdated": 1764739295,
+    "totalMangas": 2173,
     "version": "1.0.5"
   },
   "mangas": {
@@ -26066,6 +26066,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF82MTE3MC5qc29u/",
           "type": "manhua",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/9783/67ab837b92a22.jpg"
+        }
+      ]
+    },
+    "mach_60": {
+      "title": "Por favor, me intimide, senhorita vilã!",
+      "chapters": [
+        {
+          "id": "60",
+          "title": "Por favor, me intimide, senhorita vilã!",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF82MC5qc29u/",
+          "type": "manhua",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/10031/67c390dd1ec09.png"
         }
       ]
     }
