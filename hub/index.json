@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764732801,
-    "totalMangas": 1465,
+    "lastUpdated": 1764732809,
+    "totalMangas": 1466,
     "version": "1.0.5"
   },
   "mangas": {
@@ -17582,6 +17582,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl81NjU3My5qc29u/",
           "type": "manhwa",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx156560-WAkflC646lJG.jpg"
+        }
+      ]
+    },
+    "makr_f3cef1": {
+      "title": "Ascensão de uma Bibliotecária: Não Posso Escolher os Meios para Me Tornar uma Bibliotecária — Parte 1: Se Não Há Livros, Então Vou Criá-los!",
+      "chapters": [
+        {
+          "id": "f3cef1",
+          "title": "Ascensão de uma Bibliotecária: Não Posso Escolher os Meios para Me Tornar uma Bibliotecária — Parte 1: Se Não Há Livros, Então Vou Criá-los!",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl9mM2NlZjEuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/10822/680ea990f38d8.jpg"
         }
       ]
     }
