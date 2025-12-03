@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764738656,
-    "totalMangas": 2103,
+    "lastUpdated": 1764738665,
+    "totalMangas": 2104,
     "version": "1.0.5"
   },
   "mangas": {
@@ -25238,6 +25238,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl80ZWE5ZDMuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/9191/679ae3e11857e.png"
+        }
+      ]
+    },
+    "makr_a65388": {
+      "title": "Eu Me Tornarei Mãe de Um Guerreiro",
+      "chapters": [
+        {
+          "id": "a65388",
+          "title": "Eu Me Tornarei Mãe de Um Guerreiro",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl9hNjUzODguanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/9150/679968c569e6f.png"
         }
       ]
     }
