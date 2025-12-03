@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764740146,
-    "totalMangas": 2267,
+    "lastUpdated": 1764740155,
+    "totalMangas": 2268,
     "version": "1.0.5"
   },
   "mangas": {
@@ -27206,6 +27206,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl9hNmE2YTIuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/11435/68545b1f9e5d1.png"
+        }
+      ]
+    },
+    "makr_1450": {
+      "title": "Guia Para Criar Esqueletos",
+      "chapters": [
+        {
+          "id": "1450",
+          "title": "Guia Para Criar Esqueletos",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8xNDUwLmpzb24/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/7050/wp-content/uploads/2024/12/pseudoguia.webp"
         }
       ]
     }
