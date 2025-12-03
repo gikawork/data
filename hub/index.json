@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764737531,
-    "totalMangas": 1983,
+    "lastUpdated": 1764737539,
+    "totalMangas": 1984,
     "version": "1.0.5"
   },
   "mangas": {
@@ -23798,6 +23798,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl82NzI2Lmpzb24/",
           "type": "manhwa",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx124474-Yv1Iw9ajO0UO.jpg"
+        }
+      ]
+    },
+    "majp_d1fd79": {
+      "title": "Réquiem do Shinsengumi",
+      "chapters": [
+        {
+          "id": "d1fd79",
+          "title": "Réquiem do Shinsengumi",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwX2QxZmQ3OS5qc29u/",
+          "type": "manga",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/11403/68507da5ebdde.jpg"
         }
       ]
     }
