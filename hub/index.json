@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": 1764726389,
+    "lastUpdated": 1764726404,
     "totalMangas": 1126,
     "version": "1.0.5"
   },
@@ -13502,6 +13502,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzUwMzguanNvbg/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx176152-opWhRFmedLMC.jpg"
+        }
+      ]
+    },
+    "makr_1656": {
+      "title": "The Art of Reincarnation",
+      "chapters": [
+        {
+          "id": "1656",
+          "title": "The Art of Reincarnation",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8xNjU2Lmpzb24/",
+          "type": "manhwa",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx153880-60zEJbCK4yQL.png"
         }
       ]
     }
