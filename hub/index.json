@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764725831,
-    "totalMangas": 1124,
+    "lastUpdated": 1764725840,
+    "totalMangas": 1125,
     "version": "1.0.5"
   },
   "mangas": {
@@ -13490,6 +13490,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8yODMxLmpzb24/",
           "type": "manhwa",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx183290-pWCof3BtY8vJ.jpg"
+        }
+      ]
+    },
+    "mach_3128": {
+      "title": "Meu Sistema de Dragões",
+      "chapters": [
+        {
+          "id": "3128",
+          "title": "Meu Sistema de Dragões",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF8zMTI4Lmpzb24/",
+          "type": "manhua",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/1759/67bcaa8abfd78.png"
         }
       ]
     }
