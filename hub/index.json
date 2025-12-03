@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": 1764724571,
+    "lastUpdated": 1764724586,
     "totalMangas": 1107,
     "version": "1.0.5"
   },
@@ -13274,6 +13274,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzYxOTkuanNvbg/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx101517-H3TdM3g5ZUe9.jpg"
+        }
+      ]
+    },
+    "majp_7103": {
+      "title": "Jitsu wa Watashi wa",
+      "chapters": [
+        {
+          "id": "7103",
+          "title": "Jitsu wa Watashi wa",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzcxMDMuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx85139-vBIvJiRLeyE4.jpg"
         }
       ]
     }
