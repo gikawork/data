@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": 1764726295,
+    "lastUpdated": 1764726311,
     "totalMangas": 1126,
     "version": "1.0.5"
   },
@@ -13502,6 +13502,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzExMDkuanNvbg/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx123286-hvW9b1c8RNGN.jpg"
+        }
+      ]
+    },
+    "majp_701": {
+      "title": "MAD",
+      "chapters": [
+        {
+          "id": "701",
+          "title": "MAD",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzcwMS5qc29u/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx178096-PTBfdDYzRqGu.png"
         }
       ]
     }
