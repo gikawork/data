@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": 1764724444,
+    "lastUpdated": 1764724459,
     "totalMangas": 1105,
     "version": "1.0.5"
   },
@@ -13250,6 +13250,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzM4MC5qc29u/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx159025-FPQcDIMuz9bJ.png"
+        }
+      ]
+    },
+    "majp_2186": {
+      "title": "Tokimori-san ga Muboubi desu!!",
+      "chapters": [
+        {
+          "id": "2186",
+          "title": "Tokimori-san ga Muboubi desu!!",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzIxODYuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://cdn.myanimelist.net/images/manga/1/281536.jpg"
         }
       ]
     }
