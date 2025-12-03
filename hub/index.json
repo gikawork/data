@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764731235,
-    "totalMangas": 1292,
+    "lastUpdated": 1764731243,
+    "totalMangas": 1293,
     "version": "1.0.5"
   },
   "mangas": {
@@ -15506,6 +15506,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl9mZWZlN2EuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/3943/wp-content/uploads/2024/10/19cfVCc0TrMf0ENriZnjugKgk5kIffLsGYRAqmq4.jpg"
+        }
+      ]
+    },
+    "makr_55018": {
+      "title": "Dodói vs Feijãozinho, Fight!",
+      "chapters": [
+        {
+          "id": "55018",
+          "title": "Dodói vs Feijãozinho, Fight!",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl81NTAxOC5qc29u/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/10382/67d5fce485b81.png"
         }
       ]
     }
