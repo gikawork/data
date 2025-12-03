@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764737823,
-    "totalMangas": 2011,
+    "lastUpdated": 1764737832,
+    "totalMangas": 2012,
     "version": "1.0.5"
   },
   "mangas": {
@@ -24134,6 +24134,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl83MTA0Lmpzb24/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/1423/wp-content/uploads/2024/05/Moonlight-Sword-350x476-1.jpeg"
+        }
+      ]
+    },
+    "majp_188680": {
+      "title": "O Recomeço do Herói na Academia",
+      "chapters": [
+        {
+          "id": "188680",
+          "title": "O Recomeço do Herói na Academia",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzE4ODY4MC5qc29u/",
+          "type": "manga",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/10734/680be2162ed6d.webp"
         }
       ]
     }
