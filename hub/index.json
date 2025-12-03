@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764732774,
-    "totalMangas": 1462,
+    "lastUpdated": 1764732783,
+    "totalMangas": 1463,
     "version": "1.0.5"
   },
   "mangas": {
@@ -17546,6 +17546,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl9iMDM1NmQuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/7314/wp-content/uploads/2024/12/frieee.png"
+        }
+      ]
+    },
+    "makr_7ae6de": {
+      "title": "Regressando com o Poder do Rei",
+      "chapters": [
+        {
+          "id": "7ae6de",
+          "title": "Regressando com o Poder do Rei",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl83YWU2ZGUuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/212/6864b3c579d6c.jpg"
         }
       ]
     }
