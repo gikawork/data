@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": 1764762711,
+    "lastUpdated": 1764762720,
     "totalMangas": 2618,
     "version": "1.0.6"
   },
@@ -31409,15 +31409,15 @@
         }
       ]
     },
-    "makr_184": {
-      "title": "Mori Jian Shen: Wo Zhenjing Quanqiu!",
+    "mach_4709": {
+      "title": "Devorador Do Infinito",
       "chapters": [
         {
-          "id": "184",
-          "title": "Mori Jian Shen: Wo Zhenjing Quanqiu!",
-          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8xODQuanNvbg/",
-          "type": "manhwa",
-          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx191937-9DpHKQvPuJjU.png"
+          "id": "4709",
+          "title": "Devorador Do Infinito",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF80NzA5Lmpzb24/",
+          "type": "manhua",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/11345/684ad0a8e20b1.png"
         }
       ]
     }
