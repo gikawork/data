@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764735473,
-    "totalMangas": 1761,
+    "lastUpdated": 1764735482,
+    "totalMangas": 1762,
     "version": "1.0.5"
   },
   "mangas": {
@@ -21134,6 +21134,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl9iYWJmZmYuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/12833/685f6893e9c51.png"
+        }
+      ]
+    },
+    "makr_ad8322": {
+      "title": "Eu Sou um Caçador de Classe EX",
+      "chapters": [
+        {
+          "id": "ad8322",
+          "title": "Eu Sou um Caçador de Classe EX",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl9hZDgzMjIuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/7906/wp-content/uploads/2024/12/im-an-ex-rank-hunter-1.jpg"
         }
       ]
     }
