@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764735549,
-    "totalMangas": 1769,
+    "lastUpdated": 1764735558,
+    "totalMangas": 1770,
     "version": "1.0.5"
   },
   "mangas": {
@@ -21230,6 +21230,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF82YTg0YTQuanNvbg/",
           "type": "manhua",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/11059/689a134d0a5da.png"
+        }
+      ]
+    },
+    "mach_52002": {
+      "title": "Eu sou Invencível",
+      "chapters": [
+        {
+          "id": "52002",
+          "title": "Eu sou Invencível",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF81MjAwMi5qc29u/",
+          "type": "manhua",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/6092/wp-content/uploads/2024/11/invenc.png"
         }
       ]
     }
