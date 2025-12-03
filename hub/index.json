@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764740136,
-    "totalMangas": 2266,
+    "lastUpdated": 1764740146,
+    "totalMangas": 2267,
     "version": "1.0.5"
   },
   "mangas": {
@@ -27194,6 +27194,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl9iMmUxMjYuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/9948/67bd30c6775a1.png"
+        }
+      ]
+    },
+    "makr_a6a6a2": {
+      "title": "O Espadachim Invencível",
+      "chapters": [
+        {
+          "id": "a6a6a2",
+          "title": "O Espadachim Invencível",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl9hNmE2YTIuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/11435/68545b1f9e5d1.png"
         }
       ]
     }
