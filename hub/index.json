@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764731017,
-    "totalMangas": 1267,
+    "lastUpdated": 1764731026,
+    "totalMangas": 1268,
     "version": "1.0.5"
   },
   "mangas": {
@@ -15206,6 +15206,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl83NjVkYjguanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/13471/6893f07b13f08.png"
+        }
+      ]
+    },
+    "mach_1535": {
+      "title": "Renascimento do Cultivador Urbano Imortal",
+      "chapters": [
+        {
+          "id": "1535",
+          "title": "Renascimento do Cultivador Urbano Imortal",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF8xNTM1Lmpzb24/",
+          "type": "manhua",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/7824/wp-content/uploads/2024/12/Captura-de-tela-2024-12-25-013840.png"
         }
       ]
     }
