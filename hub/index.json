@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764739513,
-    "totalMangas": 2197,
+    "lastUpdated": 1764739521,
+    "totalMangas": 2198,
     "version": "1.0.5"
   },
   "mangas": {
@@ -26366,6 +26366,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF81ZWVmMTkuanNvbg/",
           "type": "manhua",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/9740/67a7fefa8a2a6.jpg"
+        }
+      ]
+    },
+    "makr_4514": {
+      "title": "Royal Marriage",
+      "chapters": [
+        {
+          "id": "4514",
+          "title": "Royal Marriage",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl80NTE0Lmpzb24/",
+          "type": "manhwa",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx153788-XnalPn7U1FVA.jpg"
         }
       ]
     }
