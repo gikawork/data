@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": 1764728925,
+    "lastUpdated": 1764728940,
     "totalMangas": 1164,
     "version": "1.0.5"
   },
@@ -13958,6 +13958,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl81MjQ4Lmpzb24/",
           "type": "manhwa",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx139572-e3vwLcOVQISn.jpg"
+        }
+      ]
+    },
+    "majp_3678": {
+      "title": "Captain Tsubasa꞉ Road to 2002",
+      "chapters": [
+        {
+          "id": "3678",
+          "title": "Captain Tsubasa꞉ Road to 2002",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzM2NzguanNvbg/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/nx31791-yhxyOrs8mQlI.jpg"
         }
       ]
     }
