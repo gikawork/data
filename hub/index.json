@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": 1764728826,
+    "lastUpdated": 1764728840,
     "totalMangas": 1161,
     "version": "1.0.5"
   },
@@ -13922,6 +13922,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzk5NTcuanNvbg/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx55916-7nUoJsXCWa32.jpg"
+        }
+      ]
+    },
+    "makr_109476": {
+      "title": "What a Bountiful Harvest, Demon Lord!",
+      "chapters": [
+        {
+          "id": "109476",
+          "title": "What a Bountiful Harvest, Demon Lord!",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8xMDk0NzYuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx189051-ORxxDJZvMHxj.jpg"
         }
       ]
     }
