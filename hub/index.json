@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": 1764723328,
+    "lastUpdated": 1764723343,
     "totalMangas": 1099,
     "version": "1.0.5"
   },
@@ -13178,6 +13178,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzE4MzgyLmpzb24/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx85749-REX1dmRdgtmM.jpg"
+        }
+      ]
+    },
+    "makr_66518": {
+      "title": "Heavenly Grand Archive's Young Master",
+      "chapters": [
+        {
+          "id": "66518",
+          "title": "Heavenly Grand Archive's Young Master",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl82NjUxOC5qc29u/",
+          "type": "manhwa",
+          "cover_url": "https://images2.imgbox.com/40/c4/6tuMkJQT_o.jpg"
         }
       ]
     }
