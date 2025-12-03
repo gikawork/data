@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764737931,
-    "totalMangas": 2023,
+    "lastUpdated": 1764737940,
+    "totalMangas": 2024,
     "version": "1.0.5"
   },
   "mangas": {
@@ -24278,6 +24278,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl83M2Q4MDYuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/4277/wp-content/uploads/2024/10/edicao_aposto_tudo-193x278-1.png"
+        }
+      ]
+    },
+    "mach_8236": {
+      "title": "Sistema de contra-ataque disponível no estágio Grand Ascension",
+      "chapters": [
+        {
+          "id": "8236",
+          "title": "Sistema de contra-ataque disponível no estágio Grand Ascension",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF84MjM2Lmpzb24/",
+          "type": "manhua",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/13283/687ea90bc3321.jpg"
         }
       ]
     }
