@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764736518,
-    "totalMangas": 1875,
+    "lastUpdated": 1764736527,
+    "totalMangas": 1876,
     "version": "1.0.5"
   },
   "mangas": {
@@ -22502,6 +22502,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF9kODFkMDUuanNvbg/",
           "type": "manhua",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/11235/683a1eda6a5c1.jpg"
+        }
+      ]
+    },
+    "mach_79770": {
+      "title": "Dominando O Mundo Demoníaco",
+      "chapters": [
+        {
+          "id": "79770",
+          "title": "Dominando O Mundo Demoníaco",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF83OTc3MC5qc29u/",
+          "type": "manhua",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/5374/67d49cca407ce.jpg"
         }
       ]
     }
