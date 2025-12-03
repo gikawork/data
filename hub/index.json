@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": 1764723606,
+    "lastUpdated": 1764723623,
     "totalMangas": 1101,
     "version": "1.0.5"
   },
@@ -13202,6 +13202,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzE5NjAuanNvbg/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b131401-JUhZ8V7FGwOs.jpg"
+        }
+      ]
+    },
+    "makr_4279": {
+      "title": "Revenge Of the Bloom Flower",
+      "chapters": [
+        {
+          "id": "4279",
+          "title": "Revenge Of the Bloom Flower",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl80Mjc5Lmpzb24/",
+          "type": "manhwa",
+          "cover_url": "https://ap-proxy.mangabaka.dev/proxy.php?url=https://cdn.anime-planet.com/manga/primary/revenge-of-the-bloom-flower-novel-1.webp?t=1730289023"
         }
       ]
     }
