@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764733359,
-    "totalMangas": 1527,
+    "lastUpdated": 1764733368,
+    "totalMangas": 1528,
     "version": "1.0.5"
   },
   "mangas": {
@@ -18326,6 +18326,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl81MzIxMS5qc29u/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/8116/wp-content/uploads/2024/12/I-Tried-To-Be-Her-Loyal-Sword.jpg"
+        }
+      ]
+    },
+    "makr_aca1b5": {
+      "title": "Nosso Casamento Secreto",
+      "chapters": [
+        {
+          "id": "aca1b5",
+          "title": "Nosso Casamento Secreto",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl9hY2ExYjUuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/9949/67bd3a2bb7977.png"
         }
       ]
     }
