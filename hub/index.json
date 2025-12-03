@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764735226,
-    "totalMangas": 1734,
+    "lastUpdated": 1764735237,
+    "totalMangas": 1735,
     "version": "1.0.5"
   },
   "mangas": {
@@ -20810,6 +20810,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzQwMDguanNvbg/",
           "type": "manga",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/8923/6795b3bf8d2e0.png"
+        }
+      ]
+    },
+    "makr_29690": {
+      "title": "Um Contrato de Amor com o Diabo",
+      "chapters": [
+        {
+          "id": "29690",
+          "title": "Um Contrato de Amor com o Diabo",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8yOTY5MC5qc29u/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/13347/6881983e24707.png"
         }
       ]
     }
