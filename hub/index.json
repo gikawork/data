@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764736452,
-    "totalMangas": 1868,
+    "lastUpdated": 1764736462,
+    "totalMangas": 1869,
     "version": "1.0.5"
   },
   "mangas": {
@@ -22418,6 +22418,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl9iMjcyNGYuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/8846/679560a38bea4.png"
+        }
+      ]
+    },
+    "makr_8a1224": {
+      "title": "Café de Sobremesas da Abella",
+      "chapters": [
+        {
+          "id": "8a1224",
+          "title": "Café de Sobremesas da Abella",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl84YTEyMjQuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/11285/683f1b5a6555a.png"
         }
       ]
     }
