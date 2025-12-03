@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": 1764728407,
+    "lastUpdated": 1764728422,
     "totalMangas": 1150,
     "version": "1.0.5"
   },
@@ -13790,6 +13790,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzY3Ny5qc29u/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx30026-uCvXMudMzmwI.jpg"
+        }
+      ]
+    },
+    "makr_4489": {
+      "title": "Terror Man",
+      "chapters": [
+        {
+          "id": "4489",
+          "title": "Terror Man",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl80NDg5Lmpzb24/",
+          "type": "manhwa",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx86785-RhrW6H0MImsC.jpg"
         }
       ]
     }
