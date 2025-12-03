@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764733446,
-    "totalMangas": 1537,
+    "lastUpdated": 1764733455,
+    "totalMangas": 1538,
     "version": "1.0.5"
   },
   "mangas": {
@@ -18446,6 +18446,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl80NDg3Lmpzb24/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/8734/6794830948373.png"
+        }
+      ]
+    },
+    "makr_41700": {
+      "title": "A Você, Que Engoliu uma Estrela",
+      "chapters": [
+        {
+          "id": "41700",
+          "title": "A Você, Que Engoliu uma Estrela",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl80MTcwMC5qc29u/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/9747/67a8c4cf72d04.png"
         }
       ]
     }
