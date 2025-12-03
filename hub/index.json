@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764731424,
-    "totalMangas": 1313,
+    "lastUpdated": 1764731432,
+    "totalMangas": 1314,
     "version": "1.0.5"
   },
   "mangas": {
@@ -15758,6 +15758,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl83MzUzLmpzb24/",
           "type": "manhwa",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx156478-Ey8mb0QrpD9e.jpg"
+        }
+      ]
+    },
+    "mach_9134": {
+      "title": "A Mão Oculta",
+      "chapters": [
+        {
+          "id": "9134",
+          "title": "A Mão Oculta",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF85MTM0Lmpzb24/",
+          "type": "manhua",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/5474/wp-content/uploads/2024/10/The-Hidden-Hand_waifu2x_art_noise3_scale.png"
         }
       ]
     }
