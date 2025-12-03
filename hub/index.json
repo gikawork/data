@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764728713,
-    "totalMangas": 1157,
+    "lastUpdated": 1764728723,
+    "totalMangas": 1158,
     "version": "1.0.5"
   },
   "mangas": {
@@ -13886,6 +13886,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzQ0ODYuanNvbg/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/nx86184-jdtYdKQBI3hU.jpg"
+        }
+      ]
+    },
+    "majp_1626": {
+      "title": "DEAD ROCK",
+      "chapters": [
+        {
+          "id": "1626",
+          "title": "DEAD ROCK",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzE2MjYuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx165829-ozwweGqVTPp2.jpg"
         }
       ]
     }
