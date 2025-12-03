@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764738033,
-    "totalMangas": 2034,
+    "lastUpdated": 1764738041,
+    "totalMangas": 2035,
     "version": "1.0.5"
   },
   "mangas": {
@@ -24410,6 +24410,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF81ZmQ2ZTcuanNvbg/",
           "type": "manhua",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/11237/683a793212831.webp"
+        }
+      ]
+    },
+    "makr_d10943": {
+      "title": "Os Extras Recusam a Obsessão",
+      "chapters": [
+        {
+          "id": "d10943",
+          "title": "Os Extras Recusam a Obsessão",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl9kMTA5NDMuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/11283/683f1a6716278.png"
         }
       ]
     }
