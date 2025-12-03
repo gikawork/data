@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764724241,
-    "totalMangas": 1105,
+    "lastUpdated": 1764724258,
+    "totalMangas": 1104,
     "version": "1.0.5"
   },
   "mangas": {
@@ -902,18 +902,6 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9KUDkyMi5qc29u/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx101607-MKbX35JrKWWt.png"
-        }
-      ]
-    },
-    "JP387": {
-      "title": "Jikken Ningyou Dummy Oscar",
-      "chapters": [
-        {
-          "id": 387,
-          "title": "Jikken Ningyou Dummy Oscar",
-          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9KUDM4Ny5qc29u/",
-          "type": "manga",
-          "cover_url": "https://cdn.mangaupdates.com/image/i230819.jpg"
         }
       ]
     },
@@ -13250,6 +13238,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzE0Mi5qc29u/",
           "type": "manga",
           "cover_url": "https://images2.imgbox.com/d4/d0/39LOyYP8_o.jpg"
+        }
+      ]
+    },
+    "majp_387": {
+      "title": "Mankitsu Shitai Jouren-san Miss Regular Customer Wants to Enjoy",
+      "chapters": [
+        {
+          "id": "387",
+          "title": "Mankitsu Shitai Jouren-san Miss Regular Customer Wants to Enjoy",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzM4Ny5qc29u/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx170601-CdJ0QJcuflkX.jpg"
         }
       ]
     }
