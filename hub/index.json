@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764740737,
-    "totalMangas": 2330,
+    "lastUpdated": 1764740748,
+    "totalMangas": 2331,
     "version": "1.0.5"
   },
   "mangas": {
@@ -27962,6 +27962,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl9lZjQ3OWIuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/7872/wp-content/uploads/2024/12/oo.jpg"
+        }
+      ]
+    },
+    "mach_2e1644": {
+      "title": "Baili Jin Entre Mortais",
+      "chapters": [
+        {
+          "id": "2e1644",
+          "title": "Baili Jin Entre Mortais",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF8yZTE2NDQuanNvbg/",
+          "type": "manhua",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/9247/67a1a4ca84fa7.png"
         }
       ]
     }
