@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764732836,
-    "totalMangas": 1469,
+    "lastUpdated": 1764732845,
+    "totalMangas": 1470,
     "version": "1.0.5"
   },
   "mangas": {
@@ -17630,6 +17630,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8zZjExNjMuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/1183/6864c167b4fb9.webp"
+        }
+      ]
+    },
+    "makr_921f2e": {
+      "title": "Super Sorte",
+      "chapters": [
+        {
+          "id": "921f2e",
+          "title": "Super Sorte",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl85MjFmMmUuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/189/wp-content/uploads/2024/05/d932bb45-287d-462f-a553-8c6c539dbe47.jpg.512-210x300-1.jpg"
         }
       ]
     }
