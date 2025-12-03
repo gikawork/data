@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764735248,
-    "totalMangas": 1736,
+    "lastUpdated": 1764735257,
+    "totalMangas": 1737,
     "version": "1.0.5"
   },
   "mangas": {
@@ -20834,6 +20834,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl81NzMwLmpzb24/",
           "type": "manhwa",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx129210-3QmLApie5gYJ.jpg"
+        }
+      ]
+    },
+    "makr_1021f9": {
+      "title": "Eu Sou Apenas uma Madrasta, mas Minha Filha é Muito Fofa",
+      "chapters": [
+        {
+          "id": "1021f9",
+          "title": "Eu Sou Apenas uma Madrasta, mas Minha Filha é Muito Fofa",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8xMDIxZjkuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/8687/6790567f8597e.png"
         }
       ]
     }
