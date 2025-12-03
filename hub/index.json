@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": 1764763120,
+    "lastUpdated": 1764763130,
     "totalMangas": 2619,
     "version": "1.0.6"
   },
@@ -31421,15 +31421,15 @@
         }
       ]
     },
-    "majp_75131": {
-      "title": "Meu esposo é um Conde Tímido",
+    "mach_2570ae": {
+      "title": "Eu Gosto da minha melhor amiga",
       "chapters": [
         {
-          "id": "75131",
-          "title": "Meu esposo é um Conde Tímido",
-          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzc1MTMxLmpzb24/",
-          "type": "manga",
-          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/8905/6795a488ebaad.png"
+          "id": "2570ae",
+          "title": "Eu Gosto da minha melhor amiga",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF8yNTcwYWUuanNvbg/",
+          "type": "manhua",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/11095/6823747ef10d6.jpg"
         }
       ]
     }
