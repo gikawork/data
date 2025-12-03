@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764732016,
-    "totalMangas": 1376,
+    "lastUpdated": 1764732024,
+    "totalMangas": 1377,
     "version": "1.0.5"
   },
   "mangas": {
@@ -16514,6 +16514,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF80OTAwMC5qc29u/",
           "type": "manhua",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/8418/wp-content/uploads/2025/01/55626afc9da7299d22a021c32db55057-compress-watermark.seo_.jpg"
+        }
+      ]
+    },
+    "makr_a4f88b": {
+      "title": "Espada da Inquisição Celestial",
+      "chapters": [
+        {
+          "id": "a4f88b",
+          "title": "Espada da Inquisição Celestial",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl9hNGY4OGIuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/847/6864a7022553a.jpg"
         }
       ]
     }
