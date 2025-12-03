@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764735657,
-    "totalMangas": 1781,
+    "lastUpdated": 1764735665,
+    "totalMangas": 1782,
     "version": "1.0.5"
   },
   "mangas": {
@@ -21374,6 +21374,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzE2YWEwMS5qc29u/",
           "type": "manga",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/11423/68541979c8f3b.png"
+        }
+      ]
+    },
+    "makr_c36824": {
+      "title": "Jogando Como o Vilão Perfeito com Olhos de Raposa",
+      "chapters": [
+        {
+          "id": "c36824",
+          "title": "Jogando Como o Vilão Perfeito com Olhos de Raposa",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl9jMzY4MjQuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/10520/67e8b641290e3.png"
         }
       ]
     }
