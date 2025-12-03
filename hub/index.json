@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764738972,
-    "totalMangas": 2137,
+    "lastUpdated": 1764738981,
+    "totalMangas": 2138,
     "version": "1.0.5"
   },
   "mangas": {
@@ -25646,6 +25646,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl82MzI2MC5qc29u/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/1822/wp-content/uploads/2024/05/19_29_-1.webp"
+        }
+      ]
+    },
+    "makr_332a04": {
+      "title": "A Minha Irmã É A Protagonista",
+      "chapters": [
+        {
+          "id": "332a04",
+          "title": "A Minha Irmã É A Protagonista",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8zMzJhMDQuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/11013/681aa4cc612c3.png"
         }
       ]
     }
