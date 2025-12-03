@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764733912,
-    "totalMangas": 1589,
+    "lastUpdated": 1764733921,
+    "totalMangas": 1590,
     "version": "1.0.5"
   },
   "mangas": {
@@ -19070,6 +19070,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF8xMDkuanNvbg/",
           "type": "manhua",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/9257/67a2e898426bd.png"
+        }
+      ]
+    },
+    "makr_c251bd": {
+      "title": "Upando em Uma Dungeon Exclusiva",
+      "chapters": [
+        {
+          "id": "c251bd",
+          "title": "Upando em Uma Dungeon Exclusiva",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl9jMjUxYmQuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/5406/wp-content/uploads/2024/10/f4d9b4eb-46c0-415b-a2f3-0b395faf52b3.png"
         }
       ]
     }
