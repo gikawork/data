@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764737183,
-    "totalMangas": 1947,
+    "lastUpdated": 1764737192,
+    "totalMangas": 1948,
     "version": "1.0.5"
   },
   "mangas": {
@@ -23366,6 +23366,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8yNzRkMzAuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/2039/6864a284c4db4.webp"
+        }
+      ]
+    },
+    "makr_78749": {
+      "title": "God's Gambit",
+      "chapters": [
+        {
+          "id": "78749",
+          "title": "God's Gambit",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl83ODc0OS5qc29u/",
+          "type": "manhwa",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx171937-fWZ29VklUlO9.png"
         }
       ]
     }
