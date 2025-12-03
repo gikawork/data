@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764739458,
-    "totalMangas": 2191,
+    "lastUpdated": 1764739467,
+    "totalMangas": 2192,
     "version": "1.0.5"
   },
   "mangas": {
@@ -26294,6 +26294,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzMwOTIyLmpzb24/",
           "type": "manga",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/10871/680eac19a21aa.jpg"
+        }
+      ]
+    },
+    "makr_663527": {
+      "title": "A Lei Do Lixo",
+      "chapters": [
+        {
+          "id": "663527",
+          "title": "A Lei Do Lixo",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl82NjM1MjcuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/10577/67f36dfbb8154.png"
         }
       ]
     }
