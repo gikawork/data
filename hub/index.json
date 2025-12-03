@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764727338,
-    "totalMangas": 1134,
+    "lastUpdated": 1764727348,
+    "totalMangas": 1135,
     "version": "1.0.5"
   },
   "mangas": {
@@ -13610,6 +13610,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzEyNjQuanNvbg/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx87395-axsA49kSZp72.jpg"
+        }
+      ]
+    },
+    "makr_92161": {
+      "title": "The Genius Swordsman of Mount Hua",
+      "chapters": [
+        {
+          "id": "92161",
+          "title": "The Genius Swordsman of Mount Hua",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl85MjE2MS5qc29u/",
+          "type": "manhwa",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b188155-IcDNFLauYlWs.jpg"
         }
       ]
     }
