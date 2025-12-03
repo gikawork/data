@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764737343,
-    "totalMangas": 1963,
+    "lastUpdated": 1764737353,
+    "totalMangas": 1964,
     "version": "1.0.5"
   },
   "mangas": {
@@ -23558,6 +23558,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzEzMDcuanNvbg/",
           "type": "manga",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/6551/wp-content/uploads/2024/11/hito.jpg"
+        }
+      ]
+    },
+    "majp_07cddb": {
+      "title": "O Carcereiro Kraken",
+      "chapters": [
+        {
+          "id": "07cddb",
+          "title": "O Carcereiro Kraken",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzA3Y2RkYi5qc29u/",
+          "type": "manga",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/10957/68118e04f0d47.jpg"
         }
       ]
     }
