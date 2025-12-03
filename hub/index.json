@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": 1764728629,
+    "lastUpdated": 1764728644,
     "totalMangas": 1156,
     "version": "1.0.5"
   },
@@ -13862,6 +13862,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzQyMzcuanNvbg/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx95170-m9D2SrdGZfjq.png"
+        }
+      ]
+    },
+    "majp_376578": {
+      "title": "Boroboro no Elf-san wo Shiawase ni Suru Kusuriuri-san",
+      "chapters": [
+        {
+          "id": "376578",
+          "title": "Boroboro no Elf-san wo Shiawase ni Suru Kusuriuri-san",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzM3NjU3OC5qc29u/",
+          "type": "manga",
+          "cover_url": "https://cdn.myanimelist.net/images/manga/2/293657.jpg"
         }
       ]
     }
