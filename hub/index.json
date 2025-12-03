@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764734232,
-    "totalMangas": 1625,
+    "lastUpdated": 1764734242,
+    "totalMangas": 1626,
     "version": "1.0.5"
   },
   "mangas": {
@@ -19502,6 +19502,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl81NjguanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/9888/67ba6070ee6be.png"
+        }
+      ]
+    },
+    "makr_56401": {
+      "title": "O Espião de 18 Anos",
+      "chapters": [
+        {
+          "id": "56401",
+          "title": "O Espião de 18 Anos",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl81NjQwMS5qc29u/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/8814/67955a26ddaf4.png"
         }
       ]
     }
