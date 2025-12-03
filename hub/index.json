@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": 1764723695,
+    "lastUpdated": 1764723711,
     "totalMangas": 1101,
     "version": "1.0.5"
   },
@@ -13202,6 +13202,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzk2MS5qc29u/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/nx105011-DxP8LvUSfRiJ.jpg"
+        }
+      ]
+    },
+    "makr_1252": {
+      "title": "Solo Leveling: Ragnarok",
+      "chapters": [
+        {
+          "id": "1252",
+          "title": "Solo Leveling: Ragnarok",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8xMjUyLmpzb24/",
+          "type": "manhwa",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx179445-ho0nb7baJ1a5.jpg"
         }
       ]
     }
