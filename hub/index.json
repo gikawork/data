@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": 1764723418,
+    "lastUpdated": 1764723435,
     "totalMangas": 1099,
     "version": "1.0.5"
   },
@@ -13178,6 +13178,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzIzNzQuanNvbg/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx108432-5Vq9GkqAj5ng.jpg"
+        }
+      ]
+    },
+    "majp_708": {
+      "title": "Kagurabachi",
+      "chapters": [
+        {
+          "id": "708",
+          "title": "Kagurabachi",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzcwOC5qc29u/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx169355-5pqzh1Wb4NOQ.png"
         }
       ]
     }
