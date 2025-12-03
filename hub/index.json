@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764739259,
-    "totalMangas": 2169,
+    "lastUpdated": 1764739268,
+    "totalMangas": 2170,
     "version": "1.0.5"
   },
   "mangas": {
@@ -26030,6 +26030,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl80OTM3OC5qc29u/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/13235/687c01684e064.jpg"
+        }
+      ]
+    },
+    "makr_41255e": {
+      "title": "O Casamento da Vaga-lume",
+      "chapters": [
+        {
+          "id": "41255e",
+          "title": "O Casamento da Vaga-lume",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl80MTI1NWUuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/10845/680eaac73e56a.jpg"
         }
       ]
     }
