@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": 1764729541,
+    "lastUpdated": 1764729554,
     "totalMangas": 1178,
     "version": "1.0.5"
   },
@@ -14126,6 +14126,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzg2NzIuanNvbg/",
           "type": "manga",
           "cover_url": "https://images2.imgbox.com/30/0a/fesOW9Ze_o.jpg"
+        }
+      ]
+    },
+    "makr_5119": {
+      "title": "0.0000001% Demon Lord",
+      "chapters": [
+        {
+          "id": "5119",
+          "title": "0.0000001% Demon Lord",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl81MTE5Lmpzb24/",
+          "type": "manhwa",
+          "cover_url": "https://images2.imgbox.com/54/6b/dL4gXWgt_o.png"
         }
       ]
     }
