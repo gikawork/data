@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764735702,
-    "totalMangas": 1786,
+    "lastUpdated": 1764735710,
+    "totalMangas": 1787,
     "version": "1.0.5"
   },
   "mangas": {
@@ -21434,6 +21434,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl81MjY2Ni5qc29u/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/8997/6795cebd9c684.png"
+        }
+      ]
+    },
+    "mach_94279": {
+      "title": "O Hospedeiro Parasítico Supremo",
+      "chapters": [
+        {
+          "id": "94279",
+          "title": "O Hospedeiro Parasítico Supremo",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF85NDI3OS5qc29u/",
+          "type": "manhua",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/8669/6789a825e78b1.png"
         }
       ]
     }
