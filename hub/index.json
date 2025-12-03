@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764738095,
-    "totalMangas": 2041,
+    "lastUpdated": 1764738104,
+    "totalMangas": 2042,
     "version": "1.0.5"
   },
   "mangas": {
@@ -24494,6 +24494,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8xOTkzMzQuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/10217/67ce6a6fd34ea.png"
+        }
+      ]
+    },
+    "makr_cb4ea2": {
+      "title": "O Peixe Que Eu Amei",
+      "chapters": [
+        {
+          "id": "cb4ea2",
+          "title": "O Peixe Que Eu Amei",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl9jYjRlYTIuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/9737/67a7f2ac57c57.png"
         }
       ]
     }
