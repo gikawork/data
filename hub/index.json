@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764732764,
-    "totalMangas": 1461,
+    "lastUpdated": 1764732774,
+    "totalMangas": 1462,
     "version": "1.0.5"
   },
   "mangas": {
@@ -17534,6 +17534,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl84MGY4MmEuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/697/67902e1eee8a1.jpg"
+        }
+      ]
+    },
+    "makr_b0356d": {
+      "title": "A Regra de Ser Amiga de um Cara",
+      "chapters": [
+        {
+          "id": "b0356d",
+          "title": "A Regra de Ser Amiga de um Cara",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl9iMDM1NmQuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/7314/wp-content/uploads/2024/12/frieee.png"
         }
       ]
     }
