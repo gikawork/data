@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764736527,
-    "totalMangas": 1876,
+    "lastUpdated": 1764736537,
+    "totalMangas": 1877,
     "version": "1.0.5"
   },
   "mangas": {
@@ -22514,6 +22514,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF83OTc3MC5qc29u/",
           "type": "manhua",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/5374/67d49cca407ce.jpg"
+        }
+      ]
+    },
+    "makr_6590": {
+      "title": "The Tyrant's Comfort Doll",
+      "chapters": [
+        {
+          "id": "6590",
+          "title": "The Tyrant's Comfort Doll",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl82NTkwLmpzb24/",
+          "type": "manhwa",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx139550-VYllS7eBfBoS.png"
         }
       ]
     }
