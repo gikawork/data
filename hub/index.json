@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": 1764728241,
+    "lastUpdated": 1764728255,
     "totalMangas": 1149,
     "version": "1.0.5"
   },
@@ -13778,6 +13778,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzExMTU2NS5qc29u/",
           "type": "manga",
           "cover_url": "https://cdn.myanimelist.net/images/manga/1/323918.jpg"
+        }
+      ]
+    },
+    "mach_783": {
+      "title": "The Great Villain Senior Brother and All of His Yandere Junior Sisters",
+      "chapters": [
+        {
+          "id": "783",
+          "title": "The Great Villain Senior Brother and All of His Yandere Junior Sisters",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF83ODMuanNvbg/",
+          "type": "manhua",
+          "cover_url": "https://files.catbox.moe/rfh8fx.jpg"
         }
       ]
     }
