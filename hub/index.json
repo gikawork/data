@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": 1764760968,
+    "lastUpdated": 1764760976,
     "totalMangas": 2612,
     "version": "1.0.6"
   },
@@ -31337,15 +31337,15 @@
         }
       ]
     },
-    "makr_b07da1": {
-      "title": "Me Tornei a Gata do Imperador",
+    "mach_48c07d": {
+      "title": "Speedrun de Cultivo, Diversão sem Limites",
       "chapters": [
         {
-          "id": "b07da1",
-          "title": "Me Tornei a Gata do Imperador",
-          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl9iMDdkYTEuanNvbg/",
-          "type": "manhwa",
-          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/10481/67ddf3cc1f657.png"
+          "id": "48c07d",
+          "title": "Speedrun de Cultivo, Diversão sem Limites",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF80OGMwN2QuanNvbg/",
+          "type": "manhua",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/13741/68bde149c4feb.jpg"
         }
       ]
     }
