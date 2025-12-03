@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764732257,
-    "totalMangas": 1404,
+    "lastUpdated": 1764732267,
+    "totalMangas": 1405,
     "version": "1.0.5"
   },
   "mangas": {
@@ -16850,6 +16850,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8yYzFlZmYuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/10414/67d8f9ddcf631.png"
+        }
+      ]
+    },
+    "makr_a99820": {
+      "title": "A Santa bebê quer destruir o mundo!",
+      "chapters": [
+        {
+          "id": "a99820",
+          "title": "A Santa bebê quer destruir o mundo!",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl9hOTk4MjAuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/5950/679fa8012507a.png"
         }
       ]
     }
