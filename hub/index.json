@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": 1764723736,
+    "lastUpdated": 1764723750,
     "totalMangas": 1102,
     "version": "1.0.5"
   },
@@ -13214,6 +13214,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF8zNjk4NTEuanNvbg/",
           "type": "manhua",
           "cover_url": "https://images2.imgbox.com/1c/74/Wh8EeGsK_o.jpg"
+        }
+      ]
+    },
+    "majp_239": {
+      "title": "Juujika no Rokunin",
+      "chapters": [
+        {
+          "id": "239",
+          "title": "Juujika no Rokunin",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzIzOS5qc29u/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx116671-7JaYnDpCjll6.png"
         }
       ]
     }
