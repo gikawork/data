@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764740704,
-    "totalMangas": 2327,
+    "lastUpdated": 1764740714,
+    "totalMangas": 2328,
     "version": "1.0.5"
   },
   "mangas": {
@@ -27926,6 +27926,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl82MzQ2Lmpzb24/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/9749/67a8c8b39c2f0.png"
+        }
+      ]
+    },
+    "mach_53902": {
+      "title": "Biblioteca do Caminho do Céu",
+      "chapters": [
+        {
+          "id": "53902",
+          "title": "Biblioteca do Caminho do Céu",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF81MzkwMi5qc29u/",
+          "type": "manhua",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/8981/6795c9db0512a.png"
         }
       ]
     }
