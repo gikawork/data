@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": 1764730252,
+    "lastUpdated": 1764730266,
     "totalMangas": 1194,
     "version": "1.0.5"
   },
@@ -14318,6 +14318,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8xODY3MDYuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx189990-QzKVF7o7Y5j5.jpg"
+        }
+      ]
+    },
+    "majp_101": {
+      "title": "Drops of Dreams, the Golden Birdcage",
+      "chapters": [
+        {
+          "id": "101",
+          "title": "Drops of Dreams, the Golden Birdcage",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzEwMS5qc29u/",
+          "type": "manga",
+          "cover_url": "https://images2.imgbox.com/75/87/xzcrmi6U_o.jpg"
         }
       ]
     }
