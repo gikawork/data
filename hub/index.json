@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764731646,
-    "totalMangas": 1335,
+    "lastUpdated": 1764731655,
+    "totalMangas": 1336,
     "version": "1.0.5"
   },
   "mangas": {
@@ -16022,6 +16022,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl85MjguanNvbg/",
           "type": "manhwa",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx190817-v2wyyctlxFX2.jpg"
+        }
+      ]
+    },
+    "makr_c82796": {
+      "title": "A Vilã é Tímida Recebendo Afeto",
+      "chapters": [
+        {
+          "id": "c82796",
+          "title": "A Vilã é Tímida Recebendo Afeto",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl9jODI3OTYuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/8774/67948c67627a4.png"
         }
       ]
     }
