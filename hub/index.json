@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764724428,
-    "totalMangas": 1106,
+    "lastUpdated": 1764724444,
+    "totalMangas": 1105,
     "version": "1.0.5"
   },
   "mangas": {
@@ -4946,18 +4946,6 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvS1I4ODMuanNvbg%3D%3D/",
           "type": "manhwa",
           "cover_url": "https://cdn.myanimelist.net/images/manga/3/310371.jpg"
-        }
-      ]
-    },
-    "JP380": {
-      "title": "Itonami Itonamezu",
-      "chapters": [
-        {
-          "id": 380,
-          "title": "Itonami Itonamezu",
-          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9KUDM4MC5qc29u/",
-          "type": "manga",
-          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx114834-9roqttbL5Pa7.jpg"
         }
       ]
     },
@@ -13262,6 +13250,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8zNjExMjEuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/13113/6872f5e1bfa96.webp"
+        }
+      ]
+    },
+    "majp_380": {
+      "title": "Catenaccio",
+      "chapters": [
+        {
+          "id": "380",
+          "title": "Catenaccio",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzM4MC5qc29u/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx159025-FPQcDIMuz9bJ.png"
         }
       ]
     }
