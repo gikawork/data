@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764732737,
-    "totalMangas": 1458,
+    "lastUpdated": 1764732745,
+    "totalMangas": 1459,
     "version": "1.0.5"
   },
   "mangas": {
@@ -17498,6 +17498,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8zNmIyMTcuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/10248/67cf3b0dd4944.png"
+        }
+      ]
+    },
+    "makr_42688a": {
+      "title": "Eu Costumava Ser Um Boss",
+      "chapters": [
+        {
+          "id": "42688a",
+          "title": "Eu Costumava Ser Um Boss",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl80MjY4OGEuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/4300/6864c1caa5612.jpg"
         }
       ]
     }
