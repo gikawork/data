@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": 1764724763,
+    "lastUpdated": 1764724778,
     "totalMangas": 1107,
     "version": "1.0.5"
   },
@@ -13274,6 +13274,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzI2My5qc29u/",
           "type": "manga",
           "cover_url": "https://cdn.myanimelist.net/images/manga/1/231057.jpg"
+        }
+      ]
+    },
+    "majp_4304": {
+      "title": "Maryoku Zetsumu no Ryuuken Tsukai Maryoku Zero no Ryuuou no Musuko, Bocchi Yueni, Tomodachi wo Tsukuru Tameni Madou Gakuen de Musou Suru",
+      "chapters": [
+        {
+          "id": "4304",
+          "title": "Maryoku Zetsumu no Ryuuken Tsukai Maryoku Zero no Ryuuou no Musuko, Bocchi Yueni, Tomodachi wo Tsukuru Tameni Madou Gakuen de Musou Suru",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzQzMDQuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx179768-ob8Z2GMAkuBb.jpg"
         }
       ]
     }
