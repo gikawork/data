@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764736390,
-    "totalMangas": 1861,
+    "lastUpdated": 1764736399,
+    "totalMangas": 1862,
     "version": "1.0.5"
   },
   "mangas": {
@@ -22334,6 +22334,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8zOTM4Lmpzb24/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/7777/wp-content/uploads/2024/12/cfa4659fb45d4d05efe740ef42e1d25b.jpg"
+        }
+      ]
+    },
+    "mach_71d6fe": {
+      "title": "O Indomável",
+      "chapters": [
+        {
+          "id": "71d6fe",
+          "title": "O Indomável",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF83MWQ2ZmUuanNvbg/",
+          "type": "manhua",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/10081/67c51eb2ab8db.png"
         }
       ]
     }
