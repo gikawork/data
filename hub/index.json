@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764733780,
-    "totalMangas": 1574,
+    "lastUpdated": 1764733789,
+    "totalMangas": 1575,
     "version": "1.0.5"
   },
   "mangas": {
@@ -18890,6 +18890,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8xMDcuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/9772/67aaa2bebaf4d.png"
+        }
+      ]
+    },
+    "makr_dca0ea": {
+      "title": "O Descendente do Demônio Celestial",
+      "chapters": [
+        {
+          "id": "dca0ea",
+          "title": "O Descendente do Demônio Celestial",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl9kY2EwZWEuanNvbg/",
+          "type": "manhwa",
+          "cover_url": ""
         }
       ]
     }
