@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764737711,
-    "totalMangas": 1999,
+    "lastUpdated": 1764737720,
+    "totalMangas": 2000,
     "version": "1.0.5"
   },
   "mangas": {
@@ -23990,6 +23990,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl82NjkuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/2215/wp-content/uploads/2024/06/thumbnail.jpg"
+        }
+      ]
+    },
+    "makr_4d7a22": {
+      "title": "Duplo Sentido",
+      "chapters": [
+        {
+          "id": "4d7a22",
+          "title": "Duplo Sentido",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl80ZDdhMjIuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/9736/67a7e3b31df8a.png"
         }
       ]
     }
