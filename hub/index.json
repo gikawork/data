@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764733474,
-    "totalMangas": 1540,
+    "lastUpdated": 1764733482,
+    "totalMangas": 1541,
     "version": "1.0.5"
   },
   "mangas": {
@@ -18482,6 +18482,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl84MTYwZjMuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/9895/67b66325410c0.webp"
+        }
+      ]
+    },
+    "makr_37341": {
+      "title": "The Princess's Spaceship",
+      "chapters": [
+        {
+          "id": "37341",
+          "title": "The Princess's Spaceship",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8zNzM0MS5qc29u/",
+          "type": "manhwa",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx114986-pFSR2YBltPBm.jpg"
         }
       ]
     }
