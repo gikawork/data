@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": 1764724649,
+    "lastUpdated": 1764724664,
     "totalMangas": 1106,
     "version": "1.0.5"
   },
@@ -13262,6 +13262,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzIwOTIuanNvbg/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx31153-bs4tXHtrGX3a.jpg"
+        }
+      ]
+    },
+    "majp_2269": {
+      "title": "Goblin Slayer",
+      "chapters": [
+        {
+          "id": "2269",
+          "title": "Goblin Slayer",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzIyNjkuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx87321-ijdB0SNr1JSs.jpg"
         }
       ]
     }
