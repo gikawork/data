@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764733136,
-    "totalMangas": 1502,
+    "lastUpdated": 1764733144,
+    "totalMangas": 1503,
     "version": "1.0.5"
   },
   "mangas": {
@@ -18026,6 +18026,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8yMThlMDIuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/11291/6841bac8939b0.jpg"
+        }
+      ]
+    },
+    "makr_5523": {
+      "title": " A esposa feia do duque sombrio",
+      "chapters": [
+        {
+          "id": "5523",
+          "title": " A esposa feia do duque sombrio",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl81NTIzLmpzb24/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/10493/67de0c29a951e.png"
         }
       ]
     }
