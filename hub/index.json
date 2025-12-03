@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764733438,
-    "totalMangas": 1536,
+    "lastUpdated": 1764733446,
+    "totalMangas": 1537,
     "version": "1.0.5"
   },
   "mangas": {
@@ -18434,6 +18434,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl84NjhiY2QuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/12807/685e151fb62eb.jpg"
+        }
+      ]
+    },
+    "makr_4487": {
+      "title": "A Dama Mascarada",
+      "chapters": [
+        {
+          "id": "4487",
+          "title": "A Dama Mascarada",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl80NDg3Lmpzb24/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/8734/6794830948373.png"
         }
       ]
     }
