@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764723663,
-    "totalMangas": 1102,
+    "lastUpdated": 1764723680,
+    "totalMangas": 1101,
     "version": "1.0.5"
   },
   "mangas": {
@@ -5906,18 +5906,6 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9KUDM5OS5qc29u/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx179256-TRND01mxfNgM.jpg"
-        }
-      ]
-    },
-    "JP185": {
-      "title": "Coffee Moon",
-      "chapters": [
-        {
-          "id": 185,
-          "title": "Coffee Moon",
-          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9KUDE4NS5qc29u/",
-          "type": "manga",
-          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx114965-yjUURKzPrhSl.jpg"
         }
       ]
     },
@@ -13214,6 +13202,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzEyNTYuanNvbg/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx30049-ipwZTsHitrhC.png"
+        }
+      ]
+    },
+    "majp_185": {
+      "title": "How to Grill Our Love",
+      "chapters": [
+        {
+          "id": "185",
+          "title": "How to Grill Our Love",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzE4NS5qc29u/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx124621-g3dTY9fb8Frj.jpg"
         }
       ]
     }
