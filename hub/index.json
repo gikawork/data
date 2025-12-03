@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764727758,
-    "totalMangas": 1140,
+    "lastUpdated": 1764727765,
+    "totalMangas": 1141,
     "version": "1.0.5"
   },
   "mangas": {
@@ -13682,6 +13682,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzU3NjMuanNvbg/",
           "type": "manga",
           "cover_url": "https://cdn.myanimelist.net/images/manga/2/306312l.jpg"
+        }
+      ]
+    },
+    "maot_320015": {
+      "title": "The Way It Was Before",
+      "chapters": [
+        {
+          "id": "320015",
+          "title": "The Way It Was Before",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21vdC9tYW90XzMyMDAxNS5qc29u/",
+          "type": "outro",
+          "cover_url": "https://images2.imgbox.com/6e/80/6IQ1rmX0_o.jpg"
         }
       ]
     }
