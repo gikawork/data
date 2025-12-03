@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764728572,
-    "totalMangas": 1153,
+    "lastUpdated": 1764728583,
+    "totalMangas": 1154,
     "version": "1.0.5"
   },
   "mangas": {
@@ -13838,6 +13838,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzUwMjUuanNvbg/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx144670-lWey5ROKgl9l.jpg"
+        }
+      ]
+    },
+    "makr_1115": {
+      "title": "Sobrevivendo Como Uma Empregada Em Um Jogo De Terror",
+      "chapters": [
+        {
+          "id": "1115",
+          "title": "Sobrevivendo Como Uma Empregada Em Um Jogo De Terror",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8xMTE1Lmpzb24/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/8075/67ca913a79dd0.png"
         }
       ]
     }
