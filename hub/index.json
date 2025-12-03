@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764736925,
-    "totalMangas": 1919,
+    "lastUpdated": 1764736935,
+    "totalMangas": 1920,
     "version": "1.0.5"
   },
   "mangas": {
@@ -23030,6 +23030,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF83NTIyMi5qc29u/",
           "type": "manhua",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/10182/67cdcb81ecf92.png"
+        }
+      ]
+    },
+    "makr_2110": {
+      "title": "Gun Gaek",
+      "chapters": [
+        {
+          "id": "2110",
+          "title": "Gun Gaek",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8yMTEwLmpzb24/",
+          "type": "manhwa",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx188182-OsbA2VA4V9OC.jpg"
         }
       ]
     }
