@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764740348,
-    "totalMangas": 2289,
+    "lastUpdated": 1764740355,
+    "totalMangas": 2290,
     "version": "1.0.5"
   },
   "mangas": {
@@ -27470,6 +27470,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8wMTliZTMuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/5924/wp-content/uploads/2024/10/ordiandsijsdj.png"
+        }
+      ]
+    },
+    "makr_550c50": {
+      "title": "A Piedade Filial Do Meu Aprendiz Parece Ter Piorado",
+      "chapters": [
+        {
+          "id": "550c50",
+          "title": "A Piedade Filial Do Meu Aprendiz Parece Ter Piorado",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl81NTBjNTAuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/7272/wp-content/uploads/2024/12/pedade.jpg"
         }
       ]
     }
