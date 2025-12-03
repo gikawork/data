@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764735275,
-    "totalMangas": 1739,
+    "lastUpdated": 1764735284,
+    "totalMangas": 1740,
     "version": "1.0.5"
   },
   "mangas": {
@@ -20870,6 +20870,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl9iNTcwNDguanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/7928/wp-content/uploads/2024/12/image-01jfzy5vp9s9z5zh6h904qghy5.webp"
+        }
+      ]
+    },
+    "majp_8229": {
+      "title": "A Mercearia do Outro Mundo",
+      "chapters": [
+        {
+          "id": "8229",
+          "title": "A Mercearia do Outro Mundo",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzgyMjkuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/10919/680eb0eceafba.jpg"
         }
       ]
     }
