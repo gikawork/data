@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764738332,
-    "totalMangas": 2067,
+    "lastUpdated": 1764738341,
+    "totalMangas": 2068,
     "version": "1.0.5"
   },
   "mangas": {
@@ -24806,6 +24806,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzg5N2ZjOS5qc29u/",
           "type": "manga",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/10728/6808dbb35ca2c.jpg"
+        }
+      ]
+    },
+    "makr_f70bee": {
+      "title": "Rei da Terra",
+      "chapters": [
+        {
+          "id": "f70bee",
+          "title": "Rei da Terra",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl9mNzBiZWUuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/10181/67cdcb499adf6.png"
         }
       ]
     }
