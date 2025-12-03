@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": 1764730358,
+    "lastUpdated": 1764730373,
     "totalMangas": 1194,
     "version": "1.0.5"
   },
@@ -14318,6 +14318,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzMzMy5qc29u/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx143379-xQKV9jk7mv6o.jpg"
+        }
+      ]
+    },
+    "majp_3414": {
+      "title": "Inazuma Eleven",
+      "chapters": [
+        {
+          "id": "3414",
+          "title": "Inazuma Eleven",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzM0MTQuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx49315-2AqZShRMXyfx.png"
         }
       ]
     }
