@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764731920,
-    "totalMangas": 1365,
+    "lastUpdated": 1764731928,
+    "totalMangas": 1366,
     "version": "1.0.5"
   },
   "mangas": {
@@ -16382,6 +16382,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl84OGZhMzkuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/10891/680ead35ebd12.jpg"
+        }
+      ]
+    },
+    "makr_d9e010": {
+      "title": "A Preciosa Filha do Vilão",
+      "chapters": [
+        {
+          "id": "d9e010",
+          "title": "A Preciosa Filha do Vilão",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl9kOWUwMTAuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/8183/67d616f8073e3.png"
         }
       ]
     }
