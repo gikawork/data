@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764734758,
-    "totalMangas": 1683,
+    "lastUpdated": 1764734767,
+    "totalMangas": 1684,
     "version": "1.0.5"
   },
   "mangas": {
@@ -20198,6 +20198,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl9mNTcxZmYuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/5866/wp-content/uploads/2024/10/c61a9b74-d536-4746-b21b-93b6f9b6f450.jpg.512.jpg"
+        }
+      ]
+    },
+    "makr_590a1d": {
+      "title": "A Princesa Materialista",
+      "chapters": [
+        {
+          "id": "590a1d",
+          "title": "A Princesa Materialista",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl81OTBhMWQuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/8937/6795bac3d075e.png"
         }
       ]
     }
