@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764760449,
-    "totalMangas": 2610,
+    "lastUpdated": 1764760458,
+    "totalMangas": 2611,
     "version": "1.0.6"
   },
   "mangas": {
@@ -31322,6 +31322,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzIyMTMzNS5qc29u/",
           "type": "manga",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/10105/67c745428481d.png"
+        }
+      ]
+    },
+    "makr_53530": {
+      "title": "Minha Querida Nêmesis",
+      "chapters": [
+        {
+          "id": "53530",
+          "title": "Minha Querida Nêmesis",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl81MzUzMC5qc29u/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/9259/67a2eff4c05d6.png"
         }
       ]
     }
