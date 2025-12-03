@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764732974,
-    "totalMangas": 1484,
+    "lastUpdated": 1764732984,
+    "totalMangas": 1485,
     "version": "1.0.5"
   },
   "mangas": {
@@ -17810,6 +17810,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF85NDEyLmpzb24/",
           "type": "manhua",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/10062/67c48f61e5a27.png"
+        }
+      ]
+    },
+    "makr_a44385": {
+      "title": "Me Tornei a Princesa Feia",
+      "chapters": [
+        {
+          "id": "a44385",
+          "title": "Me Tornei a Princesa Feia",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl9hNDQzODUuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/8931/6795b7c8f4055.png"
         }
       ]
     }
