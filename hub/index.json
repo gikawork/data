@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": 1764725254,
+    "lastUpdated": 1764725268,
     "totalMangas": 1113,
     "version": "1.0.5"
   },
@@ -13346,6 +13346,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzI4MTguanNvbg/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx121753-vhvIdfxdaEdF.jpg"
+        }
+      ]
+    },
+    "majp_1390": {
+      "title": "Coin Laundry no Onna",
+      "chapters": [
+        {
+          "id": "1390",
+          "title": "Coin Laundry no Onna",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzEzOTAuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx55946-ZS5kGnrCspQM.jpg"
         }
       ]
     }
