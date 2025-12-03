@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": 1764730004,
+    "lastUpdated": 1764730019,
     "totalMangas": 1188,
     "version": "1.0.5"
   },
@@ -14246,6 +14246,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzI1NzQuanNvbg/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx151254-nzvcK5wdcNix.jpg"
+        }
+      ]
+    },
+    "majp_964": {
+      "title": "Wind Breaker (Nii Satoru)",
+      "chapters": [
+        {
+          "id": "964",
+          "title": "Wind Breaker (Nii Satoru)",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzk2NC5qc29u/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx135083-TQbNFWKGJJHW.jpg"
         }
       ]
     }
