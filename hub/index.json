@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764738193,
-    "totalMangas": 2052,
+    "lastUpdated": 1764738202,
+    "totalMangas": 2053,
     "version": "1.0.5"
   },
   "mangas": {
@@ -24626,6 +24626,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF84MzY3Lmpzb24/",
           "type": "manhua",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/4147/wp-content/uploads/2024/10/Capa.webp"
+        }
+      ]
+    },
+    "makr_66766": {
+      "title": "The Priest Dreaming Of A Dragon",
+      "chapters": [
+        {
+          "id": "66766",
+          "title": "The Priest Dreaming Of A Dragon",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl82Njc2Ni5qc29u/",
+          "type": "manhwa",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx168824-0DdTv9fevkAw.jpg"
         }
       ]
     }
