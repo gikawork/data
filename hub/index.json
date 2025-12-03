@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": 1764727444,
+    "lastUpdated": 1764727457,
     "totalMangas": 1136,
     "version": "1.0.5"
   },
@@ -2606,18 +2606,6 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9KUDU1NS5qc29u/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx191532-6VRpN4GeW15E.jpg"
-        }
-      ]
-    },
-    "JP920": {
-      "title": "The Story of a Girl Who Thought She Had Blackmail",
-      "chapters": [
-        {
-          "id": 920,
-          "title": "The Story of a Girl Who Thought She Had Blackmail",
-          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9KUDkyMC5qc29u/",
-          "type": "manga",
-          "cover_url": "https://cdn.mangaupdates.com/image/i490464.png"
         }
       ]
     },
@@ -13634,6 +13622,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl80NDg1Lmpzb24/",
           "type": "manhwa",
           "cover_url": "https://cdn.myanimelist.net/images/manga/2/331253.jpg"
+        }
+      ]
+    },
+    "majp_920": {
+      "title": "The Story of a Girl Who Thought She Had Blackmail",
+      "chapters": [
+        {
+          "id": "920",
+          "title": "The Story of a Girl Who Thought She Had Blackmail",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzkyMC5qc29u/",
+          "type": "manga",
+          "cover_url": "https://cdn.mangaupdates.com/image/i490464.png"
         }
       ]
     }
