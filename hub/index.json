@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764733093,
-    "totalMangas": 1497,
+    "lastUpdated": 1764733102,
+    "totalMangas": 1498,
     "version": "1.0.5"
   },
   "mangas": {
@@ -17966,6 +17966,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl9jMmVkNjAuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/9864/67b1e27ece401.png"
+        }
+      ]
+    },
+    "makr_6822": {
+      "title": "Inscrito no GodTube",
+      "chapters": [
+        {
+          "id": "6822",
+          "title": "Inscrito no GodTube",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl82ODIyLmpzb24/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/13261/687d5122bd765.webp"
         }
       ]
     }
