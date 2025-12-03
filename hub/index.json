@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764735347,
-    "totalMangas": 1747,
+    "lastUpdated": 1764735356,
+    "totalMangas": 1748,
     "version": "1.0.5"
   },
   "mangas": {
@@ -20966,6 +20966,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl9lMTNhNjcuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/10516/67f31e647efbf.jpg"
+        }
+      ]
+    },
+    "makr_801": {
+      "title": "Alta Sociedade",
+      "chapters": [
+        {
+          "id": "801",
+          "title": "Alta Sociedade",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl84MDEuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/2028/67a252ef5b5f9.png"
         }
       ]
     }
