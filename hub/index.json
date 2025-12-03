@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764735737,
-    "totalMangas": 1790,
+    "lastUpdated": 1764735748,
+    "totalMangas": 1791,
     "version": "1.0.5"
   },
   "mangas": {
@@ -21482,6 +21482,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl81NjMwMS5qc29u/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/10055/6836ebaa2370d.png"
+        }
+      ]
+    },
+    "makr_20d9ff": {
+      "title": "Ajoelhe-se, Alteza!",
+      "chapters": [
+        {
+          "id": "20d9ff",
+          "title": "Ajoelhe-se, Alteza!",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8yMGQ5ZmYuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/9903/67b7b603c9a58.png"
         }
       ]
     }
