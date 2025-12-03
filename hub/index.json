@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764725750,
-    "totalMangas": 1120,
+    "lastUpdated": 1764725760,
+    "totalMangas": 1121,
     "version": "1.0.5"
   },
   "mangas": {
@@ -13442,6 +13442,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzQwMjQuanNvbg/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx53390-1RsuABC34P9D.jpg"
+        }
+      ]
+    },
+    "majp_863": {
+      "title": "Kingdom Hearts: 358/2 Days",
+      "chapters": [
+        {
+          "id": "863",
+          "title": "Kingdom Hearts: 358/2 Days",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzg2My5qc29u/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx45104-zaeEuCksF6xx.jpg"
         }
       ]
     }
