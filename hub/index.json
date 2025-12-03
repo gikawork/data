@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": 1764724210,
+    "lastUpdated": 1764724224,
     "totalMangas": 1106,
     "version": "1.0.5"
   },
@@ -13262,6 +13262,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzM2ODAuanNvbg/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx161433-BJ3aSWX8CYwx.jpg"
+        }
+      ]
+    },
+    "majp_5193": {
+      "title": "Please Give Me Your Blood, I Will Serve You in Gratitude",
+      "chapters": [
+        {
+          "id": "5193",
+          "title": "Please Give Me Your Blood, I Will Serve You in Gratitude",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzUxOTMuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx146168-1zK1XElOkEDD.jpg"
         }
       ]
     }
