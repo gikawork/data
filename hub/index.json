@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764735330,
-    "totalMangas": 1745,
+    "lastUpdated": 1764735339,
+    "totalMangas": 1746,
     "version": "1.0.5"
   },
   "mangas": {
@@ -20942,6 +20942,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8xNDdmMTcuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/2148/wp-content/uploads/2024/05/Capa_magodevorador.format-avif.width-320.jpg"
+        }
+      ]
+    },
+    "makr_8067": {
+      "title": "I Became the Squirrel That Saves the Villain",
+      "chapters": [
+        {
+          "id": "8067",
+          "title": "I Became the Squirrel That Saves the Villain",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl84MDY3Lmpzb24/",
+          "type": "manhwa",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx186549-m68kxj1nIXws.png"
         }
       ]
     }
