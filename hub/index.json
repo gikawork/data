@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764732454,
-    "totalMangas": 1426,
+    "lastUpdated": 1764732463,
+    "totalMangas": 1427,
     "version": "1.0.5"
   },
   "mangas": {
@@ -17114,6 +17114,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8yZTFlZDIuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/1126/687038478730e.png"
+        }
+      ]
+    },
+    "makr_010071": {
+      "title": "O Avançado Jogador da Torre Tutorial",
+      "chapters": [
+        {
+          "id": "010071",
+          "title": "O Avançado Jogador da Torre Tutorial",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8wMTAwNzEuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/228/67cf6dd898142.png"
         }
       ]
     }
