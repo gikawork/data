@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764738468,
-    "totalMangas": 2082,
+    "lastUpdated": 1764738478,
+    "totalMangas": 2083,
     "version": "1.0.5"
   },
   "mangas": {
@@ -24986,6 +24986,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl9mMzI1MjcuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/3631/6861ee698edae.jpg"
+        }
+      ]
+    },
+    "makr_55f333": {
+      "title": "O Invocador Negro",
+      "chapters": [
+        {
+          "id": "55f333",
+          "title": "O Invocador Negro",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl81NWYzMzMuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/10861/680eab4b2c9c9.jpg"
         }
       ]
     }
