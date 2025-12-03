@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764735491,
-    "totalMangas": 1763,
+    "lastUpdated": 1764735500,
+    "totalMangas": 1764,
     "version": "1.0.5"
   },
   "mangas": {
@@ -21158,6 +21158,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8xMjNlMDkuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/8748/67948706cf6b5.png"
+        }
+      ]
+    },
+    "makr_67119": {
+      "title": "Do Jeitinho Que o Hospício Gosta",
+      "chapters": [
+        {
+          "id": "67119",
+          "title": "Do Jeitinho Que o Hospício Gosta",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl82NzExOS5qc29u/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/9230/679fe33b4e4f8.png"
         }
       ]
     }
