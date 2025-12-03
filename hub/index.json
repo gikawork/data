@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764734494,
-    "totalMangas": 1654,
+    "lastUpdated": 1764734502,
+    "totalMangas": 1655,
     "version": "1.0.5"
   },
   "mangas": {
@@ -19850,6 +19850,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8wNmY0MGQuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/11459/6855a09621b82.png"
+        }
+      ]
+    },
+    "makr_995b35": {
+      "title": "A Vilã Sou Eu",
+      "chapters": [
+        {
+          "id": "995b35",
+          "title": "A Vilã Sou Eu",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl85OTViMzUuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/10254/67cf3e82e7c92.png"
         }
       ]
     }
