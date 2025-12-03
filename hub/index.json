@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764739168,
-    "totalMangas": 2159,
+    "lastUpdated": 1764739177,
+    "totalMangas": 2160,
     "version": "1.0.5"
   },
   "mangas": {
@@ -25910,6 +25910,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl82M2E3YjcuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/9107/6796ecc08ab4d.png"
+        }
+      ]
+    },
+    "makr_1659": {
+      "title": "The Villainess is a Marionette",
+      "chapters": [
+        {
+          "id": "1659",
+          "title": "The Villainess is a Marionette",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8xNjU5Lmpzb24/",
+          "type": "manhwa",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx129758-3VpObYcgeT1j.jpg"
         }
       ]
     }
