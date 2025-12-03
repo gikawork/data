@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": 1764727838,
+    "lastUpdated": 1764727876,
     "totalMangas": 1142,
     "version": "1.0.5"
   },
@@ -13694,6 +13694,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzExNC5qc29u/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx116822-ni3XGNLyFaTv.jpg"
+        }
+      ]
+    },
+    "majp_2237": {
+      "title": "Magika no Kenshi to Basileus",
+      "chapters": [
+        {
+          "id": "2237",
+          "title": "Magika no Kenshi to Basileus",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzIyMzcuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://cdn.mangaupdates.com/image/i478089.jpg"
         }
       ]
     }
