@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": 1764723799,
+    "lastUpdated": 1764723814,
     "totalMangas": 1101,
     "version": "1.0.5"
   },
@@ -13202,6 +13202,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzE4MTc2Lmpzb24/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx31046-fDcZ8KMeSDLs.jpg"
+        }
+      ]
+    },
+    "majp_1408": {
+      "title": "The Fairytale-like You Goes on the Assault",
+      "chapters": [
+        {
+          "id": "1408",
+          "title": "The Fairytale-like You Goes on the Assault",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzE0MDguanNvbg/",
+          "type": "manga",
+          "cover_url": "https://cdn.mangaupdates.com/image/i380111.jpg"
         }
       ]
     }
