@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764732042,
-    "totalMangas": 1379,
+    "lastUpdated": 1764732051,
+    "totalMangas": 1380,
     "version": "1.0.5"
   },
   "mangas": {
@@ -16550,6 +16550,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl9kOTc3ZjguanNvbg/",
           "type": "manhwa",
           "cover_url": ""
+        }
+      ]
+    },
+    "makr_1534": {
+      "title": "Ferrugem",
+      "chapters": [
+        {
+          "id": "1534",
+          "title": "Ferrugem",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8xNTM0Lmpzb24/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/4310/6861f415ea566.jpg"
         }
       ]
     }
