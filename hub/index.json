@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764738910,
-    "totalMangas": 2130,
+    "lastUpdated": 1764738919,
+    "totalMangas": 2131,
     "version": "1.0.5"
   },
   "mangas": {
@@ -25562,6 +25562,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl84Mjc3Lmpzb24/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/8850/6795611c1d52c.png"
+        }
+      ]
+    },
+    "makr_3818": {
+      "title": "Desejos Bestiais",
+      "chapters": [
+        {
+          "id": "3818",
+          "title": "Desejos Bestiais",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8zODE4Lmpzb24/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/13517/689a64083f0e6.jpg"
         }
       ]
     }
