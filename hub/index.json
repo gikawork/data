@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764737886,
-    "totalMangas": 2018,
+    "lastUpdated": 1764737895,
+    "totalMangas": 2019,
     "version": "1.0.5"
   },
   "mangas": {
@@ -24218,6 +24218,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl80NzEyNy5qc29u/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/8990/67ce4bb0c6437.png"
+        }
+      ]
+    },
+    "mach_203834": {
+      "title": " A Vingança do Catador de Restos",
+      "chapters": [
+        {
+          "id": "203834",
+          "title": " A Vingança do Catador de Restos",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF8yMDM4MzQuanNvbg/",
+          "type": "manhua",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/11191/6833ba337c3cb.jpg"
         }
       ]
     }
