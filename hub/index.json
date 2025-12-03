@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764734864,
-    "totalMangas": 1695,
+    "lastUpdated": 1764734873,
+    "totalMangas": 1696,
     "version": "1.0.5"
   },
   "mangas": {
@@ -20342,6 +20342,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl9mMzhmYTIuanNvbg/",
           "type": "manhwa",
           "cover_url": ""
+        }
+      ]
+    },
+    "makr_8deede": {
+      "title": " O Pequeno Tirano Não Quer Ter um Final Ruim",
+      "chapters": [
+        {
+          "id": "8deede",
+          "title": " O Pequeno Tirano Não Quer Ter um Final Ruim",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl84ZGVlZGUuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/8975/6795c6752e26f.png"
         }
       ]
     }
