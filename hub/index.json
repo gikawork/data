@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": 1764728125,
+    "lastUpdated": 1764728142,
     "totalMangas": 1148,
     "version": "1.0.5"
   },
@@ -13766,6 +13766,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzM2NTAuanNvbg/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx150418-zFL5AtuYzduI.jpg"
+        }
+      ]
+    },
+    "majp_676": {
+      "title": "Madan no Ichi",
+      "chapters": [
+        {
+          "id": "676",
+          "title": "Madan no Ichi",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzY3Ni5qc29u/",
+          "type": "manga",
+          "cover_url": "https://cdn.myanimelist.net/images/manga/3/317474.jpg"
         }
       ]
     }
