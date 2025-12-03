@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": 1764729509,
+    "lastUpdated": 1764729523,
     "totalMangas": 1176,
     "version": "1.0.5"
   },
@@ -14102,6 +14102,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzk1Mi5qc29u/",
           "type": "manga",
           "cover_url": "https://images2.imgbox.com/7e/48/ehTnMBux_o.jpg"
+        }
+      ]
+    },
+    "makr_659": {
+      "title": "House Mayton's Youngest",
+      "chapters": [
+        {
+          "id": "659",
+          "title": "House Mayton's Youngest",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl82NTkuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.myanimelist.net/images/manga/2/272391.jpg"
         }
       ]
     }
