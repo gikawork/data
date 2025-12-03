@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764731902,
-    "totalMangas": 1363,
+    "lastUpdated": 1764731911,
+    "totalMangas": 1364,
     "version": "1.0.5"
   },
   "mangas": {
@@ -16358,6 +16358,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl82NTdjYjcuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/9914/67bb42ca02c94.png"
+        }
+      ]
+    },
+    "makr_de61e8": {
+      "title": "Estarei ao Lado do Protagonista",
+      "chapters": [
+        {
+          "id": "de61e8",
+          "title": "Estarei ao Lado do Protagonista",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl9kZTYxZTguanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/8921/6795b37f203ab.png"
         }
       ]
     }
