@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764763789,
-    "totalMangas": 2621,
+    "lastUpdated": 1764763798,
+    "totalMangas": 2622,
     "version": "1.0.6"
   },
   "mangas": {
@@ -31454,6 +31454,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8xMTU0Lmpzb24/",
           "type": "manhwa",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx192639-EUKnj2YCGgw0.jpg"
+        }
+      ]
+    },
+    "makr_c2e951": {
+      "title": "Demônio do Punho do Monte Hua",
+      "chapters": [
+        {
+          "id": "c2e951",
+          "title": "Demônio do Punho do Monte Hua",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl9jMmU5NTEuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/1358/wp-content/uploads/2024/05/FistDemonofMountHua512_20240111T110737562Z.jpeg"
         }
       ]
     }
