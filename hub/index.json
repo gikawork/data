@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764731962,
-    "totalMangas": 1370,
+    "lastUpdated": 1764731971,
+    "totalMangas": 1371,
     "version": "1.0.5"
   },
   "mangas": {
@@ -16442,6 +16442,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl84M2E0NTYuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/10996/6817788240dbd.jpg"
+        }
+      ]
+    },
+    "makr_e65a71": {
+      "title": "Amigos não fazem isso",
+      "chapters": [
+        {
+          "id": "e65a71",
+          "title": "Amigos não fazem isso",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl9lNjVhNzEuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/8324/6793db9025577.png"
         }
       ]
     }
