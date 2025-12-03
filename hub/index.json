@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764733754,
-    "totalMangas": 1571,
+    "lastUpdated": 1764733763,
+    "totalMangas": 1572,
     "version": "1.0.5"
   },
   "mangas": {
@@ -18854,6 +18854,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8xNTI4Lmpzb24/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/6492/wp-content/uploads/2024/11/25ebf8ca-d393-4c0f-839e-4690723fb04d.jpg.512.jpg"
+        }
+      ]
+    },
+    "mach_75443": {
+      "title": "O Imperador Qin retorna! Eu sou o Imortal Eterno Imperador Imortal",
+      "chapters": [
+        {
+          "id": "75443",
+          "title": "O Imperador Qin retorna! Eu sou o Imortal Eterno Imperador Imortal",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF83NTQ0My5qc29u/",
+          "type": "manhua",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/9789/67ab92bdb9d84.jpg"
         }
       ]
     }
