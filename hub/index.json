@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764734980,
-    "totalMangas": 1706,
+    "lastUpdated": 1764734989,
+    "totalMangas": 1707,
     "version": "1.0.5"
   },
   "mangas": {
@@ -20474,6 +20474,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl9mNjk3MTIuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/6423/6797d563e1f53.png"
+        }
+      ]
+    },
+    "makr_f6836d": {
+      "title": "O Tranquilizante do Tirano (Completo)",
+      "chapters": [
+        {
+          "id": "f6836d",
+          "title": "O Tranquilizante do Tirano (Completo)",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl9mNjgzNmQuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/9102/67ddb4cd01bc2.jpg"
         }
       ]
     }
