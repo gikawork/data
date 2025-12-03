@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764740393,
-    "totalMangas": 2294,
+    "lastUpdated": 1764740402,
+    "totalMangas": 2295,
     "version": "1.0.5"
   },
   "mangas": {
@@ -27530,6 +27530,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl9jYjZkZTAuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/10282/67d03e103673f.png"
+        }
+      ]
+    },
+    "makr_13": {
+      "title": "Baby Prisoner of the Winter Castle",
+      "chapters": [
+        {
+          "id": "13",
+          "title": "Baby Prisoner of the Winter Castle",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8xMy5qc29u/",
+          "type": "manhwa",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx176071-P30kncwh96k3.jpg"
         }
       ]
     }
