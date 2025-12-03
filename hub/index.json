@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764739838,
-    "totalMangas": 2233,
+    "lastUpdated": 1764739848,
+    "totalMangas": 2234,
     "version": "1.0.5"
   },
   "mangas": {
@@ -26798,6 +26798,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl84MTQuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx174517-m3qe65CIHLbT.png"
+        }
+      ]
+    },
+    "makr_112204": {
+      "title": "Meu Marido Secretamente Gostoso",
+      "chapters": [
+        {
+          "id": "112204",
+          "title": "Meu Marido Secretamente Gostoso",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8xMTIyMDQuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/10205/67ce4b60d93e7.png"
         }
       ]
     }
