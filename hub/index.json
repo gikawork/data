@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764740043,
-    "totalMangas": 2256,
+    "lastUpdated": 1764740052,
+    "totalMangas": 2257,
     "version": "1.0.5"
   },
   "mangas": {
@@ -27074,6 +27074,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl9jYzVmMjcuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/9267/67a3e67a4f688.png"
+        }
+      ]
+    },
+    "makr_c9079b": {
+      "title": "Demônios e Espíritos malignos",
+      "chapters": [
+        {
+          "id": "c9079b",
+          "title": "Demônios e Espíritos malignos",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl9jOTA3OWIuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/13555/68a3c1b4c7f79.jpg"
         }
       ]
     }
