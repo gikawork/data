@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764731183,
-    "totalMangas": 1286,
+    "lastUpdated": 1764731192,
+    "totalMangas": 1287,
     "version": "1.0.5"
   },
   "mangas": {
@@ -15434,6 +15434,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzcyNzQuanNvbg/",
           "type": "manga",
           "cover_url": ""
+        }
+      ]
+    },
+    "makr_7033": {
+      "title": "The Villainess Becomes a Mom",
+      "chapters": [
+        {
+          "id": "7033",
+          "title": "The Villainess Becomes a Mom",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl83MDMzLmpzb24/",
+          "type": "manhwa",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx154152-0jMQP9ibnOau.png"
         }
       ]
     }
