@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764733074,
-    "totalMangas": 1495,
+    "lastUpdated": 1764733083,
+    "totalMangas": 1496,
     "version": "1.0.5"
   },
   "mangas": {
@@ -17942,6 +17942,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl9mNDIyYjEuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/849/6861eb1c198cf.png"
+        }
+      ]
+    },
+    "mach_2693": {
+      "title": "Fazenda Apocalíptica",
+      "chapters": [
+        {
+          "id": "2693",
+          "title": "Fazenda Apocalíptica",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF8yNjkzLmpzb24/",
+          "type": "manhua",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/7644/wp-content/uploads/2024/12/fafa.jpg"
         }
       ]
     }
