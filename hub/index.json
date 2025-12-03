@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764740302,
-    "totalMangas": 2284,
+    "lastUpdated": 1764740312,
+    "totalMangas": 2285,
     "version": "1.0.5"
   },
   "mangas": {
@@ -27410,6 +27410,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl80MjM2MWIuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/9721/67f2feed5a398.png"
+        }
+      ]
+    },
+    "makr_1489": {
+      "title": "Atirador Arcano",
+      "chapters": [
+        {
+          "id": "1489",
+          "title": "Atirador Arcano",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8xNDg5Lmpzb24/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/2004/wp-content/uploads/2024/05/Arcane-Sniper.webp"
         }
       ]
     }
