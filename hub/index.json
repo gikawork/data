@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764734530,
-    "totalMangas": 1658,
+    "lastUpdated": 1764734538,
+    "totalMangas": 1659,
     "version": "1.0.5"
   },
   "mangas": {
@@ -19898,6 +19898,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl83MzM1My5qc29u/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/8201/wp-content/uploads/2024/12/70daac39-f79e-4a9b-ae6e-a608baffb317.jpg.512.jpg"
+        }
+      ]
+    },
+    "makr_b20265": {
+      "title": "Solo Carmesim",
+      "chapters": [
+        {
+          "id": "b20265",
+          "title": "Solo Carmesim",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl9iMjAyNjUuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/11269/683ed2070c02d.jpg"
         }
       ]
     }
