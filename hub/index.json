@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764738647,
-    "totalMangas": 2102,
+    "lastUpdated": 1764738656,
+    "totalMangas": 2103,
     "version": "1.0.5"
   },
   "mangas": {
@@ -25226,6 +25226,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl81Nzc4Lmpzb24/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/7689/wp-content/uploads/2024/12/Casamento-Politico-com-um-Inimigo-Amigavel.png"
+        }
+      ]
+    },
+    "makr_4ea9d3": {
+      "title": "Como Disse Meu Marido, Trouxe Um Amante",
+      "chapters": [
+        {
+          "id": "4ea9d3",
+          "title": "Como Disse Meu Marido, Trouxe Um Amante",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl80ZWE5ZDMuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/9191/679ae3e11857e.png"
         }
       ]
     }
