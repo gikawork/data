@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764739103,
-    "totalMangas": 2152,
+    "lastUpdated": 1764739113,
+    "totalMangas": 2153,
     "version": "1.0.5"
   },
   "mangas": {
@@ -25826,6 +25826,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl80ZTY3Y2EuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/8854/679563095f35e.png"
+        }
+      ]
+    },
+    "makr_431fe7": {
+      "title": "Sou Eu a Filha?",
+      "chapters": [
+        {
+          "id": "431fe7",
+          "title": "Sou Eu a Filha?",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl80MzFmZTcuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/8786/6795518added1.png"
         }
       ]
     }
