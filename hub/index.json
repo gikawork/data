@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": 1764726817,
+    "lastUpdated": 1764726832,
     "totalMangas": 1131,
     "version": "1.0.5"
   },
@@ -13562,6 +13562,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl81ODguanNvbg/",
           "type": "manhwa",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx170400-yMIuOIboWuoO.jpg"
+        }
+      ]
+    },
+    "majp_4561": {
+      "title": "Sono Munou, Jitsu wa Sekai Saikyou no Mahoutsukai: Munou to Sagesumare, Kizoku-ke kara Oidasareta ga, Gift \"Tenseisha\" ga Kakusei shite Zense no Nouryoku ga Yomigaetta",
+      "chapters": [
+        {
+          "id": "4561",
+          "title": "Sono Munou, Jitsu wa Sekai Saikyou no Mahoutsukai: Munou to Sagesumare, Kizoku-ke kara Oidasareta ga, Gift \"Tenseisha\" ga Kakusei shite Zense no Nouryoku ga Yomigaetta",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzQ1NjEuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://cdn.mangaupdates.com/image/i470937.jpg"
         }
       ]
     }
