@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": 1764723253,
+    "lastUpdated": 1764723268,
     "totalMangas": 1099,
     "version": "1.0.5"
   },
@@ -13178,6 +13178,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzQyNzQuanNvbg/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx181226-dz6pRHYM6B8G.jpg"
+        }
+      ]
+    },
+    "makr_47783": {
+      "title": "Legend of an Asura: The Poison Dragon",
+      "chapters": [
+        {
+          "id": "47783",
+          "title": "Legend of an Asura: The Poison Dragon",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl80Nzc4My5qc29u/",
+          "type": "manhwa",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx130566-ahDRD0JH2WSr.jpg"
         }
       ]
     }
