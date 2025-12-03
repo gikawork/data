@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764740529,
-    "totalMangas": 2309,
+    "lastUpdated": 1764740538,
+    "totalMangas": 2310,
     "version": "1.0.5"
   },
   "mangas": {
@@ -27710,6 +27710,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21vZWwvbWFvZWxfNDEzNi5qc29u/",
           "type": "oel",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/10166/67cce5aca0a7d.png"
+        }
+      ]
+    },
+    "makr_25517f": {
+      "title": "Eu Acho Que Transmigrei Para Algum Lugar",
+      "chapters": [
+        {
+          "id": "25517f",
+          "title": "Eu Acho Que Transmigrei Para Algum Lugar",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8yNTUxN2YuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/9869/67b29d2d68a56.png"
         }
       ]
     }
