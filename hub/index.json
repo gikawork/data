@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764736210,
-    "totalMangas": 1841,
+    "lastUpdated": 1764736219,
+    "totalMangas": 1842,
     "version": "1.0.5"
   },
   "mangas": {
@@ -22094,6 +22094,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF85NDEwLmpzb24/",
           "type": "manhua",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/4271/6796e6473896b.png"
+        }
+      ]
+    },
+    "makr_54059": {
+      "title": "L.A.G. Ilimitado Passivo",
+      "chapters": [
+        {
+          "id": "54059",
+          "title": "L.A.G. Ilimitado Passivo",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl81NDA1OS5qc29u/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/4473/wp-content/uploads/2024/10/7452.png"
         }
       ]
     }
