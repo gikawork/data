@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764735200,
-    "totalMangas": 1731,
+    "lastUpdated": 1764735209,
+    "totalMangas": 1732,
     "version": "1.0.5"
   },
   "mangas": {
@@ -20774,6 +20774,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl85MTRjOTcuanNvbg/",
           "type": "manhwa",
           "cover_url": ""
+        }
+      ]
+    },
+    "makr_cdfca7": {
+      "title": "Selar Demônios e Perguntar pelo Caminho",
+      "chapters": [
+        {
+          "id": "cdfca7",
+          "title": "Selar Demônios e Perguntar pelo Caminho",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl9jZGZjYTcuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/8699/67926982d1c1b.png"
         }
       ]
     }
