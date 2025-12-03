@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": 1764724778,
+    "lastUpdated": 1764724793,
     "totalMangas": 1107,
     "version": "1.0.5"
   },
@@ -13274,6 +13274,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzQzMDQuanNvbg/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx179768-ob8Z2GMAkuBb.jpg"
+        }
+      ]
+    },
+    "majp_1282": {
+      "title": "Kuroko's Basketball",
+      "chapters": [
+        {
+          "id": "1282",
+          "title": "Kuroko's Basketball",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzEyODIuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx41652-GXnIbmI4lUoM.png"
         }
       ]
     }
