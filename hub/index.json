@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764761666,
-    "totalMangas": 2614,
+    "lastUpdated": 1764761675,
+    "totalMangas": 2615,
     "version": "1.0.6"
   },
   "mangas": {
@@ -31370,6 +31370,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwX2ZhMjY0Ny5qc29u/",
           "type": "manga",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/11247/683bb32621ebf.png"
+        }
+      ]
+    },
+    "makr_cfd822": {
+      "title": "As Espadas Gêmeas do Clã Sima",
+      "chapters": [
+        {
+          "id": "cfd822",
+          "title": "As Espadas Gêmeas do Clã Sima",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl9jZmQ4MjIuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/7767/wp-content/uploads/2024/12/without.jpg"
         }
       ]
     }
