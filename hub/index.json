@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764729335,
-    "totalMangas": 1174,
+    "lastUpdated": 1764729351,
+    "totalMangas": 1173,
     "version": "1.0.5"
   },
   "mangas": {
@@ -1850,18 +1850,6 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvQ0gxMDY1Lmpzb24%3D/",
           "type": "manhua",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx159445-5odVu9QZ3crQ.jpg"
-        }
-      ]
-    },
-    "JP301": {
-      "title": "Hanninmae no Koibito",
-      "chapters": [
-        {
-          "id": 301,
-          "title": "Hanninmae no Koibito",
-          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9KUDMwMS5qc29u/",
-          "type": "manga",
-          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx164708-bx5cBR4rhGTv.png"
         }
       ]
     },
@@ -14078,6 +14066,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzIwMDczMC5qc29u/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx191532-6VRpN4GeW15E.jpg"
+        }
+      ]
+    },
+    "majp_301": {
+      "title": "Kaifuku Jutsushi no Yarinaoshi",
+      "chapters": [
+        {
+          "id": "301",
+          "title": "Kaifuku Jutsushi no Yarinaoshi",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzMwMS5qc29u/",
+          "type": "manga",
+          "cover_url": "https://cdn.mangaupdates.com/image/i502650.jpg"
         }
       ]
     }
