@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764732331,
-    "totalMangas": 1412,
+    "lastUpdated": 1764732340,
+    "totalMangas": 1413,
     "version": "1.0.5"
   },
   "mangas": {
@@ -16946,6 +16946,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl85MjQuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/9811/682b72a23bfdb.jpg"
+        }
+      ]
+    },
+    "majp_cf2f7b": {
+      "title": "Regime de Treino com as Mestras Mais Fortes -",
+      "chapters": [
+        {
+          "id": "cf2f7b",
+          "title": "Regime de Treino com as Mestras Mais Fortes -",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwX2NmMmY3Yi5qc29u/",
+          "type": "manga",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/10583/67f552e46abb1.jpg"
         }
       ]
     }
