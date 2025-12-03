@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764740474,
-    "totalMangas": 2303,
+    "lastUpdated": 1764740482,
+    "totalMangas": 2304,
     "version": "1.0.5"
   },
   "mangas": {
@@ -27638,6 +27638,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl81NzYxNS5qc29u/",
           "type": "manhwa",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx159394-EilDvfsAvthh.jpg"
+        }
+      ]
+    },
+    "makr_9413": {
+      "title": "Ele é Só Meu Irmão, Vossa Graça!",
+      "chapters": [
+        {
+          "id": "9413",
+          "title": "Ele é Só Meu Irmão, Vossa Graça!",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl85NDEzLmpzb24/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/9813/67acfa52b9f1d.png"
         }
       ]
     }
