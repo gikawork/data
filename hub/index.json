@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": 1764729011,
+    "lastUpdated": 1764729026,
     "totalMangas": 1165,
     "version": "1.0.5"
   },
@@ -13970,6 +13970,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzIwNzIuanNvbg/",
           "type": "manga",
           "cover_url": "https://cdn.mangaupdates.com/image/i483780.jpg"
+        }
+      ]
+    },
+    "majp_4942": {
+      "title": "Buddha",
+      "chapters": [
+        {
+          "id": "4942",
+          "title": "Buddha",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzQ5NDIuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx31111-ldPYMNd3PvHa.png"
         }
       ]
     }
