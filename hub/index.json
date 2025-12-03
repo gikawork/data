@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764737804,
-    "totalMangas": 2009,
+    "lastUpdated": 1764737814,
+    "totalMangas": 2010,
     "version": "1.0.5"
   },
   "mangas": {
@@ -24110,6 +24110,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF9mMzU2YTQuanNvbg/",
           "type": "manhua",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/10401/67d78b9fbb5f7.webp"
+        }
+      ]
+    },
+    "makr_a41ab2": {
+      "title": "Escola de Hipnose",
+      "chapters": [
+        {
+          "id": "a41ab2",
+          "title": "Escola de Hipnose",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl9hNDFhYjIuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/8409/wp-content/uploads/2025/01/psss.jpg"
         }
       ]
     }
