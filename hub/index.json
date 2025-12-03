@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764732809,
-    "totalMangas": 1466,
+    "lastUpdated": 1764732817,
+    "totalMangas": 1467,
     "version": "1.0.5"
   },
   "mangas": {
@@ -17594,6 +17594,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl9mM2NlZjEuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/10822/680ea990f38d8.jpg"
+        }
+      ]
+    },
+    "makr_34247": {
+      "title": "Inverno Negro",
+      "chapters": [
+        {
+          "id": "34247",
+          "title": "Inverno Negro",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8zNDI0Ny5qc29u/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/8835/67955df1d06ae.png"
         }
       ]
     }
