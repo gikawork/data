@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764737411,
-    "totalMangas": 1970,
+    "lastUpdated": 1764737420,
+    "totalMangas": 1971,
     "version": "1.0.5"
   },
   "mangas": {
@@ -23642,6 +23642,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl80ODM4MS5qc29u/",
           "type": "manhwa",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx140159-DHeFZw5RAEyQ.jpg"
+        }
+      ]
+    },
+    "makr_38838": {
+      "title": " Místico",
+      "chapters": [
+        {
+          "id": "38838",
+          "title": " Místico",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8zODgzOC5qc29u/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/8876/67956fb412541.png"
         }
       ]
     }
