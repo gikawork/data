@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": 1764728683,
+    "lastUpdated": 1764728699,
     "totalMangas": 1157,
     "version": "1.0.5"
   },
@@ -13874,6 +13874,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzE5MjkuanNvbg/",
           "type": "manga",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/10921/680eb134f2c93.jpg"
+        }
+      ]
+    },
+    "majp_26660": {
+      "title": "Central Asian Cooking",
+      "chapters": [
+        {
+          "id": "26660",
+          "title": "Central Asian Cooking",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzI2NjYwLmpzb24/",
+          "type": "manga",
+          "cover_url": "https://images2.imgbox.com/d7/03/vPEYIKvo_o.jpg"
         }
       ]
     }
