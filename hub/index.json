@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764735033,
-    "totalMangas": 1712,
+    "lastUpdated": 1764735041,
+    "totalMangas": 1713,
     "version": "1.0.5"
   },
   "mangas": {
@@ -20546,6 +20546,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl81MjQ4YTYuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/8155/wp-content/uploads/2024/12/10e0c1b5-a10a-4b78-83a7-3db029507403.jpg"
+        }
+      ]
+    },
+    "majp_9595": {
+      "title": "Panqueca Armada do Apocalipse",
+      "chapters": [
+        {
+          "id": "9595",
+          "title": "Panqueca Armada do Apocalipse",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzk1OTUuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/10480/67ddf31fe6bcd.png"
         }
       ]
     }
