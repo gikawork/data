@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764733464,
-    "totalMangas": 1539,
+    "lastUpdated": 1764733474,
+    "totalMangas": 1540,
     "version": "1.0.5"
   },
   "mangas": {
@@ -18470,6 +18470,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl84OTU0NmQuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/9252/67a29ad02c049.avif"
+        }
+      ]
+    },
+    "makr_8160f3": {
+      "title": "Iris a Dama e o Aparelho",
+      "chapters": [
+        {
+          "id": "8160f3",
+          "title": "Iris a Dama e o Aparelho",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl84MTYwZjMuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/9895/67b66325410c0.webp"
         }
       ]
     }
