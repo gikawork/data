@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": 1764727743,
+    "lastUpdated": 1764727758,
     "totalMangas": 1140,
     "version": "1.0.5"
   },
@@ -13670,6 +13670,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzM3OTAxLmpzb24/",
           "type": "manga",
           "cover_url": "https://cdn.myanimelist.net/images/manga/2/235002.jpg"
+        }
+      ]
+    },
+    "majp_5763": {
+      "title": "Shoujo Fujuubun",
+      "chapters": [
+        {
+          "id": "5763",
+          "title": "Shoujo Fujuubun",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzU3NjMuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://cdn.myanimelist.net/images/manga/2/306312l.jpg"
         }
       ]
     }
