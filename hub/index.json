@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": 1764727161,
+    "lastUpdated": 1764727202,
     "totalMangas": 1135,
     "version": "1.0.5"
   },
@@ -13610,6 +13610,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzg1Lmpzb24/",
           "type": "manga",
           "cover_url": "https://cdn.myanimelist.net/images/manga/3/234828.jpg"
+        }
+      ]
+    },
+    "majp_112811": {
+      "title": "Chiriko-senpai wa Tamatteiru",
+      "chapters": [
+        {
+          "id": "112811",
+          "title": "Chiriko-senpai wa Tamatteiru",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzExMjgxMS5qc29u/",
+          "type": "manga",
+          "cover_url": "https://cdn.myanimelist.net/images/manga/2/335092.jpg"
         }
       ]
     }
