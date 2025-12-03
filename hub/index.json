@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764738077,
-    "totalMangas": 2039,
+    "lastUpdated": 1764738086,
+    "totalMangas": 2040,
     "version": "1.0.5"
   },
   "mangas": {
@@ -24470,6 +24470,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8wM2YyMzcuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/2150/wp-content/uploads/2024/05/TheScholarsReincarnation_20231114T025429871Z.webp"
+        }
+      ]
+    },
+    "makr_2343": {
+      "title": "Excluído",
+      "chapters": [
+        {
+          "id": "2343",
+          "title": "Excluído",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8yMzQzLmpzb24/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/10910/680eaf40251c3.jpg"
         }
       ]
     }
