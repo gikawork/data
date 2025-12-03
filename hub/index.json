@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764736409,
-    "totalMangas": 1863,
+    "lastUpdated": 1764736417,
+    "totalMangas": 1864,
     "version": "1.0.5"
   },
   "mangas": {
@@ -22358,6 +22358,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl80Y2Y2ODguanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/5245/67db32295557b.jpg"
+        }
+      ]
+    },
+    "majp_b56e56": {
+      "title": "Ursus Azul",
+      "chapters": [
+        {
+          "id": "b56e56",
+          "title": "Ursus Azul",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwX2I1NmU1Ni5qc29u/",
+          "type": "manga",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/13965/68dddb8e4e4b4.webp"
         }
       ]
     }
