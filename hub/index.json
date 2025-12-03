@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764730522,
-    "totalMangas": 1211,
+    "lastUpdated": 1764730531,
+    "totalMangas": 1212,
     "version": "1.0.5"
   },
   "mangas": {
@@ -14534,6 +14534,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl9lZWJmNWIuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/258/67904a7b677be.webp"
+        }
+      ]
+    },
+    "makr_fc5537": {
+      "title": "Sou Uma Besta Viva no Mundo da Cultivação Imortal",
+      "chapters": [
+        {
+          "id": "fc5537",
+          "title": "Sou Uma Besta Viva no Mundo da Cultivação Imortal",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl9mYzU1MzcuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/7271/wp-content/uploads/2024/12/masqqqq.jpg"
         }
       ]
     }
