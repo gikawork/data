@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": 1764727515,
+    "lastUpdated": 1764727530,
     "totalMangas": 1136,
     "version": "1.0.5"
   },
@@ -13622,6 +13622,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzUxLmpzb24/",
           "type": "manga",
           "cover_url": "https://cdn.myanimelist.net/images/manga/1/314154.jpg"
+        }
+      ]
+    },
+    "majp_139": {
+      "title": "Shangri-La Frontier ~Kusoge Hunter, Kamige ni Idoman to su~",
+      "chapters": [
+        {
+          "id": "139",
+          "title": "Shangri-La Frontier ~Kusoge Hunter, Kamige ni Idoman to su~",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzEzOS5qc29u/",
+          "type": "manga",
+          "cover_url": "https://cdn.myanimelist.net/images/manga/3/235471.jpg"
         }
       ]
     }
