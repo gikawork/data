@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": 1764764114,
+    "lastUpdated": 1764764122,
     "totalMangas": 2623,
     "version": "1.0.6"
   },
@@ -31469,15 +31469,15 @@
         }
       ]
     },
-    "makr_1216": {
-      "title": "O Garoto da Morte",
+    "mach_ddb1e7": {
+      "title": "O Renascimento de um Fracassado",
       "chapters": [
         {
-          "id": "1216",
-          "title": "O Garoto da Morte",
-          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8xMjE2Lmpzb24/",
-          "type": "manhwa",
-          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/2018/wp-content/uploads/2024/05/O_Garoto_da_Morte_Capa.format-avif.original.avif"
+          "id": "ddb1e7",
+          "title": "O Renascimento de um Fracassado",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF9kZGIxZTcuanNvbg/",
+          "type": "manhua",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/9966/67be56bce34ca.webp"
         }
       ]
     }
