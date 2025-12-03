@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764730999,
-    "totalMangas": 1265,
+    "lastUpdated": 1764731008,
+    "totalMangas": 1266,
     "version": "1.0.5"
   },
   "mangas": {
@@ -15182,6 +15182,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl9kMjc1OTQuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/9196/683ca17bb4d9b.png"
+        }
+      ]
+    },
+    "makr_45117": {
+      "title": "Aideen",
+      "chapters": [
+        {
+          "id": "45117",
+          "title": "Aideen",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl80NTExNy5qc29u/",
+          "type": "manhwa",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx126384-jkpbSvIVCMRs.jpg"
         }
       ]
     }
