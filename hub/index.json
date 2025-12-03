@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764738766,
-    "totalMangas": 2115,
+    "lastUpdated": 1764738777,
+    "totalMangas": 2116,
     "version": "1.0.5"
   },
   "mangas": {
@@ -25382,6 +25382,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl9jY2I4YWUuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/9203/6861d4e5c3633.jpg"
+        }
+      ]
+    },
+    "makr_9359a0": {
+      "title": "O Mago dos Turnos",
+      "chapters": [
+        {
+          "id": "9359a0",
+          "title": "O Mago dos Turnos",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl85MzU5YTAuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/13105/68726fec91e1c.jpg"
         }
       ]
     }
