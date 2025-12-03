@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764739719,
-    "totalMangas": 2220,
+    "lastUpdated": 1764739728,
+    "totalMangas": 2221,
     "version": "1.0.5"
   },
   "mangas": {
@@ -26642,6 +26642,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8zMjc3NS5qc29u/",
           "type": "manhwa",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx109230-guUjt641ms8D.jpg"
+        }
+      ]
+    },
+    "makr_92c788": {
+      "title": "O imperador e a Cavaleira",
+      "chapters": [
+        {
+          "id": "92c788",
+          "title": "O imperador e a Cavaleira",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl85MmM3ODguanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/1671/67929fca9ba87.png"
         }
       ]
     }
