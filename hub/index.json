@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764725589,
-    "totalMangas": 1117,
+    "lastUpdated": 1764725599,
+    "totalMangas": 1118,
     "version": "1.0.5"
   },
   "mangas": {
@@ -13406,6 +13406,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzE1ODIyLmpzb24/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx73741-wQUkOa6m3LRA.jpg"
+        }
+      ]
+    },
+    "makr_49377": {
+      "title": "Return of the Mad Demon",
+      "chapters": [
+        {
+          "id": "49377",
+          "title": "Return of the Mad Demon",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl80OTM3Ny5qc29u/",
+          "type": "manhwa",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx137304-XZ91kOmUIMQo.png"
         }
       ]
     }
