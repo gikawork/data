@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764740412,
-    "totalMangas": 2296,
+    "lastUpdated": 1764740420,
+    "totalMangas": 2297,
     "version": "1.0.5"
   },
   "mangas": {
@@ -27554,6 +27554,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8xOTMzYTEuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/8980/6795c94fa7a11.png"
+        }
+      ]
+    },
+    "makr_1025": {
+      "title": "A Inocência de Yeonwoo",
+      "chapters": [
+        {
+          "id": "1025",
+          "title": "A Inocência de Yeonwoo",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8xMDI1Lmpzb24/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/8709/6793a2bad6639.png"
         }
       ]
     }
