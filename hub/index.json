@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764735093,
-    "totalMangas": 1719,
+    "lastUpdated": 1764735101,
+    "totalMangas": 1720,
     "version": "1.0.5"
   },
   "mangas": {
@@ -20630,6 +20630,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzE0NjYuanNvbg/",
           "type": "manga",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/9995/67c202905336c.jpg"
+        }
+      ]
+    },
+    "makr_615e7d": {
+      "title": "A Criança da Bainha da Espada",
+      "chapters": [
+        {
+          "id": "615e7d",
+          "title": "A Criança da Bainha da Espada",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl82MTVlN2QuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/7936/wp-content/uploads/2024/12/cover-1.jpg"
         }
       ]
     }
