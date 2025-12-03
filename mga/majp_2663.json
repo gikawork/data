@@ -6,7 +6,7 @@
   "cover": "https://cdn.myanimelist.net/images/manga/2/303527.jpg",
   "status": "OnGoing",
   "chapters": {
-    "03": {
+    "3": {
       "title": "Capítulo 03",
       "volume": "",
       "last_updated": "1758920737",
@@ -35,7 +35,7 @@
         ]
       }
     },
-    "02": {
+    "2": {
       "title": "Capítulo 02",
       "volume": "",
       "last_updated": "1758920737",
@@ -61,7 +61,7 @@
         ]
       }
     },
-    "01": {
+    "1": {
       "title": "Capítulo 01",
       "volume": "",
       "last_updated": "1758920737",
@@ -104,7 +104,7 @@
         ]
       }
     },
-    "00": {
+    "0": {
       "title": "Capítulo 00",
       "volume": "",
       "last_updated": "1758920737",
