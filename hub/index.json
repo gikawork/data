@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764730513,
-    "totalMangas": 1210,
+    "lastUpdated": 1764730522,
+    "totalMangas": 1211,
     "version": "1.0.5"
   },
   "mangas": {
@@ -14522,6 +14522,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl80OTY3Ni5qc29u/",
           "type": "manhwa",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx141585-l7fbpRRG2plg.jpg"
+        }
+      ]
+    },
+    "makr_eebf5b": {
+      "title": "O Retorno do Ranker",
+      "chapters": [
+        {
+          "id": "eebf5b",
+          "title": "O Retorno do Ranker",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl9lZWJmNWIuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/258/67904a7b677be.webp"
         }
       ]
     }
