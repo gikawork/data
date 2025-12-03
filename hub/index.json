@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": 1764724078,
+    "lastUpdated": 1764724094,
     "totalMangas": 1103,
     "version": "1.0.5"
   },
@@ -13226,6 +13226,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzIxMC5qc29u/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx156273-Ts3wGuTMb0Bq.jpg"
+        }
+      ]
+    },
+    "makr_3725": {
+      "title": "Ganzi Monster",
+      "chapters": [
+        {
+          "id": "3725",
+          "title": "Ganzi Monster",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8zNzI1Lmpzb24/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.myanimelist.net/images/manga/3/276004.jpg"
         }
       ]
     }
