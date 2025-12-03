@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764739094,
-    "totalMangas": 2151,
+    "lastUpdated": 1764739103,
+    "totalMangas": 2152,
     "version": "1.0.5"
   },
   "mangas": {
@@ -25814,6 +25814,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl9mYzcwMGUuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/8230/wp-content/uploads/2024/12/What-it-Means-to-Be-you.jpg"
+        }
+      ]
+    },
+    "makr_4e67ca": {
+      "title": "Nossa vilã mudou",
+      "chapters": [
+        {
+          "id": "4e67ca",
+          "title": "Nossa vilã mudou",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl80ZTY3Y2EuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/8854/679563095f35e.png"
         }
       ]
     }
