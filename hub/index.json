@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764738539,
-    "totalMangas": 2090,
+    "lastUpdated": 1764738547,
+    "totalMangas": 2091,
     "version": "1.0.5"
   },
   "mangas": {
@@ -25082,6 +25082,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl81MTYzNi5qc29u/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/13295/687efab615696.webp"
+        }
+      ]
+    },
+    "makr_1458c7": {
+      "title": "Instrutor Número Um",
+      "chapters": [
+        {
+          "id": "1458c7",
+          "title": "Instrutor Número Um",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8xNDU4YzcuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/1034/6861c6ddcb916.jpg"
         }
       ]
     }
