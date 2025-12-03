@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764727638,
-    "totalMangas": 1138,
+    "lastUpdated": 1764727645,
+    "totalMangas": 1139,
     "version": "1.0.5"
   },
   "mangas": {
@@ -13658,6 +13658,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzI4MjQuanNvbg/",
           "type": "manga",
           "cover_url": "https://images2.imgbox.com/3c/a8/UhysdeZY_o.jpg"
+        }
+      ]
+    },
+    "maoel_1557": {
+      "title": "Clinic of Horrors",
+      "chapters": [
+        {
+          "id": "1557",
+          "title": "Clinic of Horrors",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21vZWwvbWFvZWxfMTU1Ny5qc29u/",
+          "type": "oel",
+          "cover_url": "https://media.kitsu.app/manga/61518/poster_image/34d0a2456dc84b6e53429668cca9aea7.jpg"
         }
       ]
     }
