@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764731574,
-    "totalMangas": 1327,
+    "lastUpdated": 1764731583,
+    "totalMangas": 1328,
     "version": "1.0.5"
   },
   "mangas": {
@@ -15926,6 +15926,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF82NDc1Ny5qc29u/",
           "type": "manhua",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/6365/wp-content/uploads/2024/11/rand.jpg"
+        }
+      ]
+    },
+    "makr_7176": {
+      "title": "Jogador de Nível 1",
+      "chapters": [
+        {
+          "id": "7176",
+          "title": "Jogador de Nível 1",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl83MTc2Lmpzb24/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/2480/wp-content/uploads/2024/06/Capa_Jogador_de_Nivel_1_frKbftL.format-webp.original.webp"
         }
       ]
     }
