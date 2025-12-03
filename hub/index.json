@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764760753,
-    "totalMangas": 2611,
+    "lastUpdated": 1764760764,
+    "totalMangas": 2612,
     "version": "1.0.6"
   },
   "mangas": {
@@ -31334,6 +31334,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF8xNTExLmpzb24/",
           "type": "manhua",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/5547/wp-content/uploads/2024/10/7efada49-20ba-488d-93b6-1771ca0f9bfa.jpg.512.jpg"
+        }
+      ]
+    },
+    "makr_9571e1": {
+      "title": "O Vilão me Pediu em Casamento",
+      "chapters": [
+        {
+          "id": "9571e1",
+          "title": "O Vilão me Pediu em Casamento",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl85NTcxZTEuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/9905/67b7b857d8651.webp"
         }
       ]
     }
