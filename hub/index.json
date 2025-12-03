@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764730852,
-    "totalMangas": 1248,
+    "lastUpdated": 1764730860,
+    "totalMangas": 1249,
     "version": "1.0.5"
   },
   "mangas": {
@@ -14978,6 +14978,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl9mN2IyYzYuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/284/67d0537ae9e84.jpg"
+        }
+      ]
+    },
+    "mach_48220": {
+      "title": "Trono do Dragão",
+      "chapters": [
+        {
+          "id": "48220",
+          "title": "Trono do Dragão",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF80ODIyMC5qc29u/",
+          "type": "manhua",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/4999/wp-content/uploads/2024/10/3767_upscayl_2x_realesrgan-x4plus-anime.png"
         }
       ]
     }
