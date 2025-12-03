@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764732826,
-    "totalMangas": 1468,
+    "lastUpdated": 1764732836,
+    "totalMangas": 1469,
     "version": "1.0.5"
   },
   "mangas": {
@@ -17618,6 +17618,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8zMTQzMy5qc29u/",
           "type": "manhwa",
           "cover_url": "https://cdn.mangaupdates.com/image/i356643.png"
+        }
+      ]
+    },
+    "makr_3f1163": {
+      "title": "Eu Matei Um Jogador da Academia",
+      "chapters": [
+        {
+          "id": "3f1163",
+          "title": "Eu Matei Um Jogador da Academia",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8zZjExNjMuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/1183/6864c167b4fb9.webp"
         }
       ]
     }
