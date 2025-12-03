@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764738721,
-    "totalMangas": 2110,
+    "lastUpdated": 1764738730,
+    "totalMangas": 2111,
     "version": "1.0.5"
   },
   "mangas": {
@@ -25322,6 +25322,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl81NDUwMi5qc29u/",
           "type": "manhwa",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx152089-73WQgdssFJwM.png"
+        }
+      ]
+    },
+    "makr_6347": {
+      "title": "Devorador de Drogas",
+      "chapters": [
+        {
+          "id": "6347",
+          "title": "Devorador de Drogas",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl82MzQ3Lmpzb24/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/2008/6892806a34559.webp"
         }
       ]
     }
