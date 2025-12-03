@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764738003,
-    "totalMangas": 2031,
+    "lastUpdated": 1764738014,
+    "totalMangas": 2032,
     "version": "1.0.5"
   },
   "mangas": {
@@ -24374,6 +24374,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8wNDc3OTAuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/9200/67a29a857fa3a.png"
+        }
+      ]
+    },
+    "makr_a215a6": {
+      "title": "Pensei que era um clichê",
+      "chapters": [
+        {
+          "id": "a215a6",
+          "title": "Pensei que era um clichê",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl9hMjE1YTYuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/7714/67c6492c27da2.png"
         }
       ]
     }
