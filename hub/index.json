@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764736044,
-    "totalMangas": 1823,
+    "lastUpdated": 1764736053,
+    "totalMangas": 1824,
     "version": "1.0.5"
   },
   "mangas": {
@@ -21878,6 +21878,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8zNTM1MzQuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.mangaupdates.com/image/i490427.jpg"
+        }
+      ]
+    },
+    "makr_8acaef": {
+      "title": "O Namorado da Vilã é Perfeito Demais",
+      "chapters": [
+        {
+          "id": "8acaef",
+          "title": "O Namorado da Vilã é Perfeito Demais",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl84YWNhZWYuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/9087/6796e6c86ace6.png"
         }
       ]
     }
