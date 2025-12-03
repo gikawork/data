@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764731479,
-    "totalMangas": 1319,
+    "lastUpdated": 1764731488,
+    "totalMangas": 1320,
     "version": "1.0.5"
   },
   "mangas": {
@@ -15830,6 +15830,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl85OTg2Lmpzb24/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/10063/67c499f7d626b.png"
+        }
+      ]
+    },
+    "mach_6568": {
+      "title": "Arquivilão",
+      "chapters": [
+        {
+          "id": "6568",
+          "title": "Arquivilão",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF82NTY4Lmpzb24/",
+          "type": "manhua",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/11117/6829255ae477f.jpg"
         }
       ]
     }
