@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764737493,
-    "totalMangas": 1979,
+    "lastUpdated": 1764737502,
+    "totalMangas": 1980,
     "version": "1.0.5"
   },
   "mangas": {
@@ -23750,6 +23750,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl84MDg4Ny5qc29u/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/8946/6795bca6c7383.png"
+        }
+      ]
+    },
+    "makr_f5cf7c": {
+      "title": "Dama Intocável",
+      "chapters": [
+        {
+          "id": "f5cf7c",
+          "title": "Dama Intocável",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl9mNWNmN2MuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/8240/wp-content/uploads/2024/12/Untouchable_Lady.jpg"
         }
       ]
     }
