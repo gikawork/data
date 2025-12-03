@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764730602,
-    "totalMangas": 1220,
+    "lastUpdated": 1764730611,
+    "totalMangas": 1221,
     "version": "1.0.5"
   },
   "mangas": {
@@ -14642,6 +14642,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8zZDY5YTkuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/10453/67db6a3cce8d2.png"
+        }
+      ]
+    },
+    "mach_2294": {
+      "title": "Deus Marcial Asura",
+      "chapters": [
+        {
+          "id": "2294",
+          "title": "Deus Marcial Asura",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF8yMjk0Lmpzb24/",
+          "type": "manhua",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/9833/67af6dd867f69.png"
         }
       ]
     }
