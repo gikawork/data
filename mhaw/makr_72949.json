@@ -1,0 +1,57 @@
+{
+  "title": "O Lamento da Ira do Dragão",
+  "author": "Autor não encontrado",
+  "artist": "Artista não encontrado",
+  "description": "Ananta, um descendente de um dos Seis Primeiros Encarnados, pode se transformar em um dragão lutador imparável sempre que algo se meter em seu caminho. É um poder de que ele precisará em sua busca por vingança contra o Encarnação das Asas, um enganador sedento de poder que se assemelha a um anjo celestial apenas na aparência.",
+  "cover": "https://cdn.verdinha.wtf/scans/1/obras/8162/wp-content/uploads/2024/12/LogoBR.png",
+  "status": "Em Andamento",
+  "chapters": {
+    "3": {
+      "title": "Capítulo 3",
+      "groups": {
+        "gikamura": [
+          "https://cdn.verdinha.wtf/scans/1/obras/8162/capitulos/3/0.png",
+          "https://cdn.verdinha.wtf/scans/1/obras/8162/capitulos/3/1.jpg",
+          "https://cdn.verdinha.wtf/scans/1/obras/8162/capitulos/3/2.jpg",
+          "https://cdn.verdinha.wtf/scans/1/obras/8162/capitulos/3/3.jpg",
+          "https://cdn.verdinha.wtf/scans/1/obras/8162/capitulos/3/4.jpg",
+          "https://cdn.verdinha.wtf/scans/1/obras/8162/capitulos/3/5.jpg",
+          "https://cdn.verdinha.wtf/scans/1/obras/8162/capitulos/3/6.jpg",
+          "https://cdn.verdinha.wtf/scans/1/obras/8162/capitulos/3/7.png"
+        ]
+      }
+    },
+    "2": {
+      "title": "Capítulo 2",
+      "groups": {
+        "gikamura": [
+          "https://cdn.verdinha.wtf/scans/1/obras/8162/capitulos/2/0.png",
+          "https://cdn.verdinha.wtf/scans/1/obras/8162/capitulos/2/1.jpg",
+          "https://cdn.verdinha.wtf/scans/1/obras/8162/capitulos/2/2.jpg",
+          "https://cdn.verdinha.wtf/scans/1/obras/8162/capitulos/2/3.jpg",
+          "https://cdn.verdinha.wtf/scans/1/obras/8162/capitulos/2/4.jpg",
+          "https://cdn.verdinha.wtf/scans/1/obras/8162/capitulos/2/5.jpg",
+          "https://cdn.verdinha.wtf/scans/1/obras/8162/capitulos/2/6.jpg",
+          "https://cdn.verdinha.wtf/scans/1/obras/8162/capitulos/2/7.png"
+        ]
+      }
+    },
+    "1": {
+      "title": "Capítulo 1",
+      "groups": {
+        "gikamura": [
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/manga_6770576ecf6d9/23479f5cda61ea1a24cd9bb5abefd399/0.png",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/manga_6770576ecf6d9/23479f5cda61ea1a24cd9bb5abefd399/1.jpg",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/manga_6770576ecf6d9/23479f5cda61ea1a24cd9bb5abefd399/2.jpg",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/manga_6770576ecf6d9/23479f5cda61ea1a24cd9bb5abefd399/3.jpg",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/manga_6770576ecf6d9/23479f5cda61ea1a24cd9bb5abefd399/4.jpg",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/manga_6770576ecf6d9/23479f5cda61ea1a24cd9bb5abefd399/5.jpg",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/manga_6770576ecf6d9/23479f5cda61ea1a24cd9bb5abefd399/6.jpg",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/manga_6770576ecf6d9/23479f5cda61ea1a24cd9bb5abefd399/7.jpg",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/manga_6770576ecf6d9/23479f5cda61ea1a24cd9bb5abefd399/8.jpg",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/manga_6770576ecf6d9/23479f5cda61ea1a24cd9bb5abefd399/9.png"
+        ]
+      }
+    }
+  }
+}
