@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764737420,
-    "totalMangas": 1971,
+    "lastUpdated": 1764737428,
+    "totalMangas": 1972,
     "version": "1.0.5"
   },
   "mangas": {
@@ -23654,6 +23654,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8zODgzOC5qc29u/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/8876/67956fb412541.png"
+        }
+      ]
+    },
+    "makr_366205": {
+      "title": "Guarda Prisional Zero",
+      "chapters": [
+        {
+          "id": "366205",
+          "title": "Guarda Prisional Zero",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8zNjYyMDUuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/13535/689f7d3d6c6e9.png"
         }
       ]
     }
