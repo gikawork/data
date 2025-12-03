@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764730826,
-    "totalMangas": 1245,
+    "lastUpdated": 1764730834,
+    "totalMangas": 1246,
     "version": "1.0.5"
   },
   "mangas": {
@@ -14942,6 +14942,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl83YWQ1ZTcuanNvbg/",
           "type": "manhwa",
           "cover_url": ""
+        }
+      ]
+    },
+    "makr_356559": {
+      "title": "Mokrina",
+      "chapters": [
+        {
+          "id": "356559",
+          "title": "Mokrina",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8zNTY1NTkuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/8892/67959b06aa36a.png"
         }
       ]
     }
