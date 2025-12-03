@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764735411,
-    "totalMangas": 1754,
+    "lastUpdated": 1764735421,
+    "totalMangas": 1755,
     "version": "1.0.5"
   },
   "mangas": {
@@ -21050,6 +21050,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8xODhjYjkuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/8872/67956c5f96d1d.png"
+        }
+      ]
+    },
+    "mach_871": {
+      "title": "Pico Marcial",
+      "chapters": [
+        {
+          "id": "871",
+          "title": "Pico Marcial",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF84NzEuanNvbg/",
+          "type": "manhua",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/3715/wp-content/uploads/2024/07/Martial-Peak.jpg"
         }
       ]
     }
