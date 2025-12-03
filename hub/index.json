@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": 1764726981,
+    "lastUpdated": 1764726995,
     "totalMangas": 1134,
     "version": "1.0.5"
   },
@@ -13598,6 +13598,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzI0NzAuanNvbg/",
           "type": "manga",
           "cover_url": "https://cdn.myanimelist.net/images/manga/2/316160.jpg"
+        }
+      ]
+    },
+    "mach_6479": {
+      "title": "Alluring Hunk in Women Wonderland",
+      "chapters": [
+        {
+          "id": "6479",
+          "title": "Alluring Hunk in Women Wonderland",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF82NDc5Lmpzb24/",
+          "type": "manhua",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx159301-zlQC2YuT8Wcy.jpg"
         }
       ]
     }
