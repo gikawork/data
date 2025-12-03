@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764737565,
-    "totalMangas": 1987,
+    "lastUpdated": 1764737581,
+    "totalMangas": 1988,
     "version": "1.0.5"
   },
   "mangas": {
@@ -23846,6 +23846,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl83ZDUzMjIuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/13175/68771c5ca238b.webp"
+        }
+      ]
+    },
+    "makr_40c981": {
+      "title": "O Regressor da Família Caída",
+      "chapters": [
+        {
+          "id": "40c981",
+          "title": "O Regressor da Família Caída",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl80MGM5ODEuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/2805/6861cc9ab3baf.jpg"
         }
       ]
     }
