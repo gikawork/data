@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764734082,
-    "totalMangas": 1608,
+    "lastUpdated": 1764734092,
+    "totalMangas": 1609,
     "version": "1.0.5"
   },
   "mangas": {
@@ -19298,6 +19298,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl9kN2VmNWEuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/8362/67a02a721acd3.png"
+        }
+      ]
+    },
+    "makr_ff6883": {
+      "title": "Eu me Tornei a Rival Do Herói",
+      "chapters": [
+        {
+          "id": "ff6883",
+          "title": "Eu me Tornei a Rival Do Herói",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl9mZjY4ODMuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/8993/6795cdb4da833.png"
         }
       ]
     }
