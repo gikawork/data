@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": 1764729118,
+    "lastUpdated": 1764729132,
     "totalMangas": 1167,
     "version": "1.0.5"
   },
@@ -13994,6 +13994,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21vdC9tYW90XzMyMTkwNy5qc29u/",
           "type": "outro",
           "cover_url": "https://cdn.myanimelist.net/images/manga/2/181049.jpg"
+        }
+      ]
+    },
+    "majp_648": {
+      "title": "Ase to Sekken",
+      "chapters": [
+        {
+          "id": "648",
+          "title": "Ase to Sekken",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzY0OC5qc29u/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/nx105332-ulsuWUvkMBDU.jpg"
         }
       ]
     }
