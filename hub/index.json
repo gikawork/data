@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764732984,
-    "totalMangas": 1485,
+    "lastUpdated": 1764732993,
+    "totalMangas": 1486,
     "version": "1.0.5"
   },
   "mangas": {
@@ -17822,6 +17822,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl9hNDQzODUuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/8931/6795b7c8f4055.png"
+        }
+      ]
+    },
+    "makr_58955": {
+      "title": "Bastian",
+      "chapters": [
+        {
+          "id": "58955",
+          "title": "Bastian",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl81ODk1NS5qc29u/",
+          "type": "manhwa",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx161714-fNIR2oNLNimm.png"
         }
       ]
     }
