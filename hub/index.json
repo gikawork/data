@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764736063,
-    "totalMangas": 1825,
+    "lastUpdated": 1764736071,
+    "totalMangas": 1826,
     "version": "1.0.5"
   },
   "mangas": {
@@ -21902,6 +21902,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8xNjcyLmpzb24/",
           "type": "manhwa",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx178201-sGdW12ZGzRaL.jpg"
+        }
+      ]
+    },
+    "majp_31922": {
+      "title": "Rompendo Limites",
+      "chapters": [
+        {
+          "id": "31922",
+          "title": "Rompendo Limites",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzMxOTIyLmpzb24/",
+          "type": "manga",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/11351/684b3a05ca8fd.png"
         }
       ]
     }
