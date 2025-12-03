@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764726549,
-    "totalMangas": 1127,
+    "lastUpdated": 1764726559,
+    "totalMangas": 1128,
     "version": "1.0.5"
   },
   "mangas": {
@@ -13526,6 +13526,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzI5ODAuanNvbg/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx181289-WtRTMXLYjxge.jpg"
+        }
+      ]
+    },
+    "makr_361244": {
+      "title": "Supporter-ga Da Haemeogeum",
+      "chapters": [
+        {
+          "id": "361244",
+          "title": "Supporter-ga Da Haemeogeum",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8zNjEyNDQuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx196010-TNOMgmlpLV5G.jpg"
         }
       ]
     }
