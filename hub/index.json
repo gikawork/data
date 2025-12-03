@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": 1764727471,
+    "lastUpdated": 1764727486,
     "totalMangas": 1136,
     "version": "1.0.5"
   },
@@ -13622,6 +13622,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzM2NDcuanNvbg/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx90035-JOcsM9KaRDeZ.jpg"
+        }
+      ]
+    },
+    "makr_5069": {
+      "title": "Worthless Regression",
+      "chapters": [
+        {
+          "id": "5069",
+          "title": "Worthless Regression",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl81MDY5Lmpzb24/",
+          "type": "manhwa",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx147027-6vlUI1C4kK9Z.jpg"
         }
       ]
     }
