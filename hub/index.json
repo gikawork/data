@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764732007,
-    "totalMangas": 1375,
+    "lastUpdated": 1764732016,
+    "totalMangas": 1376,
     "version": "1.0.5"
   },
   "mangas": {
@@ -16502,6 +16502,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl82NzI0Lmpzb24/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/1189///oldi.sussytoons.com/wp-content/uploads/2024/05/cheolsusavestheworld-sussy.webp"
+        }
+      ]
+    },
+    "mach_49000": {
+      "title": "Deus da Espada Caótica (Remake)",
+      "chapters": [
+        {
+          "id": "49000",
+          "title": "Deus da Espada Caótica (Remake)",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF80OTAwMC5qc29u/",
+          "type": "manhua",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/8418/wp-content/uploads/2025/01/55626afc9da7299d22a021c32db55057-compress-watermark.seo_.jpg"
         }
       ]
     }
