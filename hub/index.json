@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764733207,
-    "totalMangas": 1510,
+    "lastUpdated": 1764733216,
+    "totalMangas": 1511,
     "version": "1.0.5"
   },
   "mangas": {
@@ -18122,6 +18122,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl9jNTNkNWMuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/10140/67cb36ee06000.png"
+        }
+      ]
+    },
+    "makr_ecbe32": {
+      "title": "O Segundo Protagonista Obsessivo se Tornou Louco",
+      "chapters": [
+        {
+          "id": "ecbe32",
+          "title": "O Segundo Protagonista Obsessivo se Tornou Louco",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl9lY2JlMzIuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/9099/6796ea17ba0c0.png"
         }
       ]
     }
