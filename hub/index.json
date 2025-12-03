@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": 1764726749,
+    "lastUpdated": 1764726763,
     "totalMangas": 1130,
     "version": "1.0.5"
   },
@@ -13550,6 +13550,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzE2ODUuanNvbg/",
           "type": "manga",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/13959/68dd65d84659a.webp"
+        }
+      ]
+    },
+    "majp_2857": {
+      "title": "Mezametara Saikyou Soubi to Uchuusenmochi Datta node, Ikkodate Mezashite Youhei toshite Jiyuu ni Ikitai",
+      "chapters": [
+        {
+          "id": "2857",
+          "title": "Mezametara Saikyou Soubi to Uchuusenmochi Datta node, Ikkodate Mezashite Youhei toshite Jiyuu ni Ikitai",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzI4NTcuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://cdn.myanimelist.net/images/manga/3/232556.jpg"
         }
       ]
     }
