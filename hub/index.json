@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764730640,
-    "totalMangas": 1224,
+    "lastUpdated": 1764730648,
+    "totalMangas": 1225,
     "version": "1.0.5"
   },
   "mangas": {
@@ -14690,6 +14690,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl9lNDJjMWYuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/8765/67948abbe123c.png"
+        }
+      ]
+    },
+    "makr_77938": {
+      "title": "Mestre dos Debuffs",
+      "chapters": [
+        {
+          "id": "77938",
+          "title": "Mestre dos Debuffs",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl83NzkzOC5qc29u/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/7457/wp-content/uploads/2024/12/debb.jpg"
         }
       ]
     }
