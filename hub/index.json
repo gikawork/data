@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764731833,
-    "totalMangas": 1355,
+    "lastUpdated": 1764731842,
+    "totalMangas": 1356,
     "version": "1.0.5"
   },
   "mangas": {
@@ -16262,6 +16262,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl9jZTRmNzkuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/6163/wp-content/uploads/2024/11/sammm.jpg"
+        }
+      ]
+    },
+    "makr_b2fd15": {
+      "title": "Contanto que Você Goste",
+      "chapters": [
+        {
+          "id": "b2fd15",
+          "title": "Contanto que Você Goste",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl9iMmZkMTUuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/9838/67afd7876bf46.avif"
         }
       ]
     }
