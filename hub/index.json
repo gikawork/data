@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764732383,
-    "totalMangas": 1418,
+    "lastUpdated": 1764732392,
+    "totalMangas": 1419,
     "version": "1.0.5"
   },
   "mangas": {
@@ -17018,6 +17018,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF8zYmQwZGEuanNvbg/",
           "type": "manhua",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/9937/67bc9900091f7.jpg"
+        }
+      ]
+    },
+    "makr_312": {
+      "title": "Pegadas Na Neve",
+      "chapters": [
+        {
+          "id": "312",
+          "title": "Pegadas Na Neve",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8zMTIuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/13893/68d5f2cdee40a.webp"
         }
       ]
     }
