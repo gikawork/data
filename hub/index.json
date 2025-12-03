@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764731666,
-    "totalMangas": 1336,
+    "lastUpdated": 1764731675,
+    "totalMangas": 1337,
     "version": "1.0.5"
   },
   "mangas": {
@@ -16034,6 +16034,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl85NzQuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx132156-nULyIIYiddTr.jpg"
+        }
+      ]
+    },
+    "makr_67cd9e": {
+      "title": " Radiância da Tribulação: O Velho Mostra o Caminho",
+      "chapters": [
+        {
+          "id": "67cd9e",
+          "title": " Radiância da Tribulação: O Velho Mostra o Caminho",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl82N2NkOWUuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/8690/6791375157b90.png"
         }
       ]
     }
