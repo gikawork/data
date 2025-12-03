@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764738296,
-    "totalMangas": 2063,
+    "lastUpdated": 1764738305,
+    "totalMangas": 2064,
     "version": "1.0.5"
   },
   "mangas": {
@@ -24758,6 +24758,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzU5MjYuanNvbg/",
           "type": "manga",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/10962/6812800654103.jpg"
+        }
+      ]
+    },
+    "makr_c5aa90": {
+      "title": "Tempo de Ouro",
+      "chapters": [
+        {
+          "id": "c5aa90",
+          "title": "Tempo de Ouro",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl9jNWFhOTAuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/10191/67ce12a2d968e.png"
         }
       ]
     }
