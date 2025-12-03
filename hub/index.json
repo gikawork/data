@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": 1764723481,
+    "lastUpdated": 1764723496,
     "totalMangas": 1099,
     "version": "1.0.5"
   },
@@ -13178,6 +13178,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzUwNi5qc29u/",
           "type": "manga",
           "cover_url": "https://cdn.myanimelist.net/images/manga/1/315736.jpg"
+        }
+      ]
+    },
+    "majp_24255": {
+      "title": "Guerilla High",
+      "chapters": [
+        {
+          "id": "24255",
+          "title": "Guerilla High",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzI0MjU1Lmpzb24/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b48991-RPjcePeFDvcU.jpg"
         }
       ]
     }
