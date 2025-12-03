@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764731397,
-    "totalMangas": 1310,
+    "lastUpdated": 1764731407,
+    "totalMangas": 1311,
     "version": "1.0.5"
   },
   "mangas": {
@@ -15722,6 +15722,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl81ZTZmYTEuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/10125/67c8e68529aa3.png"
+        }
+      ]
+    },
+    "makr_12e57a": {
+      "title": "Eu Escolhi um Martelo para Salvar o Mundo",
+      "chapters": [
+        {
+          "id": "12e57a",
+          "title": "Eu Escolhi um Martelo para Salvar o Mundo",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8xMmU1N2EuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/523/6864c195943b4.jpg"
         }
       ]
     }
