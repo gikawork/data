@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764738041,
-    "totalMangas": 2035,
+    "lastUpdated": 1764738050,
+    "totalMangas": 2036,
     "version": "1.0.5"
   },
   "mangas": {
@@ -24422,6 +24422,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl9kMTA5NDMuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/11283/683f1a6716278.png"
+        }
+      ]
+    },
+    "mach_1372": {
+      "title": "Terra Espiritual (Parte 01)",
+      "chapters": [
+        {
+          "id": "1372",
+          "title": "Terra Espiritual (Parte 01)",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF8xMzcyLmpzb24/",
+          "type": "manhua",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/10121/67c8bf004ed69.jpg"
         }
       ]
     }
