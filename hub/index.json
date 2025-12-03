@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764732340,
-    "totalMangas": 1413,
+    "lastUpdated": 1764732348,
+    "totalMangas": 1414,
     "version": "1.0.5"
   },
   "mangas": {
@@ -16958,6 +16958,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwX2NmMmY3Yi5qc29u/",
           "type": "manga",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/10583/67f552e46abb1.jpg"
+        }
+      ]
+    },
+    "makr_da2043": {
+      "title": "Uma Canção Proibida",
+      "chapters": [
+        {
+          "id": "da2043",
+          "title": "Uma Canção Proibida",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl9kYTIwNDMuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/13329/68802e2bcf0b5.webp"
         }
       ]
     }
