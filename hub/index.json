@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": 1764728227,
+    "lastUpdated": 1764728241,
     "totalMangas": 1149,
     "version": "1.0.5"
   },
@@ -13778,6 +13778,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzk4MTQyLmpzb24/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx122344-NUecmoX09FTw.jpg"
+        }
+      ]
+    },
+    "majp_111565": {
+      "title": "Mikoto-chan wa Kirawaretakunai!",
+      "chapters": [
+        {
+          "id": "111565",
+          "title": "Mikoto-chan wa Kirawaretakunai!",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzExMTU2NS5qc29u/",
+          "type": "manga",
+          "cover_url": "https://cdn.myanimelist.net/images/manga/1/323918.jpg"
         }
       ]
     }
