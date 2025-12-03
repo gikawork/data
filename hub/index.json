@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764735393,
-    "totalMangas": 1752,
+    "lastUpdated": 1764735402,
+    "totalMangas": 1753,
     "version": "1.0.5"
   },
   "mangas": {
@@ -21026,6 +21026,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl82N2U5MWYuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/10423/67d9f3293ff88.png"
+        }
+      ]
+    },
+    "makr_3d02ae": {
+      "title": "A Vilã Reverte a Ampulheta",
+      "chapters": [
+        {
+          "id": "3d02ae",
+          "title": "A Vilã Reverte a Ampulheta",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8zZDAyYWUuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/7809/wp-content/uploads/2024/12/91K6OBq-xmL.jpeg"
         }
       ]
     }
