@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764740265,
-    "totalMangas": 2280,
+    "lastUpdated": 1764740274,
+    "totalMangas": 2281,
     "version": "1.0.5"
   },
   "mangas": {
@@ -27362,6 +27362,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzQwODkuanNvbg/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx38848-hOSCdwE8xjYl.jpg"
+        }
+      ]
+    },
+    "mach_2945cb": {
+      "title": "Invocador de Demônios do Abismo",
+      "chapters": [
+        {
+          "id": "2945cb",
+          "title": "Invocador de Demônios do Abismo",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF8yOTQ1Y2IuanNvbg/",
+          "type": "manhua",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/11051/681f5a3479c66.png"
         }
       ]
     }
