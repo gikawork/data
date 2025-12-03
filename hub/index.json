@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764732507,
-    "totalMangas": 1432,
+    "lastUpdated": 1764732516,
+    "totalMangas": 1433,
     "version": "1.0.5"
   },
   "mangas": {
@@ -17186,6 +17186,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl83ZDRiYmIuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/10570/67f20e501617a.jpg"
+        }
+      ]
+    },
+    "makr_a8a565": {
+      "title": "O Retorno do Rei do Inferno",
+      "chapters": [
+        {
+          "id": "a8a565",
+          "title": "O Retorno do Rei do Inferno",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl9hOGE1NjUuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/4168/wp-content/uploads/2024/10/TAKE_2-1-193x278_upscayl_2500px_realesrgan-x4plus-anime.png"
         }
       ]
     }
