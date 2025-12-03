@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764729662,
-    "totalMangas": 1180,
+    "lastUpdated": 1764729672,
+    "totalMangas": 1181,
     "version": "1.0.5"
   },
   "mangas": {
@@ -14162,6 +14162,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzUyMDkuanNvbg/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/16604.jpg"
+        }
+      ]
+    },
+    "mach_361987": {
+      "title": "Wo Yige Shen Hao, Dang Zha Nan Hen Heli Ba",
+      "chapters": [
+        {
+          "id": "361987",
+          "title": "Wo Yige Shen Hao, Dang Zha Nan Hen Heli Ba",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF8zNjE5ODcuanNvbg/",
+          "type": "manhua",
+          "cover_url": "https://cdn.mangaupdates.com/image/i494367.jpg"
         }
       ]
     }
