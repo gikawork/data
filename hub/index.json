@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764733609,
-    "totalMangas": 1555,
+    "lastUpdated": 1764733618,
+    "totalMangas": 1556,
     "version": "1.0.5"
   },
   "mangas": {
@@ -18662,6 +18662,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl9kNWVhN2YuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/4253/wp-content/uploads/2024/10/a-vila-mais-fofa_upscayl_2x_realesrgan-x4plus-anime.png"
+        }
+      ]
+    },
+    "mach_7f0bee": {
+      "title": "O Ursinho Yu e a Coelhinha Xu",
+      "chapters": [
+        {
+          "id": "7f0bee",
+          "title": "O Ursinho Yu e a Coelhinha Xu",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF83ZjBiZWUuanNvbg/",
+          "type": "manhua",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/9103/6796eb89072f3.png"
         }
       ]
     }
