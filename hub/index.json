@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764739241,
-    "totalMangas": 2167,
+    "lastUpdated": 1764739250,
+    "totalMangas": 2168,
     "version": "1.0.5"
   },
   "mangas": {
@@ -26006,6 +26006,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl82OWNhOTAuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/1373/wp-content/uploads/2024/05/resource_44.format-avif.original.avif"
+        }
+      ]
+    },
+    "mach_32857": {
+      "title": "Filho Abandonado Mais Forte",
+      "chapters": [
+        {
+          "id": "32857",
+          "title": "Filho Abandonado Mais Forte",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF8zMjg1Ny5qc29u/",
+          "type": "manhua",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/13345/688162d262c41.webp"
         }
       ]
     }
