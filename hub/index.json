@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764733153,
-    "totalMangas": 1504,
+    "lastUpdated": 1764733162,
+    "totalMangas": 1505,
     "version": "1.0.5"
   },
   "mangas": {
@@ -18050,6 +18050,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF85NzQ1Ny5qc29u/",
           "type": "manhua",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b185791-UsJAlit5VGFc.jpg"
+        }
+      ]
+    },
+    "makr_dacd02": {
+      "title": "A Vilã Que Veio Se Casar no Interior",
+      "chapters": [
+        {
+          "id": "dacd02",
+          "title": "A Vilã Que Veio Se Casar no Interior",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl9kYWNkMDIuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/10899/680eae05ae663.jpg"
         }
       ]
     }
