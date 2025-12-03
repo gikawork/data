@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": 1764728811,
+    "lastUpdated": 1764728826,
     "totalMangas": 1161,
     "version": "1.0.5"
   },
@@ -13922,6 +13922,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzI5MjcuanNvbg/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx121501-wsBh10j2CHwJ.jpg"
+        }
+      ]
+    },
+    "majp_9957": {
+      "title": "Saint Seiya: The Lost Canvas - Meiou Shinwa Gaiden",
+      "chapters": [
+        {
+          "id": "9957",
+          "title": "Saint Seiya: The Lost Canvas - Meiou Shinwa Gaiden",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzk5NTcuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx55916-7nUoJsXCWa32.jpg"
         }
       ]
     }
