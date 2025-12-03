@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764740655,
-    "totalMangas": 2322,
+    "lastUpdated": 1764740665,
+    "totalMangas": 2323,
     "version": "1.0.5"
   },
   "mangas": {
@@ -27866,6 +27866,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl85MjcuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/5082/67db2b3bc17d2.jpg"
+        }
+      ]
+    },
+    "mach_8623": {
+      "title": "Rei das Manifestações",
+      "chapters": [
+        {
+          "id": "8623",
+          "title": "Rei das Manifestações",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF84NjIzLmpzb24/",
+          "type": "manhua",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/6062/wp-content/uploads/2024/11/manif.png"
         }
       ]
     }
