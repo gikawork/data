@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764734072,
-    "totalMangas": 1607,
+    "lastUpdated": 1764734082,
+    "totalMangas": 1608,
     "version": "1.0.5"
   },
   "mangas": {
@@ -19286,6 +19286,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl9lYzAzNjUuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/13253/687c693a33558.png"
+        }
+      ]
+    },
+    "makr_d7ef5a": {
+      "title": "Sou a Amada Filha do Demônio",
+      "chapters": [
+        {
+          "id": "d7ef5a",
+          "title": "Sou a Amada Filha do Demônio",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl9kN2VmNWEuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/8362/67a02a721acd3.png"
         }
       ]
     }
