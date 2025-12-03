@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": 1764724989,
+    "lastUpdated": 1764725004,
     "totalMangas": 1110,
     "version": "1.0.5"
   },
@@ -13310,6 +13310,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8zMTA4Lmpzb24/",
           "type": "manhwa",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx113055-pGB4A5nzhFdF.jpg"
+        }
+      ]
+    },
+    "majp_3270": {
+      "title": "Trinity of the Royal Palace",
+      "chapters": [
+        {
+          "id": "3270",
+          "title": "Trinity of the Royal Palace",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzMyNzAuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx102056-gAo0i9cr2drq.jpg"
         }
       ]
     }
