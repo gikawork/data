@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": 1764725519,
+    "lastUpdated": 1764725534,
     "totalMangas": 1116,
     "version": "1.0.5"
   },
@@ -13382,6 +13382,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzQ2NTQuanNvbg/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx165246-96HqSQjsWTLK.jpg"
+        }
+      ]
+    },
+    "makr_8066": {
+      "title": "The Golden Age",
+      "chapters": [
+        {
+          "id": "8066",
+          "title": "The Golden Age",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl84MDY2Lmpzb24/",
+          "type": "manhwa",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b136849-iUYvao0Z5xuv.png"
         }
       ]
     }
