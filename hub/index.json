@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764733225,
-    "totalMangas": 1512,
+    "lastUpdated": 1764733233,
+    "totalMangas": 1513,
     "version": "1.0.5"
   },
   "mangas": {
@@ -18146,6 +18146,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF84NzI2ZjIuanNvbg/",
           "type": "manhua",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/11233/683a1bf63b2b0.png"
+        }
+      ]
+    },
+    "makr_3157a0": {
+      "title": "O Herói Exilado é Muito Forte",
+      "chapters": [
+        {
+          "id": "3157a0",
+          "title": "O Herói Exilado é Muito Forte",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8zMTU3YTAuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/12907/6869d4820d4fa.webp"
         }
       ]
     }
