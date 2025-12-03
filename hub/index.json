@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764730973,
-    "totalMangas": 1262,
+    "lastUpdated": 1764730981,
+    "totalMangas": 1263,
     "version": "1.0.5"
   },
   "mangas": {
@@ -15146,6 +15146,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl9hNzViMmYuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/9210/679e428995667.avif"
+        }
+      ]
+    },
+    "majp_200457": {
+      "title": "A Garota Mágica e a Guerra das Drogas",
+      "chapters": [
+        {
+          "id": "200457",
+          "title": "A Garota Mágica e a Guerra das Drogas",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzIwMDQ1Ny5qc29u/",
+          "type": "manga",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/11039/681d5124b85e4.png"
         }
       ]
     }
