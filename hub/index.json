@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764730235,
-    "totalMangas": 1192,
+    "lastUpdated": 1764730244,
+    "totalMangas": 1193,
     "version": "1.0.5"
   },
   "mangas": {
@@ -14306,6 +14306,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzM2MjMzLmpzb24/",
           "type": "manga",
           "cover_url": "https://cdn.mangaupdates.com/image/i327777.png"
+        }
+      ]
+    },
+    "majp_499": {
+      "title": "R15+ Ja Dame Desuka",
+      "chapters": [
+        {
+          "id": "499",
+          "title": "R15+ Ja Dame Desuka",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzQ5OS5qc29u/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx148936-GEt1HZAJQjmr.jpg"
         }
       ]
     }
