@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": 1764724944,
+    "lastUpdated": 1764724959,
     "totalMangas": 1110,
     "version": "1.0.5"
   },
@@ -13310,6 +13310,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzQxMzMuanNvbg/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx120671-JT5Ajkys7tP0.jpg"
+        }
+      ]
+    },
+    "majp_3810": {
+      "title": "Captain Tsubasa: World Youth-hen",
+      "chapters": [
+        {
+          "id": "3810",
+          "title": "Captain Tsubasa: World Youth-hen",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzM4MTAuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx31790-c8P4JPxIxN91.png"
         }
       ]
     }
