@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": 1764728699,
+    "lastUpdated": 1764728713,
     "totalMangas": 1157,
     "version": "1.0.5"
   },
@@ -13874,6 +13874,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzI2NjYwLmpzb24/",
           "type": "manga",
           "cover_url": "https://images2.imgbox.com/d7/03/vPEYIKvo_o.jpg"
+        }
+      ]
+    },
+    "majp_4486": {
+      "title": "Tokyo ESP x Ga-Rei: Shadow Walker",
+      "chapters": [
+        {
+          "id": "4486",
+          "title": "Tokyo ESP x Ga-Rei: Shadow Walker",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzQ0ODYuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/nx86184-jdtYdKQBI3hU.jpg"
         }
       ]
     }
