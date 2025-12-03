@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764732649,
-    "totalMangas": 1448,
+    "lastUpdated": 1764732659,
+    "totalMangas": 1449,
     "version": "1.0.5"
   },
   "mangas": {
@@ -17378,6 +17378,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8xYTg4MWUuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/9083/6796e321dfe84.png"
+        }
+      ]
+    },
+    "makr_8015": {
+      "title": "Viverei Como Uma Vilã",
+      "chapters": [
+        {
+          "id": "8015",
+          "title": "Viverei Como Uma Vilã",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl84MDE1Lmpzb24/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/8697/67aff0d91d305.png"
         }
       ]
     }
