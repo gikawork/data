@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": 1764723750,
+    "lastUpdated": 1764723766,
     "totalMangas": 1102,
     "version": "1.0.5"
   },
@@ -13214,6 +13214,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzIzOS5qc29u/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx116671-7JaYnDpCjll6.png"
+        }
+      ]
+    },
+    "majp_3400": {
+      "title": "Otogi Matsuri",
+      "chapters": [
+        {
+          "id": "3400",
+          "title": "Otogi Matsuri",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzM0MDAuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx34215-OrrcNekPDdQX.jpg"
         }
       ]
     }
