@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764732891,
-    "totalMangas": 1475,
+    "lastUpdated": 1764732900,
+    "totalMangas": 1476,
     "version": "1.0.5"
   },
   "mangas": {
@@ -17702,6 +17702,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8xOTc4NzcuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/9801/67abb06329921.png"
+        }
+      ]
+    },
+    "makr_c2c6f7": {
+      "title": "Matadores de Deuses",
+      "chapters": [
+        {
+          "id": "c2c6f7",
+          "title": "Matadores de Deuses",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl9jMmM2ZjcuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/5580/wp-content/uploads/2024/10/420-4.jpeg"
         }
       ]
     }
