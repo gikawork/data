@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764730878,
-    "totalMangas": 1251,
+    "lastUpdated": 1764730886,
+    "totalMangas": 1252,
     "version": "1.0.5"
   },
   "mangas": {
@@ -15014,6 +15014,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8zMjEuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/4966/wp-content/uploads/2024/10/9b309b4a-45ba-44cf-ba6c-fccd3e1b64bd.jpg.512.jpg"
+        }
+      ]
+    },
+    "makr_9608": {
+      "title": "O Que Posso Fazer Sozinho?",
+      "chapters": [
+        {
+          "id": "9608",
+          "title": "O Que Posso Fazer Sozinho?",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl85NjA4Lmpzb24/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/9193/679ae4b89220a.jpg"
         }
       ]
     }
