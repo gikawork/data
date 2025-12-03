@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": 1764760708,
+    "lastUpdated": 1764760717,
     "totalMangas": 2611,
     "version": "1.0.6"
   },
@@ -31325,15 +31325,15 @@
         }
       ]
     },
-    "makr_28368e": {
-      "title": "A Lua Guia no Caminho de um Mundo Paralelo",
+    "majp_539": {
+      "title": "Já Morri 999.999 Vezes",
       "chapters": [
         {
-          "id": "28368e",
-          "title": "A Lua Guia no Caminho de um Mundo Paralelo",
-          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8yODM2OGUuanNvbg/",
-          "type": "manhwa",
-          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/10922/680eb167dba3d.jpg"
+          "id": "539",
+          "title": "Já Morri 999.999 Vezes",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzUzOS5qc29u/",
+          "type": "manga",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/12957/686dd851dd175.webp"
         }
       ]
     }
