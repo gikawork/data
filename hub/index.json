@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764737018,
-    "totalMangas": 1929,
+    "lastUpdated": 1764737026,
+    "totalMangas": 1930,
     "version": "1.0.5"
   },
   "mangas": {
@@ -23150,6 +23150,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF81NTguanNvbg/",
           "type": "manhua",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/9771/67aadf2e84f4e.png"
+        }
+      ]
+    },
+    "makr_744c85": {
+      "title": "Grande Doutor Ling Ran",
+      "chapters": [
+        {
+          "id": "744c85",
+          "title": "Grande Doutor Ling Ran",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl83NDRjODUuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/5115/wp-content/uploads/2024/10/60139cbb-6a6e-4af0-96b2-64f2fce2802b.png.512.jpg"
         }
       ]
     }
