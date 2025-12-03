@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764738711,
-    "totalMangas": 2109,
+    "lastUpdated": 1764738721,
+    "totalMangas": 2110,
     "version": "1.0.5"
   },
   "mangas": {
@@ -25310,6 +25310,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF8wM2U0ZTkuanNvbg/",
           "type": "manhua",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/282/6807b17a61e1c.png"
+        }
+      ]
+    },
+    "makr_54502": {
+      "title": "Melody: The Crazy Flower Blooms",
+      "chapters": [
+        {
+          "id": "54502",
+          "title": "Melody: The Crazy Flower Blooms",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl81NDUwMi5qc29u/",
+          "type": "manhwa",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx152089-73WQgdssFJwM.png"
         }
       ]
     }
