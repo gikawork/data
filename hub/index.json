@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764733763,
-    "totalMangas": 1572,
+    "lastUpdated": 1764733771,
+    "totalMangas": 1573,
     "version": "1.0.5"
   },
   "mangas": {
@@ -18866,6 +18866,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF83NTQ0My5qc29u/",
           "type": "manhua",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/9789/67ab92bdb9d84.jpg"
+        }
+      ]
+    },
+    "makr_46588": {
+      "title": "Monarca",
+      "chapters": [
+        {
+          "id": "46588",
+          "title": "Monarca",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl80NjU4OC5qc29u/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/13239/687c134c51e3e.webp"
         }
       ]
     }
