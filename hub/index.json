@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764727915,
-    "totalMangas": 1143,
+    "lastUpdated": 1764727924,
+    "totalMangas": 1144,
     "version": "1.0.5"
   },
   "mangas": {
@@ -13718,6 +13718,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzIyNDkuanNvbg/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx109147-yg8HH488cK69.jpg"
+        }
+      ]
+    },
+    "majp_483": {
+      "title": "A Reincarnation Romantic Comedy of a Hero and a Witch",
+      "chapters": [
+        {
+          "id": "483",
+          "title": "A Reincarnation Romantic Comedy of a Hero and a Witch",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzQ4My5qc29u/",
+          "type": "manga",
+          "cover_url": "https://images2.imgbox.com/d5/46/3BoMJA69_o.jpg"
         }
       ]
     }
