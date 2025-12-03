@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764727671,
-    "totalMangas": 1139,
+    "lastUpdated": 1764727682,
+    "totalMangas": 1140,
     "version": "1.0.5"
   },
   "mangas": {
@@ -13670,6 +13670,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzY2Lmpzb24/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx138684-mal3hyOvlhD4.jpg"
+        }
+      ]
+    },
+    "majp_10136": {
+      "title": "Nana to Karou",
+      "chapters": [
+        {
+          "id": "10136",
+          "title": "Nana to Karou",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzEwMTM2Lmpzb24/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/nx35994-3cWtJWc8KhJq.jpg"
         }
       ]
     }
