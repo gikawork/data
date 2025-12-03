@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764733508,
-    "totalMangas": 1544,
+    "lastUpdated": 1764733517,
+    "totalMangas": 1545,
     "version": "1.0.5"
   },
   "mangas": {
@@ -18530,6 +18530,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8xMTAwLmpzb24/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/9940/67bcb1e257f86.jpg"
+        }
+      ]
+    },
+    "makr_6cbde1": {
+      "title": "O Convite da Concubina",
+      "chapters": [
+        {
+          "id": "6cbde1",
+          "title": "O Convite da Concubina",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl82Y2JkZTEuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/9963/67be431021666.png"
         }
       ]
     }
