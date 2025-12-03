@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764737090,
-    "totalMangas": 1937,
+    "lastUpdated": 1764737099,
+    "totalMangas": 1938,
     "version": "1.0.5"
   },
   "mangas": {
@@ -23246,6 +23246,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl81MTQ1OGYuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/9929/6806a9ae7f5c6.png"
+        }
+      ]
+    },
+    "makr_353cd0": {
+      "title": "Único Fazendeiro da Torre",
+      "chapters": [
+        {
+          "id": "353cd0",
+          "title": "Único Fazendeiro da Torre",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8zNTNjZDAuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/149/6861fbcc37540.png"
         }
       ]
     }
