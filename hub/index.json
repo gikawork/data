@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764728583,
-    "totalMangas": 1154,
+    "lastUpdated": 1764728592,
+    "totalMangas": 1155,
     "version": "1.0.5"
   },
   "mangas": {
@@ -13850,6 +13850,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8xMTE1Lmpzb24/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/8075/67ca913a79dd0.png"
+        }
+      ]
+    },
+    "majp_766": {
+      "title": "2.5 Dimensional Seduction",
+      "chapters": [
+        {
+          "id": "766",
+          "title": "2.5 Dimensional Seduction",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzc2Ni5qc29u/",
+          "type": "manga",
+          "cover_url": "https://images2.imgbox.com/4d/cc/9xjWwi7a_o.jpg"
         }
       ]
     }
