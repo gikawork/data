@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": 1764726801,
+    "lastUpdated": 1764726817,
     "totalMangas": 1131,
     "version": "1.0.5"
   },
@@ -13562,6 +13562,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzQ4NjYuanNvbg/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx43271-1WBjF6HFJDrw.png"
+        }
+      ]
+    },
+    "makr_588": {
+      "title": "The Stellar Swordmaster",
+      "chapters": [
+        {
+          "id": "588",
+          "title": "The Stellar Swordmaster",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl81ODguanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx170400-yMIuOIboWuoO.jpg"
         }
       ]
     }
