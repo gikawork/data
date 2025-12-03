@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764732921,
-    "totalMangas": 1478,
+    "lastUpdated": 1764732930,
+    "totalMangas": 1479,
     "version": "1.0.5"
   },
   "mangas": {
@@ -17738,6 +17738,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF84YWFmOWEuanNvbg/",
           "type": "manhua",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/11145/682b33d51fa45.jpg"
+        }
+      ]
+    },
+    "makr_5c1a1d": {
+      "title": "Retorno do Espadachim Sombrio",
+      "chapters": [
+        {
+          "id": "5c1a1d",
+          "title": "Retorno do Espadachim Sombrio",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl81YzFhMWQuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/11425/68541b96eed96.png"
         }
       ]
     }
