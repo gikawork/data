@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": 1764727020,
+    "lastUpdated": 1764727035,
     "totalMangas": 1135,
     "version": "1.0.5"
   },
@@ -13610,6 +13610,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzE2MDYuanNvbg/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx181069-hZ04dwke3o3l.jpg"
+        }
+      ]
+    },
+    "makr_7893": {
+      "title": "Magic Academy's Genius Blinker",
+      "chapters": [
+        {
+          "id": "7893",
+          "title": "Magic Academy's Genius Blinker",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl83ODkzLmpzb24/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.mangaupdates.com/image/i502493.jpg"
         }
       ]
     }
