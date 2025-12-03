@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764732668,
-    "totalMangas": 1450,
+    "lastUpdated": 1764732676,
+    "totalMangas": 1451,
     "version": "1.0.5"
   },
   "mangas": {
@@ -17402,6 +17402,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8wMzZkNTguanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/8084/wp-content/uploads/2024/12/803bb5d4-7ce9-4418-84e1-232fa3ad938c.jpg"
+        }
+      ]
+    },
+    "makr_3334": {
+      "title": "Cavaleiro sob meu coração",
+      "chapters": [
+        {
+          "id": "3334",
+          "title": "Cavaleiro sob meu coração",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8zMzM0Lmpzb24/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/6465/wp-content/uploads/2024/11/cara.jpg"
         }
       ]
     }
