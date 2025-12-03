@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764736584,
-    "totalMangas": 1882,
+    "lastUpdated": 1764736593,
+    "totalMangas": 1883,
     "version": "1.0.5"
   },
   "mangas": {
@@ -22586,6 +22586,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl82MzE4MTguanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/5578/wp-content/uploads/2024/10/Capa-de-Eu-Nao-Quero-Aprender-Maldicoes-768x1024-1.jpg"
+        }
+      ]
+    },
+    "makr_8ce44f": {
+      "title": "A Princesa Inexistente",
+      "chapters": [
+        {
+          "id": "8ce44f",
+          "title": "A Princesa Inexistente",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl84Y2U0NGYuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/8758/6794892c93734.png"
         }
       ]
     }
