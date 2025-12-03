@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764733190,
-    "totalMangas": 1508,
+    "lastUpdated": 1764733199,
+    "totalMangas": 1509,
     "version": "1.0.5"
   },
   "mangas": {
@@ -18098,6 +18098,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl81M2E4ZTEuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/6058/wp-content/uploads/2024/11/deusaaaa.png"
+        }
+      ]
+    },
+    "makr_156": {
+      "title": "Homem Do Vazio",
+      "chapters": [
+        {
+          "id": "156",
+          "title": "Homem Do Vazio",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8xNTYuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/7415/6861ecdb5d8ec.jpg"
         }
       ]
     }
