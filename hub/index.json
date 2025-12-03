@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764739746,
-    "totalMangas": 2223,
+    "lastUpdated": 1764739756,
+    "totalMangas": 2224,
     "version": "1.0.5"
   },
   "mangas": {
@@ -26678,6 +26678,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8zNjMyLmpzb24/",
           "type": "manhwa",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx111075-ZSqT1Z2XASRp.jpg"
+        }
+      ]
+    },
+    "maoel_25721": {
+      "title": "Eu Amo Yoo",
+      "chapters": [
+        {
+          "id": "25721",
+          "title": "Eu Amo Yoo",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21vZWwvbWFvZWxfMjU3MjEuanNvbg/",
+          "type": "oel",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/8934/6795b8abd85d5.jpg"
         }
       ]
     }
