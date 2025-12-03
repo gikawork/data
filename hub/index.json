@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764739058,
-    "totalMangas": 2147,
+    "lastUpdated": 1764739068,
+    "totalMangas": 2148,
     "version": "1.0.5"
   },
   "mangas": {
@@ -25766,6 +25766,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzMzNzc2Mi5qc29u/",
           "type": "manga",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/10335/67d2f5ae4f5c7.jpg"
+        }
+      ]
+    },
+    "makr_db5d9a": {
+      "title": "Invencível Após 100 Anos de Reclusão",
+      "chapters": [
+        {
+          "id": "db5d9a",
+          "title": "Invencível Após 100 Anos de Reclusão",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl9kYjVkOWEuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/6054/67ac22b6a2ebe.png"
         }
       ]
     }
