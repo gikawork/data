@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764764095,
-    "totalMangas": 2622,
+    "lastUpdated": 1764764106,
+    "totalMangas": 2623,
     "version": "1.0.6"
   },
   "mangas": {
@@ -31466,6 +31466,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl9mYzg4YjcuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/10909/680eaf2e588b0.jpg"
+        }
+      ]
+    },
+    "makr_3065": {
+      "title": "I've Become a True Villainess",
+      "chapters": [
+        {
+          "id": "3065",
+          "title": "I've Become a True Villainess",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8zMDY1Lmpzb24/",
+          "type": "manhwa",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx159442-qPOJXJ99TvXE.jpg"
         }
       ]
     }
