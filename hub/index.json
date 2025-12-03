@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764739829,
-    "totalMangas": 2232,
+    "lastUpdated": 1764739838,
+    "totalMangas": 2233,
     "version": "1.0.5"
   },
   "mangas": {
@@ -26786,6 +26786,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8zNjE3NzcuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/13327/68800ea365af1.jpg"
+        }
+      ]
+    },
+    "makr_814": {
+      "title": "A Demon's Wish",
+      "chapters": [
+        {
+          "id": "814",
+          "title": "A Demon's Wish",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl84MTQuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx174517-m3qe65CIHLbT.png"
         }
       ]
     }
