@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764736567,
-    "totalMangas": 1880,
+    "lastUpdated": 1764736574,
+    "totalMangas": 1881,
     "version": "1.0.5"
   },
   "mangas": {
@@ -22562,6 +22562,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF80NzUxOS5qc29u/",
           "type": "manhua",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/8711/6793aaee69c3f.png"
+        }
+      ]
+    },
+    "maoel_395299": {
+      "title": "O Caçador Primordial",
+      "chapters": [
+        {
+          "id": "395299",
+          "title": "O Caçador Primordial",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21vZWwvbWFvZWxfMzk1Mjk5Lmpzb24/",
+          "type": "oel",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/5905/wp-content/uploads/2024/10/271f0620-e408-436c-b673-c514f9d83fd7.jpg.512.jpg"
         }
       ]
     }
