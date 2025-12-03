@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": 1764723506,
+    "lastUpdated": 1764723520,
     "totalMangas": 1100,
     "version": "1.0.5"
   },
@@ -13190,6 +13190,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8zMjIuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/151/6864b64cb2f38.webp"
+        }
+      ]
+    },
+    "majp_3850": {
+      "title": "Put It All In The Ring! 2",
+      "chapters": [
+        {
+          "id": "3850",
+          "title": "Put It All In The Ring! 2",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzM4NTAuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx44232-JIf5oB4e2M1L.jpg"
         }
       ]
     }
