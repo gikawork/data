@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764734216,
-    "totalMangas": 1623,
+    "lastUpdated": 1764734224,
+    "totalMangas": 1624,
     "version": "1.0.5"
   },
   "mangas": {
@@ -19478,6 +19478,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl9lYmI0NGEuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/7357/wp-content/uploads/2024/12/marg.jpg"
+        }
+      ]
+    },
+    "makr_e321bc": {
+      "title": "Espírito de Batalha Inigualável",
+      "chapters": [
+        {
+          "id": "e321bc",
+          "title": "Espírito de Batalha Inigualável",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl9lMzIxYmMuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/5163/679c4dada15c6.png"
         }
       ]
     }
