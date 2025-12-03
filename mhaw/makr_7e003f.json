@@ -1,0 +1,65 @@
+{
+  "title": "Spin-Off Quebra-Vento: Deserto",
+  "author": "Autor não encontrado",
+  "artist": "Artista não encontrado",
+  "description": "Quatro atletas recebem um convite misterioso. Velocidade e estilo se encontram em um deserto de sal para criar a disputa mais eletrizante de todas!",
+  "cover": "https://cdn.verdinha.wtf/scans/1/obras/10557/67eee56ac1176.png",
+  "status": "Em Andamento",
+  "chapters": {
+    "4": {
+      "title": "Capítulo 4",
+      "groups": {
+        "gikamura": [
+          "https://cdn.verdinha.wtf/scans/1/obras/10557/capitulos/4/000.jpg",
+          "https://cdn.verdinha.wtf/scans/1/obras/10557/capitulos/4/001.jpg",
+          "https://cdn.verdinha.wtf/scans/1/obras/10557/capitulos/4/002.jpg",
+          "https://cdn.verdinha.wtf/scans/1/obras/10557/capitulos/4/003.jpg",
+          "https://cdn.verdinha.wtf/scans/1/obras/10557/capitulos/4/004.jpg",
+          "https://cdn.verdinha.wtf/scans/1/obras/10557/capitulos/4/005.jpg",
+          "https://cdn.verdinha.wtf/scans/1/obras/10557/capitulos/4/006.jpg",
+          "https://cdn.verdinha.wtf/scans/1/obras/10557/capitulos/4/007.jpg",
+          "https://cdn.verdinha.wtf/scans/1/obras/10557/capitulos/4/008.jpg"
+        ]
+      }
+    },
+    "3": {
+      "title": "Capítulo 3",
+      "groups": {
+        "gikamura": [
+          "https://cdn.verdinha.wtf/scans/1/obras/10557/capitulos/3/000.jpg",
+          "https://cdn.verdinha.wtf/scans/1/obras/10557/capitulos/3/001.jpg",
+          "https://cdn.verdinha.wtf/scans/1/obras/10557/capitulos/3/002.jpg",
+          "https://cdn.verdinha.wtf/scans/1/obras/10557/capitulos/3/003.jpg",
+          "https://cdn.verdinha.wtf/scans/1/obras/10557/capitulos/3/004.jpg",
+          "https://cdn.verdinha.wtf/scans/1/obras/10557/capitulos/3/005.jpg",
+          "https://cdn.verdinha.wtf/scans/1/obras/10557/capitulos/3/006.jpg"
+        ]
+      }
+    },
+    "2": {
+      "title": "Capítulo 2",
+      "groups": {
+        "gikamura": [
+          "https://cdn.verdinha.wtf/scans/1/obras/10557/capitulos/2/000.jpg",
+          "https://cdn.verdinha.wtf/scans/1/obras/10557/capitulos/2/001.jpg",
+          "https://cdn.verdinha.wtf/scans/1/obras/10557/capitulos/2/002.jpg",
+          "https://cdn.verdinha.wtf/scans/1/obras/10557/capitulos/2/003.jpg",
+          "https://cdn.verdinha.wtf/scans/1/obras/10557/capitulos/2/004.jpg"
+        ]
+      }
+    },
+    "1": {
+      "title": "Capítulo 1",
+      "groups": {
+        "gikamura": [
+          "https://cdn.verdinha.wtf/scans/1/obras/10557/capitulos/1/000.jpg",
+          "https://cdn.verdinha.wtf/scans/1/obras/10557/capitulos/1/001.jpg",
+          "https://cdn.verdinha.wtf/scans/1/obras/10557/capitulos/1/002.jpg",
+          "https://cdn.verdinha.wtf/scans/1/obras/10557/capitulos/1/003.jpg",
+          "https://cdn.verdinha.wtf/scans/1/obras/10557/capitulos/1/004.jpg",
+          "https://cdn.verdinha.wtf/scans/1/obras/10557/capitulos/1/005.jpg"
+        ]
+      }
+    }
+  }
+}
