@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764735266,
-    "totalMangas": 1738,
+    "lastUpdated": 1764735275,
+    "totalMangas": 1739,
     "version": "1.0.5"
   },
   "mangas": {
@@ -20858,6 +20858,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8yYThkZjAuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/10518/67fc0a13a16a4.png"
+        }
+      ]
+    },
+    "makr_b57048": {
+      "title": "Reencarnando como o Herdeiro Louco",
+      "chapters": [
+        {
+          "id": "b57048",
+          "title": "Reencarnando como o Herdeiro Louco",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl9iNTcwNDguanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/7928/wp-content/uploads/2024/12/image-01jfzy5vp9s9z5zh6h904qghy5.webp"
         }
       ]
     }
