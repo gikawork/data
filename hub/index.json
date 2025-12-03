@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764723900,
-    "totalMangas": 1102,
+    "lastUpdated": 1764723917,
+    "totalMangas": 1101,
     "version": "1.0.5"
   },
   "mangas": {
@@ -3074,18 +3074,6 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9KUDMwNi5qc29u/",
           "type": "manga",
           "cover_url": "https://cdn.myanimelist.net/images/manga/1/226146.jpg"
-        }
-      ]
-    },
-    "JP16": {
-      "title": "Ore wa Seikan Kokka no Akutoku Ryoshu!",
-      "chapters": [
-        {
-          "id": 16,
-          "title": "Ore wa Seikan Kokka no Akutoku Ryoshu!",
-          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9KUDE2Lmpzb24%3D/",
-          "type": "manga",
-          "cover_url": "https://images2.imgbox.com/e8/9d/Z0WKisKN_o.jpg"
         }
       ]
     },
@@ -13214,6 +13202,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF84NjA5Lmpzb24/",
           "type": "manhua",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx150391-qIIldjs5eBaR.jpg"
+        }
+      ]
+    },
+    "majp_16": {
+      "title": "Yu-Gi-Oh! 5D's",
+      "chapters": [
+        {
+          "id": "16",
+          "title": "Yu-Gi-Oh! 5D's",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzE2Lmpzb24/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx45372-QRfOXY2Of8SY.png"
         }
       ]
     }
