@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764736027,
-    "totalMangas": 1821,
+    "lastUpdated": 1764736036,
+    "totalMangas": 1822,
     "version": "1.0.5"
   },
   "mangas": {
@@ -21854,6 +21854,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzMzMzguanNvbg/",
           "type": "manga",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/10060/67c4879960a13.png"
+        }
+      ]
+    },
+    "makr_a06e8f": {
+      "title": "A Chegada do Anel Divino o Mais Forte dos Mundos Alternativos",
+      "chapters": [
+        {
+          "id": "a06e8f",
+          "title": "A Chegada do Anel Divino o Mais Forte dos Mundos Alternativos",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl9hMDZlOGYuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/8568/wp-content/uploads/2025/01/Picsart_25-01-08_22-05-57-511.jpg"
         }
       ]
     }
