@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764737289,
-    "totalMangas": 1957,
+    "lastUpdated": 1764737299,
+    "totalMangas": 1958,
     "version": "1.0.5"
   },
   "mangas": {
@@ -23486,6 +23486,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl80MTI5Lmpzb24/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/5582/67db2b5a954e1.jpg"
+        }
+      ]
+    },
+    "makr_1518": {
+      "title": "Usogui",
+      "chapters": [
+        {
+          "id": "1518",
+          "title": "Usogui",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8xNTE4Lmpzb24/",
+          "type": "manhwa",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx39982-68LS2Z9075Kw.jpg"
         }
       ]
     }
