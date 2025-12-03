@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764723925,
-    "totalMangas": 1102,
+    "lastUpdated": 1764723932,
+    "totalMangas": 1103,
     "version": "1.0.5"
   },
   "mangas": {
@@ -13226,6 +13226,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21vdC9tYW90XzEwODk4My5qc29u/",
           "type": "outro",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/nx85702-bViMuf2lzC0f.jpg"
+        }
+      ]
+    },
+    "maoel_2550": {
+      "title": "Hooky",
+      "chapters": [
+        {
+          "id": "2550",
+          "title": "Hooky",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21vZWwvbWFvZWxfMjU1MC5qc29u/",
+          "type": "oel",
+          "cover_url": "https://cdn.mangaupdates.com/image/i443241.jpg"
         }
       ]
     }
