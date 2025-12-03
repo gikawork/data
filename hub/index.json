@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764726271,
-    "totalMangas": 1125,
+    "lastUpdated": 1764726281,
+    "totalMangas": 1126,
     "version": "1.0.5"
   },
   "mangas": {
@@ -13502,6 +13502,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzU0OTg5Lmpzb24/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b194579-ObzTb7TBNI3g.jpg"
+        }
+      ]
+    },
+    "majp_512": {
+      "title": "Kanojo, Okarishimasu",
+      "chapters": [
+        {
+          "id": "512",
+          "title": "Kanojo, Okarishimasu",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzUxMi5qc29u/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx99943-DX7nDMeqSTk3.png"
         }
       ]
     }
