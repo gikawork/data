@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": 1764724002,
+    "lastUpdated": 1764724016,
     "totalMangas": 1104,
     "version": "1.0.5"
   },
@@ -13238,6 +13238,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl83MDQ0Lmpzb24/",
           "type": "manhwa",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx165182-k4Jfk2XMkylP.jpg"
+        }
+      ]
+    },
+    "majp_916": {
+      "title": "The 100 Girlfriends Who Really, Really, Really, Really, Really Love You",
+      "chapters": [
+        {
+          "id": "916",
+          "title": "The 100 Girlfriends Who Really, Really, Really, Really, Really Love You",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzkxNi5qc29u/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx114416-XtRJ8tI9GtuI.jpg"
         }
       ]
     }
