@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764737006,
-    "totalMangas": 1928,
+    "lastUpdated": 1764737018,
+    "totalMangas": 1929,
     "version": "1.0.5"
   },
   "mangas": {
@@ -23138,6 +23138,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8xOTQ4Lmpzb24/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/13599/68a7d0ed2d25f.png"
+        }
+      ]
+    },
+    "mach_558": {
+      "title": "Assassino de Nível Divino, Eu Sou a Sombra",
+      "chapters": [
+        {
+          "id": "558",
+          "title": "Assassino de Nível Divino, Eu Sou a Sombra",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF81NTguanNvbg/",
+          "type": "manhua",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/9771/67aadf2e84f4e.png"
         }
       ]
     }
