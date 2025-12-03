@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764739540,
-    "totalMangas": 2200,
+    "lastUpdated": 1764739549,
+    "totalMangas": 2201,
     "version": "1.0.5"
   },
   "mangas": {
@@ -26402,6 +26402,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF80ZjQ4ZjcuanNvbg/",
           "type": "manhua",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/12837/685f6eafcbf0d.png"
+        }
+      ]
+    },
+    "majp_2648": {
+      "title": "Cavaleiro Esqueleto em Outro Mundo",
+      "chapters": [
+        {
+          "id": "2648",
+          "title": "Cavaleiro Esqueleto em Outro Mundo",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzI2NDguanNvbg/",
+          "type": "manga",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/10086/67c5a231d9b6d.png"
         }
       ]
     }
