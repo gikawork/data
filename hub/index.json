@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764738202,
-    "totalMangas": 2053,
+    "lastUpdated": 1764738209,
+    "totalMangas": 2054,
     "version": "1.0.5"
   },
   "mangas": {
@@ -24638,6 +24638,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl82Njc2Ni5qc29u/",
           "type": "manhwa",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx168824-0DdTv9fevkAw.jpg"
+        }
+      ]
+    },
+    "majp_aef99e": {
+      "title": "O Garoto Criado pela Rainha Demônio e pela Rainha Dragão é Invencível",
+      "chapters": [
+        {
+          "id": "aef99e",
+          "title": "O Garoto Criado pela Rainha Demônio e pela Rainha Dragão é Invencível",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwX2FlZjk5ZS5qc29u/",
+          "type": "manga",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/10976/68153414e98ff.jpg"
         }
       ]
     }
