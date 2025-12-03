@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764736872,
-    "totalMangas": 1913,
+    "lastUpdated": 1764736880,
+    "totalMangas": 1914,
     "version": "1.0.5"
   },
   "mangas": {
@@ -22958,6 +22958,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl81MzQ2NS5qc29u/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/7641/wp-content/uploads/2024/12/feod.jpg"
+        }
+      ]
+    },
+    "mach_4eec14": {
+      "title": "Eu Pedi o Papa em Casamento",
+      "chapters": [
+        {
+          "id": "4eec14",
+          "title": "Eu Pedi o Papa em Casamento",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF80ZWVjMTQuanNvbg/",
+          "type": "manhua",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/9957/67be24e550d6c.png"
         }
       ]
     }
