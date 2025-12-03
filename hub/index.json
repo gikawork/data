@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764738249,
-    "totalMangas": 2058,
+    "lastUpdated": 1764738259,
+    "totalMangas": 2059,
     "version": "1.0.5"
   },
   "mangas": {
@@ -24698,6 +24698,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF84Yzg3NTQuanNvbg/",
           "type": "manhua",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/8701/67927ab26a87b.png"
+        }
+      ]
+    },
+    "makr_39505": {
+      "title": "Meu fio vermelho do destino",
+      "chapters": [
+        {
+          "id": "39505",
+          "title": "Meu fio vermelho do destino",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8zOTUwNS5qc29u/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/8903/6795a33fe9add.png"
         }
       ]
     }
