@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764734003,
-    "totalMangas": 1599,
+    "lastUpdated": 1764734012,
+    "totalMangas": 1600,
     "version": "1.0.5"
   },
   "mangas": {
@@ -19190,6 +19190,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl85N2MzZGQuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/6468/67ca9095c783c.png"
+        }
+      ]
+    },
+    "makr_39673": {
+      "title": "Shen Ze",
+      "chapters": [
+        {
+          "id": "39673",
+          "title": "Shen Ze",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8zOTY3My5qc29u/",
+          "type": "manhwa",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx119526-KiLcewFZzaig.png"
         }
       ]
     }
