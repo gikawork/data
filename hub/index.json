@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764731415,
-    "totalMangas": 1312,
+    "lastUpdated": 1764731424,
+    "totalMangas": 1313,
     "version": "1.0.5"
   },
   "mangas": {
@@ -15746,6 +15746,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl80OTgzNi5qc29u/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/8887/6795975c89082.png"
+        }
+      ]
+    },
+    "makr_7353": {
+      "title": "Hwangjewa Hamkke Tarakagetseumnida",
+      "chapters": [
+        {
+          "id": "7353",
+          "title": "Hwangjewa Hamkke Tarakagetseumnida",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl83MzUzLmpzb24/",
+          "type": "manhwa",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx156478-Ey8mb0QrpD9e.jpg"
         }
       ]
     }
