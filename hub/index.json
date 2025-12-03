@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "lastUpdated": 1764740802,
-    "totalMangas": 2337,
-    "version": "1.0.5"
+    "lastUpdated": 1764760118,
+    "totalMangas": 2609,
+    "version": "1.0.6"
   },
   "mangas": {
     "JP608": {
@@ -28046,6 +28046,3270 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl80NzQyLmpzb24/",
           "type": "manhwa",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b116452-CA7rFt7QzuLD.jpg"
+        }
+      ]
+    },
+    "majp_1038": {
+      "title": "Haruka Reset",
+      "chapters": [
+        {
+          "id": "1038",
+          "title": "Haruka Reset",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzEwMzguanNvbg/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx140860-tDhjq8nDyvwJ.jpg"
+        }
+      ]
+    },
+    "majp_10746": {
+      "title": "Pecado Divino",
+      "chapters": [
+        {
+          "id": "10746",
+          "title": "Pecado Divino",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzEwNzQ2Lmpzb24/",
+          "type": "manga",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/11361/684cc884d877d.png"
+        }
+      ]
+    },
+    "majp_1101": {
+      "title": "Mestre da Punheta Kurosawa",
+      "chapters": [
+        {
+          "id": "1101",
+          "title": "Mestre da Punheta Kurosawa",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzExMDEuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/5173/wp-content/uploads/2024/10/ec162798-3683-437f-bc45-84d6e44a33b4.jpg.512.jpg"
+        }
+      ]
+    },
+    "majp_119790": {
+      "title": "Segredo",
+      "chapters": [
+        {
+          "id": "119790",
+          "title": "Segredo",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzExOTc5MC5qc29u/",
+          "type": "manga",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/10932/680eb5ae7dfcc.jpg"
+        }
+      ]
+    },
+    "majp_11f00e": {
+      "title": " Projeto de Treinamento de Garota Mágica: Reinicio",
+      "chapters": [
+        {
+          "id": "11f00e",
+          "title": " Projeto de Treinamento de Garota Mágica: Reinicio",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzExZjAwZS5qc29u/",
+          "type": "manga",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/8680/678bf77a6ac9e.png"
+        }
+      ]
+    },
+    "majp_1283": {
+      "title": "Estrela de Beethoven",
+      "chapters": [
+        {
+          "id": "1283",
+          "title": "Estrela de Beethoven",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzEyODMuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/10157/67ccb81b139c0.jpg"
+        }
+      ]
+    },
+    "majp_138344": {
+      "title": "Desejo de Dizer Adeus",
+      "chapters": [
+        {
+          "id": "138344",
+          "title": "Desejo de Dizer Adeus",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzEzODM0NC5qc29u/",
+          "type": "manga",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/8828/67955ca8b1469.jpg"
+        }
+      ]
+    },
+    "majp_149500": {
+      "title": "Beijo Fatal",
+      "chapters": [
+        {
+          "id": "149500",
+          "title": "Beijo Fatal",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzE0OTUwMC5qc29u/",
+          "type": "manga",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/10579/67f426f00c013.png"
+        }
+      ]
+    },
+    "majp_16409": {
+      "title": "Não Ame Nós",
+      "chapters": [
+        {
+          "id": "16409",
+          "title": "Não Ame Nós",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzE2NDA5Lmpzb24/",
+          "type": "manga",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/10561/67f00950d71b6.png"
+        }
+      ]
+    },
+    "majp_1712": {
+      "title": "Bebê Astro",
+      "chapters": [
+        {
+          "id": "1712",
+          "title": "Bebê Astro",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzE3MTIuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/10823/680ea9989dad2.jpg"
+        }
+      ]
+    },
+    "majp_1946": {
+      "title": "Isekai de Streaming Começou e Acabei Criando uma Porção de Fãs Obcecados",
+      "chapters": [
+        {
+          "id": "1946",
+          "title": "Isekai de Streaming Começou e Acabei Criando uma Porção de Fãs Obcecados",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzE5NDYuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/5121/wp-content/uploads/2024/10/acd113d1-fa12-4819-9942-1f3d65751618.jpg.512.jpg"
+        }
+      ]
+    },
+    "majp_2191": {
+      "title": "A Rosa de Versalhes",
+      "chapters": [
+        {
+          "id": "2191",
+          "title": "A Rosa de Versalhes",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzIxOTEuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/10889/680ead03d1673.jpg"
+        }
+      ]
+    },
+    "majp_2301": {
+      "title": "Adachi e Shimamura",
+      "chapters": [
+        {
+          "id": "2301",
+          "title": "Adachi e Shimamura",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzIzMDEuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/13815/68c4a718ad551.webp"
+        }
+      ]
+    },
+    "majp_2315": {
+      "title": "O lendário mestre espadachim: Só eu tenho o poder de forjar espadas de monstros",
+      "chapters": [
+        {
+          "id": "2315",
+          "title": "O lendário mestre espadachim: Só eu tenho o poder de forjar espadas de monstros",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzIzMTUuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/9741/67a8122736df9.png"
+        }
+      ]
+    },
+    "majp_2733": {
+      "title": "O Herói Mais Forte Cheio de Remendos",
+      "chapters": [
+        {
+          "id": "2733",
+          "title": "O Herói Mais Forte Cheio de Remendos",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzI3MzMuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/5513/wp-content/uploads/2024/10/4a5a2cb4-1242-4a39-98ee-1d2606e9c4f4.jpg.512.jpg"
+        }
+      ]
+    },
+    "majp_30a1ba": {
+      "title": "O lendário escultor do luar",
+      "chapters": [
+        {
+          "id": "30a1ba",
+          "title": "O lendário escultor do luar",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzMwYTFiYS5qc29u/",
+          "type": "manga",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/10256/67cf45c415983.webp"
+        }
+      ]
+    },
+    "majp_3455": {
+      "title": "The Golden Experience Point",
+      "chapters": [
+        {
+          "id": "3455",
+          "title": "The Golden Experience Point",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzM0NTUuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx172023-vaKa9iKYdL7T.jpg"
+        }
+      ]
+    },
+    "majp_3510": {
+      "title": "Me Tornei um Caçador Rank-S com o Aplicativo do Lorde Demônio",
+      "chapters": [
+        {
+          "id": "3510",
+          "title": "Me Tornei um Caçador Rank-S com o Aplicativo do Lorde Demônio",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzM1MTAuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/8717/6793ffdd2f40d.png"
+        }
+      ]
+    },
+    "majp_4049": {
+      "title": "Mordomo Negro",
+      "chapters": [
+        {
+          "id": "4049",
+          "title": "Mordomo Negro",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzQwNDkuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/10888/680eace49fd41.jpg"
+        }
+      ]
+    },
+    "majp_409": {
+      "title": "Heaven Burns Red: Antologia de Quadrinhos",
+      "chapters": [
+        {
+          "id": "409",
+          "title": "Heaven Burns Red: Antologia de Quadrinhos",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzQwOS5qc29u/",
+          "type": "manga",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/10863/680eab5705481.jpg"
+        }
+      ]
+    },
+    "majp_4091": {
+      "title": "Eu quero ser querido por aquela garota tímida",
+      "chapters": [
+        {
+          "id": "4091",
+          "title": "Eu quero ser querido por aquela garota tímida",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzQwOTEuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/10047/67c3f5e2779de.png"
+        }
+      ]
+    },
+    "majp_460": {
+      "title": "Exorcista não Kiyoshi-kun",
+      "chapters": [
+        {
+          "id": "460",
+          "title": "Exorcista não Kiyoshi-kun",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzQ2MC5qc29u/",
+          "type": "manga",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/9987/67c1af4940f2b.png"
+        }
+      ]
+    },
+    "majp_5131": {
+      "title": "A Santa Indefesa e a Princesa Impotente",
+      "chapters": [
+        {
+          "id": "5131",
+          "title": "A Santa Indefesa e a Princesa Impotente",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzUxMzEuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/10939/680f784099991.jpg"
+        }
+      ]
+    },
+    "majp_530": {
+      "title": "O Rei das Feras e as Ervas Medicinais",
+      "chapters": [
+        {
+          "id": "530",
+          "title": "O Rei das Feras e as Ervas Medicinais",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzUzMC5qc29u/",
+          "type": "manga",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/10849/680eaae796336.jpg"
+        }
+      ]
+    },
+    "majp_5b0b40": {
+      "title": "O Herói Abandonado e a Elfa Armeira",
+      "chapters": [
+        {
+          "id": "5b0b40",
+          "title": "O Herói Abandonado e a Elfa Armeira",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzViMGI0MC5qc29u/",
+          "type": "manga",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/9224/679eec08f1a74.png"
+        }
+      ]
+    },
+    "majp_61660": {
+      "title": "Reencarnei como um Goblin de classificação SSS",
+      "chapters": [
+        {
+          "id": "61660",
+          "title": "Reencarnei como um Goblin de classificação SSS",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzYxNjYwLmpzb24/",
+          "type": "manga",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/8489/wp-content/uploads/2025/01/image-01jgyrcbfn23ccnmhsa68jjbk6.jpg"
+        }
+      ]
+    },
+    "majp_6233": {
+      "title": "Kotaro vai Morar Sozinho",
+      "chapters": [
+        {
+          "id": "6233",
+          "title": "Kotaro vai Morar Sozinho",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzYyMzMuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/9172/679a535ab61b9.jpg"
+        }
+      ]
+    },
+    "majp_636": {
+      "title": "Minha vizinha srt.Kurokawa",
+      "chapters": [
+        {
+          "id": "636",
+          "title": "Minha vizinha srt.Kurokawa",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzYzNi5qc29u/",
+          "type": "manga",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/5249/67ca8e206b6c2.png"
+        }
+      ]
+    },
+    "majp_98023": {
+      "title": "O Menino que Se Tornou o Grande Herói da Deusa, e Depois se Tornou o Rei do Banjou",
+      "chapters": [
+        {
+          "id": "98023",
+          "title": "O Menino que Se Tornou o Grande Herói da Deusa, e Depois se Tornou o Rei do Banjou",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzk4MDIzLmpzb24/",
+          "type": "manga",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/10826/680ea9b020f7e.jpg"
+        }
+      ]
+    },
+    "majp_c170b4": {
+      "title": "As Vexações de uma Princesa Vampira Reclusa",
+      "chapters": [
+        {
+          "id": "c170b4",
+          "title": "As Vexações de uma Princesa Vampira Reclusa",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwX2MxNzBiNC5qc29u/",
+          "type": "manga",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/10592/67f6a9ccea13a.jpg"
+        }
+      ]
+    },
+    "makr_05f8b9": {
+      "title": "Reconstruir o mundo",
+      "chapters": [
+        {
+          "id": "05f8b9",
+          "title": "Reconstruir o mundo",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8wNWY4YjkuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/6549/wp-content/uploads/2024/11/rebui.jpg"
+        }
+      ]
+    },
+    "makr_069731": {
+      "title": "Presepe Fora Da Gaiola",
+      "chapters": [
+        {
+          "id": "069731",
+          "title": "Presepe Fora Da Gaiola",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8wNjk3MzEuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/10613/67f87f6153274.png"
+        }
+      ]
+    },
+    "makr_08b27e": {
+      "title": "Necromante: Rei dos Mortos",
+      "chapters": [
+        {
+          "id": "08b27e",
+          "title": "Necromante: Rei dos Mortos",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8wOGIyN2UuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/300/6861c5ea797a0.webp"
+        }
+      ]
+    },
+    "makr_0a8353": {
+      "title": "Diário de Mudança de Emprego",
+      "chapters": [
+        {
+          "id": "0a8353",
+          "title": "Diário de Mudança de Emprego",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8wYTgzNTMuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/11157/682d0fc7468c8.jpg"
+        }
+      ]
+    },
+    "makr_0c0535": {
+      "title": "A Flor que Empunha a Espada",
+      "chapters": [
+        {
+          "id": "0c0535",
+          "title": "A Flor que Empunha a Espada",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8wYzA1MzUuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/13403/688944ef66351.webp"
+        }
+      ]
+    },
+    "makr_0cad27": {
+      "title": "Os mestres relutantes e o discípulo celestial",
+      "chapters": [
+        {
+          "id": "0cad27",
+          "title": "Os mestres relutantes e o discípulo celestial",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8wY2FkMjcuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/4247/6861f787a7097.jpg"
+        }
+      ]
+    },
+    "makr_0d5eff": {
+      "title": "Criando meu Noivo com Dinheiro",
+      "chapters": [
+        {
+          "id": "0d5eff",
+          "title": "Criando meu Noivo com Dinheiro",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8wZDVlZmYuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/8302/wp-content/uploads/2024/12/8101d302-14ce-41fa-ba85-fcb167b99f92_z.jpg"
+        }
+      ]
+    },
+    "makr_0f6c99": {
+      "title": "Marido Vilão, Não Sou a Pessoa por Quem Você Deveria Estar Obcecado",
+      "chapters": [
+        {
+          "id": "0f6c99",
+          "title": "Marido Vilão, Não Sou a Pessoa por Quem Você Deveria Estar Obcecado",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8wZjZjOTkuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/9742/67a828efec3c0.png"
+        }
+      ]
+    },
+    "makr_111919": {
+      "title": "O Filho Bastardo Devorador de Armas",
+      "chapters": [
+        {
+          "id": "111919",
+          "title": "O Filho Bastardo Devorador de Armas",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8xMTE5MTkuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/10156/67cca9b11adec.webp"
+        }
+      ]
+    },
+    "makr_112239": {
+      "title": "Eu Sou Uma Vilã, Mas Não Viverei Como Uma",
+      "chapters": [
+        {
+          "id": "112239",
+          "title": "Eu Sou Uma Vilã, Mas Não Viverei Como Uma",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8xMTIyMzkuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/11211/6837266175792.png"
+        }
+      ]
+    },
+    "makr_114458": {
+      "title": "O Pet Piedoso Se Abriu Pra Mim Novamente",
+      "chapters": [
+        {
+          "id": "114458",
+          "title": "O Pet Piedoso Se Abriu Pra Mim Novamente",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8xMTQ0NTguanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/5418/wp-content/uploads/2024/10/pepe.png"
+        }
+      ]
+    },
+    "makr_116755": {
+      "title": "Odalisca",
+      "chapters": [
+        {
+          "id": "116755",
+          "title": "Odalisca",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8xMTY3NTUuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/9182/679ade26004ed.png"
+        }
+      ]
+    },
+    "makr_11813": {
+      "title": "Crepúsculo",
+      "chapters": [
+        {
+          "id": "11813",
+          "title": "Crepúsculo",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8xMTgxMy5qc29u/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/9798/67aba3f7b726d.jpg"
+        }
+      ]
+    },
+    "makr_119": {
+      "title": "Tale of the Floating Sages",
+      "chapters": [
+        {
+          "id": "119",
+          "title": "Tale of the Floating Sages",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8xMTkuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/10000/67c231b95b4b3.jpg"
+        }
+      ]
+    },
+    "makr_120802": {
+      "title": "Era uma Vez em um Império Zumbi",
+      "chapters": [
+        {
+          "id": "120802",
+          "title": "Era uma Vez em um Império Zumbi",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8xMjA4MDIuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/9109/6796ed3cd54da.png"
+        }
+      ]
+    },
+    "makr_125330": {
+      "title": "Fui Atingida Por Uma Maldição Obscena",
+      "chapters": [
+        {
+          "id": "125330",
+          "title": "Fui Atingida Por Uma Maldição Obscena",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8xMjUzMzAuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/9215/679e4fa0143a8.avif"
+        }
+      ]
+    },
+    "makr_12cbe1": {
+      "title": "Demônio Celestial Quer Viver em Paz",
+      "chapters": [
+        {
+          "id": "12cbe1",
+          "title": "Demônio Celestial Quer Viver em Paz",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8xMmNiZTEuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/8684/686dab65c8abb.jpg"
+        }
+      ]
+    },
+    "makr_1321": {
+      "title": "As Principais Heroínas estão Tentando Me Matar",
+      "chapters": [
+        {
+          "id": "1321",
+          "title": "As Principais Heroínas estão Tentando Me Matar",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8xMzIxLmpzb24/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/8676/678ac9917de3a.png"
+        }
+      ]
+    },
+    "makr_134948": {
+      "title": "Meu Marido de Toda Vida Se Recusa a Ter Um Divórcio",
+      "chapters": [
+        {
+          "id": "134948",
+          "title": "Meu Marido de Toda Vida Se Recusa a Ter Um Divórcio",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8xMzQ5NDguanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/8902/6795a2c859cb2.png"
+        }
+      ]
+    },
+    "makr_1403": {
+      "title": "The Demon Faction’s Return",
+      "chapters": [
+        {
+          "id": "1403",
+          "title": "The Demon Faction’s Return",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8xNDAzLmpzb24/",
+          "type": "manhwa",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx170734-Q2NnIZz1zOqO.png"
+        }
+      ]
+    },
+    "makr_1408e1": {
+      "title": "O Caçador de Classe S que Cura Monstros",
+      "chapters": [
+        {
+          "id": "1408e1",
+          "title": "O Caçador de Classe S que Cura Monstros",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8xNDA4ZTEuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/13579/68a67f54b5442.webp"
+        }
+      ]
+    },
+    "makr_1415": {
+      "title": "How to Retire as the Disaster-Class Necromancer",
+      "chapters": [
+        {
+          "id": "1415",
+          "title": "How to Retire as the Disaster-Class Necromancer",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8xNDE1Lmpzb24/",
+          "type": "manhwa",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx188225-6Sz8AIXcM2fW.jpg"
+        }
+      ]
+    },
+    "makr_146ca6": {
+      "title": "O Lamento de Um Vilão",
+      "chapters": [
+        {
+          "id": "146ca6",
+          "title": "O Lamento de Um Vilão",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8xNDZjYTYuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/8806/67ddb65536596.png"
+        }
+      ]
+    },
+    "makr_1524": {
+      "title": "Missões na Vida Real",
+      "chapters": [
+        {
+          "id": "1524",
+          "title": "Missões na Vida Real",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8xNTI0Lmpzb24/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/2482/687c7a9c86bce.png"
+        }
+      ]
+    },
+    "makr_1536": {
+      "title": "Aparências",
+      "chapters": [
+        {
+          "id": "1536",
+          "title": "Aparências",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8xNTM2Lmpzb24/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/680/wp-content/uploads/2024/05/100.png"
+        }
+      ]
+    },
+    "makr_18246": {
+      "title": "Jack Fantasma Americano",
+      "chapters": [
+        {
+          "id": "18246",
+          "title": "Jack Fantasma Americano",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8xODI0Ni5qc29u/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/8204/wp-content/uploads/2024/12/eita.jpg"
+        }
+      ]
+    },
+    "makr_184557": {
+      "title": "Eu me tornei a Amiga do Protagonista Masculino (Completo)",
+      "chapters": [
+        {
+          "id": "184557",
+          "title": "Eu me tornei a Amiga do Protagonista Masculino (Completo)",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8xODQ1NTcuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/8986/67eb6429934fb.jpg"
+        }
+      ]
+    },
+    "makr_189989": {
+      "title": "Devorador de Aço",
+      "chapters": [
+        {
+          "id": "189989",
+          "title": "Devorador de Aço",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8xODk5ODkuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/4328/wp-content/uploads/2024/10/devorador-de-aco.jpg"
+        }
+      ]
+    },
+    "makr_19441": {
+      "title": "Castelo Sombrio",
+      "chapters": [
+        {
+          "id": "19441",
+          "title": "Castelo Sombrio",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8xOTQ0MS5qc29u/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/8797/679557486949a.jpg"
+        }
+      ]
+    },
+    "makr_1a9390": {
+      "title": "O refinador corporal mais forte da história",
+      "chapters": [
+        {
+          "id": "1a9390",
+          "title": "O refinador corporal mais forte da história",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8xYTkzOTAuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/8799/67955782242b1.png"
+        }
+      ]
+    },
+    "makr_1b1b39": {
+      "title": "O Imperador Vilão Arrebatando o Destino do Escolhido",
+      "chapters": [
+        {
+          "id": "1b1b39",
+          "title": "O Imperador Vilão Arrebatando o Destino do Escolhido",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8xYjFiMzkuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/8066/wp-content/uploads/2024/12/AddText_12-23-02.27.11.jpg"
+        }
+      ]
+    },
+    "makr_1c76ed": {
+      "title": "Eu me tornei o Imperador Louco",
+      "chapters": [
+        {
+          "id": "1c76ed",
+          "title": "Eu me tornei o Imperador Louco",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8xYzc2ZWQuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/8033/wp-content/uploads/2024/12/loirin.jpg"
+        }
+      ]
+    },
+    "makr_1c9c26": {
+      "title": "Jogador de Talentos Insanos",
+      "chapters": [
+        {
+          "id": "1c9c26",
+          "title": "Jogador de Talentos Insanos",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8xYzljMjYuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/137/6864b0e832168.webp"
+        }
+      ]
+    },
+    "makr_1d2db1": {
+      "title": "Era Sobre-Humana",
+      "chapters": [
+        {
+          "id": "1d2db1",
+          "title": "Era Sobre-Humana",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8xZDJkYjEuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/4405/67f35015bc194.png"
+        }
+      ]
+    },
+    "makr_1dfce9": {
+      "title": "Minha Familia é Obecada por Mim",
+      "chapters": [
+        {
+          "id": "1dfce9",
+          "title": "Minha Familia é Obecada por Mim",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8xZGZjZTkuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/8896/67959e62cc2fa.png"
+        }
+      ]
+    },
+    "makr_200198": {
+      "title": "Gênio Mágico que Apreende Conceitos",
+      "chapters": [
+        {
+          "id": "200198",
+          "title": "Gênio Mágico que Apreende Conceitos",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8yMDAxOTguanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/12739/685c8bad34b0c.jpg"
+        }
+      ]
+    },
+    "makr_200987": {
+      "title": "Um Influencer Marombeiro se Torna um Fracassado Num Manhwa?!",
+      "chapters": [
+        {
+          "id": "200987",
+          "title": "Um Influencer Marombeiro se Torna um Fracassado Num Manhwa?!",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8yMDA5ODcuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/11029/681bc0a440dae.png"
+        }
+      ]
+    },
+    "makr_202866": {
+      "title": "A Princesa das Chamas Negras Niv.99",
+      "chapters": [
+        {
+          "id": "202866",
+          "title": "A Princesa das Chamas Negras Niv.99",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8yMDI4NjYuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/11097/6823cd54980f7.png"
+        }
+      ]
+    },
+    "makr_210882": {
+      "title": "As Aventuras de Greed",
+      "chapters": [
+        {
+          "id": "210882",
+          "title": "As Aventuras de Greed",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8yMTA4ODIuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/208/6864a3c70320c.jpg"
+        }
+      ]
+    },
+    "makr_21417": {
+      "title": "Bastard",
+      "chapters": [
+        {
+          "id": "21417",
+          "title": "Bastard",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8yMTQxNy5qc29u/",
+          "type": "manhwa",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/nx86964-r7S3IbJNr4SD.jpg"
+        }
+      ]
+    },
+    "makr_2270": {
+      "title": "I Thought My Time Was Up!",
+      "chapters": [
+        {
+          "id": "2270",
+          "title": "I Thought My Time Was Up!",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8yMjcwLmpzb24/",
+          "type": "manhwa",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx156601-ufDnQnHxXNfG.jpg"
+        }
+      ]
+    },
+    "makr_247ecc": {
+      "title": "Retorno do Imperador Imortal",
+      "chapters": [
+        {
+          "id": "247ecc",
+          "title": "Retorno do Imperador Imortal",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8yNDdlY2MuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/6060/wp-content/uploads/2024/11/emprorrr.jpg"
+        }
+      ]
+    },
+    "makr_24d095": {
+      "title": "Chore, Melhor Ainda se Implorar",
+      "chapters": [
+        {
+          "id": "24d095",
+          "title": "Chore, Melhor Ainda se Implorar",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8yNGQwOTUuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/8922/6795b38b87bf0.png"
+        }
+      ]
+    },
+    "makr_2554": {
+      "title": "An Extra Stole the Male Leads",
+      "chapters": [
+        {
+          "id": "2554",
+          "title": "An Extra Stole the Male Leads",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8yNTU0Lmpzb24/",
+          "type": "manhwa",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx176763-4937OJQGDP00.jpg"
+        }
+      ]
+    },
+    "makr_25c16d": {
+      "title": "A Irmã do Vilão Está Sofrendo Hoje",
+      "chapters": [
+        {
+          "id": "25c16d",
+          "title": "A Irmã do Vilão Está Sofrendo Hoje",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8yNWMxNmQuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/8746/6794865a27945.png"
+        }
+      ]
+    },
+    "makr_26a7a6": {
+      "title": "O Apocalipse Chegou",
+      "chapters": [
+        {
+          "id": "26a7a6",
+          "title": "O Apocalipse Chegou",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8yNmE3YTYuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/10944/6810406d04010.webp"
+        }
+      ]
+    },
+    "makr_26cfd4": {
+      "title": "Hoje a Vilã se Diverte de Novo",
+      "chapters": [
+        {
+          "id": "26cfd4",
+          "title": "Hoje a Vilã se Diverte de Novo",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8yNmNmZDQuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/10211/67ce578ecb663.png"
+        }
+      ]
+    },
+    "makr_26ff06": {
+      "title": "O Privilégio de uma Transmigrante",
+      "chapters": [
+        {
+          "id": "26ff06",
+          "title": "O Privilégio de uma Transmigrante",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8yNmZmMDYuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/6513/67899baf8f66f.png"
+        }
+      ]
+    },
+    "makr_27f77a": {
+      "title": "O Retorno do Demônio de Sangue",
+      "chapters": [
+        {
+          "id": "27f77a",
+          "title": "O Retorno do Demônio de Sangue",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8yN2Y3N2EuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/10285/67d05e3ec870a.jpg"
+        }
+      ]
+    },
+    "makr_2960": {
+      "title": "A Lenda da Lâmina do Norte",
+      "chapters": [
+        {
+          "id": "2960",
+          "title": "A Lenda da Lâmina do Norte",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8yOTYwLmpzb24/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/1100/wp-content/uploads/2024/05/8a917622-1853-47b7-9114-997da510a8a2-1.jpg.512-1.jpg"
+        }
+      ]
+    },
+    "makr_2aa217": {
+      "title": "Iniciando Novamente",
+      "chapters": [
+        {
+          "id": "2aa217",
+          "title": "Iniciando Novamente",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8yYWEyMTcuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/10209/67ce51c95e0d8.png"
+        }
+      ]
+    },
+    "makr_2b70f4": {
+      "title": " Por que uma vilã teria virtudes?",
+      "chapters": [
+        {
+          "id": "2b70f4",
+          "title": " Por que uma vilã teria virtudes?",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8yYjcwZjQuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/10359/67d4b8557d81e.png"
+        }
+      ]
+    },
+    "makr_2b78da": {
+      "title": "Lições Após a Escola para Maçãs Imaturas",
+      "chapters": [
+        {
+          "id": "2b78da",
+          "title": "Lições Após a Escola para Maçãs Imaturas",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8yYjc4ZGEuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/8088/wp-content/uploads/2024/12/greenapple_S.jpg"
+        }
+      ]
+    },
+    "makr_2dd168": {
+      "title": "Eu não quero ter um Filho do Protagonista Masculino (Completo)",
+      "chapters": [
+        {
+          "id": "2dd168",
+          "title": "Eu não quero ter um Filho do Protagonista Masculino (Completo)",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8yZGQxNjguanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/8304/67e1955d59720.jpg"
+        }
+      ]
+    },
+    "makr_3001db": {
+      "title": "O Príncipe Demônio vai Para a Academia",
+      "chapters": [
+        {
+          "id": "3001db",
+          "title": "O Príncipe Demônio vai Para a Academia",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8zMDAxZGIuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/832/wp-content/uploads/2024/05/dkrc.webp"
+        }
+      ]
+    },
+    "makr_3070": {
+      "title": "I'm Not That Kind of Talent",
+      "chapters": [
+        {
+          "id": "3070",
+          "title": "I'm Not That Kind of Talent",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8zMDcwLmpzb24/",
+          "type": "manhwa",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx158448-qY1w6kiq1nAk.jpg"
+        }
+      ]
+    },
+    "makr_3106": {
+      "title": "Fengzhi Chugui",
+      "chapters": [
+        {
+          "id": "3106",
+          "title": "Fengzhi Chugui",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8zMTA2Lmpzb24/",
+          "type": "manhwa",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx194825-IvuVbSJrmrdL.png"
+        }
+      ]
+    },
+    "makr_3109c1": {
+      "title": "Estou Procurando Um Novo Marido",
+      "chapters": [
+        {
+          "id": "3109c1",
+          "title": "Estou Procurando Um Novo Marido",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8zMTA5YzEuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/8929/6852d98f86337.jpg"
+        }
+      ]
+    },
+    "makr_31111": {
+      "title": "Sua carta",
+      "chapters": [
+        {
+          "id": "31111",
+          "title": "Sua carta",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8zMTExMS5qc29u/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/11429/68542e72baf02.png"
+        }
+      ]
+    },
+    "makr_31921": {
+      "title": "Mestre da Dungeon",
+      "chapters": [
+        {
+          "id": "31921",
+          "title": "Mestre da Dungeon",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8zMTkyMS5qc29u/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/10136/67cae7883e9f6.png"
+        }
+      ]
+    },
+    "makr_32460": {
+      "title": "Dama Bebê",
+      "chapters": [
+        {
+          "id": "32460",
+          "title": "Dama Bebê",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8zMjQ2MC5qc29u/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/8103/wp-content/uploads/2024/12/Captura-de-tela-2024-12-27-174536.png"
+        }
+      ]
+    },
+    "makr_34031": {
+      "title": "A Empregada e o Vampiro",
+      "chapters": [
+        {
+          "id": "34031",
+          "title": "A Empregada e o Vampiro",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8zNDAzMS5qc29u/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/8737/6794842a14a6d.png"
+        }
+      ]
+    },
+    "makr_34940": {
+      "title": "Sessão Da Tarde",
+      "chapters": [
+        {
+          "id": "34940",
+          "title": "Sessão Da Tarde",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8zNDk0MC5qc29u/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/9229/679fd546ec0e8.png"
+        }
+      ]
+    },
+    "makr_350044": {
+      "title": "A Noiva do Grão-Duque é uma Guerreira Infernal",
+      "chapters": [
+        {
+          "id": "350044",
+          "title": "A Noiva do Grão-Duque é uma Guerreira Infernal",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8zNTAwNDQuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/13325/68800e09abf31.jpg"
+        }
+      ]
+    },
+    "makr_35246": {
+      "title": "Como Desejar, Príncipe",
+      "chapters": [
+        {
+          "id": "35246",
+          "title": "Como Desejar, Príncipe",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8zNTI0Ni5qc29u/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/9917/67bb72e3a91c7.png"
+        }
+      ]
+    },
+    "makr_35401": {
+      "title": "Fantasia Arcana",
+      "chapters": [
+        {
+          "id": "35401",
+          "title": "Fantasia Arcana",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8zNTQwMS5qc29u/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/11119/6829305c4f7fa.jpg"
+        }
+      ]
+    },
+    "makr_355869": {
+      "title": "Guerreiro da Espada Mental",
+      "chapters": [
+        {
+          "id": "355869",
+          "title": "Guerreiro da Espada Mental",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8zNTU4NjkuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/12977/68705b2063fb6.png"
+        }
+      ]
+    },
+    "makr_3583bc": {
+      "title": "O tritão preso no meu lago",
+      "chapters": [
+        {
+          "id": "3583bc",
+          "title": "O tritão preso no meu lago",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8zNTgzYmMuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/9928/67bbec8b1af36.png"
+        }
+      ]
+    },
+    "makr_3589": {
+      "title": "Onsaemiro (Completo)",
+      "chapters": [
+        {
+          "id": "3589",
+          "title": "Onsaemiro (Completo)",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8zNTg5Lmpzb24/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/9701/67a5129076f12.png"
+        }
+      ]
+    },
+    "makr_359123": {
+      "title": "Bei Xiaohua Fenshou Hou, Wo Zhijie Wudao Tong Shen",
+      "chapters": [
+        {
+          "id": "359123",
+          "title": "Bei Xiaohua Fenshou Hou, Wo Zhijie Wudao Tong Shen",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8zNTkxMjMuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.mangaupdates.com/image/i492747.jpg"
+        }
+      ]
+    },
+    "makr_3628": {
+      "title": "Não Existem Heróis Malvados Neste Mundo",
+      "chapters": [
+        {
+          "id": "3628",
+          "title": "Não Existem Heróis Malvados Neste Mundo",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8zNjI4Lmpzb24/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/9234/679ffe5881fa9.webp"
+        }
+      ]
+    },
+    "makr_362aaf": {
+      "title": "Servo",
+      "chapters": [
+        {
+          "id": "362aaf",
+          "title": "Servo",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8zNjJhYWYuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/10887/680eaccbee445.jpg"
+        }
+      ]
+    },
+    "makr_36466": {
+      "title": "Quero Ser Você, Mesmo Que Só Por Um Dia",
+      "chapters": [
+        {
+          "id": "36466",
+          "title": "Quero Ser Você, Mesmo Que Só Por Um Dia",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8zNjQ2Ni5qc29u/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/7387/6861fc6522a0a.jpg"
+        }
+      ]
+    },
+    "makr_365249": {
+      "title": "Casamento por Conveniência 2: A Canção Inesquecível",
+      "chapters": [
+        {
+          "id": "365249",
+          "title": "Casamento por Conveniência 2: A Canção Inesquecível",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8zNjUyNDkuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/13727/68b912b5bfe5f.webp"
+        }
+      ]
+    },
+    "makr_3735": {
+      "title": "Depths of Malice",
+      "chapters": [
+        {
+          "id": "3735",
+          "title": "Depths of Malice",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8zNzM1Lmpzb24/",
+          "type": "manhwa",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx144611-wfw5ON3Q0pN6.jpg"
+        }
+      ]
+    },
+    "makr_376172": {
+      "title": "Domei o Tirano e Fugi",
+      "chapters": [
+        {
+          "id": "376172",
+          "title": "Domei o Tirano e Fugi",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8zNzYxNzIuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/13729/68b98bcb1bb84.webp"
+        }
+      ]
+    },
+    "makr_37880": {
+      "title": "O Pedido de Casamento de Priscilla",
+      "chapters": [
+        {
+          "id": "37880",
+          "title": "O Pedido de Casamento de Priscilla",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8zNzg4MC5qc29u/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/9090/6796e80090837.png"
+        }
+      ]
+    },
+    "makr_3824": {
+      "title": "This Marriage Will Surely Succeed",
+      "chapters": [
+        {
+          "id": "3824",
+          "title": "This Marriage Will Surely Succeed",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8zODI0Lmpzb24/",
+          "type": "manhwa",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx189124-LsMBwVayASFF.png"
+        }
+      ]
+    },
+    "makr_38982d": {
+      "title": "Coliseu da Reencarnação",
+      "chapters": [
+        {
+          "id": "38982d",
+          "title": "Coliseu da Reencarnação",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8zODk4MmQuanNvbg/",
+          "type": "manhwa",
+          "cover_url": ""
+        }
+      ]
+    },
+    "makr_3945": {
+      "title": " Casamento e Espada",
+      "chapters": [
+        {
+          "id": "3945",
+          "title": " Casamento e Espada",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8zOTQ1Lmpzb24/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/8958/6795bebd235f6.png"
+        }
+      ]
+    },
+    "makr_3a90bf": {
+      "title": "Pedal do Covarde",
+      "chapters": [
+        {
+          "id": "3a90bf",
+          "title": "Pedal do Covarde",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8zYTkwYmYuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/10859/680eab3aec7d1.jpg"
+        }
+      ]
+    },
+    "makr_3c16a6": {
+      "title": "Encontrei uma Família que Estava Fora do meu Plano de Adoção",
+      "chapters": [
+        {
+          "id": "3c16a6",
+          "title": "Encontrei uma Família que Estava Fora do meu Plano de Adoção",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8zYzE2YTYuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/8879/679575ec66861.png"
+        }
+      ]
+    },
+    "makr_3c4f04": {
+      "title": "Casando Com o Psicopata",
+      "chapters": [
+        {
+          "id": "3c4f04",
+          "title": "Casando Com o Psicopata",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8zYzRmMDQuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/9883/682b794691aeb.webp"
+        }
+      ]
+    },
+    "makr_408094": {
+      "title": "O Brinquedo no Quarto da Princesa",
+      "chapters": [
+        {
+          "id": "408094",
+          "title": "O Brinquedo no Quarto da Princesa",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl80MDgwOTQuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/8840/67955ee56eb4a.png"
+        }
+      ]
+    },
+    "makr_4100": {
+      "title": "Gilgamesh",
+      "chapters": [
+        {
+          "id": "4100",
+          "title": "Gilgamesh",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl80MTAwLmpzb24/",
+          "type": "manhwa",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx87416-rxw0knAnVRMt.png"
+        }
+      ]
+    },
+    "makr_4135": {
+      "title": "Caça Automática Com Clones",
+      "chapters": [
+        {
+          "id": "4135",
+          "title": "Caça Automática Com Clones",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl80MTM1Lmpzb24/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/1238/6864c4dfd9d0e.jpg"
+        }
+      ]
+    },
+    "makr_41701": {
+      "title": "Meu Tio Superstar",
+      "chapters": [
+        {
+          "id": "41701",
+          "title": "Meu Tio Superstar",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl80MTcwMS5qc29u/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/7329/wp-content/uploads/2024/12/sssss.jpg"
+        }
+      ]
+    },
+    "makr_4204": {
+      "title": " Suas Mentiras Eternas",
+      "chapters": [
+        {
+          "id": "4204",
+          "title": " Suas Mentiras Eternas",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl80MjA0Lmpzb24/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/10056/67c45c185ec6f.png"
+        }
+      ]
+    },
+    "makr_42828d": {
+      "title": "Meu Retorno Como O Membro Mais Jovem",
+      "chapters": [
+        {
+          "id": "42828d",
+          "title": "Meu Retorno Como O Membro Mais Jovem",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl80MjgyOGQuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/8900/6795a13085c5c.png"
+        }
+      ]
+    },
+    "makr_42faa4": {
+      "title": "A Lei de Samsara",
+      "chapters": [
+        {
+          "id": "42faa4",
+          "title": "A Lei de Samsara",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl80MmZhYTQuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/6529/wp-content/uploads/2024/11/cv.jpg"
+        }
+      ]
+    },
+    "makr_431b04": {
+      "title": "Minha ídola favorita pega o último trem",
+      "chapters": [
+        {
+          "id": "431b04",
+          "title": "Minha ídola favorita pega o último trem",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl80MzFiMDQuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/9913/68c493a5536cd.png"
+        }
+      ]
+    },
+    "makr_43583": {
+      "title": "Depois do ato final",
+      "chapters": [
+        {
+          "id": "43583",
+          "title": "Depois do ato final",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl80MzU4My5qc29u/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/10419/67d9ec6c9e5fa.png"
+        }
+      ]
+    },
+    "makr_4369": {
+      "title": "Como podemos nos divorciar se nem mesmo somos casados?",
+      "chapters": [
+        {
+          "id": "4369",
+          "title": "Como podemos nos divorciar se nem mesmo somos casados?",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl80MzY5Lmpzb24/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/10741/680d2be341476.png"
+        }
+      ]
+    },
+    "makr_43749": {
+      "title": "The Sultan's Love",
+      "chapters": [
+        {
+          "id": "43749",
+          "title": "The Sultan's Love",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl80Mzc0OS5qc29u/",
+          "type": "manhwa",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx126794-FMIkxwkNySaw.jpg"
+        }
+      ]
+    },
+    "makr_43f025": {
+      "title": "Gostaria de Jantar Comigo?",
+      "chapters": [
+        {
+          "id": "43f025",
+          "title": "Gostaria de Jantar Comigo?",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl80M2YwMjUuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/8244/67ca8edb3cba1.png"
+        }
+      ]
+    },
+    "makr_442": {
+      "title": "Player",
+      "chapters": [
+        {
+          "id": "442",
+          "title": "Player",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl80NDIuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/10046/67c3f596de7ec.png"
+        }
+      ]
+    },
+    "makr_446": {
+      "title": "Dama Secreta",
+      "chapters": [
+        {
+          "id": "446",
+          "title": "Dama Secreta",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl80NDYuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/8438/wp-content/uploads/2025/01/Secret-Lady.jpg"
+        }
+      ]
+    },
+    "makr_44761": {
+      "title": "Filha de um Duque Monstruoso",
+      "chapters": [
+        {
+          "id": "44761",
+          "title": "Filha de um Duque Monstruoso",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl80NDc2MS5qc29u/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/9167/6799a3e352807.png"
+        }
+      ]
+    },
+    "makr_45280": {
+      "title": "I Married the Male Lead's Dad",
+      "chapters": [
+        {
+          "id": "45280",
+          "title": "I Married the Male Lead's Dad",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl80NTI4MC5qc29u/",
+          "type": "manhwa",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx127084-JTTaM76qtuai.png"
+        }
+      ]
+    },
+    "makr_4584a7": {
+      "title": "Guia de Sobrevivência de um Ranker Escritor",
+      "chapters": [
+        {
+          "id": "4584a7",
+          "title": "Guia de Sobrevivência de um Ranker Escritor",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl80NTg0YTcuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/9939/67bca56652d46.jpg"
+        }
+      ]
+    },
+    "makr_46794": {
+      "title": "Ego do Dragão",
+      "chapters": [
+        {
+          "id": "46794",
+          "title": "Ego do Dragão",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl80Njc5NC5qc29u/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/7909/wp-content/uploads/2024/12/eeabe9c5-82c3-42c2-b1a3-2af3448985b8.png"
+        }
+      ]
+    },
+    "makr_47086": {
+      "title": "Gênio Médico Lee Moo-jin",
+      "chapters": [
+        {
+          "id": "47086",
+          "title": "Gênio Médico Lee Moo-jin",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl80NzA4Ni5qc29u/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/9207/679d2f99e6918.jpg"
+        }
+      ]
+    },
+    "makr_4715": {
+      "title": "Eu Peguei o Segundo Protagonista Masculino após o Final (Completo)",
+      "chapters": [
+        {
+          "id": "4715",
+          "title": "Eu Peguei o Segundo Protagonista Masculino após o Final (Completo)",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl80NzE1Lmpzb24/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/9004/6800115f87b56.jpg"
+        }
+      ]
+    },
+    "makr_4746": {
+      "title": "Irmãs Ki",
+      "chapters": [
+        {
+          "id": "4746",
+          "title": "Irmãs Ki",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl80NzQ2Lmpzb24/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/7147/wp-content/uploads/2024/12/942ec435-2c29-48a9-98f0-fd56710774e2.jpg.512_upscayl_2100px_realesrgan-x4plus-anime.png"
+        }
+      ]
+    },
+    "makr_47673": {
+      "title": "Você não Pode mudar uma Pessoa!",
+      "chapters": [
+        {
+          "id": "47673",
+          "title": "Você não Pode mudar uma Pessoa!",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl80NzY3My5qc29u/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/9084/6796e3bd4ad96.png"
+        }
+      ]
+    },
+    "makr_4806": {
+      "title": "Biblioteca de Talentos do Top Star",
+      "chapters": [
+        {
+          "id": "4806",
+          "title": "Biblioteca de Talentos do Top Star",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl80ODA2Lmpzb24/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/6056/wp-content/uploads/2024/11/st.jpg"
+        }
+      ]
+    },
+    "makr_48550": {
+      "title": "Ultra Alternativo",
+      "chapters": [
+        {
+          "id": "48550",
+          "title": "Ultra Alternativo",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl80ODU1MC5qc29u/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/5013/wp-content/uploads/2024/10/9969.png"
+        }
+      ]
+    },
+    "makr_490bd0": {
+      "title": "O Irmão Mais Novo é o Destaque Da Academia",
+      "chapters": [
+        {
+          "id": "490bd0",
+          "title": "O Irmão Mais Novo é o Destaque Da Academia",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl80OTBiZDAuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/7033/wp-content/uploads/2024/12/pseudooo.webp"
+        }
+      ]
+    },
+    "makr_49379": {
+      "title": "Deus Marcial Celestial",
+      "chapters": [
+        {
+          "id": "49379",
+          "title": "Deus Marcial Celestial",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl80OTM3OS5qc29u/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/4227/wp-content/uploads/2024/10/Deus_Marcial_Celestial_Capa_2.format-webp.original.jpg"
+        }
+      ]
+    },
+    "makr_495": {
+      "title": "Tears on a Withered Flower",
+      "chapters": [
+        {
+          "id": "495",
+          "title": "Tears on a Withered Flower",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl80OTUuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx178692-FFugfkPnrXAV.jpg"
+        }
+      ]
+    },
+    "makr_49621": {
+      "title": "Elizabeth",
+      "chapters": [
+        {
+          "id": "49621",
+          "title": "Elizabeth",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl80OTYyMS5qc29u/",
+          "type": "manhwa",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx137596-x7LGpIiSk8T8.jpg"
+        }
+      ]
+    },
+    "makr_49626": {
+      "title": "A Princess's Guide to Saving Dragons",
+      "chapters": [
+        {
+          "id": "49626",
+          "title": "A Princess's Guide to Saving Dragons",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl80OTYyNi5qc29u/",
+          "type": "manhwa",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx146090-pBMSyb7CZ5tU.jpg"
+        }
+      ]
+    },
+    "makr_4d5c7e": {
+      "title": "O Peculiar Hobby da Senhorita",
+      "chapters": [
+        {
+          "id": "4d5c7e",
+          "title": "O Peculiar Hobby da Senhorita",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl80ZDVjN2UuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/10568/67f209557a61c.jpg"
+        }
+      ]
+    },
+    "makr_50199": {
+      "title": "Casando com Meu Marido",
+      "chapters": [
+        {
+          "id": "50199",
+          "title": "Casando com Meu Marido",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl81MDE5OS5qc29u/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/8917/6795b2c06ae5e.png"
+        }
+      ]
+    },
+    "makr_50455": {
+      "title": "Inquebrável",
+      "chapters": [
+        {
+          "id": "50455",
+          "title": "Inquebrável",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl81MDQ1NS5qc29u/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/8617/wp-content/uploads/2025/01/unbreakable-1.png"
+        }
+      ]
+    },
+    "makr_50858": {
+      "title": " Eu Me Declarei para o Chefe",
+      "chapters": [
+        {
+          "id": "50858",
+          "title": " Eu Me Declarei para o Chefe",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl81MDg1OC5qc29u/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/9157/6799850d0c216.png"
+        }
+      ]
+    },
+    "makr_51079": {
+      "title": "A Única Perfumista do Tirano",
+      "chapters": [
+        {
+          "id": "51079",
+          "title": "A Única Perfumista do Tirano",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl81MTA3OS5qc29u/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/9748/67a8c6f86c909.png"
+        }
+      ]
+    },
+    "makr_514": {
+      "title": "Iseop’s Romance",
+      "chapters": [
+        {
+          "id": "514",
+          "title": "Iseop’s Romance",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl81MTQuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx169882-0Ercm9ilH5Es.jpg"
+        }
+      ]
+    },
+    "makr_51768": {
+      "title": "Please Marry Me Again!",
+      "chapters": [
+        {
+          "id": "51768",
+          "title": "Please Marry Me Again!",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl81MTc2OC5qc29u/",
+          "type": "manhwa",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx147281-Tefc7a4J1Ay7.png"
+        }
+      ]
+    },
+    "makr_51d48f": {
+      "title": "Desejo sem Esperança de uma Bruxa",
+      "chapters": [
+        {
+          "id": "51d48f",
+          "title": "Desejo sem Esperança de uma Bruxa",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl81MWQ0OGYuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/8831/67955d0f8d0d6.jpg"
+        }
+      ]
+    },
+    "makr_52338": {
+      "title": "Estrada Celestial",
+      "chapters": [
+        {
+          "id": "52338",
+          "title": "Estrada Celestial",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl81MjMzOC5qc29u/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/9730/67a7b544f3fbf.png"
+        }
+      ]
+    },
+    "makr_52461": {
+      "title": "Livre Em Sonhos",
+      "chapters": [
+        {
+          "id": "52461",
+          "title": "Livre Em Sonhos",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl81MjQ2MS5qc29u/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/10695/680330611f73b.png"
+        }
+      ]
+    },
+    "makr_52821": {
+      "title": "Fray",
+      "chapters": [
+        {
+          "id": "52821",
+          "title": "Fray",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl81MjgyMS5qc29u/",
+          "type": "manhwa",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx151133-Es2zYYKAe33B.jpg"
+        }
+      ]
+    },
+    "makr_53443": {
+      "title": "A Rainha dos Beijos",
+      "chapters": [
+        {
+          "id": "53443",
+          "title": "A Rainha dos Beijos",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl81MzQ0My5qc29u/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/9744/67a8c10cea20f.png"
+        }
+      ]
+    },
+    "makr_5345": {
+      "title": "The Poisonous Healer",
+      "chapters": [
+        {
+          "id": "5345",
+          "title": "The Poisonous Healer",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl81MzQ1Lmpzb24/",
+          "type": "manhwa",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx159398-HZVQyNWaDzNU.png"
+        }
+      ]
+    },
+    "makr_53b072": {
+      "title": " Melodia da Floresta Sombria",
+      "chapters": [
+        {
+          "id": "53b072",
+          "title": " Melodia da Floresta Sombria",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl81M2IwNzIuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/8927/6795b4611509c.png"
+        }
+      ]
+    },
+    "makr_5445": {
+      "title": "O Segundo Eunuco Recupera Sua Masculinidade",
+      "chapters": [
+        {
+          "id": "5445",
+          "title": "O Segundo Eunuco Recupera Sua Masculinidade",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl81NDQ1Lmpzb24/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/4170/67f2ff700768c.png"
+        }
+      ]
+    },
+    "makr_5452": {
+      "title": " Vamos Nos Casar Primeiro",
+      "chapters": [
+        {
+          "id": "5452",
+          "title": " Vamos Nos Casar Primeiro",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl81NDUyLmpzb24/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/8985/6795cb41e9cd8.png"
+        }
+      ]
+    },
+    "makr_546312": {
+      "title": "Sentido Absoluto da Espada",
+      "chapters": [
+        {
+          "id": "546312",
+          "title": "Sentido Absoluto da Espada",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl81NDYzMTIuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/437/6861feb80f0ae.jpg"
+        }
+      ]
+    },
+    "makr_54697": {
+      "title": "Consultoria sobre direitos de retrato",
+      "chapters": [
+        {
+          "id": "54697",
+          "title": "Consultoria sobre direitos de retrato",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl81NDY5Ny5qc29u/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/10418/67d9eb15bff73.png"
+        }
+      ]
+    },
+    "makr_54d73c": {
+      "title": "O Casal que Bebe Secretamente nos Fundos do Supermercado",
+      "chapters": [
+        {
+          "id": "54d73c",
+          "title": "O Casal que Bebe Secretamente nos Fundos do Supermercado",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl81NGQ3M2MuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/10842/680eaab33913e.jpg"
+        }
+      ]
+    },
+    "makr_555073": {
+      "title": "Companheiros de Cama Estranhos",
+      "chapters": [
+        {
+          "id": "555073",
+          "title": "Companheiros de Cama Estranhos",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl81NTUwNzMuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/10915/680eafe54ccc5.jpg"
+        }
+      ]
+    },
+    "makr_55668": {
+      "title": "Existence",
+      "chapters": [
+        {
+          "id": "55668",
+          "title": "Existence",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl81NTY2OC5qc29u/",
+          "type": "manhwa",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b153987-yBPwpPxkHOjv.jpg"
+        }
+      ]
+    },
+    "makr_55762": {
+      "title": "Ela adora cozinhar e adora comer",
+      "chapters": [
+        {
+          "id": "55762",
+          "title": "Ela adora cozinhar e adora comer",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl81NTc2Mi5qc29u/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/13845/68c9e11853ac7.png"
+        }
+      ]
+    },
+    "makr_56342": {
+      "title": "The Duke's Darling Daughter-in-Law",
+      "chapters": [
+        {
+          "id": "56342",
+          "title": "The Duke's Darling Daughter-in-Law",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl81NjM0Mi5qc29u/",
+          "type": "manhwa",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx155464-DQYhykzOVJyW.jpg"
+        }
+      ]
+    },
+    "makr_57584": {
+      "title": "Meu Pai, O Semi-Deus Possessivo",
+      "chapters": [
+        {
+          "id": "57584",
+          "title": "Meu Pai, O Semi-Deus Possessivo",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl81NzU4NC5qc29u/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/8397/wp-content/uploads/2025/01/my-father-the-possessive-demi-god.jpg"
+        }
+      ]
+    },
+    "makr_58237": {
+      "title": "Chama bestial",
+      "chapters": [
+        {
+          "id": "58237",
+          "title": "Chama bestial",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl81ODIzNy5qc29u/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/9270/67a3f5bc9e69f.png"
+        }
+      ]
+    },
+    "makr_58915": {
+      "title": " Meu Querido Aster",
+      "chapters": [
+        {
+          "id": "58915",
+          "title": " Meu Querido Aster",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl81ODkxNS5qc29u/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/8884/6795957a91c54.png"
+        }
+      ]
+    },
+    "makr_59334": {
+      "title": "A Escolha",
+      "chapters": [
+        {
+          "id": "59334",
+          "title": "A Escolha",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl81OTMzNC5qc29u/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/9136/6797ca356fda9.avif"
+        }
+      ]
+    },
+    "makr_59361": {
+      "title": "Um Dia Difícil",
+      "chapters": [
+        {
+          "id": "59361",
+          "title": "Um Dia Difícil",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl81OTM2MS5qc29u/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/13349/68819c43668c8.webp"
+        }
+      ]
+    },
+    "makr_59634": {
+      "title": "O Vento Leste das Altas",
+      "chapters": [
+        {
+          "id": "59634",
+          "title": "O Vento Leste das Altas",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl81OTYzNC5qc29u/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/9104/6796ebbb59386.png"
+        }
+      ]
+    },
+    "makr_5dd866": {
+      "title": "A Grande Batalha dos Heróis de Tengen",
+      "chapters": [
+        {
+          "id": "5dd866",
+          "title": "A Grande Batalha dos Heróis de Tengen",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl81ZGQ4NjYuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/10885/680eacb130848.jpg"
+        }
+      ]
+    },
+    "makr_5e8bb2": {
+      "title": "Eu me Torno um Tolo Quando se Trata da Minha Filha",
+      "chapters": [
+        {
+          "id": "5e8bb2",
+          "title": "Eu me Torno um Tolo Quando se Trata da Minha Filha",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl81ZThiYjIuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/5057/67ca91dd83771.png"
+        }
+      ]
+    },
+    "makr_60018": {
+      "title": "A Casa Caída de Ardan",
+      "chapters": [
+        {
+          "id": "60018",
+          "title": "A Casa Caída de Ardan",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl82MDAxOC5qc29u/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/8266/wp-content/uploads/2024/12/cinza.jpg"
+        }
+      ]
+    },
+    "makr_60772": {
+      "title": "O Mago Médico Genial",
+      "chapters": [
+        {
+          "id": "60772",
+          "title": "O Mago Médico Genial",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl82MDc3Mi5qc29u/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/6457/wp-content/uploads/2024/11/lompezhero.jpg"
+        }
+      ]
+    },
+    "makr_61573a": {
+      "title": "Vivendo Como Um Jardineiro Num Mundo de Caçadores",
+      "chapters": [
+        {
+          "id": "61573a",
+          "title": "Vivendo Como Um Jardineiro Num Mundo de Caçadores",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl82MTU3M2EuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/3803/67f2febf7710a.png"
+        }
+      ]
+    },
+    "makr_6160": {
+      "title": "A Filha Mais Nova do Duque Vilão",
+      "chapters": [
+        {
+          "id": "6160",
+          "title": "A Filha Mais Nova do Duque Vilão",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl82MTYwLmpzb24/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/9260/67a2f64427440.png"
+        }
+      ]
+    },
+    "makr_62514": {
+      "title": "Jogando o Fim do Mundo",
+      "chapters": [
+        {
+          "id": "62514",
+          "title": "Jogando o Fim do Mundo",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl82MjUxNC5qc29u/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/10512/67e4e01496476.png"
+        }
+      ]
+    },
+    "makr_6343": {
+      "title": "A Duquesa com a Alma Vazia",
+      "chapters": [
+        {
+          "id": "6343",
+          "title": "A Duquesa com a Alma Vazia",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl82MzQzLmpzb24/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/13763/68c1fca8e9a4d.webp"
+        }
+      ]
+    },
+    "makr_6366": {
+      "title": "Um Dia, De Repente, Seul Está...",
+      "chapters": [
+        {
+          "id": "6366",
+          "title": "Um Dia, De Repente, Seul Está...",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl82MzY2Lmpzb24/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/9110/6796ed6e4ca8d.png"
+        }
+      ]
+    },
+    "makr_63679": {
+      "title": "A Maldição de Carnephelia Nunca Termina",
+      "chapters": [
+        {
+          "id": "63679",
+          "title": "A Maldição de Carnephelia Nunca Termina",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl82MzY3OS5qc29u/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/8212/wp-content/uploads/2024/12/Carnephelias-Curse-is-Never-Ending.jpeg"
+        }
+      ]
+    },
+    "makr_6406": {
+      "title": "The Divorcée's Dessert Cafe",
+      "chapters": [
+        {
+          "id": "6406",
+          "title": "The Divorcée's Dessert Cafe",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl82NDA2Lmpzb24/",
+          "type": "manhwa",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx158601-v4INYnppGf54.jpg"
+        }
+      ]
+    },
+    "makr_647417": {
+      "title": "Competição Sobre-humana",
+      "chapters": [
+        {
+          "id": "647417",
+          "title": "Competição Sobre-humana",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl82NDc0MTcuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/1685/68703d2a04fd9.jpg"
+        }
+      ]
+    },
+    "makr_6482a8": {
+      "title": "Eu Fico Mais Forte Ao Comer",
+      "chapters": [
+        {
+          "id": "6482a8",
+          "title": "Eu Fico Mais Forte Ao Comer",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl82NDgyYTguanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/7803/wp-content/uploads/2024/12/cover.jpg"
+        }
+      ]
+    },
+    "makr_65989": {
+      "title": "Ansiando Pela Minha Morte",
+      "chapters": [
+        {
+          "id": "65989",
+          "title": "Ansiando Pela Minha Morte",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl82NTk4OS5qc29u/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/10466/67ddb76023253.png"
+        }
+      ]
+    },
+    "makr_6721": {
+      "title": "Por Que Você Faz Isso, Duque?",
+      "chapters": [
+        {
+          "id": "6721",
+          "title": "Por Que Você Faz Isso, Duque?",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl82NzIxLmpzb24/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/9961/67be391852d1f.png"
+        }
+      ]
+    },
+    "makr_68f903": {
+      "title": "Como um veterano se aproveita fazendo um trabalho fácil",
+      "chapters": [
+        {
+          "id": "68f903",
+          "title": "Como um veterano se aproveita fazendo um trabalho fácil",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl82OGY5MDMuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/8290/67c36e5712941.png"
+        }
+      ]
+    },
+    "makr_69c798": {
+      "title": "Minha família vilã é contra minha independência",
+      "chapters": [
+        {
+          "id": "69c798",
+          "title": "Minha família vilã é contra minha independência",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl82OWM3OTguanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/8895/67959debca4e3.png"
+        }
+      ]
+    },
+    "makr_6acd14": {
+      "title": "Arquimago Streamer",
+      "chapters": [
+        {
+          "id": "6acd14",
+          "title": "Arquimago Streamer",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl82YWNkMTQuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/2176/wp-content/uploads/2024/05/g5n7x39crbatbfxunqe2qe4t.jpeg"
+        }
+      ]
+    },
+    "makr_6c3ea0": {
+      "title": "Abaixo de Zero",
+      "chapters": [
+        {
+          "id": "6c3ea0",
+          "title": "Abaixo de Zero",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl82YzNlYTAuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/9244/67a1462f3186f.avif"
+        }
+      ]
+    },
+    "makr_6cbf5a": {
+      "title": "Uma Empregada Capaz",
+      "chapters": [
+        {
+          "id": "6cbf5a",
+          "title": "Uma Empregada Capaz",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl82Y2JmNWEuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/8733/679482962cec6.png"
+        }
+      ]
+    },
+    "makr_6d0f41": {
+      "title": "A Perversão das Lamentações",
+      "chapters": [
+        {
+          "id": "6d0f41",
+          "title": "A Perversão das Lamentações",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl82ZDBmNDEuanNvbg/",
+          "type": "manhwa",
+          "cover_url": ""
+        }
+      ]
+    },
+    "makr_6e0204": {
+      "title": " Eu Não Quero Atacar Você!",
+      "chapters": [
+        {
+          "id": "6e0204",
+          "title": " Eu Não Quero Atacar Você!",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl82ZTAyMDQuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/9156/679983699799a.png"
+        }
+      ]
+    },
+    "makr_70725": {
+      "title": "Eu me Casei com o Duque Fera",
+      "chapters": [
+        {
+          "id": "70725",
+          "title": "Eu me Casei com o Duque Fera",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl83MDcyNS5qc29u/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/9924/67bbdd327d26c.png"
+        }
+      ]
+    },
+    "makr_71359": {
+      "title": "Lobo do Inverno",
+      "chapters": [
+        {
+          "id": "71359",
+          "title": "Lobo do Inverno",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl83MTM1OS5qc29u/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/8974/6795c5b4580a2.png"
+        }
+      ]
+    },
+    "makr_726947": {
+      "title": "Criador de Finais Ruins",
+      "chapters": [
+        {
+          "id": "726947",
+          "title": "Criador de Finais Ruins",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl83MjY5NDcuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/1883/wp-content/uploads/2024/05/6320fac7-00dd-4024-839e-deb41b24b076.jpg.512.jpg"
+        }
+      ]
+    },
+    "makr_72c56f": {
+      "title": "Reino da Rainha",
+      "chapters": [
+        {
+          "id": "72c56f",
+          "title": "Reino da Rainha",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl83MmM1NmYuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/10277/67cfb0d339e20.png"
+        }
+      ]
+    },
+    "makr_73883": {
+      "title": "Sobrevivendo em um Harém",
+      "chapters": [
+        {
+          "id": "73883",
+          "title": "Sobrevivendo em um Harém",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl83Mzg4My5qc29u/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/11231/6839ca959b4ef.png"
+        }
+      ]
+    },
+    "makr_74822": {
+      "title": "My Husband Who Hates Me Has Lost His Memories",
+      "chapters": [
+        {
+          "id": "74822",
+          "title": "My Husband Who Hates Me Has Lost His Memories",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl83NDgyMi5qc29u/",
+          "type": "manhwa",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b170140-ArXx7RQtVryn.jpg"
+        }
+      ]
+    },
+    "makr_74933": {
+      "title": "Como Domar um Munchkin!",
+      "chapters": [
+        {
+          "id": "74933",
+          "title": "Como Domar um Munchkin!",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl83NDkzMy5qc29u/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/10007/67c274645c26f.png"
+        }
+      ]
+    },
+    "makr_75631": {
+      "title": "As Presas que Perfuram o Coração",
+      "chapters": [
+        {
+          "id": "75631",
+          "title": "As Presas que Perfuram o Coração",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl83NTYzMS5qc29u/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/10002/67c248a5d9fad.png"
+        }
+      ]
+    },
+    "makr_7564b4": {
+      "title": "Rosalina Bogarti",
+      "chapters": [
+        {
+          "id": "7564b4",
+          "title": "Rosalina Bogarti",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl83NTY0YjQuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/10133/67ca8afc97094.png"
+        }
+      ]
+    },
+    "makr_76142": {
+      "title": "Me tornei a mestre do Diabo",
+      "chapters": [
+        {
+          "id": "76142",
+          "title": "Me tornei a mestre do Diabo",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl83NjE0Mi5qc29u/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/10475/67ddcaf0573b5.webp"
+        }
+      ]
+    },
+    "makr_76529": {
+      "title": "A Princesa que Mantém seu Fã-clube em Segredo",
+      "chapters": [
+        {
+          "id": "76529",
+          "title": "A Princesa que Mantém seu Fã-clube em Segredo",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl83NjUyOS5qc29u/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/8133/wp-content/uploads/2024/12/princess-who-hides-her-fandom-novel-1.jpg"
+        }
+      ]
+    },
+    "makr_7704": {
+      "title": "Kuma Kuma Kuma Bear Gaiden: Yuna no Yori Michi Techou",
+      "chapters": [
+        {
+          "id": "7704",
+          "title": "Kuma Kuma Kuma Bear Gaiden: Yuna no Yori Michi Techou",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl83NzA0Lmpzb24/",
+          "type": "manhwa",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx165062-66VUcYOt7Prd.jpg"
+        }
+      ]
+    },
+    "makr_77847": {
+      "title": "My Very Own Tower Strategy Guide",
+      "chapters": [
+        {
+          "id": "77847",
+          "title": "My Very Own Tower Strategy Guide",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl83Nzg0Ny5qc29u/",
+          "type": "manhwa",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx177012-rxiUaFeIlISn.jpg"
+        }
+      ]
+    },
+    "makr_77b721": {
+      "title": "Sempre há professores que querem convidar os pais para sair",
+      "chapters": [
+        {
+          "id": "77b721",
+          "title": "Sempre há professores que querem convidar os pais para sair",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl83N2I3MjEuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/10730/6808e39040c40.jpg"
+        }
+      ]
+    },
+    "makr_78099": {
+      "title": "Tendão de Aquiles",
+      "chapters": [
+        {
+          "id": "78099",
+          "title": "Tendão de Aquiles",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl83ODA5OS5qc29u/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/10574/67f2ed3eb993a.webp"
+        }
+      ]
+    },
+    "makr_79010": {
+      "title": "Eu não quero ser amada",
+      "chapters": [
+        {
+          "id": "79010",
+          "title": "Eu não quero ser amada",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl83OTAxMC5qc29u/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/9071/67961ec1e119b.png"
+        }
+      ]
+    },
+    "makr_79ea2f": {
+      "title": "Assaltei o Cofre dos Deuses",
+      "chapters": [
+        {
+          "id": "79ea2f",
+          "title": "Assaltei o Cofre dos Deuses",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl83OWVhMmYuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/4205/wp-content/uploads/2024/10/Assaltei_o_Cofre_dos_Deuses_COVER_SSS.png.webp"
+        }
+      ]
+    },
+    "makr_7c646a": {
+      "title": "Nós, Introvertidos",
+      "chapters": [
+        {
+          "id": "7c646a",
+          "title": "Nós, Introvertidos",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl83YzY0NmEuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/8665/678951d7ae4a0.png"
+        }
+      ]
+    },
+    "makr_7d4b72": {
+      "title": "Meu pai esconde seu poder",
+      "chapters": [
+        {
+          "id": "7d4b72",
+          "title": "Meu pai esconde seu poder",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl83ZDRiNzIuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/10478/67de0802bdae5.png"
+        }
+      ]
+    },
+    "makr_80199": {
+      "title": "Ensine-me a Desejar",
+      "chapters": [
+        {
+          "id": "80199",
+          "title": "Ensine-me a Desejar",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl84MDE5OS5qc29u/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/5695/wp-content/uploads/2024/10/teachmedesire512-1.jpeg"
+        }
+      ]
+    },
+    "makr_80268": {
+      "title": "Traços da Lua",
+      "chapters": [
+        {
+          "id": "80268",
+          "title": "Traços da Lua",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl84MDI2OC5qc29u/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/10700/6806a8ac72a7a.png"
+        }
+      ]
+    },
+    "makr_80fad8": {
+      "title": "As Aventuras de Kim Ohjin com Animais Fantásticos",
+      "chapters": [
+        {
+          "id": "80fad8",
+          "title": "As Aventuras de Kim Ohjin com Animais Fantásticos",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl84MGZhZDguanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/11245/683b688f9909f.jpg"
+        }
+      ]
+    },
+    "makr_812": {
+      "title": "Doberman",
+      "chapters": [
+        {
+          "id": "812",
+          "title": "Doberman",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl84MTIuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx191119-AKHR6j5lcaKO.jpg"
+        }
+      ]
+    },
+    "makr_8138": {
+      "title": "Um Guia Para um Amor Verdadeiro",
+      "chapters": [
+        {
+          "id": "8138",
+          "title": "Um Guia Para um Amor Verdadeiro",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl84MTM4Lmpzb24/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/10171/67cd14620020f.png"
+        }
+      ]
+    },
+    "makr_8213": {
+      "title": "Sou Fã Do Príncipe",
+      "chapters": [
+        {
+          "id": "8213",
+          "title": "Sou Fã Do Príncipe",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl84MjEzLmpzb24/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/10174/67cd1b241e848.png"
+        }
+      ]
+    },
+    "makr_8355": {
+      "title": "Mercenário Maruhan",
+      "chapters": [
+        {
+          "id": "8355",
+          "title": "Mercenário Maruhan",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl84MzU1Lmpzb24/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/8403/wp-content/uploads/2025/01/mal.jpg"
+        }
+      ]
+    },
+    "mach_08a482": {
+      "title": "Bem-vindo ao Mundo Apocalíptico",
+      "chapters": [
+        {
+          "id": "08a482",
+          "title": "Bem-vindo ao Mundo Apocalíptico",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF8wOGE0ODIuanNvbg/",
+          "type": "manhua",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/9942/67bcb6675311c.jpg"
+        }
+      ]
+    },
+    "mach_0caf11": {
+      "title": "Mudando Minha Família de Vilões",
+      "chapters": [
+        {
+          "id": "0caf11",
+          "title": "Mudando Minha Família de Vilões",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF8wY2FmMTEuanNvbg/",
+          "type": "manhua",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/10072/67c504b59f407.png"
+        }
+      ]
+    },
+    "mach_1829": {
+      "title": "O Último Humano",
+      "chapters": [
+        {
+          "id": "1829",
+          "title": "O Último Humano",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF8xODI5Lmpzb24/",
+          "type": "manhua",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/234/wp-content/uploads/2024/05/The-Last-Human.jpg"
+        }
+      ]
+    },
+    "mach_189926": {
+      "title": "O Apocalipse Começou, Eu Reencarnei Como Um Tirano",
+      "chapters": [
+        {
+          "id": "189926",
+          "title": "O Apocalipse Começou, Eu Reencarnei Como Um Tirano",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF8xODk5MjYuanNvbg/",
+          "type": "manhua",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/10934/6812f2a6912ad.png"
+        }
+      ]
+    },
+    "mach_2068": {
+      "title": "O Vilão Quer Viver Mais Um Dia",
+      "chapters": [
+        {
+          "id": "2068",
+          "title": "O Vilão Quer Viver Mais Um Dia",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF8yMDY4Lmpzb24/",
+          "type": "manhua",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/5423/wp-content/uploads/2024/10/vilaou.png"
+        }
+      ]
+    },
+    "mach_2122": {
+      "title": " Minha Comida Parece ser Muito Fofa",
+      "chapters": [
+        {
+          "id": "2122",
+          "title": " Minha Comida Parece ser Muito Fofa",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF8yMTIyLmpzb24/",
+          "type": "manhua",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/8883/67959475be8fc.png"
+        }
+      ]
+    },
+    "mach_230ca6": {
+      "title": "Plano de Eliminação dos Jogadores! Quando a Mutação caiu sobre o mundo dos humanos",
+      "chapters": [
+        {
+          "id": "230ca6",
+          "title": "Plano de Eliminação dos Jogadores! Quando a Mutação caiu sobre o mundo dos humanos",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF8yMzBjYTYuanNvbg/",
+          "type": "manhua",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/11307/684317f8d9b43.jpg"
+        }
+      ]
+    },
+    "mach_2393": {
+      "title": "Eu Realmente Não Sou o Lacaio do Deus Demônio",
+      "chapters": [
+        {
+          "id": "2393",
+          "title": "Eu Realmente Não Sou o Lacaio do Deus Demônio",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF8yMzkzLmpzb24/",
+          "type": "manhua",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/288/67d888df89382.jpg"
+        }
+      ]
+    },
+    "mach_27": {
+      "title": "Frenesi de Batalha",
+      "chapters": [
+        {
+          "id": "27",
+          "title": "Frenesi de Batalha",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF8yNy5qc29u/",
+          "type": "manhua",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/10073/67c4d841e271c.jpg"
+        }
+      ]
+    },
+    "mach_2e91fa": {
+      "title": "Jornada ao Oeste - Apocalipse",
+      "chapters": [
+        {
+          "id": "2e91fa",
+          "title": "Jornada ao Oeste - Apocalipse",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF8yZTkxZmEuanNvbg/",
+          "type": "manhua",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/13813/68c4807908961.png"
+        }
+      ]
+    },
+    "mach_3290": {
+      "title": "Marcial Inverso",
+      "chapters": [
+        {
+          "id": "3290",
+          "title": "Marcial Inverso",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF8zMjkwLmpzb24/",
+          "type": "manhua",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/6165/wp-content/uploads/2024/11/marcia.jpg"
+        }
+      ]
+    },
+    "mach_33109": {
+      "title": "Caçadores de Energia",
+      "chapters": [
+        {
+          "id": "33109",
+          "title": "Caçadores de Energia",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF8zMzEwOS5qc29u/",
+          "type": "manhua",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/10075/67c4f30ba9a49.png"
+        }
+      ]
+    },
+    "mach_3429": {
+      "title": "O Grande Governante",
+      "chapters": [
+        {
+          "id": "3429",
+          "title": "O Grande Governante",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF8zNDI5Lmpzb24/",
+          "type": "manhua",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/2021/wp-content/uploads/2024/05/thumbnail-6.webp"
+        }
+      ]
+    },
+    "mach_3467": {
+      "title": "Ameixas verdes",
+      "chapters": [
+        {
+          "id": "3467",
+          "title": "Ameixas verdes",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF8zNDY3Lmpzb24/",
+          "type": "manhua",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/13687/68b27443a93b1.webp"
+        }
+      ]
+    },
+    "mach_37691": {
+      "title": "Poupe-me, Grande Lorde",
+      "chapters": [
+        {
+          "id": "37691",
+          "title": "Poupe-me, Grande Lorde",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF8zNzY5MS5qc29u/",
+          "type": "manhua",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/10024/67c35930d3329.jpg"
+        }
+      ]
+    },
+    "mach_386269": {
+      "title": "Mutação Canhota",
+      "chapters": [
+        {
+          "id": "386269",
+          "title": "Mutação Canhota",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF8zODYyNjkuanNvbg/",
+          "type": "manhua",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/5938/wp-content/uploads/2024/10/ca.jpg"
+        }
+      ]
+    },
+    "mach_3f08e1": {
+      "title": "Você tem um gosto um pouco doce",
+      "chapters": [
+        {
+          "id": "3f08e1",
+          "title": "Você tem um gosto um pouco doce",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF8zZjA4ZTEuanNvbg/",
+          "type": "manhua",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/11165/682f2c31db69b.jpg"
+        }
+      ]
+    },
+    "mach_43d4a6": {
+      "title": "Eu Roubei Vários Talentos e me Tornei um Deus!",
+      "chapters": [
+        {
+          "id": "43d4a6",
+          "title": "Eu Roubei Vários Talentos e me Tornei um Deus!",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF80M2Q0YTYuanNvbg/",
+          "type": "manhua",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/13887/68d42df761116.png"
+        }
+      ]
+    },
+    "mach_441": {
+      "title": "É normal criar uma heroína Yandere como vilã?!",
+      "chapters": [
+        {
+          "id": "441",
+          "title": "É normal criar uma heroína Yandere como vilã?!",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF80NDEuanNvbg/",
+          "type": "manhua",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/11217/683753edbfbaa.png"
+        }
+      ]
+    },
+    "mach_4655": {
+      "title": "Minha Esposa É na Verdade a Imperatriz?",
+      "chapters": [
+        {
+          "id": "4655",
+          "title": "Minha Esposa É na Verdade a Imperatriz?",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF80NjU1Lmpzb24/",
+          "type": "manhua",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/8877/6795706328340.png"
+        }
+      ]
+    },
+    "mach_49263": {
+      "title": "Your Talent Is Mine",
+      "chapters": [
+        {
+          "id": "49263",
+          "title": "Your Talent Is Mine",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF80OTI2My5qc29u/",
+          "type": "manhua",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx138366-DC3t5MSv6v05.jpg"
+        }
+      ]
+    },
+    "mach_4f6263": {
+      "title": "Eu Realmente Não Sou o Vilão",
+      "chapters": [
+        {
+          "id": "4f6263",
+          "title": "Eu Realmente Não Sou o Vilão",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF80ZjYyNjMuanNvbg/",
+          "type": "manhua",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/10130/67c9a29fa1671.png"
+        }
+      ]
+    },
+    "mach_51313": {
+      "title": "Phoebe e Selina",
+      "chapters": [
+        {
+          "id": "51313",
+          "title": "Phoebe e Selina",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF81MTMxMy5qc29u/",
+          "type": "manhua",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/10587/67f57989c3815.png"
+        }
+      ]
+    },
+    "mach_5541": {
+      "title": "Eu Sou um Deus do Mal",
+      "chapters": [
+        {
+          "id": "5541",
+          "title": "Eu Sou um Deus do Mal",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF81NTQxLmpzb24/",
+          "type": "manhua",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/1371/67ac240ac9124.png"
+        }
+      ]
+    },
+    "mach_55571": {
+      "title": "Mestre Espiritual",
+      "chapters": [
+        {
+          "id": "55571",
+          "title": "Mestre Espiritual",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF81NTU3MS5qc29u/",
+          "type": "manhua",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/9763/67aa2f05a9512.jpg"
+        }
+      ]
+    },
+    "mach_5603e1": {
+      "title": "Barraca de Comida Apocalíptica",
+      "chapters": [
+        {
+          "id": "5603e1",
+          "title": "Barraca de Comida Apocalíptica",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF81NjAzZTEuanNvbg/",
+          "type": "manhua",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/10952/681173b51bf47.png"
+        }
+      ]
+    },
+    "mach_5710": {
+      "title": "Minha Namorada é uma Zumbi",
+      "chapters": [
+        {
+          "id": "5710",
+          "title": "Minha Namorada é uma Zumbi",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF81NzEwLmpzb24/",
+          "type": "manhua",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/8444/wp-content/uploads/2025/01/my-girlfriend-is-a-zombie-1-190x253-1.jpg"
+        }
+      ]
+    },
+    "mach_57493": {
+      "title": "Lute Como uma Garota",
+      "chapters": [
+        {
+          "id": "57493",
+          "title": "Lute Como uma Garota",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF81NzQ5My5qc29u/",
+          "type": "manhua",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/9166/6799a2d1deb14.png"
+        }
+      ]
+    },
+    "mach_5929": {
+      "title": "Minha mãe é uma superestrela",
+      "chapters": [
+        {
+          "id": "5929",
+          "title": "Minha mãe é uma superestrela",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF81OTI5Lmpzb24/",
+          "type": "manhua",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/11033/681caf5bd8850.webp"
+        }
+      ]
+    },
+    "mach_6047": {
+      "title": "Montanha Lâmina Espiritual",
+      "chapters": [
+        {
+          "id": "6047",
+          "title": "Montanha Lâmina Espiritual",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF82MDQ3Lmpzb24/",
+          "type": "manhua",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/8252/wp-content/uploads/2024/12/u0vbntyo3px71.jpg"
+        }
+      ]
+    },
+    "mach_69503": {
+      "title": " Fantasia Mista - Minha Jornada para me Tornar Invencível após Grandes Gastos Começa!",
+      "chapters": [
+        {
+          "id": "69503",
+          "title": " Fantasia Mista - Minha Jornada para me Tornar Invencível após Grandes Gastos Começa!",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF82OTUwMy5qc29u/",
+          "type": "manhua",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/12975/68703c8654260.jpg"
+        }
+      ]
+    },
+    "mach_6a6253": {
+      "title": "Herói com outra opinião",
+      "chapters": [
+        {
+          "id": "6a6253",
+          "title": "Herói com outra opinião",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF82YTYyNTMuanNvbg/",
+          "type": "manhua",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/9072/679668b6e2785.png"
+        }
+      ]
+    },
+    "mach_72123d": {
+      "title": "Renascido como um Soldado de Elite no Colégio",
+      "chapters": [
+        {
+          "id": "72123d",
+          "title": "Renascido como um Soldado de Elite no Colégio",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF83MjEyM2QuanNvbg/",
+          "type": "manhua",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/13715/68b723aed26c9.jpg"
+        }
+      ]
+    },
+    "mach_76425": {
+      "title": "Começando como o BOSS Dragão Negro, Sou Invencível",
+      "chapters": [
+        {
+          "id": "76425",
+          "title": "Começando como o BOSS Dragão Negro, Sou Invencível",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF83NjQyNS5qc29u/",
+          "type": "manhua",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/10535/67ebfd8e21998.png"
+        }
+      ]
+    },
+    "mach_77a394": {
+      "title": "No mesmo Barco",
+      "chapters": [
+        {
+          "id": "77a394",
+          "title": "No mesmo Barco",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF83N2EzOTQuanNvbg/",
+          "type": "manhua",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/10696/680392e25047a.webp"
+        }
+      ]
+    },
+    "mach_90dbee": {
+      "title": "Minhas Mestras Querem Me Possuir",
+      "chapters": [
+        {
+          "id": "90dbee",
+          "title": "Minhas Mestras Querem Me Possuir",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF85MGRiZWUuanNvbg/",
+          "type": "manhua",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/8653/6786cc76cd156.png"
+        }
+      ]
+    },
+    "mach_9403": {
+      "title": "Quanto Mais Eu Morro, Mais Invencível Eu Me Torno",
+      "chapters": [
+        {
+          "id": "9403",
+          "title": "Quanto Mais Eu Morro, Mais Invencível Eu Me Torno",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF85NDAzLmpzb24/",
+          "type": "manhua",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/9972/67c07d1e4a793.jpg"
+        }
+      ]
+    },
+    "mach_9de760": {
+      "title": "Meu Mestre só Avança Sempre que o limite é atingido",
+      "chapters": [
+        {
+          "id": "9de760",
+          "title": "Meu Mestre só Avança Sempre que o limite é atingido",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF85ZGU3NjAuanNvbg/",
+          "type": "manhua",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/11055/681f65aff02f6.jpg"
+        }
+      ]
+    },
+    "mach_a15e4f": {
+      "title": "O Vilão Principal Da Novel Feminina Também Quer Ser Feliz",
+      "chapters": [
+        {
+          "id": "a15e4f",
+          "title": "O Vilão Principal Da Novel Feminina Também Quer Ser Feliz",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF9hMTVlNGYuanNvbg/",
+          "type": "manhua",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/13479/6897545a97d53.webp"
+        }
+      ]
+    },
+    "mach_a225f5": {
+      "title": "Contra-ataque do Discípulo Banido",
+      "chapters": [
+        {
+          "id": "a225f5",
+          "title": "Contra-ataque do Discípulo Banido",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF9hMjI1ZjUuanNvbg/",
+          "type": "manhua",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/9141/6798ce5419ed6.webp"
+        }
+      ]
+    },
+    "mach_c05d24": {
+      "title": "Se Eu Não Morrer Logo, Realmente Me Tornarei Invencível!",
+      "chapters": [
+        {
+          "id": "c05d24",
+          "title": "Se Eu Não Morrer Logo, Realmente Me Tornarei Invencível!",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF9jMDVkMjQuanNvbg/",
+          "type": "manhua",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/9255/67a2addb4c2e3.png"
+        }
+      ]
+    },
+    "mach_c5a286": {
+      "title": "O Renascimento do Deus Prodígio",
+      "chapters": [
+        {
+          "id": "c5a286",
+          "title": "O Renascimento do Deus Prodígio",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF9jNWEyODYuanNvbg/",
+          "type": "manhua",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/13711/68b52a1d47e65.webp"
+        }
+      ]
+    },
+    "mach_c83d7f": {
+      "title": "Um Discípulo Vilão Não Pode Ser Um Santo",
+      "chapters": [
+        {
+          "id": "c83d7f",
+          "title": "Um Discípulo Vilão Não Pode Ser Um Santo",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF9jODNkN2YuanNvbg/",
+          "type": "manhua",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/5843/wp-content/uploads/2024/10/a6c079b4-f94b-41f0-9241-57bfc8609b51.jpg.512.jpg"
+        }
+      ]
+    },
+    "mach_d8e1f3": {
+      "title": "Lidero Uma Seita Imortal No Apocalipse",
+      "chapters": [
+        {
+          "id": "d8e1f3",
+          "title": "Lidero Uma Seita Imortal No Apocalipse",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF9kOGUxZjMuanNvbg/",
+          "type": "manhua",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/11303/6843123822123.webp"
+        }
+      ]
+    },
+    "mach_db0226": {
+      "title": "Venerável Yuan",
+      "chapters": [
+        {
+          "id": "db0226",
+          "title": "Venerável Yuan",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF9kYjAyMjYuanNvbg/",
+          "type": "manhua",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/13135/6876b01ee4e79.png"
+        }
+      ]
+    },
+    "mach_ed09a1": {
+      "title": "A Primeira Ordem",
+      "chapters": [
+        {
+          "id": "ed09a1",
+          "title": "A Primeira Ordem",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF9lZDA5YTEuanNvbg/",
+          "type": "manhua",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/9256/67a2e2d54d8cb.png"
+        }
+      ]
+    },
+    "mach_fe4f44": {
+      "title": "Eu sou um Agente Secreto no Mundo Demoníaco",
+      "chapters": [
+        {
+          "id": "fe4f44",
+          "title": "Eu sou um Agente Secreto no Mundo Demoníaco",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF9mZTRmNDQuanNvbg/",
+          "type": "manhua",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/9769/67aa621bb74a4.jpg"
+        }
+      ]
+    },
+    "maoel_31661": {
+      "title": "Príncipe de Seda e Espinho",
+      "chapters": [
+        {
+          "id": "31661",
+          "title": "Príncipe de Seda e Espinho",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21vZWwvbWFvZWxfMzE2NjEuanNvbg/",
+          "type": "oel",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/10310/67d110771c4ec.png"
+        }
+      ]
+    },
+    "maoel_4295": {
+      "title": "Just a Goblin",
+      "chapters": [
+        {
+          "id": "4295",
+          "title": "Just a Goblin",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21vZWwvbWFvZWxfNDI5NS5qc29u/",
+          "type": "oel",
+          "cover_url": "https://ap-proxy.mangabaka.dev/proxy.php?url=https://cdn.anime-planet.com/manga/primary/just-a-goblin-1.webp?t=1663294437"
+        }
+      ]
+    },
+    "maoel_511008": {
+      "title": "A Luz da Sereia",
+      "chapters": [
+        {
+          "id": "511008",
+          "title": "A Luz da Sereia",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21vZWwvbWFvZWxfNTExMDA4Lmpzb24/",
+          "type": "oel",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/13685/68b26ef758c1d.webp"
+        }
+      ]
+    },
+    "maoel_66390": {
+      "title": "O mundo à qual pertenço ",
+      "chapters": [
+        {
+          "id": "66390",
+          "title": "O mundo à qual pertenço ",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21vZWwvbWFvZWxfNjYzOTAuanNvbg/",
+          "type": "oel",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/10319/67d1ef767c6ab.png"
+        }
+      ]
+    },
+    "maoel_73762": {
+      "title": "Senhor dos Goblins",
+      "chapters": [
+        {
+          "id": "73762",
+          "title": "Senhor dos Goblins",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21vZWwvbWFvZWxfNzM3NjIuanNvbg/",
+          "type": "oel",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/1384/689280f417355.jpg"
+        }
+      ]
+    },
+    "maoel_74405": {
+      "title": " Corujas Noturnas e Céus de Verão",
+      "chapters": [
+        {
+          "id": "74405",
+          "title": " Corujas Noturnas e Céus de Verão",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21vZWwvbWFvZWxfNzQ0MDUuanNvbg/",
+          "type": "oel",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/8862/679566a0d224e.png"
         }
       ]
     }
