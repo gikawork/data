@@ -1,0 +1,40 @@
+{
+  "title": "A Duquesa Dele É Um Fantasma",
+  "author": "Autor não encontrado",
+  "artist": "Artista não encontrado",
+  "description": "No dia de seu casamento, Alena foi assassinada, mas a morte não pôde silenciar seu ardente desejo de vingança. Ligada ao reino terreno como um fantasma, seu único propósito agora é rastrear o próprio homem que orquestrou sua morte e fazer justiça além do túmulo.\n\n",
+  "cover": "https://cdn.verdinha.wtf/scans/1/obras/9017/6795d30f363fa.png",
+  "status": "Em Andamento",
+  "chapters": {
+    "3": {
+      "title": "Capítulo 03",
+      "groups": {
+        "gikamura": [
+          "https://cdn.verdinha.wtf/scans/1/obras/9017/capitulos/3/1.webp",
+          "https://cdn.verdinha.wtf/scans/1/obras/9017/capitulos/3/2.jpg",
+          "https://cdn.verdinha.wtf/scans/1/obras/9017/capitulos/3/3.webp"
+        ]
+      }
+    },
+    "2": {
+      "title": "Capítulo 02",
+      "groups": {
+        "gikamura": [
+          "https://cdn.verdinha.wtf/scans/1/obras/9017/capitulos/2/1.webp",
+          "https://cdn.verdinha.wtf/scans/1/obras/9017/capitulos/2/2.jpg",
+          "https://cdn.verdinha.wtf/scans/1/obras/9017/capitulos/2/3.webp"
+        ]
+      }
+    },
+    "1": {
+      "title": "Capítulo 1",
+      "groups": {
+        "gikamura": [
+          "https://cdn.verdinha.wtf/scans/1/obras/9017/capitulos/1/1.webp",
+          "https://cdn.verdinha.wtf/scans/1/obras/9017/capitulos/1/2.jpg",
+          "https://cdn.verdinha.wtf/scans/1/obras/9017/capitulos/1/3.webp"
+        ]
+      }
+    }
+  }
+}
