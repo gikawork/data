@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764738583,
-    "totalMangas": 2095,
+    "lastUpdated": 1764738592,
+    "totalMangas": 2096,
     "version": "1.0.5"
   },
   "mangas": {
@@ -25142,6 +25142,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl81MDIuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/8168/67ca90c0a3048.png"
+        }
+      ]
+    },
+    "makr_ea2fbc": {
+      "title": "A Proprietária Bebê Está se Aposentando",
+      "chapters": [
+        {
+          "id": "ea2fbc",
+          "title": "A Proprietária Bebê Está se Aposentando",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl9lYTJmYmMuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/8763/67948a464ad64.png"
         }
       ]
     }
