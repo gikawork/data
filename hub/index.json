@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764736899,
-    "totalMangas": 1916,
+    "lastUpdated": 1764736908,
+    "totalMangas": 1917,
     "version": "1.0.5"
   },
   "mangas": {
@@ -22994,6 +22994,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl82YWJlYTAuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/10814/680ea93d904b6.jpg"
+        }
+      ]
+    },
+    "makr_fec19c": {
+      "title": "De Dama à Rainha",
+      "chapters": [
+        {
+          "id": "fec19c",
+          "title": "De Dama à Rainha",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl9mZWMxOWMuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/9919/67bb95795aca5.webp"
         }
       ]
     }
