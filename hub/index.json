@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764738387,
-    "totalMangas": 2073,
+    "lastUpdated": 1764738396,
+    "totalMangas": 2074,
     "version": "1.0.5"
   },
   "mangas": {
@@ -24878,6 +24878,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl85MTU1Lmpzb24/",
           "type": "manhwa",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx152428-m8SPY6ANzn5i.png"
+        }
+      ]
+    },
+    "mach_2272bd": {
+      "title": "Meus Subordinados Insanamente Fortes",
+      "chapters": [
+        {
+          "id": "2272bd",
+          "title": "Meus Subordinados Insanamente Fortes",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF8yMjcyYmQuanNvbg/",
+          "type": "manhua",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/10106/67c748a5168ef.png"
         }
       ]
     }
