@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764734730,
-    "totalMangas": 1680,
+    "lastUpdated": 1764734739,
+    "totalMangas": 1681,
     "version": "1.0.5"
   },
   "mangas": {
@@ -20162,6 +20162,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl81NjEwZWYuanNvbg/",
           "type": "manhwa",
           "cover_url": ""
+        }
+      ]
+    },
+    "makr_106572": {
+      "title": "O Rei Demônio Retornado é Gentil",
+      "chapters": [
+        {
+          "id": "106572",
+          "title": "O Rei Demônio Retornado é Gentil",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8xMDY1NzIuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/4303/68c25dee78539.jpg"
         }
       ]
     }
