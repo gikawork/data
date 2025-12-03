@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764737940,
-    "totalMangas": 2024,
+    "lastUpdated": 1764737949,
+    "totalMangas": 2025,
     "version": "1.0.5"
   },
   "mangas": {
@@ -24290,6 +24290,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF84MjM2Lmpzb24/",
           "type": "manhua",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/13283/687ea90bc3321.jpg"
+        }
+      ]
+    },
+    "makr_10651": {
+      "title": "Xamã",
+      "chapters": [
+        {
+          "id": "10651",
+          "title": "Xamã",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8xMDY1MS5qc29u/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/7634/wp-content/uploads/2024/12/xxxxx.jpg"
         }
       ]
     }
