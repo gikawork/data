@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764740685,
-    "totalMangas": 2325,
+    "lastUpdated": 1764740694,
+    "totalMangas": 2326,
     "version": "1.0.5"
   },
   "mangas": {
@@ -27902,6 +27902,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21vZWwvbWFvZWxfMzM5MDAuanNvbg/",
           "type": "oel",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/10212/67ce5e15b0718.png"
+        }
+      ]
+    },
+    "makr_558a1e": {
+      "title": "A 31ª Peça Que virou o Tabuleiro",
+      "chapters": [
+        {
+          "id": "558a1e",
+          "title": "A 31ª Peça Que virou o Tabuleiro",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl81NThhMWUuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://images2.imgbox.com/b5/3f/7JKi2cCM_o.jpg"
         }
       ]
     }
