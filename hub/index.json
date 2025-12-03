@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": 1764725575,
+    "lastUpdated": 1764725589,
     "totalMangas": 1117,
     "version": "1.0.5"
   },
@@ -13394,6 +13394,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8yMDMuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/6173/wp-content/uploads/2024/11/kang.jpg"
+        }
+      ]
+    },
+    "majp_15822": {
+      "title": "Romantica Clock",
+      "chapters": [
+        {
+          "id": "15822",
+          "title": "Romantica Clock",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzE1ODIyLmpzb24/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx73741-wQUkOa6m3LRA.jpg"
         }
       ]
     }
