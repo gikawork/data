@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764736836,
-    "totalMangas": 1909,
+    "lastUpdated": 1764736845,
+    "totalMangas": 1910,
     "version": "1.0.5"
   },
   "mangas": {
@@ -22910,6 +22910,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8zNzM4Lmpzb24/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/11253/683db7548cdaa.png"
+        }
+      ]
+    },
+    "makr_80312": {
+      "title": "Território Invencível",
+      "chapters": [
+        {
+          "id": "80312",
+          "title": "Território Invencível",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl84MDMxMi5qc29u/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/5509/wp-content/uploads/2024/10/11662-1.jpg"
         }
       ]
     }
