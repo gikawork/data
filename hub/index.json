@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764733144,
-    "totalMangas": 1503,
+    "lastUpdated": 1764733153,
+    "totalMangas": 1504,
     "version": "1.0.5"
   },
   "mangas": {
@@ -18038,6 +18038,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl81NTIzLmpzb24/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/10493/67de0c29a951e.png"
+        }
+      ]
+    },
+    "mach_97457": {
+      "title": "Infinite Deduction",
+      "chapters": [
+        {
+          "id": "97457",
+          "title": "Infinite Deduction",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF85NzQ1Ny5qc29u/",
+          "type": "manhua",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b185791-UsJAlit5VGFc.jpg"
         }
       ]
     }
