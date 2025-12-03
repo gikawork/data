@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764723230,
-    "totalMangas": 1098,
+    "lastUpdated": 1764723239,
+    "totalMangas": 1099,
     "version": "1.0.5"
   },
   "mangas": {
@@ -13178,6 +13178,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzMzMjQuanNvbg/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx113322-gwV3eakaVqZQ.png"
+        }
+      ]
+    },
+    "majp_2797": {
+      "title": "Kusetsuyo Kanojo wa Toko ni Izanau",
+      "chapters": [
+        {
+          "id": "2797",
+          "title": "Kusetsuyo Kanojo wa Toko ni Izanau",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzI3OTcuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx178184-z5LGdRLUufQF.jpg"
         }
       ]
     }
