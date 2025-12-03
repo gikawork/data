@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764728564,
-    "totalMangas": 1152,
+    "lastUpdated": 1764728572,
+    "totalMangas": 1153,
     "version": "1.0.5"
   },
   "mangas": {
@@ -13826,6 +13826,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8xNDYuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/6124/wp-content/uploads/2024/11/can-someome-recommend-me-manhwa-like-death-god-shanshi-v0-fv39f9nexrsb1_enhanced.png"
+        }
+      ]
+    },
+    "majp_5025": {
+      "title": "Shoukan Suru Sekai",
+      "chapters": [
+        {
+          "id": "5025",
+          "title": "Shoukan Suru Sekai",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzUwMjUuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx144670-lWey5ROKgl9l.jpg"
         }
       ]
     }
