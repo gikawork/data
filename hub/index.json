@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": 1764729696,
+    "lastUpdated": 1764729710,
     "totalMangas": 1182,
     "version": "1.0.5"
   },
@@ -14174,6 +14174,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzgyNjcuanNvbg/",
           "type": "manga",
           "cover_url": "https://images2.imgbox.com/fe/ed/illgMDBO_o.jpg"
+        }
+      ]
+    },
+    "majp_424": {
+      "title": "Nine Peaks",
+      "chapters": [
+        {
+          "id": "424",
+          "title": "Nine Peaks",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzQyNC5qc29u/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx150633-qR79qfaCMNa2.jpg"
         }
       ]
     }
