@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764738786,
-    "totalMangas": 2117,
+    "lastUpdated": 1764738796,
+    "totalMangas": 2118,
     "version": "1.0.5"
   },
   "mangas": {
@@ -25406,6 +25406,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl84OTA5Lmpzb24/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/10201/67ce4391c818b.png"
+        }
+      ]
+    },
+    "makr_77417": {
+      "title": "Agatha",
+      "chapters": [
+        {
+          "id": "77417",
+          "title": "Agatha",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl83NzQxNy5qc29u/",
+          "type": "manhwa",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx135998-3FhCsiEEXQ4Z.jpg"
         }
       ]
     }
