@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764738183,
-    "totalMangas": 2051,
+    "lastUpdated": 1764738193,
+    "totalMangas": 2052,
     "version": "1.0.5"
   },
   "mangas": {
@@ -24614,6 +24614,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl9jY2E1MDIuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/12883/68674d3059971.webp"
+        }
+      ]
+    },
+    "mach_8367": {
+      "title": "Eu, o Lorde Demônio, Estou Sendo Alvo De Minhas Discípulas!",
+      "chapters": [
+        {
+          "id": "8367",
+          "title": "Eu, o Lorde Demônio, Estou Sendo Alvo De Minhas Discípulas!",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF84MzY3Lmpzb24/",
+          "type": "manhua",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/4147/wp-content/uploads/2024/10/Capa.webp"
         }
       ]
     }
