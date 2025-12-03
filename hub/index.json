@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764740119,
-    "totalMangas": 2264,
+    "lastUpdated": 1764740128,
+    "totalMangas": 2265,
     "version": "1.0.5"
   },
   "mangas": {
@@ -27170,6 +27170,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl84NTI5Y2YuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/8450/wp-content/uploads/2025/01/Screenshot_20250103_195257_Chrome.jpg"
+        }
+      ]
+    },
+    "makr_2a2b01": {
+      "title": " Que tipo de Bolinho de Arroz é esse?",
+      "chapters": [
+        {
+          "id": "2a2b01",
+          "title": " Que tipo de Bolinho de Arroz é esse?",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8yYTJiMDEuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/10362/67d50d2a33e7b.png"
         }
       ]
     }
