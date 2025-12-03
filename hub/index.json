@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764738086,
-    "totalMangas": 2040,
+    "lastUpdated": 1764738095,
+    "totalMangas": 2041,
     "version": "1.0.5"
   },
   "mangas": {
@@ -24482,6 +24482,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8yMzQzLmpzb24/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/10910/680eaf40251c3.jpg"
+        }
+      ]
+    },
+    "makr_199334": {
+      "title": "Criação nas Sombras",
+      "chapters": [
+        {
+          "id": "199334",
+          "title": "Criação nas Sombras",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8xOTkzMzQuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/10217/67ce6a6fd34ea.png"
         }
       ]
     }
