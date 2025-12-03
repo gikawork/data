@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764734855,
-    "totalMangas": 1694,
+    "lastUpdated": 1764734864,
+    "totalMangas": 1695,
     "version": "1.0.5"
   },
   "mangas": {
@@ -20330,6 +20330,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl83MDQuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx142287-nlT7oSUzHnNv.jpg"
+        }
+      ]
+    },
+    "makr_f38fa2": {
+      "title": "Deus da Batalha da Academia de Caçadores",
+      "chapters": [
+        {
+          "id": "f38fa2",
+          "title": "Deus da Batalha da Academia de Caçadores",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl9mMzhmYTIuanNvbg/",
+          "type": "manhwa",
+          "cover_url": ""
         }
       ]
     }
