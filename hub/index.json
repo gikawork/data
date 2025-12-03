@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764723917,
-    "totalMangas": 1101,
+    "lastUpdated": 1764723925,
+    "totalMangas": 1102,
     "version": "1.0.5"
   },
   "mangas": {
@@ -13214,6 +13214,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzE2Lmpzb24/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx45372-QRfOXY2Of8SY.png"
+        }
+      ]
+    },
+    "maot_108983": {
+      "title": "Kono Subarashii Sekai ni Shukufuku wo!",
+      "chapters": [
+        {
+          "id": "108983",
+          "title": "Kono Subarashii Sekai ni Shukufuku wo!",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21vdC9tYW90XzEwODk4My5qc29u/",
+          "type": "outro",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/nx85702-bViMuf2lzC0f.jpg"
         }
       ]
     }
