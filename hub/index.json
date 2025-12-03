@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": 1764724803,
+    "lastUpdated": 1764724817,
     "totalMangas": 1108,
     "version": "1.0.5"
   },
@@ -13286,6 +13286,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8yMzM2Lmpzb24/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/230/685dfebc4ba65.webp"
+        }
+      ]
+    },
+    "majp_4585": {
+      "title": "Yuru Camp△",
+      "chapters": [
+        {
+          "id": "4585",
+          "title": "Yuru Camp△",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzQ1ODUuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://media.kitsu.app/manga/poster_images/38955/large.jpg"
         }
       ]
     }
