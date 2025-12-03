@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764734146,
-    "totalMangas": 1615,
+    "lastUpdated": 1764734155,
+    "totalMangas": 1616,
     "version": "1.0.5"
   },
   "mangas": {
@@ -19382,6 +19382,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl83MjlmZWUuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/10374/67d5adfdb013b.png"
+        }
+      ]
+    },
+    "mach_32925": {
+      "title": "Espada que desafia os céus",
+      "chapters": [
+        {
+          "id": "32925",
+          "title": "Espada que desafia os céus",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF8zMjkyNS5qc29u/",
+          "type": "manhua",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/9261/67a35065ed8cd.jpg"
         }
       ]
     }
