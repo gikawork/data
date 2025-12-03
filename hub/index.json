@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764734224,
-    "totalMangas": 1624,
+    "lastUpdated": 1764734232,
+    "totalMangas": 1625,
     "version": "1.0.5"
   },
   "mangas": {
@@ -19490,6 +19490,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl9lMzIxYmMuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/5163/679c4dada15c6.png"
+        }
+      ]
+    },
+    "makr_568": {
+      "title": "Olha aqui, Rei Demônio!",
+      "chapters": [
+        {
+          "id": "568",
+          "title": "Olha aqui, Rei Demônio!",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl81NjguanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/9888/67ba6070ee6be.png"
         }
       ]
     }
