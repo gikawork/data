@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764738946,
-    "totalMangas": 2134,
+    "lastUpdated": 1764738954,
+    "totalMangas": 2135,
     "version": "1.0.5"
   },
   "mangas": {
@@ -25610,6 +25610,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8yYjc3NzIuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/10392/67d6cdd56bd03.png"
+        }
+      ]
+    },
+    "makr_27095": {
+      "title": "A, A'",
+      "chapters": [
+        {
+          "id": "27095",
+          "title": "A, A'",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8yNzA5NS5qc29u/",
+          "type": "manhwa",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx34268-ut2IB60oKyj0.jpg"
         }
       ]
     }
