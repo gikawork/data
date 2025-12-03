@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764737654,
-    "totalMangas": 1996,
+    "lastUpdated": 1764737692,
+    "totalMangas": 1997,
     "version": "1.0.5"
   },
   "mangas": {
@@ -23954,6 +23954,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl85NjkxLmpzb24/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/1114/wp-content/uploads/2024/05/Ler-online-Seoul-Station-Druid-Manga.webp"
+        }
+      ]
+    },
+    "makr_642": {
+      "title": "The Incognito Princess",
+      "chapters": [
+        {
+          "id": "642",
+          "title": "The Incognito Princess",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl82NDIuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx180861-psqFHxGV9kkh.jpg"
         }
       ]
     }
