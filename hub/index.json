@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764725481,
-    "totalMangas": 1115,
+    "lastUpdated": 1764725490,
+    "totalMangas": 1116,
     "version": "1.0.5"
   },
   "mangas": {
@@ -13382,6 +13382,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzMxNTYuanNvbg/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx111073-2ifUvc7Lxefc.png"
+        }
+      ]
+    },
+    "majp_98253": {
+      "title": "After School, We Wander in Space.",
+      "chapters": [
+        {
+          "id": "98253",
+          "title": "After School, We Wander in Space.",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzk4MjUzLmpzb24/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx187328-y4huuFYfA1yF.jpg"
         }
       ]
     }
