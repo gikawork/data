@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764734413,
-    "totalMangas": 1645,
+    "lastUpdated": 1764734422,
+    "totalMangas": 1646,
     "version": "1.0.5"
   },
   "mangas": {
@@ -19742,6 +19742,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl85NGUxMTEuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/7770/wp-content/uploads/2024/12/13__surgeon-20-06-2023_11_40_14_PM.jpg.webp"
+        }
+      ]
+    },
+    "makr_d2e503": {
+      "title": "Por Favor, Seja Paciente, Grão-Duque",
+      "chapters": [
+        {
+          "id": "d2e503",
+          "title": "Por Favor, Seja Paciente, Grão-Duque",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl9kMmU1MDMuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/9943/67bcbefa196d0.png"
         }
       ]
     }
