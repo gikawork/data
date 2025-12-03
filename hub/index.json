@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764727986,
-    "totalMangas": 1144,
+    "lastUpdated": 1764727996,
+    "totalMangas": 1145,
     "version": "1.0.5"
   },
   "mangas": {
@@ -13730,6 +13730,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzM1Ni5qc29u/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx178202-DChIIiw57fRG.jpg"
+        }
+      ]
+    },
+    "majp_3951": {
+      "title": "I'm Standing on a Million Lives",
+      "chapters": [
+        {
+          "id": "3951",
+          "title": "I'm Standing on a Million Lives",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzM5NTEuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://images2.imgbox.com/54/68/C0TXZ3a1_o.jpg"
         }
       ]
     }
