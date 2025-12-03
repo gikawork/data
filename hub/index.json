@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": 1764729918,
+    "lastUpdated": 1764729933,
     "totalMangas": 1187,
     "version": "1.0.5"
   },
@@ -14234,6 +14234,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzI1NDc5Lmpzb24/",
           "type": "manga",
           "cover_url": "https://cdn.myanimelist.net/images/manga/1/198800.jpg"
+        }
+      ]
+    },
+    "majp_1005": {
+      "title": "Centuria",
+      "chapters": [
+        {
+          "id": "1005",
+          "title": "Centuria",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzEwMDUuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx176740-KD68EumxZV95.jpg"
         }
       ]
     }
