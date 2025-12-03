@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764735852,
-    "totalMangas": 1802,
+    "lastUpdated": 1764735861,
+    "totalMangas": 1803,
     "version": "1.0.5"
   },
   "mangas": {
@@ -21626,6 +21626,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl80MDQuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx186506-iCvLzDgX5J87.jpg"
+        }
+      ]
+    },
+    "majp_5a6b53": {
+      "title": "Alguém para você",
+      "chapters": [
+        {
+          "id": "5a6b53",
+          "title": "Alguém para você",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzVhNmI1My5qc29u/",
+          "type": "manga",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/10967/681359778ed5a.png"
         }
       ]
     }
