@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "lastUpdated": 1764765782,
-    "totalMangas": 2628,
-    "version": "1.0.6"
+    "lastUpdated": 1764765784,
+    "totalMangas": 2627,
+    "version": "1.0.7"
   },
   "mangas": {
     "JP608": {
@@ -31526,18 +31526,6 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl9kZjdkOWUuanNvbg/",
           "type": "manhwa",
           "cover_url": ""
-        }
-      ]
-    },
-    "mach_78723": {
-      "title": "A irmã Yandere só quer que eu a intimide",
-      "chapters": [
-        {
-          "id": "78723",
-          "title": "A irmã Yandere só quer que eu a intimide",
-          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF83ODcyMy5qc29u/",
-          "type": "manhua",
-          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/10089/67c5c0ef0af1c.jpg"
         }
       ]
     }
