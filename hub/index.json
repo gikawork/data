@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764739577,
-    "totalMangas": 2204,
+    "lastUpdated": 1764739585,
+    "totalMangas": 2205,
     "version": "1.0.5"
   },
   "mangas": {
@@ -26450,6 +26450,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl9jMzgxYjQuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/13929/68db0f7546975.webp"
+        }
+      ]
+    },
+    "mach_104207": {
+      "title": "Andarilho do Coração Carmesim",
+      "chapters": [
+        {
+          "id": "104207",
+          "title": "Andarilho do Coração Carmesim",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF8xMDQyMDcuanNvbg/",
+          "type": "manhua",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/10572/67f28b7cab004.jpg"
         }
       ]
     }
