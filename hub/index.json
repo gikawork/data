@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": 1764725004,
+    "lastUpdated": 1764725020,
     "totalMangas": 1110,
     "version": "1.0.5"
   },
@@ -13310,6 +13310,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzMyNzAuanNvbg/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx102056-gAo0i9cr2drq.jpg"
+        }
+      ]
+    },
+    "majp_68245": {
+      "title": "Kuroiwa Medaka ni Watashi no Kawaii ga Tsuujinai",
+      "chapters": [
+        {
+          "id": "68245",
+          "title": "Kuroiwa Medaka ni Watashi no Kawaii ga Tsuujinai",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzY4MjQ1Lmpzb24/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx127588-sn2krjAmSLdd.jpg"
         }
       ]
     }
