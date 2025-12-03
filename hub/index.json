@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764735638,
-    "totalMangas": 1779,
+    "lastUpdated": 1764735648,
+    "totalMangas": 1780,
     "version": "1.0.5"
   },
   "mangas": {
@@ -21350,6 +21350,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl81MDk5OS5qc29u/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/10233/67cf222559d6a.png"
+        }
+      ]
+    },
+    "mach_37126": {
+      "title": "Taoísta: Caçador de Fantasmas",
+      "chapters": [
+        {
+          "id": "37126",
+          "title": "Taoísta: Caçador de Fantasmas",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF8zNzEyNi5qc29u/",
+          "type": "manhua",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/10107/67c75e8e9ff7d.png"
         }
       ]
     }
