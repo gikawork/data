@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764739204,
-    "totalMangas": 2163,
+    "lastUpdated": 1764739213,
+    "totalMangas": 2164,
     "version": "1.0.5"
   },
   "mangas": {
@@ -25958,6 +25958,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8wMDI3ZDEuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/8881/67957f90c5792.png"
+        }
+      ]
+    },
+    "makr_0f9909": {
+      "title": "Ceifador de Meio Período",
+      "chapters": [
+        {
+          "id": "0f9909",
+          "title": "Ceifador de Meio Período",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8wZjk5MDkuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/11177/68327f2e64a88.png"
         }
       ]
     }
