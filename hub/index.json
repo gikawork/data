@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764731312,
-    "totalMangas": 1301,
+    "lastUpdated": 1764731321,
+    "totalMangas": 1302,
     "version": "1.0.5"
   },
   "mangas": {
@@ -15614,6 +15614,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF8zNjQxNzAuanNvbg/",
           "type": "manhua",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/13951/68dc6c2becc42.webp"
+        }
+      ]
+    },
+    "makr_2bd4c8": {
+      "title": "Eu Possuí A Vilã Que Matou Meu Favorito",
+      "chapters": [
+        {
+          "id": "2bd4c8",
+          "title": "Eu Possuí A Vilã Que Matou Meu Favorito",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8yYmQ0YzguanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/9214/679e4ed48fd64.avif"
         }
       ]
     }
