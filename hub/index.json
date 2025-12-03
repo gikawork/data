@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764732357,
-    "totalMangas": 1415,
+    "lastUpdated": 1764732366,
+    "totalMangas": 1416,
     "version": "1.0.5"
   },
   "mangas": {
@@ -16982,6 +16982,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF8zNTEwMjkuanNvbg/",
           "type": "manhua",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/11337/6849a99ae4754.png"
+        }
+      ]
+    },
+    "makr_9384bd": {
+      "title": "O Papai é Muito Forte",
+      "chapters": [
+        {
+          "id": "9384bd",
+          "title": "O Papai é Muito Forte",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl85Mzg0YmQuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/324/6846fa35871a6.jpg"
         }
       ]
     }
