@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764765316,
-    "totalMangas": 2626,
+    "lastUpdated": 1764765326,
+    "totalMangas": 2627,
     "version": "1.0.6"
   },
   "mangas": {
@@ -31514,6 +31514,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl9hM2EzOGUuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/10202/67ce45c3b62cd.png"
+        }
+      ]
+    },
+    "makr_49449": {
+      "title": "Don't Fall In Love!",
+      "chapters": [
+        {
+          "id": "49449",
+          "title": "Don't Fall In Love!",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl80OTQ0OS5qc29u/",
+          "type": "manhwa",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx144625-DDl6h8oqDSf4.jpg"
         }
       ]
     }
