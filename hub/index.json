@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": 1764729950,
+    "lastUpdated": 1764729965,
     "totalMangas": 1187,
     "version": "1.0.5"
   },
@@ -14234,6 +14234,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzI5NjcuanNvbg/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/nx73661-PJX2JcBAUYCx.png"
+        }
+      ]
+    },
+    "makr_2769": {
+      "title": "Meow Man",
+      "chapters": [
+        {
+          "id": "2769",
+          "title": "Meow Man",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8yNzY5Lmpzb24/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.myanimelist.net/images/manga/2/236758.jpg"
         }
       ]
     }
