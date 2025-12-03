@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764733119,
-    "totalMangas": 1500,
+    "lastUpdated": 1764733127,
+    "totalMangas": 1501,
     "version": "1.0.5"
   },
   "mangas": {
@@ -18002,6 +18002,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8yOGE3MmYuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/9051/6806ce1297dc9.jpg"
+        }
+      ]
+    },
+    "majp_4bd8ff": {
+      "title": "Akemi Homura Se Esforçará Mais Amanhã",
+      "chapters": [
+        {
+          "id": "4bd8ff",
+          "title": "Akemi Homura Se Esforçará Mais Amanhã",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzRiZDhmZi5qc29u/",
+          "type": "manga",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/10161/67ccbb75b9753.png"
         }
       ]
     }
