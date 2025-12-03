@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764739648,
-    "totalMangas": 2212,
+    "lastUpdated": 1764739657,
+    "totalMangas": 2213,
     "version": "1.0.5"
   },
   "mangas": {
@@ -26546,6 +26546,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl81ZmM2MzEuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/1647/wp-content/uploads/2024/05/Sleeping-Ranker-Mangaschan-222x300-1.jpg"
+        }
+      ]
+    },
+    "makr_47005": {
+      "title": "O Imperador Reverte o Tempo",
+      "chapters": [
+        {
+          "id": "47005",
+          "title": "O Imperador Reverte o Tempo",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl80NzAwNS5qc29u/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/8811/679559a22864c.png"
         }
       ]
     }
