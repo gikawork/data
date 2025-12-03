@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764732155,
-    "totalMangas": 1392,
+    "lastUpdated": 1764732164,
+    "totalMangas": 1393,
     "version": "1.0.5"
   },
   "mangas": {
@@ -16706,6 +16706,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzkxZDhkOC5qc29u/",
           "type": "manga",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/11311/6844d2fa5cf02.png"
+        }
+      ]
+    },
+    "makr_510cac": {
+      "title": "O Castelo da Besta",
+      "chapters": [
+        {
+          "id": "510cac",
+          "title": "O Castelo da Besta",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl81MTBjYWMuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/8145/wp-content/uploads/2024/12/31f3b98bbd8fb2c0f6bc46b45b7cab6e.jpg"
         }
       ]
     }
