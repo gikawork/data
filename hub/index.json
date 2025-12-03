@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764736263,
-    "totalMangas": 1847,
+    "lastUpdated": 1764736272,
+    "totalMangas": 1848,
     "version": "1.0.5"
   },
   "mangas": {
@@ -22166,6 +22166,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl82NjMxMjguanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/8839/67cced3c71961.png"
+        }
+      ]
+    },
+    "makr_9510": {
+      "title": "Bebê Tirana",
+      "chapters": [
+        {
+          "id": "9510",
+          "title": "Bebê Tirana",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl85NTEwLmpzb24/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/8125/67e03576e1fbc.png"
         }
       ]
     }
