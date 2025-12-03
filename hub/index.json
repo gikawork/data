@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764739005,
-    "totalMangas": 2141,
+    "lastUpdated": 1764739015,
+    "totalMangas": 2142,
     "version": "1.0.5"
   },
   "mangas": {
@@ -25694,6 +25694,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl82OTQzLmpzb24/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/8867/6795685e27cbe.png"
+        }
+      ]
+    },
+    "makr_2259": {
+      "title": "Princesa Farmacêutica Bebê",
+      "chapters": [
+        {
+          "id": "2259",
+          "title": "Princesa Farmacêutica Bebê",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8yMjU5Lmpzb24/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/9722/67a78cdb6d965.png"
         }
       ]
     }
