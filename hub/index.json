@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764732684,
-    "totalMangas": 1452,
+    "lastUpdated": 1764732693,
+    "totalMangas": 1453,
     "version": "1.0.5"
   },
   "mangas": {
@@ -17426,6 +17426,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl81NTY3MC5qc29u/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/13511/689a2c5f1d955.webp"
+        }
+      ]
+    },
+    "makr_ddc616": {
+      "title": "Eu Criei os Vilões com Amor",
+      "chapters": [
+        {
+          "id": "ddc616",
+          "title": "Eu Criei os Vilões com Amor",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl9kZGM2MTYuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/9061/6795fa59395a2.jpg"
         }
       ]
     }
