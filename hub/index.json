@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764723766,
-    "totalMangas": 1102,
+    "lastUpdated": 1764723783,
+    "totalMangas": 1101,
     "version": "1.0.5"
   },
   "mangas": {
@@ -5810,18 +5810,6 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvQ0g4NjAuanNvbg%3D%3D/",
           "type": "manhua",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx163536-v7YMGxY4AVIx.jpg"
-        }
-      ]
-    },
-    "KR934": {
-      "title": "The World After the Fall",
-      "chapters": [
-        {
-          "id": 934,
-          "title": "The World After the Fall",
-          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvS1I5MzQuanNvbg%3D%3D/",
-          "type": "manhwa",
-          "cover_url": "https://cdn.myanimelist.net/images/manga/3/260852.jpg"
         }
       ]
     },
@@ -13214,6 +13202,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzM0MDAuanNvbg/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx34215-OrrcNekPDdQX.jpg"
+        }
+      ]
+    },
+    "makr_934": {
+      "title": "The Constellations Are My Disciples",
+      "chapters": [
+        {
+          "id": "934",
+          "title": "The Constellations Are My Disciples",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl85MzQuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx163448-X8vjJHWrSTx8.jpg"
         }
       ]
     }
