@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764735465,
-    "totalMangas": 1760,
+    "lastUpdated": 1764735473,
+    "totalMangas": 1761,
     "version": "1.0.5"
   },
   "mangas": {
@@ -21122,6 +21122,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8xNTA3Lmpzb24/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/13337/68804ddb15781.png"
+        }
+      ]
+    },
+    "makr_babfff": {
+      "title": "Dez Mil Anos sob Tribulação Celestial",
+      "chapters": [
+        {
+          "id": "babfff",
+          "title": "Dez Mil Anos sob Tribulação Celestial",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl9iYWJmZmYuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/12833/685f6893e9c51.png"
         }
       ]
     }
