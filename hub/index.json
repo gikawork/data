@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": 1764728954,
+    "lastUpdated": 1764728972,
     "totalMangas": 1164,
     "version": "1.0.5"
   },
@@ -13958,6 +13958,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzkyNjkuanNvbg/",
           "type": "manga",
           "cover_url": "https://cdn.myanimelist.net/images/manga/3/260520.jpg"
+        }
+      ]
+    },
+    "makr_935": {
+      "title": "Designated Bully",
+      "chapters": [
+        {
+          "id": "935",
+          "title": "Designated Bully",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl85MzUuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b153207-Jps2rCfCgWtP.jpg"
         }
       ]
     }
