@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": 1764729147,
+    "lastUpdated": 1764729164,
     "totalMangas": 1167,
     "version": "1.0.5"
   },
@@ -13994,6 +13994,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzM5MDI4Lmpzb24/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b117258-iCC54VzFxLdN.jpg"
+        }
+      ]
+    },
+    "majp_7139": {
+      "title": "Yubisaki to Renren",
+      "chapters": [
+        {
+          "id": "7139",
+          "title": "Yubisaki to Renren",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzcxMzkuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx111189-tvPJRVj5nGic.png"
         }
       ]
     }
