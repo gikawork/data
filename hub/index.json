@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764737720,
-    "totalMangas": 2000,
+    "lastUpdated": 1764737729,
+    "totalMangas": 2001,
     "version": "1.0.5"
   },
   "mangas": {
@@ -24002,6 +24002,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl80ZDdhMjIuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/9736/67a7e3b31df8a.png"
+        }
+      ]
+    },
+    "makr_c54b07": {
+      "title": "Artista Marcial Global",
+      "chapters": [
+        {
+          "id": "c54b07",
+          "title": "Artista Marcial Global",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl9jNTRiMDcuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/1193/67952efba8d27.png"
         }
       ]
     }
