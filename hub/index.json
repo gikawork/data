@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764738276,
-    "totalMangas": 2061,
+    "lastUpdated": 1764738285,
+    "totalMangas": 2062,
     "version": "1.0.5"
   },
   "mangas": {
@@ -24734,6 +24734,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl83NzY4MC5qc29u/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/11255/683db8e7040ea.png"
+        }
+      ]
+    },
+    "makr_c73ab2": {
+      "title": "Como Viver Como um Curandeiro sem Licença",
+      "chapters": [
+        {
+          "id": "c73ab2",
+          "title": "Como Viver Como um Curandeiro sem Licença",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl9jNzNhYjIuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/1302/wp-content/uploads/2024/05/healer.png"
         }
       ]
     }
