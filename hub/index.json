@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764729843,
-    "totalMangas": 1185,
+    "lastUpdated": 1764729851,
+    "totalMangas": 1186,
     "version": "1.0.5"
   },
   "mangas": {
@@ -14222,6 +14222,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21vdC9tYW90XzIwNDE2OC5qc29u/",
           "type": "outro",
           "cover_url": "https://cdn.myanimelist.net/images/manga/2/243191.jpg"
+        }
+      ]
+    },
+    "majp_95": {
+      "title": "Tenkaichi: Nihon Saikyou Bugeisha Ketteisen",
+      "chapters": [
+        {
+          "id": "95",
+          "title": "Tenkaichi: Nihon Saikyou Bugeisha Ketteisen",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzk1Lmpzb24/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx137158-MLzWCUQZu4ku.jpg"
         }
       ]
     }
