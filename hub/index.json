@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764734422,
-    "totalMangas": 1646,
+    "lastUpdated": 1764734432,
+    "totalMangas": 1647,
     "version": "1.0.5"
   },
   "mangas": {
@@ -19754,6 +19754,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl9kMmU1MDMuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/9943/67bcbefa196d0.png"
+        }
+      ]
+    },
+    "makr_36138": {
+      "title": "Charlotte Tem 5 Discípulos!",
+      "chapters": [
+        {
+          "id": "36138",
+          "title": "Charlotte Tem 5 Discípulos!",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8zNjEzOC5qc29u/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/6517/wp-content/uploads/2024/11/charlotte-tem-5-discipulos.jpeg"
         }
       ]
     }
