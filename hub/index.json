@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": 1764725314,
+    "lastUpdated": 1764725329,
     "totalMangas": 1115,
     "version": "1.0.5"
   },
@@ -13370,6 +13370,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzMyMzUuanNvbg/",
           "type": "manga",
           "cover_url": "https://images2.imgbox.com/33/8d/fs864BAp_o.jpg"
+        }
+      ]
+    },
+    "majp_1632": {
+      "title": "Akuma de Fukei!",
+      "chapters": [
+        {
+          "id": "1632",
+          "title": "Akuma de Fukei!",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzE2MzIuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx186512-ir7jseshaIve.jpg"
         }
       ]
     }
