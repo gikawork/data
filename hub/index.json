@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764739782,
-    "totalMangas": 2227,
+    "lastUpdated": 1764739791,
+    "totalMangas": 2228,
     "version": "1.0.5"
   },
   "mangas": {
@@ -26726,6 +26726,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl82NjY0OC5qc29u/",
           "type": "manhwa",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx177997-5iR1mrosyTj7.png"
+        }
+      ]
+    },
+    "makr_55426": {
+      "title": "Clube de Histórias de Fantasmas",
+      "chapters": [
+        {
+          "id": "55426",
+          "title": "Clube de Histórias de Fantasmas",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl81NTQyNi5qc29u/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/3088/6864b2da841a6.webp"
         }
       ]
     }
