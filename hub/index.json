@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764738396,
-    "totalMangas": 2074,
+    "lastUpdated": 1764738405,
+    "totalMangas": 2075,
     "version": "1.0.5"
   },
   "mangas": {
@@ -24890,6 +24890,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF8yMjcyYmQuanNvbg/",
           "type": "manhua",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/10106/67c748a5168ef.png"
+        }
+      ]
+    },
+    "makr_81378": {
+      "title": "Reencarnado em um Jogo Amaldiçoado",
+      "chapters": [
+        {
+          "id": "81378",
+          "title": "Reencarnado em um Jogo Amaldiçoado",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl84MTM3OC5qc29u/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/10732/683e2e8565fc7.png"
         }
       ]
     }
