@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764733102,
-    "totalMangas": 1498,
+    "lastUpdated": 1764733110,
+    "totalMangas": 1499,
     "version": "1.0.5"
   },
   "mangas": {
@@ -17978,6 +17978,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl82ODIyLmpzb24/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/13261/687d5122bd765.webp"
+        }
+      ]
+    },
+    "mach_21667d": {
+      "title": "Evolução Infinita: Começando do Zero",
+      "chapters": [
+        {
+          "id": "21667d",
+          "title": "Evolução Infinita: Começando do Zero",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF8yMTY2N2QuanNvbg/",
+          "type": "manhua",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/13739/68bddfda9e2db.jpg"
         }
       ]
     }
