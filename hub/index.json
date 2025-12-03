@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764734012,
-    "totalMangas": 1600,
+    "lastUpdated": 1764734020,
+    "totalMangas": 1601,
     "version": "1.0.5"
   },
   "mangas": {
@@ -19202,6 +19202,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8zOTY3My5qc29u/",
           "type": "manhwa",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx119526-KiLcewFZzaig.png"
+        }
+      ]
+    },
+    "makr_9102": {
+      "title": "Guia de Dieta de uma Dama",
+      "chapters": [
+        {
+          "id": "9102",
+          "title": "Guia de Dieta de uma Dama",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl85MTAyLmpzb24/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/10238/67cf268c35504.png"
         }
       ]
     }
