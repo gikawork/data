@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764732792,
-    "totalMangas": 1464,
+    "lastUpdated": 1764732801,
+    "totalMangas": 1465,
     "version": "1.0.5"
   },
   "mangas": {
@@ -17570,6 +17570,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF9iZTA2OWUuanNvbg/",
           "type": "manhua",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/11371/684d77d78fb54.jpg"
+        }
+      ]
+    },
+    "makr_56573": {
+      "title": "Lips Upon a Sword's Edge",
+      "chapters": [
+        {
+          "id": "56573",
+          "title": "Lips Upon a Sword's Edge",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl81NjU3My5qc29u/",
+          "type": "manhwa",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx156560-WAkflC646lJG.jpg"
         }
       ]
     }
