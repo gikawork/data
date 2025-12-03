@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": 1764730181,
+    "lastUpdated": 1764730196,
     "totalMangas": 1191,
     "version": "1.0.5"
   },
@@ -14282,6 +14282,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzcwODAuanNvbg/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx35272-LPRJKXhg4d9k.png"
+        }
+      ]
+    },
+    "majp_3280": {
+      "title": "Arachnid",
+      "chapters": [
+        {
+          "id": "3280",
+          "title": "Arachnid",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzMyODAuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx51111-ZFjz0i6P9yHA.jpg"
         }
       ]
     }
