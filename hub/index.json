@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764731304,
-    "totalMangas": 1300,
+    "lastUpdated": 1764731312,
+    "totalMangas": 1301,
     "version": "1.0.5"
   },
   "mangas": {
@@ -15602,6 +15602,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8wYjg5MjYuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/1607/wp-content/uploads/2024/05/9661975d-b8ec-4322-85f0-9acbecbf6ee6-1.jpg.512-1.jpg"
+        }
+      ]
+    },
+    "mach_364170": {
+      "title": "Deus do Machado: Caminho da Invencibilidade",
+      "chapters": [
+        {
+          "id": "364170",
+          "title": "Deus do Machado: Caminho da Invencibilidade",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF8zNjQxNzAuanNvbg/",
+          "type": "manhua",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/13951/68dc6c2becc42.webp"
         }
       ]
     }
