@@ -1,0 +1,65 @@
+{
+  "title": "A Time Away From You",
+  "author": "Autor não encontrado",
+  "artist": "Artista não encontrado",
+  "description": "Após um evento traumático no ensino médio, Irene é forçada a fugir para o exterior, deixando para trás tudo o que conhecia e amava. Anos mais tarde, ela retorna determinada a buscar vingança contra aquela que tornou sua vida insuportável. No entanto, ao confrontar sua antiga agressora, Irene se surpreende ao descobrir que ela mudou completamente. Agora, Irene se vê diante de um dilema moral: será que ela ainda deseja vingança, ou encontrará em si mesma a capacidade de perdoar e seguir em frente? Essa é uma história sobre perdão, redenção e a capacidade de mudança das pessoas ao longo do tempo.",
+  "cover": "https://cdn.verdinha.wtf/scans/1/obras/8470/677bd04136858.png",
+  "status": "Em Andamento",
+  "chapters": {
+    "4": {
+      "title": "Capítulo 4",
+      "groups": {
+        "gikamura": [
+          "https://cdn.verdinha.wtf/scans/1/obras/8470/capitulos/4/677bd2c0428b9.jpg",
+          "https://cdn.verdinha.wtf/scans/1/obras/8470/capitulos/4/677bd2c239691.jpg",
+          "https://cdn.verdinha.wtf/scans/1/obras/8470/capitulos/4/677bd2c3b8823.jpg",
+          "https://cdn.verdinha.wtf/scans/1/obras/8470/capitulos/4/677bd2c520938.jpg",
+          "https://cdn.verdinha.wtf/scans/1/obras/8470/capitulos/4/677bd2c68fdc5.jpg",
+          "https://cdn.verdinha.wtf/scans/1/obras/8470/capitulos/4/677bd2c795c96.jpg",
+          "https://cdn.verdinha.wtf/scans/1/obras/8470/capitulos/4/677bd2c834384.jpg"
+        ]
+      }
+    },
+    "3": {
+      "title": "Capítulo 3",
+      "groups": {
+        "gikamura": [
+          "https://cdn.verdinha.wtf/scans/1/obras/8470/capitulos/3/677bd21250ed7.jpg",
+          "https://cdn.verdinha.wtf/scans/1/obras/8470/capitulos/3/677bd214f334d.jpg",
+          "https://cdn.verdinha.wtf/scans/1/obras/8470/capitulos/3/677bd216b4e6c.jpg",
+          "https://cdn.verdinha.wtf/scans/1/obras/8470/capitulos/3/677bd218b2eb4.jpg",
+          "https://cdn.verdinha.wtf/scans/1/obras/8470/capitulos/3/677bd21a3ba17.jpg",
+          "https://cdn.verdinha.wtf/scans/1/obras/8470/capitulos/3/677bd21c10d88.jpg",
+          "https://cdn.verdinha.wtf/scans/1/obras/8470/capitulos/3/677bd21dc686f.jpg",
+          "https://cdn.verdinha.wtf/scans/1/obras/8470/capitulos/3/677bd21ecf082.jpg"
+        ]
+      }
+    },
+    "2": {
+      "title": "Capítulo 2",
+      "groups": {
+        "gikamura": [
+          "https://cdn.verdinha.wtf/scans/1/obras/8470/capitulos/2/677bd12d914ee.jpg",
+          "https://cdn.verdinha.wtf/scans/1/obras/8470/capitulos/2/677bd1301a1ed.jpg",
+          "https://cdn.verdinha.wtf/scans/1/obras/8470/capitulos/2/677bd13152b0b.jpg",
+          "https://cdn.verdinha.wtf/scans/1/obras/8470/capitulos/2/677bd132aceae.jpg",
+          "https://cdn.verdinha.wtf/scans/1/obras/8470/capitulos/2/677bd134118fd.jpg",
+          "https://cdn.verdinha.wtf/scans/1/obras/8470/capitulos/2/677bd134754e4.jpg"
+        ]
+      }
+    },
+    "1": {
+      "title": "Capítulo 1",
+      "groups": {
+        "gikamura": [
+          "https://cdn.verdinha.wtf/scans/1/obras/8470/capitulos/1/677bd0bde08ee.jpg",
+          "https://cdn.verdinha.wtf/scans/1/obras/8470/capitulos/1/677bd0bf3556b.jpg",
+          "https://cdn.verdinha.wtf/scans/1/obras/8470/capitulos/1/677bd0c16299f.jpg",
+          "https://cdn.verdinha.wtf/scans/1/obras/8470/capitulos/1/677bd0c2ccfac.jpg",
+          "https://cdn.verdinha.wtf/scans/1/obras/8470/capitulos/1/677bd0c404381.jpg",
+          "https://cdn.verdinha.wtf/scans/1/obras/8470/capitulos/1/677bd0c4b7bfe.jpg"
+        ]
+      }
+    }
+  }
+}
