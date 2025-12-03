@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764739412,
-    "totalMangas": 2186,
+    "lastUpdated": 1764739421,
+    "totalMangas": 2187,
     "version": "1.0.5"
   },
   "mangas": {
@@ -26234,6 +26234,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl81NTYxMC5qc29u/",
           "type": "manhwa",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx154429-fcqCNyFP5hY8.jpg"
+        }
+      ]
+    },
+    "makr_922": {
+      "title": "Verdadeira Educação",
+      "chapters": [
+        {
+          "id": "922",
+          "title": "Verdadeira Educação",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl85MjIuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/12887/686836bd5aa10.png"
         }
       ]
     }
