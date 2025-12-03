@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764722985,
-    "totalMangas": 1098,
+    "lastUpdated": 1764723003,
+    "totalMangas": 1097,
     "version": "1.0.5"
   },
   "mangas": {
@@ -5858,18 +5858,6 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvS1IzMS5qc29u/",
           "type": "manhwa",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx138705-zRSNhzP4U8zx.jpg"
-        }
-      ]
-    },
-    "JP1053": {
-      "title": "Yuusha ni Zenbu Ubawareta Ore wa Yuusha no Hahaoya to Party o Kumimashita!",
-      "chapters": [
-        {
-          "id": 1053,
-          "title": "Yuusha ni Zenbu Ubawareta Ore wa Yuusha no Hahaoya to Party o Kumimashita!",
-          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9KUDEwNTMuanNvbg%3D%3D/",
-          "type": "manga",
-          "cover_url": "https://cdn.mangaupdates.com/image/i483780.jpg"
         }
       ]
     },
@@ -13166,6 +13154,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzE5NjEuanNvbg/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx105774-e7EIPXxcm0Bq.png"
+        }
+      ]
+    },
+    "majp_1053": {
+      "title": "Itoko no Onee-chan ni Amaechau?",
+      "chapters": [
+        {
+          "id": "1053",
+          "title": "Itoko no Onee-chan ni Amaechau?",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzEwNTMuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx177544-zqt30TXeQLfO.jpg"
         }
       ]
     }
