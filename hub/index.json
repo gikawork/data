@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": 1764760620,
+    "lastUpdated": 1764760629,
     "totalMangas": 2611,
     "version": "1.0.6"
   },
@@ -31325,15 +31325,15 @@
         }
       ]
     },
-    "mach_a06c15": {
-      "title": "O Aventureiro Comedor de Monstro",
+    "majp_7dba5c": {
+      "title": "Seis Pessoas na Cruz",
       "chapters": [
         {
-          "id": "a06c15",
-          "title": "O Aventureiro Comedor de Monstro",
-          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF9hMDZjMTUuanNvbg/",
-          "type": "manhua",
-          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/9735/67a7dfbfd30be.jpg"
+          "id": "7dba5c",
+          "title": "Seis Pessoas na Cruz",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzdkYmE1Yy5qc29u/",
+          "type": "manga",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/1204/67c8c2597a0e4.jpg"
         }
       ]
     }
