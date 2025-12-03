@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": 1764762835,
+    "lastUpdated": 1764762843,
     "totalMangas": 2618,
     "version": "1.0.6"
   },
@@ -31409,15 +31409,15 @@
         }
       ]
     },
-    "majp_29fc98": {
-      "title": "Deus do jogo",
+    "mach_1370": {
+      "title": "Terra Espiritual (Parte 3): A lenda do rei dragão.",
       "chapters": [
         {
-          "id": "29fc98",
-          "title": "Deus do jogo",
-          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzI5ZmM5OC5qc29u/",
-          "type": "manga",
-          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/9828/67ae58efc4c0a.webp"
+          "id": "1370",
+          "title": "Terra Espiritual (Parte 3): A lenda do rei dragão.",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF8xMzcwLmpzb24/",
+          "type": "manhua",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/9262/67a3685704ea9.png"
         }
       ]
     }
