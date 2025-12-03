@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764739130,
-    "totalMangas": 2155,
+    "lastUpdated": 1764739140,
+    "totalMangas": 2156,
     "version": "1.0.5"
   },
   "mangas": {
@@ -25862,6 +25862,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl9iNzJiYzkuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/9078/6796e1a2e34d8.png"
+        }
+      ]
+    },
+    "makr_50279": {
+      "title": "O Livro de Lagier",
+      "chapters": [
+        {
+          "id": "50279",
+          "title": "O Livro de Lagier",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl81MDI3OS5qc29u/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/11443/6854988a77c6b.png"
         }
       ]
     }
