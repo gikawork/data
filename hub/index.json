@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": 1764725655,
+    "lastUpdated": 1764725670,
     "totalMangas": 1118,
     "version": "1.0.5"
   },
@@ -13406,6 +13406,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzk0NC5qc29u/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx149544-466pXfETA8oP.jpg"
+        }
+      ]
+    },
+    "majp_48686": {
+      "title": "Tate no Yuusha no Nariagari",
+      "chapters": [
+        {
+          "id": "48686",
+          "title": "Tate no Yuusha no Nariagari",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzQ4Njg2Lmpzb24/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx85442-pIcvm2OjfTjR.jpg"
         }
       ]
     }
