@@ -1,0 +1,907 @@
+{
+  "title": "Teclado Imortal",
+  "author": "Autor não encontrado",
+  "artist": "Artista não encontrado",
+  "description": "<p class=\"ql-paragraph-height-12\">Zu An transmigrou para outro mundo após ser atingido por um raio. Nesse outro mundo, ele era conhecido como o lixo da Cidade Lua Brilhante, mas, por alguma razão, ele era casado com a linda e talentosa filha do clã Chu?</p>\r\n<p class=\"ql-paragraph-height-12\">O quê? Eu transmigrei mas não tenho nenhum talento para o cultivo? Por que tantas pessoas querem me matar? E o mais importante de tudo, como diabos fui parar na cama da minha cunhada na noite de núpcias?!</p>\r\n<p class=\"ql-paragraph-height-12\">Esse ponto de partida foi um verdadeiro pesadelo para Zu An mas, felizmente, como um famoso Guerreiro de Teclado em sua vida anterior, o mundo deu a ele um teclado nesta vida também para que ele pudesse mudar as coisas. Através de muita trollagem e zueira, ele deve ficar em cima dos cadáveres de seus inimigos e subir ao topo do mundo!</p>",
+  "cover": "https://cdn.verdinha.wtf/scans/1/obras/4207/wp-content/uploads/2024/10/teclado-imortal.webp",
+  "status": "Em Andamento",
+  "chapters": {
+    "58": {
+      "title": "Capítulo 58",
+      "groups": {
+        "gikamura": [
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/2756a67af4449e316b11fa78526b641c/001.webp",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/2756a67af4449e316b11fa78526b641c/002.webp",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/2756a67af4449e316b11fa78526b641c/003.webp",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/2756a67af4449e316b11fa78526b641c/004.webp",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/2756a67af4449e316b11fa78526b641c/005.webp",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/2756a67af4449e316b11fa78526b641c/006.webp",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/2756a67af4449e316b11fa78526b641c/007.webp",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/2756a67af4449e316b11fa78526b641c/008.webp",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/2756a67af4449e316b11fa78526b641c/009.webp",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/2756a67af4449e316b11fa78526b641c/010.webp",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/2756a67af4449e316b11fa78526b641c/011.webp"
+        ]
+      }
+    },
+    "57": {
+      "title": "Capítulo 57",
+      "groups": {
+        "gikamura": [
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/1f09fb303959bcab4945e673caad25e8/001.webp",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/1f09fb303959bcab4945e673caad25e8/002.webp",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/1f09fb303959bcab4945e673caad25e8/003.webp",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/1f09fb303959bcab4945e673caad25e8/004.webp",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/1f09fb303959bcab4945e673caad25e8/005.webp",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/1f09fb303959bcab4945e673caad25e8/006.webp",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/1f09fb303959bcab4945e673caad25e8/007.webp"
+        ]
+      }
+    },
+    "56": {
+      "title": "Capítulo 56",
+      "groups": {
+        "gikamura": [
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/ce4f52352716b4f5dbcb29bf35d8de1a/001.webp",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/ce4f52352716b4f5dbcb29bf35d8de1a/002.webp",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/ce4f52352716b4f5dbcb29bf35d8de1a/003.webp",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/ce4f52352716b4f5dbcb29bf35d8de1a/004.webp",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/ce4f52352716b4f5dbcb29bf35d8de1a/005.webp",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/ce4f52352716b4f5dbcb29bf35d8de1a/006.webp",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/ce4f52352716b4f5dbcb29bf35d8de1a/007.webp",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/ce4f52352716b4f5dbcb29bf35d8de1a/008.webp",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/ce4f52352716b4f5dbcb29bf35d8de1a/009.webp",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/ce4f52352716b4f5dbcb29bf35d8de1a/010.webp"
+        ]
+      }
+    },
+    "55": {
+      "title": "Capítulo 55",
+      "groups": {
+        "gikamura": [
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/a26c6ba20f6b513d1b766a7bbf465c20/001.webp",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/a26c6ba20f6b513d1b766a7bbf465c20/002.webp",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/a26c6ba20f6b513d1b766a7bbf465c20/003.webp",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/a26c6ba20f6b513d1b766a7bbf465c20/004.webp",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/a26c6ba20f6b513d1b766a7bbf465c20/005.webp",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/a26c6ba20f6b513d1b766a7bbf465c20/006.webp",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/a26c6ba20f6b513d1b766a7bbf465c20/007.webp"
+        ]
+      }
+    },
+    "54": {
+      "title": "Capítulo 54",
+      "groups": {
+        "gikamura": [
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/1e5280d024d5d09f623a54065ab49d36/001.webp",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/1e5280d024d5d09f623a54065ab49d36/002.webp",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/1e5280d024d5d09f623a54065ab49d36/003.webp",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/1e5280d024d5d09f623a54065ab49d36/004.webp",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/1e5280d024d5d09f623a54065ab49d36/005.webp",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/1e5280d024d5d09f623a54065ab49d36/006.webp",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/1e5280d024d5d09f623a54065ab49d36/007.webp",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/1e5280d024d5d09f623a54065ab49d36/008.webp"
+        ]
+      }
+    },
+    "53": {
+      "title": "Capítulo 53",
+      "groups": {
+        "gikamura": [
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/1e5007be693da0b6b675bffa21979ed3/001.webp",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/1e5007be693da0b6b675bffa21979ed3/002.webp",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/1e5007be693da0b6b675bffa21979ed3/003.webp",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/1e5007be693da0b6b675bffa21979ed3/004.webp",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/1e5007be693da0b6b675bffa21979ed3/005.webp",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/1e5007be693da0b6b675bffa21979ed3/006.webp",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/1e5007be693da0b6b675bffa21979ed3/007.webp"
+        ]
+      }
+    },
+    "52": {
+      "title": "Capítulo 52",
+      "groups": {
+        "gikamura": [
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/75b50ef3c727dabdb495354d7b7c60ad/001.webp",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/75b50ef3c727dabdb495354d7b7c60ad/002.webp",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/75b50ef3c727dabdb495354d7b7c60ad/003.webp",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/75b50ef3c727dabdb495354d7b7c60ad/004.webp",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/75b50ef3c727dabdb495354d7b7c60ad/005.webp",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/75b50ef3c727dabdb495354d7b7c60ad/006.webp",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/75b50ef3c727dabdb495354d7b7c60ad/007.webp"
+        ]
+      }
+    },
+    "51": {
+      "title": "Capítulo 51",
+      "groups": {
+        "gikamura": [
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/41fbe5fa76d3b381462908766764d06e/001.webp",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/41fbe5fa76d3b381462908766764d06e/002.webp",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/41fbe5fa76d3b381462908766764d06e/003.webp",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/41fbe5fa76d3b381462908766764d06e/004.webp",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/41fbe5fa76d3b381462908766764d06e/005.webp",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/41fbe5fa76d3b381462908766764d06e/006.webp",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/41fbe5fa76d3b381462908766764d06e/007.webp"
+        ]
+      }
+    },
+    "50": {
+      "title": "Capítulo 50",
+      "groups": {
+        "gikamura": [
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/ff724433f0e8db002244cce211f8628f/001.webp",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/ff724433f0e8db002244cce211f8628f/002.webp",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/ff724433f0e8db002244cce211f8628f/003.webp",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/ff724433f0e8db002244cce211f8628f/004.webp",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/ff724433f0e8db002244cce211f8628f/005.webp",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/ff724433f0e8db002244cce211f8628f/006.webp",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/ff724433f0e8db002244cce211f8628f/007.webp",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/ff724433f0e8db002244cce211f8628f/008.webp",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/ff724433f0e8db002244cce211f8628f/009.webp"
+        ]
+      }
+    },
+    "49": {
+      "title": "Capítulo 49",
+      "groups": {
+        "gikamura": [
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/66db949d21be7580ccacc750d184d52e/001.webp",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/66db949d21be7580ccacc750d184d52e/002.webp",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/66db949d21be7580ccacc750d184d52e/003.webp",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/66db949d21be7580ccacc750d184d52e/004.webp",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/66db949d21be7580ccacc750d184d52e/005.webp",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/66db949d21be7580ccacc750d184d52e/006.webp",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/66db949d21be7580ccacc750d184d52e/007.webp"
+        ]
+      }
+    },
+    "48": {
+      "title": "Capítulo 48",
+      "groups": {
+        "gikamura": [
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/8c704d58a545d51f00d05826b2adaade/001.webp",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/8c704d58a545d51f00d05826b2adaade/002.webp",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/8c704d58a545d51f00d05826b2adaade/003.webp",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/8c704d58a545d51f00d05826b2adaade/004.webp",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/8c704d58a545d51f00d05826b2adaade/005.webp",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/8c704d58a545d51f00d05826b2adaade/006.webp"
+        ]
+      }
+    },
+    "47": {
+      "title": "Capítulo 47",
+      "groups": {
+        "gikamura": [
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/31a9e49181f04058f12f0c7638963553/001.webp",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/31a9e49181f04058f12f0c7638963553/002.webp",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/31a9e49181f04058f12f0c7638963553/003.webp",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/31a9e49181f04058f12f0c7638963553/004.webp",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/31a9e49181f04058f12f0c7638963553/005.webp",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/31a9e49181f04058f12f0c7638963553/006.webp",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/31a9e49181f04058f12f0c7638963553/007.webp"
+        ]
+      }
+    },
+    "46": {
+      "title": "Capítulo 46",
+      "groups": {
+        "gikamura": [
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/2f10dcbfa435f3346f2d98aadac19fc9/001.webp",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/2f10dcbfa435f3346f2d98aadac19fc9/002.webp",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/2f10dcbfa435f3346f2d98aadac19fc9/003.webp",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/2f10dcbfa435f3346f2d98aadac19fc9/004.webp",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/2f10dcbfa435f3346f2d98aadac19fc9/005.webp",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/2f10dcbfa435f3346f2d98aadac19fc9/006.webp",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/2f10dcbfa435f3346f2d98aadac19fc9/007.webp"
+        ]
+      }
+    },
+    "45": {
+      "title": "Capítulo 45",
+      "groups": {
+        "gikamura": [
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/1d2de5ced8bc0e06cc3320e467e83e5a/001.webp",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/1d2de5ced8bc0e06cc3320e467e83e5a/002.webp",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/1d2de5ced8bc0e06cc3320e467e83e5a/003.webp",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/1d2de5ced8bc0e06cc3320e467e83e5a/004.webp",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/1d2de5ced8bc0e06cc3320e467e83e5a/005.webp",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/1d2de5ced8bc0e06cc3320e467e83e5a/006.webp",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/1d2de5ced8bc0e06cc3320e467e83e5a/007.webp",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/1d2de5ced8bc0e06cc3320e467e83e5a/008.webp"
+        ]
+      }
+    },
+    "44": {
+      "title": "Capítulo 44",
+      "groups": {
+        "gikamura": [
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/d0cf71204e6f12cfb9ca36b47ff6edc5/001.webp",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/d0cf71204e6f12cfb9ca36b47ff6edc5/002.webp",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/d0cf71204e6f12cfb9ca36b47ff6edc5/003.webp",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/d0cf71204e6f12cfb9ca36b47ff6edc5/004.webp",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/d0cf71204e6f12cfb9ca36b47ff6edc5/005.webp",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/d0cf71204e6f12cfb9ca36b47ff6edc5/006.webp",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/d0cf71204e6f12cfb9ca36b47ff6edc5/007.webp",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/d0cf71204e6f12cfb9ca36b47ff6edc5/008.webp"
+        ]
+      }
+    },
+    "43": {
+      "title": "Capítulo 43",
+      "groups": {
+        "gikamura": [
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/2026db01fd83250e62d5aa76e701876c/001.webp",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/2026db01fd83250e62d5aa76e701876c/002.webp",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/2026db01fd83250e62d5aa76e701876c/003.webp",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/2026db01fd83250e62d5aa76e701876c/004.webp",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/2026db01fd83250e62d5aa76e701876c/005.webp",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/2026db01fd83250e62d5aa76e701876c/006.webp",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/2026db01fd83250e62d5aa76e701876c/007.webp"
+        ]
+      }
+    },
+    "42": {
+      "title": "Capítulo 42",
+      "groups": {
+        "gikamura": [
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/9cd081e51fa69d6063b1b90415a78876/001.webp",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/9cd081e51fa69d6063b1b90415a78876/002.webp",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/9cd081e51fa69d6063b1b90415a78876/003.webp",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/9cd081e51fa69d6063b1b90415a78876/004.webp",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/9cd081e51fa69d6063b1b90415a78876/005.webp",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/9cd081e51fa69d6063b1b90415a78876/006.webp",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/9cd081e51fa69d6063b1b90415a78876/007.webp"
+        ]
+      }
+    },
+    "41": {
+      "title": "Capítulo 41",
+      "groups": {
+        "gikamura": [
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/1bfa9d80970e53456259cb4c1f9b3d99/001.webp",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/1bfa9d80970e53456259cb4c1f9b3d99/002.webp",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/1bfa9d80970e53456259cb4c1f9b3d99/003.webp",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/1bfa9d80970e53456259cb4c1f9b3d99/004.webp",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/1bfa9d80970e53456259cb4c1f9b3d99/005.webp",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/1bfa9d80970e53456259cb4c1f9b3d99/006.webp",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/1bfa9d80970e53456259cb4c1f9b3d99/007.webp",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/1bfa9d80970e53456259cb4c1f9b3d99/008.webp"
+        ]
+      }
+    },
+    "40": {
+      "title": "Capítulo 40",
+      "groups": {
+        "gikamura": [
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/62f144e72753ca5207b679de42b1154d/001.webp",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/62f144e72753ca5207b679de42b1154d/002.webp",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/62f144e72753ca5207b679de42b1154d/003.webp",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/62f144e72753ca5207b679de42b1154d/004.webp",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/62f144e72753ca5207b679de42b1154d/005.webp",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/62f144e72753ca5207b679de42b1154d/006.webp",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/62f144e72753ca5207b679de42b1154d/007.webp"
+        ]
+      }
+    },
+    "39": {
+      "title": "Capítulo 39",
+      "groups": {
+        "gikamura": [
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/4f40734d66b7f92fba8708bf741d6206/001.webp",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/4f40734d66b7f92fba8708bf741d6206/002.webp",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/4f40734d66b7f92fba8708bf741d6206/003.webp",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/4f40734d66b7f92fba8708bf741d6206/004.webp",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/4f40734d66b7f92fba8708bf741d6206/005.webp",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/4f40734d66b7f92fba8708bf741d6206/006.webp",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/4f40734d66b7f92fba8708bf741d6206/007.webp",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/4f40734d66b7f92fba8708bf741d6206/008.webp"
+        ]
+      }
+    },
+    "38": {
+      "title": "Capítulo 38",
+      "groups": {
+        "gikamura": [
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/c1caae0b08ed7ef7fcc920441f3b069a/001.webp",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/c1caae0b08ed7ef7fcc920441f3b069a/002.webp",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/c1caae0b08ed7ef7fcc920441f3b069a/003.webp",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/c1caae0b08ed7ef7fcc920441f3b069a/004.webp",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/c1caae0b08ed7ef7fcc920441f3b069a/005.webp",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/c1caae0b08ed7ef7fcc920441f3b069a/006.webp",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/c1caae0b08ed7ef7fcc920441f3b069a/007.webp",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/c1caae0b08ed7ef7fcc920441f3b069a/008.webp"
+        ]
+      }
+    },
+    "37": {
+      "title": "Capítulo 37",
+      "groups": {
+        "gikamura": [
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/54727a4ba7dca42c2c35b3dafee31989/001.webp",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/54727a4ba7dca42c2c35b3dafee31989/002.webp",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/54727a4ba7dca42c2c35b3dafee31989/003.webp",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/54727a4ba7dca42c2c35b3dafee31989/004.webp",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/54727a4ba7dca42c2c35b3dafee31989/005.webp",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/54727a4ba7dca42c2c35b3dafee31989/006.webp",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/54727a4ba7dca42c2c35b3dafee31989/007.webp",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/54727a4ba7dca42c2c35b3dafee31989/008.webp",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/54727a4ba7dca42c2c35b3dafee31989/009.webp"
+        ]
+      }
+    },
+    "36": {
+      "title": "Capítulo 36",
+      "groups": {
+        "gikamura": [
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/0bee6e7fbcc74f050d199e357219a371/001.webp",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/0bee6e7fbcc74f050d199e357219a371/002.webp",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/0bee6e7fbcc74f050d199e357219a371/003.webp",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/0bee6e7fbcc74f050d199e357219a371/004.webp",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/0bee6e7fbcc74f050d199e357219a371/005.webp",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/0bee6e7fbcc74f050d199e357219a371/006.webp",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/0bee6e7fbcc74f050d199e357219a371/007.webp"
+        ]
+      }
+    },
+    "35": {
+      "title": "Capítulo 35",
+      "groups": {
+        "gikamura": [
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/d52ae70b44445bae369d2df4a626c6a8/001.webp",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/d52ae70b44445bae369d2df4a626c6a8/002.webp",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/d52ae70b44445bae369d2df4a626c6a8/003.webp",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/d52ae70b44445bae369d2df4a626c6a8/004.webp",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/d52ae70b44445bae369d2df4a626c6a8/005.webp",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/d52ae70b44445bae369d2df4a626c6a8/006.webp",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/d52ae70b44445bae369d2df4a626c6a8/007.webp",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/d52ae70b44445bae369d2df4a626c6a8/008.webp"
+        ]
+      }
+    },
+    "34": {
+      "title": "Capítulo 34",
+      "groups": {
+        "gikamura": [
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/6eefef2c99917231d498cb03986c9e6c/001.webp",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/6eefef2c99917231d498cb03986c9e6c/002.webp",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/6eefef2c99917231d498cb03986c9e6c/003.webp",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/6eefef2c99917231d498cb03986c9e6c/004.webp",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/6eefef2c99917231d498cb03986c9e6c/005.webp",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/6eefef2c99917231d498cb03986c9e6c/006.webp",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/6eefef2c99917231d498cb03986c9e6c/007.webp"
+        ]
+      }
+    },
+    "33": {
+      "title": "Capítulo 33",
+      "groups": {
+        "gikamura": [
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/64f9185d69b051ca62a4f00ad5ea41a3/001.webp",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/64f9185d69b051ca62a4f00ad5ea41a3/002.webp",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/64f9185d69b051ca62a4f00ad5ea41a3/003.webp",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/64f9185d69b051ca62a4f00ad5ea41a3/004.webp",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/64f9185d69b051ca62a4f00ad5ea41a3/005.webp",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/64f9185d69b051ca62a4f00ad5ea41a3/006.webp",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/64f9185d69b051ca62a4f00ad5ea41a3/007.webp"
+        ]
+      }
+    },
+    "32": {
+      "title": "Capítulo 32",
+      "groups": {
+        "gikamura": [
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/3e1b355180a545936d7c9687d0ac1f3d/001.webp",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/3e1b355180a545936d7c9687d0ac1f3d/002.webp",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/3e1b355180a545936d7c9687d0ac1f3d/003.webp",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/3e1b355180a545936d7c9687d0ac1f3d/004.webp",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/3e1b355180a545936d7c9687d0ac1f3d/005.webp",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/3e1b355180a545936d7c9687d0ac1f3d/006.webp",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/3e1b355180a545936d7c9687d0ac1f3d/007.webp"
+        ]
+      }
+    },
+    "31": {
+      "title": "Capítulo 31",
+      "groups": {
+        "gikamura": [
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/8326a26ee166583255bc66526f992b5b/001.webp",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/8326a26ee166583255bc66526f992b5b/002.webp",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/8326a26ee166583255bc66526f992b5b/003.webp",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/8326a26ee166583255bc66526f992b5b/004.webp",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/8326a26ee166583255bc66526f992b5b/005.webp",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/8326a26ee166583255bc66526f992b5b/006.webp",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/8326a26ee166583255bc66526f992b5b/007.webp"
+        ]
+      }
+    },
+    "30": {
+      "title": "Capítulo 30",
+      "groups": {
+        "gikamura": [
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/3061462e270151b9453f4aa5ec2053f1/001.webp",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/3061462e270151b9453f4aa5ec2053f1/002.webp",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/3061462e270151b9453f4aa5ec2053f1/003.webp",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/3061462e270151b9453f4aa5ec2053f1/004.webp",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/3061462e270151b9453f4aa5ec2053f1/005.webp",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/3061462e270151b9453f4aa5ec2053f1/006.webp",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/3061462e270151b9453f4aa5ec2053f1/007.webp",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/3061462e270151b9453f4aa5ec2053f1/008.webp"
+        ]
+      }
+    },
+    "29": {
+      "title": "Capítulo 29",
+      "groups": {
+        "gikamura": [
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/a4d2891005229b46c87a18d95d152c6e/001.webp",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/a4d2891005229b46c87a18d95d152c6e/002.webp",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/a4d2891005229b46c87a18d95d152c6e/003.webp",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/a4d2891005229b46c87a18d95d152c6e/004.webp",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/a4d2891005229b46c87a18d95d152c6e/005.webp",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/a4d2891005229b46c87a18d95d152c6e/006.webp"
+        ]
+      }
+    },
+    "28": {
+      "title": "Capítulo 28",
+      "groups": {
+        "gikamura": [
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/c5003eee35192fa8cd2dfbfd5ff3dd7f/001.webp",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/c5003eee35192fa8cd2dfbfd5ff3dd7f/002.webp",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/c5003eee35192fa8cd2dfbfd5ff3dd7f/003.webp",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/c5003eee35192fa8cd2dfbfd5ff3dd7f/004.webp",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/c5003eee35192fa8cd2dfbfd5ff3dd7f/005.webp",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/c5003eee35192fa8cd2dfbfd5ff3dd7f/006.webp",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/c5003eee35192fa8cd2dfbfd5ff3dd7f/007.webp"
+        ]
+      }
+    },
+    "27": {
+      "title": "Capítulo 27",
+      "groups": {
+        "gikamura": [
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/36f8fd581d87383a8fae7ea6635fe9bf/001.webp",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/36f8fd581d87383a8fae7ea6635fe9bf/002.webp",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/36f8fd581d87383a8fae7ea6635fe9bf/003.webp",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/36f8fd581d87383a8fae7ea6635fe9bf/004.webp",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/36f8fd581d87383a8fae7ea6635fe9bf/005.webp",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/36f8fd581d87383a8fae7ea6635fe9bf/006.webp",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/36f8fd581d87383a8fae7ea6635fe9bf/007.webp"
+        ]
+      }
+    },
+    "26": {
+      "title": "Capítulo 26",
+      "groups": {
+        "gikamura": [
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/4d2e701965487bd98f28aa1618b838e3/001.webp",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/4d2e701965487bd98f28aa1618b838e3/002.webp",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/4d2e701965487bd98f28aa1618b838e3/003.webp",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/4d2e701965487bd98f28aa1618b838e3/004.webp",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/4d2e701965487bd98f28aa1618b838e3/005.webp",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/4d2e701965487bd98f28aa1618b838e3/006.webp",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/4d2e701965487bd98f28aa1618b838e3/007.webp",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/4d2e701965487bd98f28aa1618b838e3/008.webp",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/4d2e701965487bd98f28aa1618b838e3/009.webp",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/4d2e701965487bd98f28aa1618b838e3/010.webp"
+        ]
+      }
+    },
+    "25": {
+      "title": "Capítulo 25",
+      "groups": {
+        "gikamura": [
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/2af9f705a0075b979ea6bf350a13f928/001.jpg",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/2af9f705a0075b979ea6bf350a13f928/002.jpg",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/2af9f705a0075b979ea6bf350a13f928/003.jpg",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/2af9f705a0075b979ea6bf350a13f928/004.jpg",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/2af9f705a0075b979ea6bf350a13f928/005.jpg",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/2af9f705a0075b979ea6bf350a13f928/006.jpg",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/2af9f705a0075b979ea6bf350a13f928/007.jpg",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/2af9f705a0075b979ea6bf350a13f928/008.jpg",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/2af9f705a0075b979ea6bf350a13f928/009.jpg",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/2af9f705a0075b979ea6bf350a13f928/010.jpg"
+        ]
+      }
+    },
+    "24": {
+      "title": "Capítulo 24",
+      "groups": {
+        "gikamura": [
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/bb9d8de9473b63c03fdb7ce43292fbd0/001.jpg",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/bb9d8de9473b63c03fdb7ce43292fbd0/002.jpg",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/bb9d8de9473b63c03fdb7ce43292fbd0/003.jpg",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/bb9d8de9473b63c03fdb7ce43292fbd0/004.jpg",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/bb9d8de9473b63c03fdb7ce43292fbd0/005.jpg",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/bb9d8de9473b63c03fdb7ce43292fbd0/006.jpg",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/bb9d8de9473b63c03fdb7ce43292fbd0/007.jpg",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/bb9d8de9473b63c03fdb7ce43292fbd0/008.jpg"
+        ]
+      }
+    },
+    "23": {
+      "title": "Capítulo 23",
+      "groups": {
+        "gikamura": [
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/a12836b7d43cfe84d8aba3bf27576391/001.jpg",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/a12836b7d43cfe84d8aba3bf27576391/002.jpg",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/a12836b7d43cfe84d8aba3bf27576391/003.jpg",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/a12836b7d43cfe84d8aba3bf27576391/004.jpg",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/a12836b7d43cfe84d8aba3bf27576391/005.jpg",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/a12836b7d43cfe84d8aba3bf27576391/006.jpg",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/a12836b7d43cfe84d8aba3bf27576391/007.jpg",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/a12836b7d43cfe84d8aba3bf27576391/008.jpg"
+        ]
+      }
+    },
+    "22": {
+      "title": "Capítulo 22",
+      "groups": {
+        "gikamura": [
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/8a6e75c5fa4a7b67eb0af21ada5ef32d/001.jpg",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/8a6e75c5fa4a7b67eb0af21ada5ef32d/002.jpg",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/8a6e75c5fa4a7b67eb0af21ada5ef32d/003.jpg",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/8a6e75c5fa4a7b67eb0af21ada5ef32d/004.jpg",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/8a6e75c5fa4a7b67eb0af21ada5ef32d/005.jpg",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/8a6e75c5fa4a7b67eb0af21ada5ef32d/006.jpg",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/8a6e75c5fa4a7b67eb0af21ada5ef32d/007.jpg",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/8a6e75c5fa4a7b67eb0af21ada5ef32d/008.jpg",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/8a6e75c5fa4a7b67eb0af21ada5ef32d/009.jpg"
+        ]
+      }
+    },
+    "21": {
+      "title": "Capítulo 21",
+      "groups": {
+        "gikamura": [
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/3747092c24022941e27381f8d43a39f3/001.jpg",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/3747092c24022941e27381f8d43a39f3/002.jpg",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/3747092c24022941e27381f8d43a39f3/003.jpg",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/3747092c24022941e27381f8d43a39f3/004.jpg",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/3747092c24022941e27381f8d43a39f3/005.jpg",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/3747092c24022941e27381f8d43a39f3/006.jpg",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/3747092c24022941e27381f8d43a39f3/007.jpg",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/3747092c24022941e27381f8d43a39f3/008.jpg"
+        ]
+      }
+    },
+    "20": {
+      "title": "Capítulo 20",
+      "groups": {
+        "gikamura": [
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/ff7239da3df4491917235c7b33012d0e/001.jpg",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/ff7239da3df4491917235c7b33012d0e/002.jpg",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/ff7239da3df4491917235c7b33012d0e/003.jpg",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/ff7239da3df4491917235c7b33012d0e/004.jpg",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/ff7239da3df4491917235c7b33012d0e/005.jpg",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/ff7239da3df4491917235c7b33012d0e/006.jpg",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/ff7239da3df4491917235c7b33012d0e/007.jpg",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/ff7239da3df4491917235c7b33012d0e/008.jpg"
+        ]
+      }
+    },
+    "19": {
+      "title": "Capítulo 19",
+      "groups": {
+        "gikamura": [
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/cd9b3b7c5432d1d6b68a5987cc5e3cd1/001.jpg",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/cd9b3b7c5432d1d6b68a5987cc5e3cd1/002.jpg",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/cd9b3b7c5432d1d6b68a5987cc5e3cd1/003.jpg",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/cd9b3b7c5432d1d6b68a5987cc5e3cd1/004.jpg",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/cd9b3b7c5432d1d6b68a5987cc5e3cd1/005.jpg",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/cd9b3b7c5432d1d6b68a5987cc5e3cd1/006.jpg",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/cd9b3b7c5432d1d6b68a5987cc5e3cd1/007.jpg"
+        ]
+      }
+    },
+    "18": {
+      "title": "Capítulo 18",
+      "groups": {
+        "gikamura": [
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/c82b2c8b1273c4a8814d9a6804d1a224/001.jpg",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/c82b2c8b1273c4a8814d9a6804d1a224/002.jpg",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/c82b2c8b1273c4a8814d9a6804d1a224/003.jpg",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/c82b2c8b1273c4a8814d9a6804d1a224/004.jpg",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/c82b2c8b1273c4a8814d9a6804d1a224/005.jpg",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/c82b2c8b1273c4a8814d9a6804d1a224/006.jpg",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/c82b2c8b1273c4a8814d9a6804d1a224/007.jpg",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/c82b2c8b1273c4a8814d9a6804d1a224/008.jpg"
+        ]
+      }
+    },
+    "17": {
+      "title": "Capítulo 17",
+      "groups": {
+        "gikamura": [
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/f7f97785db0c8647a5734f0b45d2df14/001.jpg",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/f7f97785db0c8647a5734f0b45d2df14/002.jpg",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/f7f97785db0c8647a5734f0b45d2df14/003.jpg",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/f7f97785db0c8647a5734f0b45d2df14/004.jpg",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/f7f97785db0c8647a5734f0b45d2df14/005.jpg",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/f7f97785db0c8647a5734f0b45d2df14/006.jpg",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/f7f97785db0c8647a5734f0b45d2df14/007.jpg",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/f7f97785db0c8647a5734f0b45d2df14/008.jpg"
+        ]
+      }
+    },
+    "16": {
+      "title": "Capítulo 16",
+      "groups": {
+        "gikamura": [
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/e6cf605779b735b2a744c1835c8d5e11/001.jpg",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/e6cf605779b735b2a744c1835c8d5e11/002.jpg",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/e6cf605779b735b2a744c1835c8d5e11/003.jpg",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/e6cf605779b735b2a744c1835c8d5e11/004.jpg",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/e6cf605779b735b2a744c1835c8d5e11/005.jpg",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/e6cf605779b735b2a744c1835c8d5e11/006.jpg",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/e6cf605779b735b2a744c1835c8d5e11/007.jpg",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/e6cf605779b735b2a744c1835c8d5e11/008.jpg",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/e6cf605779b735b2a744c1835c8d5e11/009.jpg",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/e6cf605779b735b2a744c1835c8d5e11/010.jpg"
+        ]
+      }
+    },
+    "15": {
+      "title": "Capítulo 15",
+      "groups": {
+        "gikamura": [
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/e62e0d37d946a568bba59ddc5981605d/001.jpg",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/e62e0d37d946a568bba59ddc5981605d/002.jpg",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/e62e0d37d946a568bba59ddc5981605d/003.jpg",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/e62e0d37d946a568bba59ddc5981605d/004.jpg",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/e62e0d37d946a568bba59ddc5981605d/005.jpg",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/e62e0d37d946a568bba59ddc5981605d/006.jpg",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/e62e0d37d946a568bba59ddc5981605d/007.jpg",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/e62e0d37d946a568bba59ddc5981605d/008.jpg",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/e62e0d37d946a568bba59ddc5981605d/009.jpg",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/e62e0d37d946a568bba59ddc5981605d/010.jpg",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/e62e0d37d946a568bba59ddc5981605d/011.jpg",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/e62e0d37d946a568bba59ddc5981605d/012.jpg"
+        ]
+      }
+    },
+    "14": {
+      "title": "Capítulo 14",
+      "groups": {
+        "gikamura": [
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/fc639e53f9c4d23c41bae01e9256955e/001.jpg",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/fc639e53f9c4d23c41bae01e9256955e/002.jpg",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/fc639e53f9c4d23c41bae01e9256955e/003.jpg",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/fc639e53f9c4d23c41bae01e9256955e/004.jpg",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/fc639e53f9c4d23c41bae01e9256955e/005.jpg",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/fc639e53f9c4d23c41bae01e9256955e/006.jpg",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/fc639e53f9c4d23c41bae01e9256955e/007.jpg",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/fc639e53f9c4d23c41bae01e9256955e/008.jpg",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/fc639e53f9c4d23c41bae01e9256955e/009.jpg",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/fc639e53f9c4d23c41bae01e9256955e/010.jpg",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/fc639e53f9c4d23c41bae01e9256955e/011.jpg",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/fc639e53f9c4d23c41bae01e9256955e/012.jpg"
+        ]
+      }
+    },
+    "13": {
+      "title": "Capítulo 13",
+      "groups": {
+        "gikamura": [
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/8ec98addf1fcc7aa4c612e139a0d3c30/001.jpg",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/8ec98addf1fcc7aa4c612e139a0d3c30/002.jpg",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/8ec98addf1fcc7aa4c612e139a0d3c30/003.jpg",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/8ec98addf1fcc7aa4c612e139a0d3c30/004.jpg",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/8ec98addf1fcc7aa4c612e139a0d3c30/005.jpg",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/8ec98addf1fcc7aa4c612e139a0d3c30/006.jpg",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/8ec98addf1fcc7aa4c612e139a0d3c30/007.jpg",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/8ec98addf1fcc7aa4c612e139a0d3c30/008.jpg",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/8ec98addf1fcc7aa4c612e139a0d3c30/009.jpg",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/8ec98addf1fcc7aa4c612e139a0d3c30/010.jpg"
+        ]
+      }
+    },
+    "12": {
+      "title": "Capítulo 12",
+      "groups": {
+        "gikamura": [
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/92a1dd7bdcea46b15e9b0717c0614bbb/001.jpg",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/92a1dd7bdcea46b15e9b0717c0614bbb/002.jpg",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/92a1dd7bdcea46b15e9b0717c0614bbb/003.jpg",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/92a1dd7bdcea46b15e9b0717c0614bbb/004.jpg",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/92a1dd7bdcea46b15e9b0717c0614bbb/005.jpg",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/92a1dd7bdcea46b15e9b0717c0614bbb/006.jpg",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/92a1dd7bdcea46b15e9b0717c0614bbb/007.jpg",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/92a1dd7bdcea46b15e9b0717c0614bbb/008.jpg",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/92a1dd7bdcea46b15e9b0717c0614bbb/009.jpg",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/92a1dd7bdcea46b15e9b0717c0614bbb/010.jpg",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/92a1dd7bdcea46b15e9b0717c0614bbb/011.jpg"
+        ]
+      }
+    },
+    "11": {
+      "title": "Capítulo 11",
+      "groups": {
+        "gikamura": [
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/054536acc35858ba068c12082dff54f5/001.jpg",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/054536acc35858ba068c12082dff54f5/002.jpg",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/054536acc35858ba068c12082dff54f5/003.jpg",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/054536acc35858ba068c12082dff54f5/004.jpg",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/054536acc35858ba068c12082dff54f5/005.jpg",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/054536acc35858ba068c12082dff54f5/006.jpg",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/054536acc35858ba068c12082dff54f5/007.jpg",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/054536acc35858ba068c12082dff54f5/008.jpg",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/054536acc35858ba068c12082dff54f5/009.jpg"
+        ]
+      }
+    },
+    "10": {
+      "title": "Capítulo 10",
+      "groups": {
+        "gikamura": [
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/de79690e0fa60e5dfbdd2315210bdfcb/001.jpg",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/de79690e0fa60e5dfbdd2315210bdfcb/002.jpg",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/de79690e0fa60e5dfbdd2315210bdfcb/003.jpg",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/de79690e0fa60e5dfbdd2315210bdfcb/004.jpg",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/de79690e0fa60e5dfbdd2315210bdfcb/005.jpg",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/de79690e0fa60e5dfbdd2315210bdfcb/006.jpg",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/de79690e0fa60e5dfbdd2315210bdfcb/007.jpg"
+        ]
+      }
+    },
+    "9": {
+      "title": "Capítulo 09",
+      "groups": {
+        "gikamura": [
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/e4f5af2f03455895b80cd5c47354063f/001.jpg",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/e4f5af2f03455895b80cd5c47354063f/002.jpg",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/e4f5af2f03455895b80cd5c47354063f/003.jpg",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/e4f5af2f03455895b80cd5c47354063f/004.jpg",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/e4f5af2f03455895b80cd5c47354063f/005.jpg",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/e4f5af2f03455895b80cd5c47354063f/006.jpg",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/e4f5af2f03455895b80cd5c47354063f/007.jpg"
+        ]
+      }
+    },
+    "8": {
+      "title": "Capítulo 08",
+      "groups": {
+        "gikamura": [
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/8e66936972c394f52a85715ca94a65f5/001.jpg",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/8e66936972c394f52a85715ca94a65f5/002.jpg",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/8e66936972c394f52a85715ca94a65f5/003.jpg",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/8e66936972c394f52a85715ca94a65f5/004.jpg",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/8e66936972c394f52a85715ca94a65f5/005.jpg",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/8e66936972c394f52a85715ca94a65f5/006.jpg",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/8e66936972c394f52a85715ca94a65f5/007.jpg",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/8e66936972c394f52a85715ca94a65f5/008.jpg",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/8e66936972c394f52a85715ca94a65f5/009.jpg",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/8e66936972c394f52a85715ca94a65f5/010.jpg",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/8e66936972c394f52a85715ca94a65f5/011.jpg",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/8e66936972c394f52a85715ca94a65f5/012.jpg",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/8e66936972c394f52a85715ca94a65f5/013.jpg"
+        ]
+      }
+    },
+    "7": {
+      "title": "Capítulo 07",
+      "groups": {
+        "gikamura": [
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/20d7c02f431386c1d7330b9af736b54f/001.jpg",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/20d7c02f431386c1d7330b9af736b54f/002.jpg",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/20d7c02f431386c1d7330b9af736b54f/003.jpg",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/20d7c02f431386c1d7330b9af736b54f/004.jpg",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/20d7c02f431386c1d7330b9af736b54f/005.jpg",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/20d7c02f431386c1d7330b9af736b54f/006.jpg",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/20d7c02f431386c1d7330b9af736b54f/007.jpg",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/20d7c02f431386c1d7330b9af736b54f/008.jpg",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/20d7c02f431386c1d7330b9af736b54f/009.jpg",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/20d7c02f431386c1d7330b9af736b54f/010.jpg",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/20d7c02f431386c1d7330b9af736b54f/011.jpg",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/20d7c02f431386c1d7330b9af736b54f/012.jpg"
+        ]
+      }
+    },
+    "6": {
+      "title": "Capítulo 06",
+      "groups": {
+        "gikamura": [
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/163afef8411588ced50fc960db32f870/001.jpg",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/163afef8411588ced50fc960db32f870/002.jpg",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/163afef8411588ced50fc960db32f870/003.jpg",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/163afef8411588ced50fc960db32f870/004.jpg",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/163afef8411588ced50fc960db32f870/005.jpg",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/163afef8411588ced50fc960db32f870/006.jpg",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/163afef8411588ced50fc960db32f870/007.jpg",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/163afef8411588ced50fc960db32f870/008.jpg",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/163afef8411588ced50fc960db32f870/009.jpg",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/163afef8411588ced50fc960db32f870/010.jpg",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/163afef8411588ced50fc960db32f870/011.jpg",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/163afef8411588ced50fc960db32f870/012.jpg",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/163afef8411588ced50fc960db32f870/013.jpg"
+        ]
+      }
+    },
+    "5": {
+      "title": "Capítulo 05",
+      "groups": {
+        "gikamura": [
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/f106b6a3de6063978056bf2e9fc5c24e/001.jpg",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/f106b6a3de6063978056bf2e9fc5c24e/002.jpg",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/f106b6a3de6063978056bf2e9fc5c24e/003.jpg",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/f106b6a3de6063978056bf2e9fc5c24e/004.jpg",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/f106b6a3de6063978056bf2e9fc5c24e/005.jpg",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/f106b6a3de6063978056bf2e9fc5c24e/006.jpg",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/f106b6a3de6063978056bf2e9fc5c24e/007.jpg",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/f106b6a3de6063978056bf2e9fc5c24e/008.jpg",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/f106b6a3de6063978056bf2e9fc5c24e/009.jpg",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/f106b6a3de6063978056bf2e9fc5c24e/010.jpg",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/f106b6a3de6063978056bf2e9fc5c24e/011.jpg",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/f106b6a3de6063978056bf2e9fc5c24e/012.jpg",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/f106b6a3de6063978056bf2e9fc5c24e/013.jpg",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/f106b6a3de6063978056bf2e9fc5c24e/014.jpg"
+        ]
+      }
+    },
+    "4": {
+      "title": "Capítulo 04",
+      "groups": {
+        "gikamura": [
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/a6166543d447cfc14606499193a04439/001.jpg",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/a6166543d447cfc14606499193a04439/002.jpg",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/a6166543d447cfc14606499193a04439/003.jpg",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/a6166543d447cfc14606499193a04439/004.jpg",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/a6166543d447cfc14606499193a04439/005.jpg",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/a6166543d447cfc14606499193a04439/006.jpg",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/a6166543d447cfc14606499193a04439/007.jpg",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/a6166543d447cfc14606499193a04439/008.jpg",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/a6166543d447cfc14606499193a04439/009.jpg",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/a6166543d447cfc14606499193a04439/010.jpg"
+        ]
+      }
+    },
+    "3": {
+      "title": "Capítulo 03",
+      "groups": {
+        "gikamura": [
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/b738579f5886258bd07bdedf2ef74a40/001.jpg",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/b738579f5886258bd07bdedf2ef74a40/002.jpg",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/b738579f5886258bd07bdedf2ef74a40/003.jpg",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/b738579f5886258bd07bdedf2ef74a40/004.jpg",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/b738579f5886258bd07bdedf2ef74a40/005.jpg",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/b738579f5886258bd07bdedf2ef74a40/006.jpg",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/b738579f5886258bd07bdedf2ef74a40/007.jpg"
+        ]
+      }
+    },
+    "2": {
+      "title": "Capítulo 02",
+      "groups": {
+        "gikamura": [
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/ff93907a009908d2da58a22eacbdc5b1/001.jpg",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/ff93907a009908d2da58a22eacbdc5b1/002.jpg",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/ff93907a009908d2da58a22eacbdc5b1/003.jpg",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/ff93907a009908d2da58a22eacbdc5b1/004.jpg",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/ff93907a009908d2da58a22eacbdc5b1/005.jpg",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/ff93907a009908d2da58a22eacbdc5b1/006.jpg",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/ff93907a009908d2da58a22eacbdc5b1/007.jpg",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/ff93907a009908d2da58a22eacbdc5b1/008.jpg",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/ff93907a009908d2da58a22eacbdc5b1/009.jpg",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/ff93907a009908d2da58a22eacbdc5b1/010.jpg"
+        ]
+      }
+    },
+    "1": {
+      "title": "Capítulo 01",
+      "groups": {
+        "gikamura": [
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/16f5e22af864b669e33ad5fd7d81e4a9/001.jpg",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/16f5e22af864b669e33ad5fd7d81e4a9/002.jpg",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/16f5e22af864b669e33ad5fd7d81e4a9/003.jpg",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/16f5e22af864b669e33ad5fd7d81e4a9/004.jpg",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/16f5e22af864b669e33ad5fd7d81e4a9/005.jpg",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/16f5e22af864b669e33ad5fd7d81e4a9/006.jpg",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/16f5e22af864b669e33ad5fd7d81e4a9/007.jpg",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/16f5e22af864b669e33ad5fd7d81e4a9/008.jpg",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/16f5e22af864b669e33ad5fd7d81e4a9/009.jpg"
+        ]
+      }
+    }
+  }
+}
