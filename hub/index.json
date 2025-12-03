@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764739449,
-    "totalMangas": 2190,
+    "lastUpdated": 1764739458,
+    "totalMangas": 2191,
     "version": "1.0.5"
   },
   "mangas": {
@@ -26282,6 +26282,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzExMzI5Lmpzb24/",
           "type": "manga",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/8109/wp-content/uploads/2024/12/Capa-de-Quanzhi-Fashi-232x332-1.jpg"
+        }
+      ]
+    },
+    "majp_30922": {
+      "title": "Pólen Dourado",
+      "chapters": [
+        {
+          "id": "30922",
+          "title": "Pólen Dourado",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzMwOTIyLmpzb24/",
+          "type": "manga",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/10871/680eac19a21aa.jpg"
         }
       ]
     }
