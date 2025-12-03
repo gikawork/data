@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764737913,
-    "totalMangas": 2021,
+    "lastUpdated": 1764737922,
+    "totalMangas": 2022,
     "version": "1.0.5"
   },
   "mangas": {
@@ -24254,6 +24254,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl9kNzU1ODQuanNvbg/",
           "type": "manhwa",
           "cover_url": ""
+        }
+      ]
+    },
+    "mach_db0f0c": {
+      "title": "Supremo Sistema De Blefes",
+      "chapters": [
+        {
+          "id": "db0f0c",
+          "title": "Supremo Sistema De Blefes",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF9kYjBmMGMuanNvbg/",
+          "type": "manhua",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/10142/67cb9e612a900.png"
         }
       ]
     }
