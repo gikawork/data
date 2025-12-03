@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": 1764729065,
+    "lastUpdated": 1764729079,
     "totalMangas": 1166,
     "version": "1.0.5"
   },
@@ -13982,6 +13982,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8yMDU1Lmpzb24/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/9904/67b7b7a7c511a.webp"
+        }
+      ]
+    },
+    "majp_2660": {
+      "title": "Henjo: Hen na Joshikousei Amaguri Senko",
+      "chapters": [
+        {
+          "id": "2660",
+          "title": "Henjo: Hen na Joshikousei Amaguri Senko",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzI2NjAuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/nx86590-U0teU02heegZ.jpg"
         }
       ]
     }
