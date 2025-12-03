@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764734720,
-    "totalMangas": 1679,
+    "lastUpdated": 1764734730,
+    "totalMangas": 1680,
     "version": "1.0.5"
   },
   "mangas": {
@@ -20150,6 +20150,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8zNzcxLmpzb24/",
           "type": "manhwa",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx157871-osXsP0Wmz3JI.jpg"
+        }
+      ]
+    },
+    "makr_5610ef": {
+      "title": "Herói de Aluguel",
+      "chapters": [
+        {
+          "id": "5610ef",
+          "title": "Herói de Aluguel",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl81NjEwZWYuanNvbg/",
+          "type": "manhwa",
+          "cover_url": ""
         }
       ]
     }
