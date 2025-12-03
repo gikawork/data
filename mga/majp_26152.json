@@ -1,0 +1,40 @@
+{
+  "title": "Light Trap",
+  "description": "A história de um rapaz e uma moça viajando, relembrando seus passados…",
+  "artist": "Asano Inio",
+  "author": "Asano Inio",
+  "cover": "https://images2.imgbox.com/c6/0d/Zz2hRASd_o.jpg",
+  "status": "Completed",
+  "chapters": {
+    "0": {
+      "title": "Oneshot",
+      "volume": "",
+      "last_updated": "1758919622",
+      "groups": {
+        "gikamura": [
+          "https://cdn.mangalivre.ru//ceb6352dab22e2c39eebb2361d8ee03a/01.webp",
+          "https://cdn.mangalivre.ru//ceb6352dab22e2c39eebb2361d8ee03a/02.webp",
+          "https://cdn.mangalivre.ru//ceb6352dab22e2c39eebb2361d8ee03a/03.webp",
+          "https://cdn.mangalivre.ru//ceb6352dab22e2c39eebb2361d8ee03a/04.webp",
+          "https://cdn.mangalivre.ru//ceb6352dab22e2c39eebb2361d8ee03a/05.webp",
+          "https://cdn.mangalivre.ru//ceb6352dab22e2c39eebb2361d8ee03a/06.webp",
+          "https://cdn.mangalivre.ru//ceb6352dab22e2c39eebb2361d8ee03a/07.webp",
+          "https://cdn.mangalivre.ru//ceb6352dab22e2c39eebb2361d8ee03a/08.webp",
+          "https://cdn.mangalivre.ru//ceb6352dab22e2c39eebb2361d8ee03a/09.webp",
+          "https://cdn.mangalivre.ru//ceb6352dab22e2c39eebb2361d8ee03a/10.webp",
+          "https://cdn.mangalivre.ru//ceb6352dab22e2c39eebb2361d8ee03a/11.webp",
+          "https://cdn.mangalivre.ru//ceb6352dab22e2c39eebb2361d8ee03a/12.webp",
+          "https://cdn.mangalivre.ru//ceb6352dab22e2c39eebb2361d8ee03a/13.webp",
+          "https://cdn.mangalivre.ru//ceb6352dab22e2c39eebb2361d8ee03a/14.webp",
+          "https://cdn.mangalivre.ru//ceb6352dab22e2c39eebb2361d8ee03a/15.webp",
+          "https://cdn.mangalivre.ru//ceb6352dab22e2c39eebb2361d8ee03a/16.webp",
+          "https://cdn.mangalivre.ru//ceb6352dab22e2c39eebb2361d8ee03a/17.webp",
+          "https://cdn.mangalivre.ru//ceb6352dab22e2c39eebb2361d8ee03a/18.webp"
+        ]
+      }
+    }
+  },
+  "source_anilist_response_synonyms": [
+    "Light Trap"
+  ]
+}
