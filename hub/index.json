@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": 1764729164,
+    "lastUpdated": 1764729179,
     "totalMangas": 1167,
     "version": "1.0.5"
   },
@@ -13994,6 +13994,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzcxMzkuanNvbg/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx111189-tvPJRVj5nGic.png"
+        }
+      ]
+    },
+    "majp_3092": {
+      "title": "Mori Kaoru Shuuishuu",
+      "chapters": [
+        {
+          "id": "3092",
+          "title": "Mori Kaoru Shuuishuu",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzMwOTIuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://cdn.myanimelist.net/images/manga/3/166196.jpg"
         }
       ]
     }
