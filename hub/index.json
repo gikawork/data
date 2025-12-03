@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": 1764761113,
+    "lastUpdated": 1764761122,
     "totalMangas": 2613,
     "version": "1.0.6"
   },
@@ -31349,15 +31349,15 @@
         }
       ]
     },
-    "makr_b29c0e": {
-      "title": "Herói de 4 Quadros",
+    "majp_3321": {
+      "title": "Distrito do Paraíso",
       "chapters": [
         {
-          "id": "b29c0e",
-          "title": "Herói de 4 Quadros",
-          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl9iMjljMGUuanNvbg/",
-          "type": "manhwa",
-          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/9835/67af9ac978a3a.png"
+          "id": "3321",
+          "title": "Distrito do Paraíso",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzMzMjEuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/10314/67d1eaf84d25c.jpg"
         }
       ]
     }
