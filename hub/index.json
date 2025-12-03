@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764728888,
-    "totalMangas": 1163,
+    "lastUpdated": 1764728897,
+    "totalMangas": 1164,
     "version": "1.0.5"
   },
   "mangas": {
@@ -13958,6 +13958,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzQxMzcxLmpzb24/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx120841-gp2emslTBivZ.jpg"
+        }
+      ]
+    },
+    "majp_106740": {
+      "title": "Katainaka no Ossan, Kensei ni Naru Gaiden: Ryuusouken no Kiseki",
+      "chapters": [
+        {
+          "id": "106740",
+          "title": "Katainaka no Ossan, Kensei ni Naru Gaiden: Ryuusouken no Kiseki",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzEwNjc0MC5qc29u/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx189125-VMlENdsPS214.jpg"
         }
       ]
     }
