@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764733840,
-    "totalMangas": 1581,
+    "lastUpdated": 1764733849,
+    "totalMangas": 1582,
     "version": "1.0.5"
   },
   "mangas": {
@@ -18974,6 +18974,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8xZDI1N2EuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/10886/680eacbfc5fa4.jpg"
+        }
+      ]
+    },
+    "makr_36752": {
+      "title": "Imperatriz? Imperatriz!",
+      "chapters": [
+        {
+          "id": "36752",
+          "title": "Imperatriz? Imperatriz!",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8zNjc1Mi5qc29u/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/8863/679566e083aa7.png"
         }
       ]
     }
