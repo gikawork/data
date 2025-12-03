@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764729532,
-    "totalMangas": 1177,
+    "lastUpdated": 1764729541,
+    "totalMangas": 1178,
     "version": "1.0.5"
   },
   "mangas": {
@@ -14126,6 +14126,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF8zNjU1NjcuanNvbg/",
           "type": "manhua",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx199427-OgU0k8YgYqJT.png"
+        }
+      ]
+    },
+    "majp_8672": {
+      "title": "The Robot Without a Heart",
+      "chapters": [
+        {
+          "id": "8672",
+          "title": "The Robot Without a Heart",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzg2NzIuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://images2.imgbox.com/30/0a/fesOW9Ze_o.jpg"
         }
       ]
     }
