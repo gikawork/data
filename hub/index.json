@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764740556,
-    "totalMangas": 2312,
+    "lastUpdated": 1764740565,
+    "totalMangas": 2313,
     "version": "1.0.5"
   },
   "mangas": {
@@ -27746,6 +27746,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzE2MTQuanNvbg/",
           "type": "manga",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/10927/680eb2bacc098.jpg"
+        }
+      ]
+    },
+    "makr_76297": {
+      "title": "Big Spender in a Busted Game",
+      "chapters": [
+        {
+          "id": "76297",
+          "title": "Big Spender in a Busted Game",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl83NjI5Ny5qc29u/",
+          "type": "manhwa",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx173035-DxwNrjU94RWc.jpg"
         }
       ]
     }
