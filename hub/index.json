@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764735119,
-    "totalMangas": 1722,
+    "lastUpdated": 1764735128,
+    "totalMangas": 1723,
     "version": "1.0.5"
   },
   "mangas": {
@@ -20666,6 +20666,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl83MDcxLmpzb24/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/8662/678931924d6bb.jpg"
+        }
+      ]
+    },
+    "makr_e62215": {
+      "title": "Filhos da Runa",
+      "chapters": [
+        {
+          "id": "e62215",
+          "title": "Filhos da Runa",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl9lNjIyMTUuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/3424/6861ff9600015.webp"
         }
       ]
     }
