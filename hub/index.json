@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764734092,
-    "totalMangas": 1609,
+    "lastUpdated": 1764734100,
+    "totalMangas": 1610,
     "version": "1.0.5"
   },
   "mangas": {
@@ -19310,6 +19310,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl9mZjY4ODMuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/8993/6795cdb4da833.png"
+        }
+      ]
+    },
+    "majp_e787d9": {
+      "title": "Administração susse",
+      "chapters": [
+        {
+          "id": "e787d9",
+          "title": "Administração susse",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwX2U3ODdkOS5qc29u/",
+          "type": "manga",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/9923/67bbb5e21c32c.png"
         }
       ]
     }
