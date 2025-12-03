@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764735023,
-    "totalMangas": 1711,
+    "lastUpdated": 1764735033,
+    "totalMangas": 1712,
     "version": "1.0.5"
   },
   "mangas": {
@@ -20534,6 +20534,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF8xNjY5Lmpzb24/",
           "type": "manhua",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/9704/67a56b5dd0627.png"
+        }
+      ]
+    },
+    "makr_5248a6": {
+      "title": "Névoa Negra",
+      "chapters": [
+        {
+          "id": "5248a6",
+          "title": "Névoa Negra",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl81MjQ4YTYuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/8155/wp-content/uploads/2024/12/10e0c1b5-a10a-4b78-83a7-3db029507403.jpg"
         }
       ]
     }
