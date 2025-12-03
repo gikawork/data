@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764736705,
-    "totalMangas": 1895,
+    "lastUpdated": 1764736714,
+    "totalMangas": 1896,
     "version": "1.0.5"
   },
   "mangas": {
@@ -22742,6 +22742,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8wNzA0ZjYuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/7881/wp-content/uploads/2024/12/lllll.jpg"
+        }
+      ]
+    },
+    "majp_2abde1": {
+      "title": "Sintonizando com o Coração da Meia Noite",
+      "chapters": [
+        {
+          "id": "2abde1",
+          "title": "Sintonizando com o Coração da Meia Noite",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzJhYmRlMS5qc29u/",
+          "type": "manga",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/10474/67ddcacb6a39b.jpg"
         }
       ]
     }
