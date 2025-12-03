@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764731692,
-    "totalMangas": 1339,
+    "lastUpdated": 1764731700,
+    "totalMangas": 1340,
     "version": "1.0.5"
   },
   "mangas": {
@@ -16070,6 +16070,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF8zMDQ5Lmpzb24/",
           "type": "manhua",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/10981/68160e76d4fb5.jpg"
+        }
+      ]
+    },
+    "maoel_70580": {
+      "title": "6° Grau",
+      "chapters": [
+        {
+          "id": "70580",
+          "title": "6° Grau",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21vZWwvbWFvZWxfNzA1ODAuanNvbg/",
+          "type": "oel",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/13851/68cc928bcd78b.webp"
         }
       ]
     }
