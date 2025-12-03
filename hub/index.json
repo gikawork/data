@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764735775,
-    "totalMangas": 1794,
+    "lastUpdated": 1764735785,
+    "totalMangas": 1795,
     "version": "1.0.5"
   },
   "mangas": {
@@ -21530,6 +21530,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl9mNmRjYTUuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/7749/wp-content/uploads/2024/12/22ddf43c-a360-4c37-ad89-558e688e2257.jpg.512.jpg"
+        }
+      ]
+    },
+    "majp_3f1ed0": {
+      "title": "Achei que ela fosse uma Yandere, mas aparentemente ela é ainda pior",
+      "chapters": [
+        {
+          "id": "3f1ed0",
+          "title": "Achei que ela fosse uma Yandere, mas aparentemente ela é ainda pior",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzNmMWVkMC5qc29u/",
+          "type": "manga",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/10126/67c8f15ee7025.jpg"
         }
       ]
     }
