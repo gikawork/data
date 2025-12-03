@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764731119,
-    "totalMangas": 1279,
+    "lastUpdated": 1764731128,
+    "totalMangas": 1280,
     "version": "1.0.5"
   },
   "mangas": {
@@ -15350,6 +15350,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl80ODQ1MC5qc29u/",
           "type": "manhwa",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx139958-8H94WGlIVCiD.jpg"
+        }
+      ]
+    },
+    "mach_3341": {
+      "title": "A Batalha Através dos Céus",
+      "chapters": [
+        {
+          "id": "3341",
+          "title": "A Batalha Através dos Céus",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF8zMzQxLmpzb24/",
+          "type": "manhua",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/4185/wp-content/uploads/2024/10/oyxmoc0kkpe5grfar8gu4gvv.webp"
         }
       ]
     }
