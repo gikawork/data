@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": 1764724468,
+    "lastUpdated": 1764724485,
     "totalMangas": 1106,
     "version": "1.0.5"
   },
@@ -13262,6 +13262,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl85NzcuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/11317/68460fe01f9e7.png"
+        }
+      ]
+    },
+    "majp_2156": {
+      "title": "Mount Celeb Kaneda-san",
+      "chapters": [
+        {
+          "id": "2156",
+          "title": "Mount Celeb Kaneda-san",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzIxNTYuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://cdn.myanimelist.net/images/manga/3/283127.jpg"
         }
       ]
     }
