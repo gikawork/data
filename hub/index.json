@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": 1764728025,
+    "lastUpdated": 1764728040,
     "totalMangas": 1147,
     "version": "1.0.5"
   },
@@ -13754,6 +13754,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzU0NzguanNvbg/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx35980-EzOW6vBqUtfL.png"
+        }
+      ]
+    },
+    "majp_380598": {
+      "title": "Bouncer: Tokyo Fist",
+      "chapters": [
+        {
+          "id": "380598",
+          "title": "Bouncer: Tokyo Fist",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzM4MDU5OC5qc29u/",
+          "type": "manga",
+          "cover_url": "https://ap-proxy.mangabaka.dev/proxy.php?url=https://cdn.anime-planet.com/manga/primary/bouncer-tokyo-fist-1.webp?t=1731649628"
         }
       ]
     }
