@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764739304,
-    "totalMangas": 2174,
+    "lastUpdated": 1764739314,
+    "totalMangas": 2175,
     "version": "1.0.5"
   },
   "mangas": {
@@ -26090,6 +26090,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl84NDAxLmpzb24/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/9760/67a9f76c63a5f.jpg"
+        }
+      ]
+    },
+    "makr_837322": {
+      "title": "Reencarnação Maldita",
+      "chapters": [
+        {
+          "id": "837322",
+          "title": "Reencarnação Maldita",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl84MzczMjIuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/181/wp-content/uploads/2024/05/d6613629-9df7-4cc0-89b2-e7b251b7a7e9.jpg.512.png"
         }
       ]
     }
