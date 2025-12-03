@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": 1764761202,
+    "lastUpdated": 1764761211,
     "totalMangas": 2613,
     "version": "1.0.6"
   },
@@ -31349,15 +31349,15 @@
         }
       ]
     },
-    "majp_52062": {
-      "title": "Quebra-Vento",
+    "makr_8391": {
+      "title": "The Duke's 99th Bride",
       "chapters": [
         {
-          "id": "52062",
-          "title": "Quebra-Vento",
-          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzUyMDYyLmpzb24/",
-          "type": "manga",
-          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/1217/wp-content/uploads/2024/05/Quebra-Vento_Capa_G9o7XMG.format-webp.original.webp"
+          "id": "8391",
+          "title": "The Duke's 99th Bride",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl84MzkxLmpzb24/",
+          "type": "manhwa",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b145610-LIAHmWOGobsh.jpg"
         }
       ]
     }
