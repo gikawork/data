@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": 1764723680,
+    "lastUpdated": 1764723695,
     "totalMangas": 1101,
     "version": "1.0.5"
   },
@@ -13202,6 +13202,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzE4NS5qc29u/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx124621-g3dTY9fb8Frj.jpg"
+        }
+      ]
+    },
+    "majp_961": {
+      "title": "Fuufu Ijou, Koibito Miman",
+      "chapters": [
+        {
+          "id": "961",
+          "title": "Fuufu Ijou, Koibito Miman",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzk2MS5qc29u/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/nx105011-DxP8LvUSfRiJ.jpg"
         }
       ]
     }
