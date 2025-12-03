@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": 1764727486,
+    "lastUpdated": 1764727500,
     "totalMangas": 1136,
     "version": "1.0.5"
   },
@@ -13622,6 +13622,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl81MDY5Lmpzb24/",
           "type": "manhwa",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx147027-6vlUI1C4kK9Z.jpg"
+        }
+      ]
+    },
+    "majp_11573": {
+      "title": "Rokutousei Supika",
+      "chapters": [
+        {
+          "id": "11573",
+          "title": "Rokutousei Supika",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzExNTczLmpzb24/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/4759.jpg"
         }
       ]
     }
