@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764734323,
-    "totalMangas": 1635,
+    "lastUpdated": 1764734332,
+    "totalMangas": 1636,
     "version": "1.0.5"
   },
   "mangas": {
@@ -19622,6 +19622,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl82ODQxLmpzb24/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/4131/wp-content/uploads/2024/10/Volcanic-Age-350x476-1.jpg"
+        }
+      ]
+    },
+    "makr_26f669": {
+      "title": "O Lixo da Familia Condal",
+      "chapters": [
+        {
+          "id": "26f669",
+          "title": "O Lixo da Familia Condal",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8yNmY2NjkuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/248/67dc6610dce6f.jpg"
         }
       ]
     }
