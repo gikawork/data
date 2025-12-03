@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764737073,
-    "totalMangas": 1935,
+    "lastUpdated": 1764737082,
+    "totalMangas": 1936,
     "version": "1.0.5"
   },
   "mangas": {
@@ -23222,6 +23222,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF8xNTQxLmpzb24/",
           "type": "manhua",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/10001/67c245622f06b.png"
+        }
+      ]
+    },
+    "mach_4680": {
+      "title": "Apocalipse: O Estandarte do Imperador Convida Todas as Discípulas a Tomarem Seus Lugares.",
+      "chapters": [
+        {
+          "id": "4680",
+          "title": "Apocalipse: O Estandarte do Imperador Convida Todas as Discípulas a Tomarem Seus Lugares.",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF80NjgwLmpzb24/",
+          "type": "manhua",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/10018/67c32d50dd801.jpg"
         }
       ]
     }
