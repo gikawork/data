@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": 1764725549,
+    "lastUpdated": 1764725564,
     "totalMangas": 1116,
     "version": "1.0.5"
   },
@@ -13382,6 +13382,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzMxMjYuanNvbg/",
           "type": "manga",
           "cover_url": "https://cdn.myanimelist.net/images/manga/3/295874.jpg"
+        }
+      ]
+    },
+    "majp_519": {
+      "title": "High Score Girl DASH",
+      "chapters": [
+        {
+          "id": "519",
+          "title": "High Score Girl DASH",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzUxOS5qc29u/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx113540-MmwNK1a8mhgx.jpg"
         }
       ]
     }
