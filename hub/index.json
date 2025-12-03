@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764731261,
-    "totalMangas": 1295,
+    "lastUpdated": 1764731269,
+    "totalMangas": 1296,
     "version": "1.0.5"
   },
   "mangas": {
@@ -15542,6 +15542,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzUwOTI1My5qc29u/",
           "type": "manga",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/7492/wp-content/uploads/2024/12/pagando-pra-ganhar-em-um-VRMMO.jpg"
+        }
+      ]
+    },
+    "makr_35286": {
+      "title": "O Esqueleto Virou Pai de um Gato",
+      "chapters": [
+        {
+          "id": "35286",
+          "title": "O Esqueleto Virou Pai de um Gato",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8zNTI4Ni5qc29u/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/10226/67cf0e1918cb9.png"
         }
       ]
     }
