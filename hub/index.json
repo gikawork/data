@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764729981,
-    "totalMangas": 1187,
+    "lastUpdated": 1764729991,
+    "totalMangas": 1188,
     "version": "1.0.5"
   },
   "mangas": {
@@ -14246,6 +14246,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzE4ODg2Mi5qc29u/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx190971-jRS2lklc08cC.jpg"
+        }
+      ]
+    },
+    "majp_19473": {
+      "title": "Kamigami no Asobi",
+      "chapters": [
+        {
+          "id": "19473",
+          "title": "Kamigami no Asobi",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzE5NDczLmpzb24/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/87523-gtdwNM0xgeyv.jpg"
         }
       ]
     }
