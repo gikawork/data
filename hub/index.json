@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764725213,
-    "totalMangas": 1113,
+    "lastUpdated": 1764725230,
+    "totalMangas": 1112,
     "version": "1.0.5"
   },
   "mangas": {
@@ -986,18 +986,6 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9KUDM2NC5qc29u/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx159295-g6rYtqRG5YAm.jpg"
-        }
-      ]
-    },
-    "JP834": {
-      "title": "Tensei Kizoku, Kantei Skill de Nariagaru",
-      "chapters": [
-        {
-          "id": 834,
-          "title": "Tensei Kizoku, Kantei Skill de Nariagaru",
-          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9KUDgzNC5qc29u/",
-          "type": "manga",
-          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx121753-vhvIdfxdaEdF.jpg"
         }
       ]
     },
@@ -13346,6 +13334,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzU3NDU0Lmpzb24/",
           "type": "manga",
           "cover_url": "https://cdn.mangaupdates.com/image/i489083.jpg"
+        }
+      ]
+    },
+    "majp_834": {
+      "title": "Ningyohime no Gomen ne Gohan",
+      "chapters": [
+        {
+          "id": "834",
+          "title": "Ningyohime no Gomen ne Gohan",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzgzNC5qc29u/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx98147-x6NS5BYsp4tz.jpg"
         }
       ]
     }
