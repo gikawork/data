@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": 1764760584,
+    "lastUpdated": 1764760592,
     "totalMangas": 2611,
     "version": "1.0.6"
   },
@@ -31325,15 +31325,15 @@
         }
       ]
     },
-    "makr_1619": {
-      "title": "Guerreiro de Nivelamento Hardcore",
+    "mach_905": {
+      "title": "O Rei Demônio que Perdeu o Emprego",
       "chapters": [
         {
-          "id": "1619",
-          "title": "Guerreiro de Nivelamento Hardcore",
-          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8xNjE5Lmpzb24/",
-          "type": "manhwa",
-          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/10118/67c89dbd613c1.png"
+          "id": "905",
+          "title": "O Rei Demônio que Perdeu o Emprego",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF85MDUuanNvbg/",
+          "type": "manhua",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/842/wp-content/uploads/2024/05/The_demon_king.format-avif.width-320.jpg"
         }
       ]
     }
