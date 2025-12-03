@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764738844,
-    "totalMangas": 2123,
+    "lastUpdated": 1764738853,
+    "totalMangas": 2124,
     "version": "1.0.5"
   },
   "mangas": {
@@ -25478,6 +25478,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl81MDMxNy5qc29u/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/10054/67c44a83e8219.png"
+        }
+      ]
+    },
+    "makr_51b736": {
+      "title": "Devorador de Livros",
+      "chapters": [
+        {
+          "id": "51b736",
+          "title": "Devorador de Livros",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl81MWI3MzYuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/1887/wp-content/uploads/2024/05/4660df5b-d126-44d7-9801-abc81976b500-1.jpg.512-1.jpg"
         }
       ]
     }
