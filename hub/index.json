@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764734810,
-    "totalMangas": 1689,
+    "lastUpdated": 1764734818,
+    "totalMangas": 1690,
     "version": "1.0.5"
   },
   "mangas": {
@@ -20270,6 +20270,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8wMTM2ZTEuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/8590/68c492dfe5cf5.png"
+        }
+      ]
+    },
+    "makr_7946": {
+      "title": "Sobrevivendo em um Romance de Fantasia",
+      "chapters": [
+        {
+          "id": "7946",
+          "title": "Sobrevivendo em um Romance de Fantasia",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl83OTQ2Lmpzb24/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/8573/wp-content/uploads/2025/01/191cff6e-349f-4da0-ba6c-d9eb503db7ed.jpg.512.jpg"
         }
       ]
     }
