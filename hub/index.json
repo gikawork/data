@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764740482,
-    "totalMangas": 2304,
+    "lastUpdated": 1764740491,
+    "totalMangas": 2305,
     "version": "1.0.5"
   },
   "mangas": {
@@ -27650,6 +27650,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl85NDEzLmpzb24/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/9813/67acfa52b9f1d.png"
+        }
+      ]
+    },
+    "mach_39185": {
+      "title": "Eu sou apenas um imortal",
+      "chapters": [
+        {
+          "id": "39185",
+          "title": "Eu sou apenas um imortal",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF8zOTE4NS5qc29u/",
+          "type": "manhua",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/11141/682b30f8cb466.jpg"
         }
       ]
     }
