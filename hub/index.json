@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764735447,
-    "totalMangas": 1758,
+    "lastUpdated": 1764735456,
+    "totalMangas": 1759,
     "version": "1.0.5"
   },
   "mangas": {
@@ -21098,6 +21098,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl84NjIuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/5077/6864bd696c7b8.webp"
+        }
+      ]
+    },
+    "makr_f08bf8": {
+      "title": "Lendário Filho Mais Novo da Casa do Marquês",
+      "chapters": [
+        {
+          "id": "f08bf8",
+          "title": "Lendário Filho Mais Novo da Casa do Marquês",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl9mMDhiZjguanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/6089/wp-content/uploads/2024/11/jack.jpg"
         }
       ]
     }
