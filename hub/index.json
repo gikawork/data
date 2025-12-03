@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764739050,
-    "totalMangas": 2146,
+    "lastUpdated": 1764739058,
+    "totalMangas": 2147,
     "version": "1.0.5"
   },
   "mangas": {
@@ -25754,6 +25754,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl80NzM2Lmpzb24/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/8695/6791d70013c9a.png"
+        }
+      ]
+    },
+    "majp_337762": {
+      "title": "Esforço de Aluguel",
+      "chapters": [
+        {
+          "id": "337762",
+          "title": "Esforço de Aluguel",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzMzNzc2Mi5qc29u/",
+          "type": "manga",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/10335/67d2f5ae4f5c7.jpg"
         }
       ]
     }
