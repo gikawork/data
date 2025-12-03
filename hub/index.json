@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764736481,
-    "totalMangas": 1871,
+    "lastUpdated": 1764736491,
+    "totalMangas": 1872,
     "version": "1.0.5"
   },
   "mangas": {
@@ -22454,6 +22454,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8yMTAwMWMuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/9873/67b390d744815.png"
+        }
+      ]
+    },
+    "makr_70b99f": {
+      "title": "Tio do Outro Mundo",
+      "chapters": [
+        {
+          "id": "70b99f",
+          "title": "Tio do Outro Mundo",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl83MGI5OWYuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/10884/680eaca604c79.jpg"
         }
       ]
     }
