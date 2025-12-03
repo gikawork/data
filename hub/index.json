@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764732059,
-    "totalMangas": 1381,
+    "lastUpdated": 1764732068,
+    "totalMangas": 1382,
     "version": "1.0.5"
   },
   "mangas": {
@@ -16574,6 +16574,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl80MTgyZDYuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/6177/wp-content/uploads/2024/11/gasss.jpg"
+        }
+      ]
+    },
+    "makr_38075": {
+      "title": "Logando Sozinho",
+      "chapters": [
+        {
+          "id": "38075",
+          "title": "Logando Sozinho",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8zODA3NS5qc29u/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/2142/68703940b7170.jpg"
         }
       ]
     }
