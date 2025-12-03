@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": 1764725374,
+    "lastUpdated": 1764725389,
     "totalMangas": 1115,
     "version": "1.0.5"
   },
@@ -13370,6 +13370,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzQwODgzLmpzb24/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx119767-1y8YtTNOmQpo.jpg"
+        }
+      ]
+    },
+    "majp_1519": {
+      "title": "Kobayashi-san Chi no Maid Dragon: Elma OL Nikki",
+      "chapters": [
+        {
+          "id": "1519",
+          "title": "Kobayashi-san Chi no Maid Dragon: Elma OL Nikki",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzE1MTkuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://cdn.mangaupdates.com/image/i483792.jpg"
         }
       ]
     }
