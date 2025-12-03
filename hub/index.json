@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": 1764730019,
+    "lastUpdated": 1764730035,
     "totalMangas": 1188,
     "version": "1.0.5"
   },
@@ -14246,6 +14246,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzk2NC5qc29u/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx135083-TQbNFWKGJJHW.jpg"
+        }
+      ]
+    },
+    "majp_786": {
+      "title": "Lies of the Sheriff Evans: Dead or Love",
+      "chapters": [
+        {
+          "id": "786",
+          "title": "Lies of the Sheriff Evans: Dead or Love",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzc4Ni5qc29u/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx99365-8SjmtaFNfZWE.png"
         }
       ]
     }
