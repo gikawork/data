@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764730373,
-    "totalMangas": 1194,
+    "lastUpdated": 1764730382,
+    "totalMangas": 1195,
     "version": "1.0.5"
   },
   "mangas": {
@@ -14330,6 +14330,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzM0MTQuanNvbg/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx49315-2AqZShRMXyfx.png"
+        }
+      ]
+    },
+    "makr_be28d2": {
+      "title": "Como Viver no Nível Máximo",
+      "chapters": [
+        {
+          "id": "be28d2",
+          "title": "Como Viver no Nível Máximo",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl9iZTI4ZDIuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/9018/6795d3674597e.png"
         }
       ]
     }
