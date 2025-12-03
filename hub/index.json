@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764731103,
-    "totalMangas": 1277,
+    "lastUpdated": 1764731111,
+    "totalMangas": 1278,
     "version": "1.0.5"
   },
   "mangas": {
@@ -15326,6 +15326,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl9mZDc1ODguanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/8749/67948737bc490.png"
+        }
+      ]
+    },
+    "makr_b1b5b9": {
+      "title": "O Pássaro de um Rei Goblin",
+      "chapters": [
+        {
+          "id": "b1b5b9",
+          "title": "O Pássaro de um Rei Goblin",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl9iMWI1YjkuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/8747/679486c76f5e8.png"
         }
       ]
     }
