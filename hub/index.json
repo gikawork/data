@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764736016,
-    "totalMangas": 1820,
+    "lastUpdated": 1764736027,
+    "totalMangas": 1821,
     "version": "1.0.5"
   },
   "mangas": {
@@ -21842,6 +21842,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF8yNjQ3Lmpzb24/",
           "type": "manhua",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/8487/68c491e94f00f.png"
+        }
+      ]
+    },
+    "majp_3338": {
+      "title": "O Mago da Morte",
+      "chapters": [
+        {
+          "id": "3338",
+          "title": "O Mago da Morte",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzMzMzguanNvbg/",
+          "type": "manga",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/10060/67c4879960a13.png"
         }
       ]
     }
