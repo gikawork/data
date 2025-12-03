@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764740080,
-    "totalMangas": 2260,
+    "lastUpdated": 1764740090,
+    "totalMangas": 2261,
     "version": "1.0.5"
   },
   "mangas": {
@@ -27122,6 +27122,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8zNjIzNzguanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/8651/68815e7b7d1b5.jpg"
+        }
+      ]
+    },
+    "makr_4507": {
+      "title": "The Tyrant of the Apocalypse Returns",
+      "chapters": [
+        {
+          "id": "4507",
+          "title": "The Tyrant of the Apocalypse Returns",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl80NTA3Lmpzb24/",
+          "type": "manhwa",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx172585-6Q3vJ9mt6ibz.jpg"
         }
       ]
     }
