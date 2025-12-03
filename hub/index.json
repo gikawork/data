@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764729686,
-    "totalMangas": 1181,
+    "lastUpdated": 1764729696,
+    "totalMangas": 1182,
     "version": "1.0.5"
   },
   "mangas": {
@@ -14174,6 +14174,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzQ3NDQuanNvbg/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx126261-CanMXO4eSufJ.jpg"
+        }
+      ]
+    },
+    "majp_8267": {
+      "title": "I Left my A-Rank Party to Help My Former Students Reach the Dungeon Depths!",
+      "chapters": [
+        {
+          "id": "8267",
+          "title": "I Left my A-Rank Party to Help My Former Students Reach the Dungeon Depths!",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzgyNjcuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://images2.imgbox.com/fe/ed/illgMDBO_o.jpg"
         }
       ]
     }
