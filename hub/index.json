@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": 1764729189,
+    "lastUpdated": 1764729203,
     "totalMangas": 1168,
     "version": "1.0.5"
   },
@@ -14006,6 +14006,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8xMTg2Lmpzb24/",
           "type": "manhwa",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx180891-ZBbyOWSYI41R.jpg"
+        }
+      ]
+    },
+    "majp_5564": {
+      "title": "Pandora's Cube",
+      "chapters": [
+        {
+          "id": "5564",
+          "title": "Pandora's Cube",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzU1NjQuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/6114.jpg"
         }
       ]
     }
