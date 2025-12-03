@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764740438,
-    "totalMangas": 2299,
+    "lastUpdated": 1764740446,
+    "totalMangas": 2300,
     "version": "1.0.5"
   },
   "mangas": {
@@ -27590,6 +27590,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF8xMGM4ZDEuanNvbg/",
           "type": "manhua",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/9837/67afb178564f6.png"
+        }
+      ]
+    },
+    "makr_ea89dd": {
+      "title": "De Volta ao Inicio",
+      "chapters": [
+        {
+          "id": "ea89dd",
+          "title": "De Volta ao Inicio",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl9lYTg5ZGQuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/10669/67fd503f82e5f.png"
         }
       ]
     }
