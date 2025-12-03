@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": 1764761998,
+    "lastUpdated": 1764762007,
     "totalMangas": 2616,
     "version": "1.0.6"
   },
@@ -31385,15 +31385,15 @@
         }
       ]
     },
-    "makr_afb3be": {
-      "title": "Crônicas da Facção Demoníaca",
+    "majp_3083": {
+      "title": "Princesa Sonolenta no Castelo do Demônio",
       "chapters": [
         {
-          "id": "afb3be",
-          "title": "Crônicas da Facção Demoníaca",
-          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl9hZmIzYmUuanNvbg/",
-          "type": "manhwa",
-          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/112/wp-content/uploads/2024/05/chron-4-1.jpg"
+          "id": "3083",
+          "title": "Princesa Sonolenta no Castelo do Demônio",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzMwODMuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/10110/67c7c26255eed.png"
         }
       ]
     }
