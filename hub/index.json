@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764732213,
-    "totalMangas": 1399,
+    "lastUpdated": 1764732222,
+    "totalMangas": 1400,
     "version": "1.0.5"
   },
   "mangas": {
@@ -16790,6 +16790,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF80NWE4NTAuanNvbg/",
           "type": "manhua",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/11159/682d104269efd.jpg"
+        }
+      ]
+    },
+    "makr_50036": {
+      "title": "This Life, the Way I Want",
+      "chapters": [
+        {
+          "id": "50036",
+          "title": "This Life, the Way I Want",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl81MDAzNi5qc29u/",
+          "type": "manhwa",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx147953-JmNledjOw25t.jpg"
         }
       ]
     }
