@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": 1764724871,
+    "lastUpdated": 1764724886,
     "totalMangas": 1109,
     "version": "1.0.5"
   },
@@ -13298,6 +13298,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl81MzA3Lmpzb24/",
           "type": "manhwa",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx172619-l0nj7adMLAfc.png"
+        }
+      ]
+    },
+    "majp_10971": {
+      "title": "Yaiba!",
+      "chapters": [
+        {
+          "id": "10971",
+          "title": "Yaiba!",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzEwOTcxLmpzb24/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b31631-nygEtfnhGNYD.jpg"
         }
       ]
     }
