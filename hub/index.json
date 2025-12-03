@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764735914,
-    "totalMangas": 1809,
+    "lastUpdated": 1764735923,
+    "totalMangas": 1810,
     "version": "1.0.5"
   },
   "mangas": {
@@ -21710,6 +21710,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl80MDAxMDguanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/6470/wp-content/uploads/2024/11/meia.jpg"
+        }
+      ]
+    },
+    "makr_57669": {
+      "title": "Doutor Jogador",
+      "chapters": [
+        {
+          "id": "57669",
+          "title": "Doutor Jogador",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl81NzY2OS5qc29u/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/5999/wp-content/uploads/2024/10/b875d245-32e8-4b8c-acb5-d391698ed2b3.jpg.512.jpg"
         }
       ]
     }
