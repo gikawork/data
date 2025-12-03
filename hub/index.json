@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764739883,
-    "totalMangas": 2238,
+    "lastUpdated": 1764739891,
+    "totalMangas": 2239,
     "version": "1.0.5"
   },
   "mangas": {
@@ -26858,6 +26858,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl82Nzg4NTAuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/10273/67cfa853c8b79.png"
+        }
+      ]
+    },
+    "makr_f48401": {
+      "title": "A Imperatriz Abandonada",
+      "chapters": [
+        {
+          "id": "f48401",
+          "title": "A Imperatriz Abandonada",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl9mNDg0MDEuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/9715/67a68d3d43c91.png"
         }
       ]
     }
