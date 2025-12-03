@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764738222,
-    "totalMangas": 2055,
+    "lastUpdated": 1764738231,
+    "totalMangas": 2056,
     "version": "1.0.5"
   },
   "mangas": {
@@ -24662,6 +24662,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl84NjI2NzEuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/6706/wp-content/uploads/2024/11/upload_4049688676676087908_480x623-1.jpg"
+        }
+      ]
+    },
+    "makr_b48e55": {
+      "title": "Por Favor, Me Leia!",
+      "chapters": [
+        {
+          "id": "b48e55",
+          "title": "Por Favor, Me Leia!",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl9iNDhlNTUuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/5099/wp-content/uploads/2024/10/Por_favor_Me_leia.format-avif.original.jpg"
         }
       ]
     }
