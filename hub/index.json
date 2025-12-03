@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764733332,
-    "totalMangas": 1524,
+    "lastUpdated": 1764733342,
+    "totalMangas": 1525,
     "version": "1.0.5"
   },
   "mangas": {
@@ -18290,6 +18290,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF85NDE4Lmpzb24/",
           "type": "manhua",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/7886/wp-content/uploads/2024/12/safradoooooooooooooo.jpg"
+        }
+      ]
+    },
+    "makr_58151": {
+      "title": "Salvadora",
+      "chapters": [
+        {
+          "id": "58151",
+          "title": "Salvadora",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl81ODE1MS5qc29u/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/10246/67cf375abe519.png"
         }
       ]
     }
