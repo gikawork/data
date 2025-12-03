@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": 1764729442,
+    "lastUpdated": 1764729458,
     "totalMangas": 1175,
     "version": "1.0.5"
   },
@@ -14090,6 +14090,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzI5NzIuanNvbg/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx111258-JWKMq8VGpdiL.jpg"
+        }
+      ]
+    },
+    "majp_377": {
+      "title": "One Piece",
+      "chapters": [
+        {
+          "id": "377",
+          "title": "One Piece",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzM3Ny5qc29u/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx30013-BeslEMqiPhlk.jpg"
         }
       ]
     }
