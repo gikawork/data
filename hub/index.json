@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764731252,
-    "totalMangas": 1294,
+    "lastUpdated": 1764731261,
+    "totalMangas": 1295,
     "version": "1.0.5"
   },
   "mangas": {
@@ -15530,6 +15530,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl80MjA2YTYuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/6043/wp-content/uploads/2024/11/fut.jpg"
+        }
+      ]
+    },
+    "majp_509253": {
+      "title": "Pagando para Ganhar em um Vrmmo",
+      "chapters": [
+        {
+          "id": "509253",
+          "title": "Pagando para Ganhar em um Vrmmo",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzUwOTI1My5qc29u/",
+          "type": "manga",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/7492/wp-content/uploads/2024/12/pagando-pra-ganhar-em-um-VRMMO.jpg"
         }
       ]
     }
