@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764740365,
-    "totalMangas": 2291,
+    "lastUpdated": 1764740374,
+    "totalMangas": 2292,
     "version": "1.0.5"
   },
   "mangas": {
@@ -27494,6 +27494,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8wNTM1ZTEuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/4341/wp-content/uploads/2024/10/GANHEI_PODER_CAPA_OFICIAL-193x278_upscayl_2100px_realesrgan-x4plus-anime.png"
+        }
+      ]
+    },
+    "makr_1aaedd": {
+      "title": "Aliança Matrimonial por Vingança",
+      "chapters": [
+        {
+          "id": "1aaedd",
+          "title": "Aliança Matrimonial por Vingança",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8xYWFlZGQuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/8783/679537245b147.png"
         }
       ]
     }
