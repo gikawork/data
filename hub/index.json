@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764737895,
-    "totalMangas": 2019,
+    "lastUpdated": 1764737904,
+    "totalMangas": 2020,
     "version": "1.0.5"
   },
   "mangas": {
@@ -24230,6 +24230,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF8yMDM4MzQuanNvbg/",
           "type": "manhua",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/11191/6833ba337c3cb.jpg"
+        }
+      ]
+    },
+    "makr_a9209a": {
+      "title": "A Vida Escolar do Senhor da Terra",
+      "chapters": [
+        {
+          "id": "a9209a",
+          "title": "A Vida Escolar do Senhor da Terra",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl9hOTIwOWEuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/9941/67bcb3a2481de.jpg"
         }
       ]
     }
