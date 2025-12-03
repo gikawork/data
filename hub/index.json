@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": 1764728197,
+    "lastUpdated": 1764728212,
     "totalMangas": 1149,
     "version": "1.0.5"
   },
@@ -13778,6 +13778,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzI2MzEuanNvbg/",
           "type": "manga",
           "cover_url": "https://cdn.mangaupdates.com/image/i498751.jpg"
+        }
+      ]
+    },
+    "majp_1343": {
+      "title": "The Lady's Servant",
+      "chapters": [
+        {
+          "id": "1343",
+          "title": "The Lady's Servant",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzEzNDMuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/nx104133-G6P2eJj34Hzw.jpg"
         }
       ]
     }
