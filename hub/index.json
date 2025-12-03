@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": 1764762890,
+    "lastUpdated": 1764762899,
     "totalMangas": 2619,
     "version": "1.0.6"
   },
@@ -31421,15 +31421,15 @@
         }
       ]
     },
-    "makr_d27cba": {
-      "title": "Tio da Loja de Armas",
+    "mach_7b18ac": {
+      "title": "Mestre da Espada Espiritual",
       "chapters": [
         {
-          "id": "d27cba",
-          "title": "Tio da Loja de Armas",
-          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl9kMjdjYmEuanNvbg/",
-          "type": "manhwa",
-          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/7318/wp-content/uploads/2024/12/tar.jpg"
+          "id": "7b18ac",
+          "title": "Mestre da Espada Espiritual",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF83YjE4YWMuanNvbg/",
+          "type": "manhua",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/9855/67b11f12af540.webp"
         }
       ]
     }
