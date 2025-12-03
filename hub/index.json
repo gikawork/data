@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764733708,
-    "totalMangas": 1566,
+    "lastUpdated": 1764733719,
+    "totalMangas": 1567,
     "version": "1.0.5"
   },
   "mangas": {
@@ -18794,6 +18794,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF8zODU5Mi5qc29u/",
           "type": "manhua",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b132948-98bSUK5QMlQq.jpg"
+        }
+      ]
+    },
+    "makr_947e72": {
+      "title": "O Cavaleiro do caminhão Taekbae",
+      "chapters": [
+        {
+          "id": "947e72",
+          "title": "O Cavaleiro do caminhão Taekbae",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl85NDdlNzIuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/9698/67a4a369607d7.jpg"
         }
       ]
     }
