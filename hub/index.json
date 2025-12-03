@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764724200,
-    "totalMangas": 1105,
+    "lastUpdated": 1764724210,
+    "totalMangas": 1106,
     "version": "1.0.5"
   },
   "mangas": {
@@ -13262,6 +13262,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF8zLmpzb24/",
           "type": "manhua",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx176488-mz7VGCXVObEb.png"
+        }
+      ]
+    },
+    "majp_3680": {
+      "title": "Kakunaru Ue wa",
+      "chapters": [
+        {
+          "id": "3680",
+          "title": "Kakunaru Ue wa",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzM2ODAuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx161433-BJ3aSWX8CYwx.jpg"
         }
       ]
     }
