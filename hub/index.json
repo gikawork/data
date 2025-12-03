@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764737127,
-    "totalMangas": 1941,
+    "lastUpdated": 1764737136,
+    "totalMangas": 1942,
     "version": "1.0.5"
   },
   "mangas": {
@@ -23294,6 +23294,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl82MWIzZDkuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/7797/wp-content/uploads/2024/12/beloved-by-the-male-leads-nephew-1.jpg"
+        }
+      ]
+    },
+    "makr_72808": {
+      "title": "Kalli o Campeão",
+      "chapters": [
+        {
+          "id": "72808",
+          "title": "Kalli o Campeão",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl83MjgwOC5qc29u/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/4466/wp-content/uploads/2024/10/10009.jpg"
         }
       ]
     }
