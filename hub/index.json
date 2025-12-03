@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764734358,
-    "totalMangas": 1639,
+    "lastUpdated": 1764734368,
+    "totalMangas": 1640,
     "version": "1.0.5"
   },
   "mangas": {
@@ -19670,6 +19670,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl83YThlNmYuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/10866/680eab84e108d.jpg"
+        }
+      ]
+    },
+    "makr_894": {
+      "title": "50 Receitas de Chá da Duquesa",
+      "chapters": [
+        {
+          "id": "894",
+          "title": "50 Receitas de Chá da Duquesa",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl84OTQuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/8316/wp-content/uploads/2024/12/5ad96574-7d08-4e58-9348-f97fa2932488_z.jpg"
         }
       ]
     }
