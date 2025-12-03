@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764732127,
-    "totalMangas": 1389,
+    "lastUpdated": 1764732137,
+    "totalMangas": 1390,
     "version": "1.0.5"
   },
   "mangas": {
@@ -16670,6 +16670,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl82NDI4YzEuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/11085/682227c88278d.png"
+        }
+      ]
+    },
+    "makr_6c5953": {
+      "title": "Senhora Cartomante",
+      "chapters": [
+        {
+          "id": "6c5953",
+          "title": "Senhora Cartomante",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl82YzU5NTMuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/10983/681610207be7a.jpg"
         }
       ]
     }
