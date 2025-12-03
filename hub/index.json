@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": 1764725464,
+    "lastUpdated": 1764725481,
     "totalMangas": 1115,
     "version": "1.0.5"
   },
@@ -13370,6 +13370,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzI3MDYuanNvbg/",
           "type": "manga",
           "cover_url": "https://images2.imgbox.com/8a/81/CVwb34dz_o.jpg"
+        }
+      ]
+    },
+    "majp_3156": {
+      "title": "Namae no Nai Kaibutsu: Kumo to Shoujo to Ryouki Satsujin",
+      "chapters": [
+        {
+          "id": "3156",
+          "title": "Namae no Nai Kaibutsu: Kumo to Shoujo to Ryouki Satsujin",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzMxNTYuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx111073-2ifUvc7Lxefc.png"
         }
       ]
     }
