@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764732267,
-    "totalMangas": 1405,
+    "lastUpdated": 1764732276,
+    "totalMangas": 1406,
     "version": "1.0.5"
   },
   "mangas": {
@@ -16862,6 +16862,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl9hOTk4MjAuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/5950/679fa8012507a.png"
+        }
+      ]
+    },
+    "makr_ab9983": {
+      "title": "Subindo de Nível Sozinho",
+      "chapters": [
+        {
+          "id": "ab9983",
+          "title": "Subindo de Nível Sozinho",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl9hYjk5ODMuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/4993/wp-content/uploads/2024/10/7518.jpg"
         }
       ]
     }
