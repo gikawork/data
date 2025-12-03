@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764736137,
-    "totalMangas": 1833,
+    "lastUpdated": 1764736146,
+    "totalMangas": 1834,
     "version": "1.0.5"
   },
   "mangas": {
@@ -21998,6 +21998,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl81OGZmNmUuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/13857/68cde50f0bdbc.webp"
+        }
+      ]
+    },
+    "makr_62074": {
+      "title": "Ilha do Demônio da Espada",
+      "chapters": [
+        {
+          "id": "62074",
+          "title": "Ilha do Demônio da Espada",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl82MjA3NC5qc29u/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/8192/wp-content/uploads/2024/12/reip.jpg"
         }
       ]
     }
