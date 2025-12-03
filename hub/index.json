@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": 1764723201,
+    "lastUpdated": 1764723216,
     "totalMangas": 1098,
     "version": "1.0.5"
   },
@@ -13166,6 +13166,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8yODc3Lmpzb24/",
           "type": "manhwa",
           "cover_url": "https://files.catbox.moe/u6yvmg.jpg"
+        }
+      ]
+    },
+    "majp_2371": {
+      "title": "Ushiro no Shoumen Kamui-san",
+      "chapters": [
+        {
+          "id": "2371",
+          "title": "Ushiro no Shoumen Kamui-san",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzIzNzEuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://cdn.myanimelist.net/images/manga/2/271986.jpg"
         }
       ]
     }
