@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": 1764727792,
+    "lastUpdated": 1764727807,
     "totalMangas": 1142,
     "version": "1.0.5"
   },
@@ -13694,6 +13694,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzYwMS5qc29u/",
           "type": "manga",
           "cover_url": "https://cdn.myanimelist.net/images/manga/3/293031.jpg"
+        }
+      ]
+    },
+    "makr_158": {
+      "title": "Raided the God's Warehouse",
+      "chapters": [
+        {
+          "id": "158",
+          "title": "Raided the God's Warehouse",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8xNTguanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://images2.imgbox.com/48/cc/zcsh0sbd_o.jpg"
         }
       ]
     }
