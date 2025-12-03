@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764732313,
-    "totalMangas": 1410,
+    "lastUpdated": 1764732322,
+    "totalMangas": 1411,
     "version": "1.0.5"
   },
   "mangas": {
@@ -16922,6 +16922,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF81NjAyLmpzb24/",
           "type": "manhua",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx141581-3zcr6ZiU5nrR.jpg"
+        }
+      ]
+    },
+    "makr_43025": {
+      "title": "Estou dentro de um Jogo de Harém Reverso",
+      "chapters": [
+        {
+          "id": "43025",
+          "title": "Estou dentro de um Jogo de Harém Reverso",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl80MzAyNS5qc29u/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/9003/67b7764ad6ccf.png"
         }
       ]
     }
