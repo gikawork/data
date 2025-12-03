@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764730479,
-    "totalMangas": 1206,
+    "lastUpdated": 1764730488,
+    "totalMangas": 1207,
     "version": "1.0.5"
   },
   "mangas": {
@@ -14474,6 +14474,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl83NTYwMy5qc29u/",
           "type": "manhwa",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx172583-FCOKSgAOWa7x.png"
+        }
+      ]
+    },
+    "makr_1455": {
+      "title": "We've Already Broken Up, Your Majesty",
+      "chapters": [
+        {
+          "id": "1455",
+          "title": "We've Already Broken Up, Your Majesty",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8xNDU1Lmpzb24/",
+          "type": "manhwa",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx181513-q7L9YpGyBOWK.jpg"
         }
       ]
     }
