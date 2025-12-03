@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764724602,
-    "totalMangas": 1107,
+    "lastUpdated": 1764724619,
+    "totalMangas": 1106,
     "version": "1.0.5"
   },
   "mangas": {
@@ -350,18 +350,6 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9KUDU2OS5qc29u/",
           "type": "manga",
           "cover_url": "https://cdn.myanimelist.net/images/manga/2/181049.jpg"
-        }
-      ]
-    },
-    "JP527": {
-      "title": "Marika-chan no Koukando wa Bukkowarete iru",
-      "chapters": [
-        {
-          "id": 527,
-          "title": "Marika-chan no Koukando wa Bukkowarete iru",
-          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9KUDUyNy5qc29u/",
-          "type": "manga",
-          "cover_url": "https://cdn.mangaupdates.com/image/i450259.jpg"
         }
       ]
     },
@@ -13274,6 +13262,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzMwNTEuanNvbg/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx144319-Wdt3rAguc8pX.png"
+        }
+      ]
+    },
+    "majp_527": {
+      "title": "Ore dake Fuguu Skill no Isekai Shoukan Hangyakuki: Saijaku Skill \"Kyuushuu\" ga Subete wo Nomikomu made",
+      "chapters": [
+        {
+          "id": "527",
+          "title": "Ore dake Fuguu Skill no Isekai Shoukan Hangyakuki: Saijaku Skill \"Kyuushuu\" ga Subete wo Nomikomu made",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzUyNy5qc29u/",
+          "type": "manga",
+          "cover_url": "https://cdn.myanimelist.net/images/manga/1/274769.jpg"
         }
       ]
     }
