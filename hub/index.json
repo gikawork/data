@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764728870,
-    "totalMangas": 1161,
+    "lastUpdated": 1764728880,
+    "totalMangas": 1162,
     "version": "1.0.5"
   },
   "mangas": {
@@ -13934,6 +13934,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzE1OTEuanNvbg/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx85316-EGrSrwSMeOxd.jpg"
+        }
+      ]
+    },
+    "majp_116": {
+      "title": "Combini de Kimi to no 5-funkan.",
+      "chapters": [
+        {
+          "id": "116",
+          "title": "Combini de Kimi to no 5-funkan.",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzExNi5qc29u/",
+          "type": "manga",
+          "cover_url": "https://cdn.mangaupdates.com/image/i374674.png"
         }
       ]
     }
