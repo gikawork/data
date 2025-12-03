@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": 1764729933,
+    "lastUpdated": 1764729950,
     "totalMangas": 1187,
     "version": "1.0.5"
   },
@@ -14234,6 +14234,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzEwMDUuanNvbg/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx176740-KD68EumxZV95.jpg"
+        }
+      ]
+    },
+    "majp_2967": {
+      "title": "Owari no Seraph",
+      "chapters": [
+        {
+          "id": "2967",
+          "title": "Owari no Seraph",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzI5NjcuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/nx73661-PJX2JcBAUYCx.png"
         }
       ]
     }
