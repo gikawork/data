@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": 1764723042,
+    "lastUpdated": 1764723057,
     "totalMangas": 1098,
     "version": "1.0.5"
   },
@@ -13166,6 +13166,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzExNzY4Lmpzb24/",
           "type": "manga",
           "cover_url": "https://cdn.myanimelist.net/images/manga/3/259289.jpg"
+        }
+      ]
+    },
+    "majp_2333": {
+      "title": "Daiakutou Shounen",
+      "chapters": [
+        {
+          "id": "2333",
+          "title": "Daiakutou Shounen",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzIzMzMuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx192035-reqe0KkMzdbN.jpg"
         }
       ]
     }
