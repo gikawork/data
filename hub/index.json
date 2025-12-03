@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": 1764729875,
+    "lastUpdated": 1764729888,
     "totalMangas": 1187,
     "version": "1.0.5"
   },
@@ -14234,6 +14234,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzI4MzQ1Lmpzb24/",
           "type": "manga",
           "cover_url": "https://images2.imgbox.com/8a/1c/QO9dgNRB_o.jpg"
+        }
+      ]
+    },
+    "majp_2444": {
+      "title": "Glasses with a Chance of Delinquent",
+      "chapters": [
+        {
+          "id": "2444",
+          "title": "Glasses with a Chance of Delinquent",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzI0NDQuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx128448-7EMeQjdXbB2k.png"
         }
       ]
     }
