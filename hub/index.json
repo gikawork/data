@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764737262,
-    "totalMangas": 1954,
+    "lastUpdated": 1764737270,
+    "totalMangas": 1955,
     "version": "1.0.5"
   },
   "mangas": {
@@ -23450,6 +23450,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8xMDkzLmpzb24/",
           "type": "manhwa",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b185572-opVSBTGYKGT6.png"
+        }
+      ]
+    },
+    "makr_69903e": {
+      "title": "O Investidor que Vê o Futuro",
+      "chapters": [
+        {
+          "id": "69903e",
+          "title": "O Investidor que Vê o Futuro",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl82OTkwM2UuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/6144/67d317da920a3.webp"
         }
       ]
     }
