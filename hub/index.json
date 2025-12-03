@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764734573,
-    "totalMangas": 1663,
+    "lastUpdated": 1764734582,
+    "totalMangas": 1664,
     "version": "1.0.5"
   },
   "mangas": {
@@ -19958,6 +19958,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl9mNzg3YmUuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/8989/6795cc8a3fad3.png"
+        }
+      ]
+    },
+    "makr_d9f73d": {
+      "title": "Gangsters do ensino médio",
+      "chapters": [
+        {
+          "id": "d9f73d",
+          "title": "Gangsters do ensino médio",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl9kOWY3M2QuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/8377/wp-content/uploads/2024/12/80d328ca-fbcf-4ee4-ac43-8748c839bb87.webp"
         }
       ]
     }
