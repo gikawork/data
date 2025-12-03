@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764731548,
-    "totalMangas": 1324,
+    "lastUpdated": 1764731556,
+    "totalMangas": 1325,
     "version": "1.0.5"
   },
   "mangas": {
@@ -15890,6 +15890,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl81MzM5Mi5qc29u/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/7628/wp-content/uploads/2024/12/sof.jpg"
+        }
+      ]
+    },
+    "makr_5161": {
+      "title": "I'm All Out Of Health",
+      "chapters": [
+        {
+          "id": "5161",
+          "title": "I'm All Out Of Health",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl81MTYxLmpzb24/",
+          "type": "manhwa",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx137868-5qPHXU3MS2EQ.jpg"
         }
       ]
     }
