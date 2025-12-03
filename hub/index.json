@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764736508,
-    "totalMangas": 1874,
+    "lastUpdated": 1764736518,
+    "totalMangas": 1875,
     "version": "1.0.5"
   },
   "mangas": {
@@ -22490,6 +22490,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8xYmYxODMuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/1249/6864bdc3893cd.webp"
+        }
+      ]
+    },
+    "mach_d81d05": {
+      "title": "Eu Me Tornei um Deus no Apocalipse com Atributos Especiais",
+      "chapters": [
+        {
+          "id": "d81d05",
+          "title": "Eu Me Tornei um Deus no Apocalipse com Atributos Especiais",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF9kODFkMDUuanNvbg/",
+          "type": "manhua",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/11235/683a1eda6a5c1.jpg"
         }
       ]
     }
