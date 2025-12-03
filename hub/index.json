@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764732446,
-    "totalMangas": 1425,
+    "lastUpdated": 1764732454,
+    "totalMangas": 1426,
     "version": "1.0.5"
   },
   "mangas": {
@@ -17102,6 +17102,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl9iZjQxM2EuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/4098/wp-content/uploads/2024/10/00-Capa-espadachim_waifu2x_2x_1n_jpg.webp"
+        }
+      ]
+    },
+    "makr_2e1ed2": {
+      "title": "O Deus da Morte",
+      "chapters": [
+        {
+          "id": "2e1ed2",
+          "title": "O Deus da Morte",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8yZTFlZDIuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/1126/687038478730e.png"
         }
       ]
     }
