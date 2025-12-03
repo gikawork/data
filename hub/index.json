@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": 1764725691,
+    "lastUpdated": 1764725705,
     "totalMangas": 1120,
     "version": "1.0.5"
   },
@@ -13430,6 +13430,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzk4MDE5Lmpzb24/",
           "type": "manga",
           "cover_url": "https://cdn.mangaupdates.com/image/i230819.jpg"
+        }
+      ]
+    },
+    "majp_2757": {
+      "title": "My Senpai is Annoying",
+      "chapters": [
+        {
+          "id": "2757",
+          "title": "My Senpai is Annoying",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzI3NTcuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/nx103111-SO6QbkbL6IH7.jpg"
         }
       ]
     }
