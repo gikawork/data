@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764736649,
-    "totalMangas": 1889,
+    "lastUpdated": 1764736659,
+    "totalMangas": 1890,
     "version": "1.0.5"
   },
   "mangas": {
@@ -22670,6 +22670,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl9kNzA3MjIuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/8157/wp-content/uploads/2024/12/b38ac3aa-optimized.png"
+        }
+      ]
+    },
+    "makr_8fbf8f": {
+      "title": "Ladrão Apocalíptico",
+      "chapters": [
+        {
+          "id": "8fbf8f",
+          "title": "Ladrão Apocalíptico",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl84ZmJmOGYuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/7506/wp-content/uploads/2024/12/ladrau.jpg"
         }
       ]
     }
