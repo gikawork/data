@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764738739,
-    "totalMangas": 2112,
+    "lastUpdated": 1764738748,
+    "totalMangas": 2113,
     "version": "1.0.5"
   },
   "mangas": {
@@ -25346,6 +25346,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8zNjY2ODkuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx197164-NFgnLzw0jdYQ.jpg"
+        }
+      ]
+    },
+    "makr_1431": {
+      "title": "The Tutorial Is Too Tough!",
+      "chapters": [
+        {
+          "id": "1431",
+          "title": "The Tutorial Is Too Tough!",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8xNDMxLmpzb24/",
+          "type": "manhwa",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx129632-ArHo6qvYQoHs.jpg"
         }
       ]
     }
