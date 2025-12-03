@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764731128,
-    "totalMangas": 1280,
+    "lastUpdated": 1764731137,
+    "totalMangas": 1281,
     "version": "1.0.5"
   },
   "mangas": {
@@ -15362,6 +15362,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF8zMzQxLmpzb24/",
           "type": "manhua",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/4185/wp-content/uploads/2024/10/oyxmoc0kkpe5grfar8gu4gvv.webp"
+        }
+      ]
+    },
+    "mach_37180": {
+      "title": "Reis Diferentes",
+      "chapters": [
+        {
+          "id": "37180",
+          "title": "Reis Diferentes",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF8zNzE4MC5qc29u/",
+          "type": "manhua",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/13249/687c2f538ae47.webp"
         }
       ]
     }
