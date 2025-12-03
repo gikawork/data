@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": 1764727696,
+    "lastUpdated": 1764727711,
     "totalMangas": 1140,
     "version": "1.0.5"
   },
@@ -13670,6 +13670,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzEwMTUuanNvbg/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx170106-TQNdIDrtsN9C.png"
+        }
+      ]
+    },
+    "mach_1789": {
+      "title": "Where the Clouds Stop",
+      "chapters": [
+        {
+          "id": "1789",
+          "title": "Where the Clouds Stop",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF8xNzg5Lmpzb24/",
+          "type": "manhua",
+          "cover_url": "https://images2.imgbox.com/e3/0a/xzhEdW4S_o.jpg"
         }
       ]
     }
