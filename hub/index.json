@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764732322,
-    "totalMangas": 1411,
+    "lastUpdated": 1764732331,
+    "totalMangas": 1412,
     "version": "1.0.5"
   },
   "mangas": {
@@ -16934,6 +16934,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl80MzAyNS5qc29u/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/9003/67b7764ad6ccf.png"
+        }
+      ]
+    },
+    "makr_924": {
+      "title": "A Lenda de Dangun",
+      "chapters": [
+        {
+          "id": "924",
+          "title": "A Lenda de Dangun",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl85MjQuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/9811/682b72a23bfdb.jpg"
         }
       ]
     }
