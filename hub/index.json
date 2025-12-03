@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764734502,
-    "totalMangas": 1655,
+    "lastUpdated": 1764734511,
+    "totalMangas": 1656,
     "version": "1.0.5"
   },
   "mangas": {
@@ -19862,6 +19862,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl85OTViMzUuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/10254/67cf3e82e7c92.png"
+        }
+      ]
+    },
+    "makr_559726": {
+      "title": "Treinador Genial de Artes Marciais",
+      "chapters": [
+        {
+          "id": "559726",
+          "title": "Treinador Genial de Artes Marciais",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl81NTk3MjYuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/714/688b5c263dc01.jpg"
         }
       ]
     }
