@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764725190,
-    "totalMangas": 1112,
+    "lastUpdated": 1764725199,
+    "totalMangas": 1113,
     "version": "1.0.5"
   },
   "mangas": {
@@ -13346,6 +13346,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzk3NDAuanNvbg/",
           "type": "manga",
           "cover_url": "https://images2.imgbox.com/9e/51/DsqKxNAY_o.jpg"
+        }
+      ]
+    },
+    "majp_685": {
+      "title": "Ore wa Seikan Kokka no Akutoku Ryoshu!",
+      "chapters": [
+        {
+          "id": "685",
+          "title": "Ore wa Seikan Kokka no Akutoku Ryoshu!",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzY4NS5qc29u/",
+          "type": "manga",
+          "cover_url": "https://images2.imgbox.com/e8/9d/Z0WKisKN_o.jpg"
         }
       ]
     }
