@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": 1764764527,
+    "lastUpdated": 1764764536,
     "totalMangas": 2624,
     "version": "1.0.6"
   },
@@ -31481,15 +31481,15 @@
         }
       ]
     },
-    "makr_3276": {
-      "title": "Battlefront of the Great Powers",
+    "mach_3671": {
+      "title": "Daytime Star",
       "chapters": [
         {
-          "id": "3276",
-          "title": "Battlefront of the Great Powers",
-          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8zMjc2Lmpzb24/",
-          "type": "manhwa",
-          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx174266-85TWEFCM8igW.jpg"
+          "id": "3671",
+          "title": "Daytime Star",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF8zNjcxLmpzb24/",
+          "type": "manhua",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx143003-a7qgBkkS56iI.jpg"
         }
       ]
     }
