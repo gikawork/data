@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": 1764723125,
+    "lastUpdated": 1764723139,
     "totalMangas": 1098,
     "version": "1.0.5"
   },
@@ -13166,6 +13166,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8zNjMxLmpzb24/",
           "type": "manhwa",
           "cover_url": "https://images2.imgbox.com/61/c1/s72lTRSC_o.jpg"
+        }
+      ]
+    },
+    "majp_1855": {
+      "title": "The Days of Diamond",
+      "chapters": [
+        {
+          "id": "1855",
+          "title": "The Days of Diamond",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzE4NTUuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx162084-ujVCJrPPIkPX.jpg"
         }
       ]
     }
