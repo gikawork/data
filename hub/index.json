@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": 1764729725,
+    "lastUpdated": 1764729740,
     "totalMangas": 1182,
     "version": "1.0.5"
   },
@@ -14174,6 +14174,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF8zNTkxMjMuanNvbg/",
           "type": "manhua",
           "cover_url": "https://images2.imgbox.com/da/13/f7k72bUe_o.png"
+        }
+      ]
+    },
+    "majp_38368": {
+      "title": "Saint Seiya: Destiny",
+      "chapters": [
+        {
+          "id": "38368",
+          "title": "Saint Seiya: Destiny",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzM4MzY4Lmpzb24/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx120914-JAZ2n0lCyoWq.jpg"
         }
       ]
     }
