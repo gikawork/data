@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764739558,
-    "totalMangas": 2202,
+    "lastUpdated": 1764739568,
+    "totalMangas": 2203,
     "version": "1.0.5"
   },
   "mangas": {
@@ -26426,6 +26426,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF81NTM0Lmpzb24/",
           "type": "manhua",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/8743/679485ae5813e.png"
+        }
+      ]
+    },
+    "makr_e615e7": {
+      "title": " Minha Filha é um Gênia Musical",
+      "chapters": [
+        {
+          "id": "e615e7",
+          "title": " Minha Filha é um Gênia Musical",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl9lNjE1ZTcuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/8885/6795961ad072f.png"
         }
       ]
     }
