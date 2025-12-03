@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764737326,
-    "totalMangas": 1961,
+    "lastUpdated": 1764737334,
+    "totalMangas": 1962,
     "version": "1.0.5"
   },
   "mangas": {
@@ -23534,6 +23534,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl9lYzdmMzYuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/10894/680ead917b340.jpg"
+        }
+      ]
+    },
+    "makr_1d8369": {
+      "title": "Queijo na Armadilha",
+      "chapters": [
+        {
+          "id": "1d8369",
+          "title": "Queijo na Armadilha",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8xZDgzNjkuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/10143/67cba26e6163c.png"
         }
       ]
     }
