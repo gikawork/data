@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764738175,
-    "totalMangas": 2050,
+    "lastUpdated": 1764738183,
+    "totalMangas": 2051,
     "version": "1.0.5"
   },
   "mangas": {
@@ -24602,6 +24602,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl80MmM4YWIuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/6100/67c1f1dedb190.png"
+        }
+      ]
+    },
+    "makr_cca502": {
+      "title": "Depois da Descida do Sobrenatural, Eu Desbloqueei a Torre Celeste",
+      "chapters": [
+        {
+          "id": "cca502",
+          "title": "Depois da Descida do Sobrenatural, Eu Desbloqueei a Torre Celeste",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl9jY2E1MDIuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/12883/68674d3059971.webp"
         }
       ]
     }
