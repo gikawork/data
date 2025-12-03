@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764735375,
-    "totalMangas": 1750,
+    "lastUpdated": 1764735384,
+    "totalMangas": 1751,
     "version": "1.0.5"
   },
   "mangas": {
@@ -21002,6 +21002,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl84Y2RiM2YuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/9146/6861e46ecb4ac.webp"
+        }
+      ]
+    },
+    "makr_e8e1d9": {
+      "title": "Avançando de Nível, Apenas Comendo!!",
+      "chapters": [
+        {
+          "id": "e8e1d9",
+          "title": "Avançando de Nível, Apenas Comendo!!",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl9lOGUxZDkuanNvbg/",
+          "type": "manhwa",
+          "cover_url": ""
         }
       ]
     }
