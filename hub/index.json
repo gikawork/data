@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764723580,
-    "totalMangas": 1100,
+    "lastUpdated": 1764723591,
+    "totalMangas": 1101,
     "version": "1.0.5"
   },
   "mangas": {
@@ -13202,6 +13202,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzIwMjkzNi5qc29u/",
           "type": "manga",
           "cover_url": "https://cdn.myanimelist.net/images/manga/3/329496.jpg"
+        }
+      ]
+    },
+    "majp_8107": {
+      "title": "The Maid I Hired Recently Is Mysterious",
+      "chapters": [
+        {
+          "id": "8107",
+          "title": "The Maid I Hired Recently Is Mysterious",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzgxMDcuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx114917-MLwVfspWGBYw.jpg"
         }
       ]
     }
