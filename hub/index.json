@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764733771,
-    "totalMangas": 1573,
+    "lastUpdated": 1764733780,
+    "totalMangas": 1574,
     "version": "1.0.5"
   },
   "mangas": {
@@ -18878,6 +18878,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl80NjU4OC5qc29u/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/13239/687c134c51e3e.webp"
+        }
+      ]
+    },
+    "makr_107": {
+      "title": "O Deus da Guerra está subindo de nível",
+      "chapters": [
+        {
+          "id": "107",
+          "title": "O Deus da Guerra está subindo de nível",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8xMDcuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/9772/67aaa2bebaf4d.png"
         }
       ]
     }
