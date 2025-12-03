@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": 1764725389,
+    "lastUpdated": 1764725404,
     "totalMangas": 1115,
     "version": "1.0.5"
   },
@@ -13370,6 +13370,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzE1MTkuanNvbg/",
           "type": "manga",
           "cover_url": "https://cdn.mangaupdates.com/image/i483792.jpg"
+        }
+      ]
+    },
+    "majp_1599": {
+      "title": "Isekai Koushoku Musou Roku ~Isekai Tensei no Chie to Chikara o, Tada Hitasura ✕✕✕✕ Suru Tame ni Tsukau~",
+      "chapters": [
+        {
+          "id": "1599",
+          "title": "Isekai Koushoku Musou Roku ~Isekai Tensei no Chie to Chikara o, Tada Hitasura ✕✕✕✕ Suru Tame ni Tsukau~",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzE1OTkuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://cdn.myanimelist.net/images/manga/1/281783.jpg"
         }
       ]
     }
