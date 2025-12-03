@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764730390,
-    "totalMangas": 1196,
+    "lastUpdated": 1764730400,
+    "totalMangas": 1197,
     "version": "1.0.5"
   },
   "mangas": {
@@ -14354,6 +14354,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF81Nzk4Ni5qc29u/",
           "type": "manhua",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/9237/67a009ee67f2c.png"
+        }
+      ]
+    },
+    "makr_998ba0": {
+      "title": "A Vida na Academia de Magia",
+      "chapters": [
+        {
+          "id": "998ba0",
+          "title": "A Vida na Academia de Magia",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl85OThiYTAuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/5586/wp-content/uploads/2024/10/f4f1699f-3eff-47dc-b566-9469c65e2c01.jpg.512.jpg"
         }
       ]
     }
