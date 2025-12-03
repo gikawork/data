@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764730585,
-    "totalMangas": 1218,
+    "lastUpdated": 1764730594,
+    "totalMangas": 1219,
     "version": "1.0.5"
   },
   "mangas": {
@@ -14618,6 +14618,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8xYzkxNWIuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/7795/wp-content/uploads/2024/12/d9907e01e9923ce3cdf3238591ff4af9c6f623a5_294_427_86532.jpeg"
+        }
+      ]
+    },
+    "majp_64a292": {
+      "title": "Um Boticário, Uma Elfa e a Promessa da Felicidade",
+      "chapters": [
+        {
+          "id": "64a292",
+          "title": "Um Boticário, Uma Elfa e a Promessa da Felicidade",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzY0YTI5Mi5qc29u/",
+          "type": "manga",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/11087/68222fca9b6b8.png"
         }
       ]
     }
