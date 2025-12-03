@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": 1764725230,
+    "lastUpdated": 1764725245,
     "totalMangas": 1112,
     "version": "1.0.5"
   },
@@ -13334,6 +13334,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzgzNC5qc29u/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx98147-x6NS5BYsp4tz.jpg"
+        }
+      ]
+    },
+    "majp_82323": {
+      "title": "Koko Jidai ni Gomandatta Jou sama to no Dousei Seikatsu wa Igaito Igokochi ga Warukunai",
+      "chapters": [
+        {
+          "id": "82323",
+          "title": "Koko Jidai ni Gomandatta Jou sama to no Dousei Seikatsu wa Igaito Igokochi ga Warukunai",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzgyMzIzLmpzb24/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx187656-NCqos7cMdxg4.jpg"
         }
       ]
     }
