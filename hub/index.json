@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": 1764729801,
+    "lastUpdated": 1764729816,
     "totalMangas": 1182,
     "version": "1.0.5"
   },
@@ -14174,6 +14174,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzE1MjMuanNvbg/",
           "type": "manga",
           "cover_url": "https://ap-proxy.mangabaka.dev/proxy.php?url=https://cdn.anime-planet.com/manga/primary/shut-hell-1.webp?t=1640557379"
+        }
+      ]
+    },
+    "majp_739": {
+      "title": "Akane-banashi",
+      "chapters": [
+        {
+          "id": "739",
+          "title": "Akane-banashi",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzczOS5qc29u/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx144866-ummLIg6x419I.jpg"
         }
       ]
     }
