@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": 1764724171,
+    "lastUpdated": 1764724186,
     "totalMangas": 1105,
     "version": "1.0.5"
   },
@@ -13250,6 +13250,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzIwNS5qc29u/",
           "type": "manga",
           "cover_url": "https://images2.imgbox.com/78/bc/NkwrfZ7H_o.jpg"
+        }
+      ]
+    },
+    "majp_2893": {
+      "title": "Warui Koto Shitai",
+      "chapters": [
+        {
+          "id": "2893",
+          "title": "Warui Koto Shitai",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzI4OTMuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://cdn.mangaupdates.com/image/i497999.jpg"
         }
       ]
     }
