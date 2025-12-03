@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764728739,
-    "totalMangas": 1158,
+    "lastUpdated": 1764728749,
+    "totalMangas": 1159,
     "version": "1.0.5"
   },
   "mangas": {
@@ -13898,6 +13898,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF8yNTQzLmpzb24/",
           "type": "manhua",
           "cover_url": "https://images2.imgbox.com/43/72/xvNKD8K6_o.jpg"
+        }
+      ]
+    },
+    "majp_1205": {
+      "title": "Yagami-kun's Family Affairs",
+      "chapters": [
+        {
+          "id": "1205",
+          "title": "Yagami-kun's Family Affairs",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzEyMDUuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://images2.imgbox.com/b3/2e/0WmyYFWy_o.png"
         }
       ]
     }
