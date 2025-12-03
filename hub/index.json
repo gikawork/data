@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764735843,
-    "totalMangas": 1801,
+    "lastUpdated": 1764735852,
+    "totalMangas": 1802,
     "version": "1.0.5"
   },
   "mangas": {
@@ -21614,6 +21614,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF9jNjE1NmMuanNvbg/",
           "type": "manhua",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/13171/68770f856f27b.webp"
+        }
+      ]
+    },
+    "makr_404": {
+      "title": "Norigam",
+      "chapters": [
+        {
+          "id": "404",
+          "title": "Norigam",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl80MDQuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx186506-iCvLzDgX5J87.jpg"
         }
       ]
     }
