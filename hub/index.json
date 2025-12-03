@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764737635,
-    "totalMangas": 1994,
+    "lastUpdated": 1764737644,
+    "totalMangas": 1995,
     "version": "1.0.5"
   },
   "mangas": {
@@ -23930,6 +23930,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl84YmJkOGEuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/8738/6794846c742aa.png"
+        }
+      ]
+    },
+    "mach_71235": {
+      "title": "Eu Sou o Boss Final!",
+      "chapters": [
+        {
+          "id": "71235",
+          "title": "Eu Sou o Boss Final!",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF83MTIzNS5qc29u/",
+          "type": "manhua",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/7638/wp-content/uploads/2024/12/last.jpg"
         }
       ]
     }
