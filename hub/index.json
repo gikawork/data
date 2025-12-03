@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764739521,
-    "totalMangas": 2198,
+    "lastUpdated": 1764739531,
+    "totalMangas": 2199,
     "version": "1.0.5"
   },
   "mangas": {
@@ -26378,6 +26378,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl80NTE0Lmpzb24/",
           "type": "manhwa",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx153788-XnalPn7U1FVA.jpg"
+        }
+      ]
+    },
+    "mach_d11612": {
+      "title": "O Retorno do Mestre da Alma",
+      "chapters": [
+        {
+          "id": "d11612",
+          "title": "O Retorno do Mestre da Alma",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF9kMTE2MTIuanNvbg/",
+          "type": "manhua",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/9145/6798da099cafc.png"
         }
       ]
     }
