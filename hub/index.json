@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764731165,
-    "totalMangas": 1284,
+    "lastUpdated": 1764731173,
+    "totalMangas": 1285,
     "version": "1.0.5"
   },
   "mangas": {
@@ -15410,6 +15410,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl80Y2M0MjkuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/378/67fc06daae95b.png"
+        }
+      ]
+    },
+    "mach_ca033c": {
+      "title": "Eu Não Queria Treinar Imperatrizes",
+      "chapters": [
+        {
+          "id": "ca033c",
+          "title": "Eu Não Queria Treinar Imperatrizes",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF9jYTAzM2MuanNvbg/",
+          "type": "manhua",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/9767/67aa35c901bff.jpg"
         }
       ]
     }
