@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764736426,
-    "totalMangas": 1865,
+    "lastUpdated": 1764736435,
+    "totalMangas": 1866,
     "version": "1.0.5"
   },
   "mangas": {
@@ -22382,6 +22382,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl81OGNiYmUuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/8932/6795b7e540786.png"
+        }
+      ]
+    },
+    "makr_354853": {
+      "title": "A Regressão do Terceiro Príncipe do Reino Caído",
+      "chapters": [
+        {
+          "id": "354853",
+          "title": "A Regressão do Terceiro Príncipe do Reino Caído",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8zNTQ4NTMuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/11415/6852cb8620eee.jpg"
         }
       ]
     }
