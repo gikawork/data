@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764723116,
-    "totalMangas": 1097,
+    "lastUpdated": 1764723125,
+    "totalMangas": 1098,
     "version": "1.0.5"
   },
   "mangas": {
@@ -13166,6 +13166,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzc3OS5qc29u/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx173062-PH1Lix703MdU.jpg"
+        }
+      ]
+    },
+    "makr_3631": {
+      "title": "Murime Tteoreojin Hyeondaein",
+      "chapters": [
+        {
+          "id": "3631",
+          "title": "Murime Tteoreojin Hyeondaein",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8zNjMxLmpzb24/",
+          "type": "manhwa",
+          "cover_url": "https://images2.imgbox.com/61/c1/s72lTRSC_o.jpg"
         }
       ]
     }
