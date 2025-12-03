@@ -1,0 +1,43 @@
+{
+  "title": "Mestre Espiritual",
+  "author": "Autor não encontrado",
+  "artist": "Artista não encontrado",
+  "description": "Esta é uma história de aventura sobre o próprio artista de quadrinhos. Um conhecido artista de quadrinhos, que frequentemente fica atrasado em sua agenda, começou seu próprio trabalho como personagem por causa de um misterioso telefonema. Ele é um personagem coadjuvante careca, chamado Ming. Como artista, como ele poderia estar disposto a ser um personagem coadjuvante!",
+  "cover": "https://cdn.verdinha.wtf/scans/1/obras/9763/67aa2f05a9512.jpg",
+  "status": "Em Andamento",
+  "chapters": {
+    "4": {
+      "title": "Capítulo 4",
+      "groups": {
+        "gikamura": [
+          "https://cdn.verdinha.wtf/scans/1/obras/9763/capitulos/4/01Resultado.jpg"
+        ]
+      }
+    },
+    "3": {
+      "title": "Capítulo 3",
+      "groups": {
+        "gikamura": [
+          "https://cdn.verdinha.wtf/scans/1/obras/9763/capitulos/3/01Resultado.jpg"
+        ]
+      }
+    },
+    "2": {
+      "title": "Capítulo 2",
+      "groups": {
+        "gikamura": [
+          "https://cdn.verdinha.wtf/scans/1/obras/9763/capitulos/2/01Resultado.jpg"
+        ]
+      }
+    },
+    "1": {
+      "title": "Capítulo 1",
+      "groups": {
+        "gikamura": [
+          "https://cdn.verdinha.wtf/scans/1/obras/9763/capitulos/1/01Resultado.jpg",
+          "https://cdn.verdinha.wtf/scans/1/obras/9763/capitulos/1/02Resultado.jpg"
+        ]
+      }
+    }
+  }
+}
