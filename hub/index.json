@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": 1764726903,
+    "lastUpdated": 1764726918,
     "totalMangas": 1134,
     "version": "1.0.5"
   },
@@ -13598,6 +13598,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl80MDA1Lmpzb24/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/10170/67cd05805fe72.png"
+        }
+      ]
+    },
+    "majp_3742": {
+      "title": "I Parry Everything: What Do You Mean I'm the Strongest? I'm Not Even an Adventurer Yet!",
+      "chapters": [
+        {
+          "id": "3742",
+          "title": "I Parry Everything: What Do You Mean I'm the Strongest? I'm Not Even an Adventurer Yet!",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzM3NDIuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx131041-I06OpqQxE95F.jpg"
         }
       ]
     }
