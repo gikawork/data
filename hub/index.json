@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764738140,
-    "totalMangas": 2046,
+    "lastUpdated": 1764738148,
+    "totalMangas": 2047,
     "version": "1.0.5"
   },
   "mangas": {
@@ -24554,6 +24554,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl85NDMuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/10471/67ddc08b303a0.webp"
+        }
+      ]
+    },
+    "mach_1517": {
+      "title": "O Rei da Neve",
+      "chapters": [
+        {
+          "id": "1517",
+          "title": "O Rei da Neve",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF8xNTE3Lmpzb24/",
+          "type": "manhua",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/330/686ddcae78cfe.webp"
         }
       ]
     }
