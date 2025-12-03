@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764733216,
-    "totalMangas": 1511,
+    "lastUpdated": 1764733225,
+    "totalMangas": 1512,
     "version": "1.0.5"
   },
   "mangas": {
@@ -18134,6 +18134,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl9lY2JlMzIuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/9099/6796ea17ba0c0.png"
+        }
+      ]
+    },
+    "mach_8726f2": {
+      "title": "O Alquimista Maligno Não Consegue Lidar com Seu Próprio Experimento",
+      "chapters": [
+        {
+          "id": "8726f2",
+          "title": "O Alquimista Maligno Não Consegue Lidar com Seu Próprio Experimento",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF84NzI2ZjIuanNvbg/",
+          "type": "manhua",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/11233/683a1bf63b2b0.png"
         }
       ]
     }
