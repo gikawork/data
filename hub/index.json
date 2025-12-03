@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764734945,
-    "totalMangas": 1702,
+    "lastUpdated": 1764734953,
+    "totalMangas": 1703,
     "version": "1.0.5"
   },
   "mangas": {
@@ -20426,6 +20426,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl82MmMyNGMuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/13665/68ae098f87547.png"
+        }
+      ]
+    },
+    "mach_55875": {
+      "title": "Com Um Domínio Da Espada, Posso Me Tornar o Santo Da Espada",
+      "chapters": [
+        {
+          "id": "55875",
+          "title": "Com Um Domínio Da Espada, Posso Me Tornar o Santo Da Espada",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF81NTg3NS5qc29u/",
+          "type": "manhua",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/10116/67c88f6b8075e.jpg"
         }
       ]
     }
