@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764735356,
-    "totalMangas": 1748,
+    "lastUpdated": 1764735366,
+    "totalMangas": 1749,
     "version": "1.0.5"
   },
   "mangas": {
@@ -20978,6 +20978,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl84MDEuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/2028/67a252ef5b5f9.png"
+        }
+      ]
+    },
+    "makr_1dac25": {
+      "title": "A Filha do Mau e a Senhorita Diabo",
+      "chapters": [
+        {
+          "id": "1dac25",
+          "title": "A Filha do Mau e a Senhorita Diabo",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8xZGFjMjUuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/10074/67c4f0e0ca26e.png"
         }
       ]
     }
