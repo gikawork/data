@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764740547,
-    "totalMangas": 2311,
+    "lastUpdated": 1764740556,
+    "totalMangas": 2312,
     "version": "1.0.5"
   },
   "mangas": {
@@ -27734,6 +27734,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl9kNmE4OGEuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/11265/683df50e2a101.jpg"
+        }
+      ]
+    },
+    "majp_1614": {
+      "title": "Espero que Você Esteja Feliz, Lemon",
+      "chapters": [
+        {
+          "id": "1614",
+          "title": "Espero que Você Esteja Feliz, Lemon",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzE2MTQuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/10927/680eb2bacc098.jpg"
         }
       ]
     }
