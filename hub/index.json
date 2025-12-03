@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764735728,
-    "totalMangas": 1789,
+    "lastUpdated": 1764735737,
+    "totalMangas": 1790,
     "version": "1.0.5"
   },
   "mangas": {
@@ -21470,6 +21470,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8zY2MwNDIuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/10835/680eaa5705bfc.jpg"
+        }
+      ]
+    },
+    "makr_56301": {
+      "title": "Oeste Selvagem: Murim",
+      "chapters": [
+        {
+          "id": "56301",
+          "title": "Oeste Selvagem: Murim",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl81NjMwMS5qc29u/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/10055/6836ebaa2370d.png"
         }
       ]
     }
