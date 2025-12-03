@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": 1764727457,
+    "lastUpdated": 1764727471,
     "totalMangas": 1136,
     "version": "1.0.5"
   },
@@ -13622,6 +13622,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzkyMC5qc29u/",
           "type": "manga",
           "cover_url": "https://cdn.mangaupdates.com/image/i490464.png"
+        }
+      ]
+    },
+    "majp_3647": {
+      "title": "Captain Tsubasa: Rising Sun",
+      "chapters": [
+        {
+          "id": "3647",
+          "title": "Captain Tsubasa: Rising Sun",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzM2NDcuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx90035-JOcsM9KaRDeZ.jpg"
         }
       ]
     }
