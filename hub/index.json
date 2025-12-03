@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764740609,
-    "totalMangas": 2318,
+    "lastUpdated": 1764740618,
+    "totalMangas": 2319,
     "version": "1.0.5"
   },
   "mangas": {
@@ -27818,6 +27818,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl80MDgwNS5qc29u/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/8982/6795ca05eb151.png"
+        }
+      ]
+    },
+    "mach_506179": {
+      "title": "Névoa do Fim do Verão",
+      "chapters": [
+        {
+          "id": "506179",
+          "title": "Névoa do Fim do Verão",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF81MDYxNzkuanNvbg/",
+          "type": "manhua",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/9220/679e57b2311e3.avif"
         }
       ]
     }
