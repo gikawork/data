@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764735015,
-    "totalMangas": 1710,
+    "lastUpdated": 1764735023,
+    "totalMangas": 1711,
     "version": "1.0.5"
   },
   "mangas": {
@@ -20522,6 +20522,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF9kYjM4NzQuanNvbg/",
           "type": "manhua",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/13801/68c47ea04001d.png"
+        }
+      ]
+    },
+    "mach_1669": {
+      "title": "Amor Escondido",
+      "chapters": [
+        {
+          "id": "1669",
+          "title": "Amor Escondido",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF8xNjY5Lmpzb24/",
+          "type": "manhua",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/9704/67a56b5dd0627.png"
         }
       ]
     }
