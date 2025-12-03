@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764739186,
-    "totalMangas": 2161,
+    "lastUpdated": 1764739195,
+    "totalMangas": 2162,
     "version": "1.0.5"
   },
   "mangas": {
@@ -25934,6 +25934,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF83NTUuanNvbg/",
           "type": "manhua",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b108152-QG8LtVNX5ox2.png"
+        }
+      ]
+    },
+    "makr_50ed7b": {
+      "title": "Carma Carmesim",
+      "chapters": [
+        {
+          "id": "50ed7b",
+          "title": "Carma Carmesim",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl81MGVkN2IuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/8271/wp-content/uploads/2024/12/dr.jpg"
         }
       ]
     }
