@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764738683,
-    "totalMangas": 2106,
+    "lastUpdated": 1764738692,
+    "totalMangas": 2107,
     "version": "1.0.5"
   },
   "mangas": {
@@ -25274,6 +25274,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl9jOTBlZGYuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/1665/6831245565679.png"
+        }
+      ]
+    },
+    "makr_a4c6d5": {
+      "title": "Me Tornei a Vilã Em Um Romance Anticlimático",
+      "chapters": [
+        {
+          "id": "a4c6d5",
+          "title": "Me Tornei a Vilã Em Um Romance Anticlimático",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl9hNGM2ZDUuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/9122/679733f822b97.png"
         }
       ]
     }
