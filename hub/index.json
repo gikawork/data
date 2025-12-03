@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764739277,
-    "totalMangas": 2171,
+    "lastUpdated": 1764739286,
+    "totalMangas": 2172,
     "version": "1.0.5"
   },
   "mangas": {
@@ -26054,6 +26054,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl85MDc4Lmpzb24/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/9927/67bbe9651c124.png"
+        }
+      ]
+    },
+    "mach_61170": {
+      "title": "Super Jogador",
+      "chapters": [
+        {
+          "id": "61170",
+          "title": "Super Jogador",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF82MTE3MC5qc29u/",
+          "type": "manhua",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/9783/67ab837b92a22.jpg"
         }
       ]
     }
