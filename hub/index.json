@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764730965,
-    "totalMangas": 1261,
+    "lastUpdated": 1764730973,
+    "totalMangas": 1262,
     "version": "1.0.5"
   },
   "mangas": {
@@ -15134,6 +15134,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl80ODJjZjYuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/5575/wp-content/uploads/2024/10/61887683-b969-4022-82f4-fe18468d7f2b.jpg.512.jpg"
+        }
+      ]
+    },
+    "makr_a75b2f": {
+      "title": "A Boneca do Quarto da Princesa",
+      "chapters": [
+        {
+          "id": "a75b2f",
+          "title": "A Boneca do Quarto da Princesa",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl9hNzViMmYuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/9210/679e428995667.avif"
         }
       ]
     }
