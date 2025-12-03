@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764735785,
-    "totalMangas": 1795,
+    "lastUpdated": 1764735796,
+    "totalMangas": 1796,
     "version": "1.0.5"
   },
   "mangas": {
@@ -21542,6 +21542,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzNmMWVkMC5qc29u/",
           "type": "manga",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/10126/67c8f15ee7025.jpg"
+        }
+      ]
+    },
+    "makr_200380": {
+      "title": "Grande Final",
+      "chapters": [
+        {
+          "id": "200380",
+          "title": "Grande Final",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8yMDAzODAuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/13299/687f84d22f809.png"
         }
       ]
     }
