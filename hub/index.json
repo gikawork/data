@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764737428,
-    "totalMangas": 1972,
+    "lastUpdated": 1764737437,
+    "totalMangas": 1973,
     "version": "1.0.5"
   },
   "mangas": {
@@ -23666,6 +23666,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8zNjYyMDUuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/13535/689f7d3d6c6e9.png"
+        }
+      ]
+    },
+    "makr_0f0b66": {
+      "title": "A Vilã Streamer",
+      "chapters": [
+        {
+          "id": "0f0b66",
+          "title": "A Vilã Streamer",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8wZjBiNjYuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/10670/67fdae04f3efe.png"
         }
       ]
     }
