@@ -1,0 +1,55 @@
+{
+  "title": "Sussurros Do Vento",
+  "author": "Autor não encontrado",
+  "artist": "Artista não encontrado",
+  "description": "Numa vila costeira do século XVII, a vida de uma simples coletora de ostras muda completamente ao cruzar seu destino com uma sereia misteriosa. Um encontro impossível. Um vento estranho. Um segredo que muda tudo.",
+  "cover": "https://cdn.verdinha.wtf/scans/1/obras/10737/680c3bcdd3291.png",
+  "status": "Em Andamento",
+  "chapters": {
+    "2": {
+      "title": "Capítulo 2",
+      "groups": {
+        "gikamura": [
+          "https://cdn.verdinha.wtf/scans/1/obras/10737/capitulos/3/01.png",
+          "https://cdn.verdinha.wtf/scans/1/obras/10737/capitulos/3/02.jpg",
+          "https://cdn.verdinha.wtf/scans/1/obras/10737/capitulos/3/03.jpg",
+          "https://cdn.verdinha.wtf/scans/1/obras/10737/capitulos/3/04.jpg",
+          "https://cdn.verdinha.wtf/scans/1/obras/10737/capitulos/3/05.jpg",
+          "https://cdn.verdinha.wtf/scans/1/obras/10737/capitulos/3/06.jpg",
+          "https://cdn.verdinha.wtf/scans/1/obras/10737/capitulos/3/07.png",
+          "https://cdn.verdinha.wtf/scans/1/obras/10737/capitulos/3/08.png"
+        ]
+      }
+    },
+    "1.5": {
+      "title": "Capítulo 1.5",
+      "groups": {
+        "gikamura": [
+          "https://cdn.verdinha.wtf/scans/1/obras/10737/capitulos/2/01.png",
+          "https://cdn.verdinha.wtf/scans/1/obras/10737/capitulos/2/02.jpg",
+          "https://cdn.verdinha.wtf/scans/1/obras/10737/capitulos/2/2.1.jpg",
+          "https://cdn.verdinha.wtf/scans/1/obras/10737/capitulos/2/03.jpg",
+          "https://cdn.verdinha.wtf/scans/1/obras/10737/capitulos/2/2..2.jpg",
+          "https://cdn.verdinha.wtf/scans/1/obras/10737/capitulos/2/04.jpg",
+          "https://cdn.verdinha.wtf/scans/1/obras/10737/capitulos/2/07.png",
+          "https://cdn.verdinha.wtf/scans/1/obras/10737/capitulos/2/08.png"
+        ]
+      }
+    },
+    "1": {
+      "title": "Capítulo 1",
+      "groups": {
+        "gikamura": [
+          "https://cdn.verdinha.wtf/scans/1/obras/10737/capitulos/1/01.jpg",
+          "https://cdn.verdinha.wtf/scans/1/obras/10737/capitulos/1/02.jpg",
+          "https://cdn.verdinha.wtf/scans/1/obras/10737/capitulos/1/03.jpg",
+          "https://cdn.verdinha.wtf/scans/1/obras/10737/capitulos/1/04.jpg",
+          "https://cdn.verdinha.wtf/scans/1/obras/10737/capitulos/1/05.jpg",
+          "https://cdn.verdinha.wtf/scans/1/obras/10737/capitulos/1/06.jpg",
+          "https://cdn.verdinha.wtf/scans/1/obras/10737/capitulos/1/07.jpg",
+          "https://cdn.verdinha.wtf/scans/1/obras/10737/capitulos/1/08.jpg"
+        ]
+      }
+    }
+  }
+}
