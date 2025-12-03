@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764735757,
-    "totalMangas": 1792,
+    "lastUpdated": 1764735767,
+    "totalMangas": 1793,
     "version": "1.0.5"
   },
   "mangas": {
@@ -21506,6 +21506,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8wNWRmNjguanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/8041/wp-content/uploads/2024/12/the-livea.png"
+        }
+      ]
+    },
+    "makr_898d89": {
+      "title": "Me Tornei a Esposa do Príncipe Monstruoso",
+      "chapters": [
+        {
+          "id": "898d89",
+          "title": "Me Tornei a Esposa do Príncipe Monstruoso",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl84OThkODkuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/10694/680329faeb5fa.png"
         }
       ]
     }
