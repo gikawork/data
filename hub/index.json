@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764740312,
-    "totalMangas": 2285,
+    "lastUpdated": 1764740321,
+    "totalMangas": 2286,
     "version": "1.0.5"
   },
   "mangas": {
@@ -27422,6 +27422,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8xNDg5Lmpzb24/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/2004/wp-content/uploads/2024/05/Arcane-Sniper.webp"
+        }
+      ]
+    },
+    "makr_8788": {
+      "title": "Rei Demônio",
+      "chapters": [
+        {
+          "id": "8788",
+          "title": "Rei Demônio",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl84Nzg4Lmpzb24/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/3637/wp-content/uploads/2024/07/½A¸®Ai_AE÷½oAI_½ae³×AI_690x1000CUnetauto_scaleLevel3width-2000.jpg"
         }
       ]
     }
