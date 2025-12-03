@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764739621,
-    "totalMangas": 2209,
+    "lastUpdated": 1764739630,
+    "totalMangas": 2210,
     "version": "1.0.5"
   },
   "mangas": {
@@ -26510,6 +26510,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl9jZDk2NjEuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/8841/67955f5a8b673.png"
+        }
+      ]
+    },
+    "makr_f661c9": {
+      "title": "Mago & Rainha Demônio",
+      "chapters": [
+        {
+          "id": "f661c9",
+          "title": "Mago & Rainha Demônio",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl9mNjYxYzkuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/8308/wp-content/uploads/2024/12/46141_600.jpg"
         }
       ]
     }
