@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764762275,
-    "totalMangas": 2616,
+    "lastUpdated": 1764762283,
+    "totalMangas": 2617,
     "version": "1.0.6"
   },
   "mangas": {
@@ -31394,6 +31394,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8xNDM2Lmpzb24/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/8140/67fc0784dbdb5.png"
+        }
+      ]
+    },
+    "makr_1582d3": {
+      "title": "Kariel, o Guerreiro",
+      "chapters": [
+        {
+          "id": "1582d3",
+          "title": "Kariel, o Guerreiro",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8xNTgyZDMuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/13487/689a61481f811.jpg"
         }
       ]
     }
