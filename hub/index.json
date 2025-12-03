@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": 1764726663,
+    "lastUpdated": 1764726678,
     "totalMangas": 1129,
     "version": "1.0.5"
   },
@@ -13538,6 +13538,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzE4ODYuanNvbg/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx179484-E3aY5qtqy8W4.jpg"
+        }
+      ]
+    },
+    "majp_31298": {
+      "title": "Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen Dai 3-bu - Ryouchi ni Hon wo Hirogeyou!",
+      "chapters": [
+        {
+          "id": "31298",
+          "title": "Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen Dai 3-bu - Ryouchi ni Hon wo Hirogeyou!",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzMxMjk4Lmpzb24/",
+          "type": "manga",
+          "cover_url": "https://cdn.myanimelist.net/images/manga/2/224003.jpg"
         }
       ]
     }
