@@ -1,7 +1,7 @@
 {
   "metadata": {
     "lastUpdated": 1764790291,
-    "totalMangas": 3266,
+    "totalMangas": 3246,
     "version": "1.0.9"
   },
   "mangas": {
@@ -50,18 +50,6 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvS1IxMDg2Lmpzb24%3D/",
           "type": "manhwa",
           "cover_url": "https://images2.imgbox.com/08/f2/JF3wzhno_o.jpg"
-        }
-      ]
-    },
-    "KR29": {
-      "title": "The Spark in Your Eyes",
-      "chapters": [
-        {
-          "id": 29,
-          "title": "The Spark in Your Eyes",
-          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvS1IyOS5qc29u/",
-          "type": "manhwa",
-          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx119701-40dFpU3TkwLt.jpg"
         }
       ]
     },
@@ -134,18 +122,6 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvS1IxMDgxLmpzb24%3D/",
           "type": "manhwa",
           "cover_url": "https://cdn.myanimelist.net/images/manga/2/321421.jpg"
-        }
-      ]
-    },
-    "JP41": {
-      "title": "67% Inertia",
-      "chapters": [
-        {
-          "id": 41,
-          "title": "67% Inertia",
-          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9KUDQxLmpzb24%3D/",
-          "type": "manga",
-          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx86647-jVZo1d32uoHq.jpg"
         }
       ]
     },
@@ -233,18 +209,6 @@
         }
       ]
     },
-    "JP384": {
-      "title": "Jakdu",
-      "chapters": [
-        {
-          "id": 384,
-          "title": "Jakdu",
-          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9KUDM4NC5qc29u/",
-          "type": "manga",
-          "cover_url": "https://images2.imgbox.com/80/3e/pZy4LSbt_o.jpg"
-        }
-      ]
-    },
     "KR334": {
       "title": "How to Survive as a Maid in a Horror Game",
       "chapters": [
@@ -329,66 +293,6 @@
         }
       ]
     },
-    "KR46": {
-      "title": "A Savage Proposal",
-      "chapters": [
-        {
-          "id": 46,
-          "title": "A Savage Proposal",
-          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvS1I0Ni5qc29u/",
-          "type": "manhwa",
-          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx189853-2x2bcFKdRxlV.jpg"
-        }
-      ]
-    },
-    "KR27": {
-      "title": "The Regressed Son of a Duke is an Assassin",
-      "chapters": [
-        {
-          "id": 27,
-          "title": "The Regressed Son of a Duke is an Assassin",
-          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvS1IyNy5qc29u/",
-          "type": "manhwa",
-          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx175262-shGEYbbfLHDD.jpg"
-        }
-      ]
-    },
-    "JP36": {
-      "title": "100-man no Inochi no Ue ni Ore wa Tatteiru",
-      "chapters": [
-        {
-          "id": 36,
-          "title": "100-man no Inochi no Ue ni Ore wa Tatteiru",
-          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9KUDM2Lmpzb24%3D/",
-          "type": "manga",
-          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/nx97371-JvypwgTjribn.jpg"
-        }
-      ]
-    },
-    "CH1095": {
-      "title": "Don't Tell Me You Think Cultivating Immortality Is Difficult?",
-      "chapters": [
-        {
-          "id": 1095,
-          "title": "Don't Tell Me You Think Cultivating Immortality Is Difficult?",
-          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvQ0gxMDk1Lmpzb24%3D/",
-          "type": "manhua",
-          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx199427-OgU0k8YgYqJT.png"
-        }
-      ]
-    },
-    "JP34": {
-      "title": "1-nen A-gumi no Monster",
-      "chapters": [
-        {
-          "id": 34,
-          "title": "1-nen A-gumi no Monster",
-          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9KUDM0Lmpzb24%3D/",
-          "type": "manga",
-          "cover_url": "https://cdn.myanimelist.net/images/manga/3/210493.jpg"
-        }
-      ]
-    },
     "KR766": {
       "title": "Shashin",
       "chapters": [
@@ -413,18 +317,6 @@
         }
       ]
     },
-    "CH1068": {
-      "title": "After Rebirth, I Use Mirror Reversal for Revenge",
-      "chapters": [
-        {
-          "id": 1068,
-          "title": "After Rebirth, I Use Mirror Reversal for Revenge",
-          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvQ0gxMDY4Lmpzb24%3D/",
-          "type": "manhua",
-          "cover_url": "https://files.catbox.moe/g0ys2x.jpg"
-        }
-      ]
-    },
     "KR566": {
       "title": "Mount Hua Sect's Genius Phantom Swordsman",
       "chapters": [
@@ -434,18 +326,6 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvS1I1NjYuanNvbg%3D%3D/",
           "type": "manhwa",
           "cover_url": "https://ap-proxy.mangabaka.dev/proxy.php?url=https://cdn.anime-planet.com/manga/primary/mount-hua-sects-genius-phantom-swordsman-novel-1.webp?t=1738435610"
-        }
-      ]
-    },
-    "KR12": {
-      "title": "The Eldest Son of the Marquis House is a Martial Artist",
-      "chapters": [
-        {
-          "id": 12,
-          "title": "The Eldest Son of the Marquis House is a Martial Artist",
-          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvS1IxMi5qc29u/",
-          "type": "manhwa",
-          "cover_url": "https://images2.imgbox.com/a3/01/b6pxyHeD_o.jpg"
         }
       ]
     },
@@ -557,18 +437,6 @@
         }
       ]
     },
-    "CH574": {
-      "title": "My Dragon System",
-      "chapters": [
-        {
-          "id": 574,
-          "title": "My Dragon System",
-          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvQ0g1NzQuanNvbg%3D%3D/",
-          "type": "manhua",
-          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b177775-ZWt4X1etsggo.jpg"
-        }
-      ]
-    },
     "KR648": {
       "title": "Overpowered Sword",
       "chapters": [
@@ -578,54 +446,6 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvS1I2NDguanNvbg%3D%3D/",
           "type": "manhwa",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx150508-xh4xwMVQB6Vf.jpg"
-        }
-      ]
-    },
-    "CH580": {
-      "title": "My Wife Is From a Thousand Years Ago",
-      "chapters": [
-        {
-          "id": 580,
-          "title": "My Wife Is From a Thousand Years Ago",
-          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvQ0g1ODAuanNvbg%3D%3D/",
-          "type": "manhua",
-          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx146267-m1Ijqd82Vyer.jpg"
-        }
-      ]
-    },
-    "JP13": {
-      "title": "00 Day of Summer Holiday",
-      "chapters": [
-        {
-          "id": 13,
-          "title": "00 Day of Summer Holiday",
-          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9KUDEzLmpzb24%3D/",
-          "type": "manga",
-          "cover_url": "https://images2.imgbox.com/b6/8c/dwaF1WIg_o.jpg"
-        }
-      ]
-    },
-    "CH575": {
-      "title": "My Fake Girlfriend's Defending Against Their Attacks",
-      "chapters": [
-        {
-          "id": 575,
-          "title": "My Fake Girlfriend's Defending Against Their Attacks",
-          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvQ0g1NzUuanNvbg%3D%3D/",
-          "type": "manhua",
-          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b140697-ffg5vBgZis9i.jpg"
-        }
-      ]
-    },
-    "CH861": {
-      "title": "The Divine Urban Physician",
-      "chapters": [
-        {
-          "id": 861,
-          "title": "The Divine Urban Physician",
-          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvQ0g4NjEuanNvbg%3D%3D/",
-          "type": "manhua",
-          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx173053-J7fWwhhtOD9H.png"
         }
       ]
     },
@@ -641,42 +461,6 @@
         }
       ]
     },
-    "CH815": {
-      "title": "Strange Love Rivals Increased!",
-      "chapters": [
-        {
-          "id": 815,
-          "title": "Strange Love Rivals Increased!",
-          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvQ0g4MTUuanNvbg%3D%3D/",
-          "type": "manhua",
-          "cover_url": "https://images2.imgbox.com/96/14/AgzrSmEH_o.jpg"
-        }
-      ]
-    },
-    "CH350": {
-      "title": "I’m A Super Rich Man, So It’s Reasonable For Me To Be A Scumbag",
-      "chapters": [
-        {
-          "id": 350,
-          "title": "I’m A Super Rich Man, So It’s Reasonable For Me To Be A Scumbag",
-          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvQ0gzNTAuanNvbg%3D%3D/",
-          "type": "manhua",
-          "cover_url": "https://files.catbox.moe/ui4z3y.png"
-        }
-      ]
-    },
-    "KR23": {
-      "title": "Day Walker",
-      "chapters": [
-        {
-          "id": 23,
-          "title": "Day Walker",
-          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvS1IyMy5qc29u/",
-          "type": "manhwa",
-          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx184081-cKP3iHkhcLvz.jpg"
-        }
-      ]
-    },
     "KR480": {
       "title": "Kowloon Soroka",
       "chapters": [
@@ -689,18 +473,6 @@
         }
       ]
     },
-    "KR31": {
-      "title": "Webtoon Character Na Kang Lim",
-      "chapters": [
-        {
-          "id": 31,
-          "title": "Webtoon Character Na Kang Lim",
-          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvS1IzMS5qc29u/",
-          "type": "manhwa",
-          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx138705-zRSNhzP4U8zx.jpg"
-        }
-      ]
-    },
     "KR899": {
       "title": "The Necromancer Family's Young Heir",
       "chapters": [
@@ -710,18 +482,6 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvS1I4OTkuanNvbg%3D%3D/",
           "type": "manhwa",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b187242-TMSEqFmONpZd.jpg"
-        }
-      ]
-    },
-    "CH1065": {
-      "title": "A Modern Man Who Transmigrated Into the Murim World",
-      "chapters": [
-        {
-          "id": 1065,
-          "title": "A Modern Man Who Transmigrated Into the Murim World",
-          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvQ0gxMDY1Lmpzb24%3D/",
-          "type": "manhua",
-          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx159445-5odVu9QZ3crQ.jpg"
         }
       ]
     },
