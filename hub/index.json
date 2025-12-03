@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764738050,
-    "totalMangas": 2036,
+    "lastUpdated": 1764738059,
+    "totalMangas": 2037,
     "version": "1.0.5"
   },
   "mangas": {
@@ -24434,6 +24434,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF8xMzcyLmpzb24/",
           "type": "manhua",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/10121/67c8bf004ed69.jpg"
+        }
+      ]
+    },
+    "makr_e3f253": {
+      "title": "Fera em Chamas",
+      "chapters": [
+        {
+          "id": "e3f253",
+          "title": "Fera em Chamas",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl9lM2YyNTMuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/7315/wp-content/uploads/2024/12/fuego.jpg"
         }
       ]
     }
