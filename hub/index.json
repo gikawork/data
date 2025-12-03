@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": 1764729387,
+    "lastUpdated": 1764729402,
     "totalMangas": 1174,
     "version": "1.0.5"
   },
@@ -14078,6 +14078,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl84MDMuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://images2.imgbox.com/6c/08/nLim5hYM_o.jpg"
+        }
+      ]
+    },
+    "majp_521": {
+      "title": "Destiny Unchain Online",
+      "chapters": [
+        {
+          "id": "521",
+          "title": "Destiny Unchain Online",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzUyMS5qc29u/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx153825-R7HRsUdJQL7h.jpg"
         }
       ]
     }
