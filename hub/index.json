@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764728674,
-    "totalMangas": 1156,
+    "lastUpdated": 1764728683,
+    "totalMangas": 1157,
     "version": "1.0.5"
   },
   "mangas": {
@@ -13874,6 +13874,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8zNzY5Mi5qc29u/",
           "type": "manhwa",
           "cover_url": "https://images2.imgbox.com/70/7f/lMBjc89l_o.png"
+        }
+      ]
+    },
+    "majp_1929": {
+      "title": "A Casca da Reencarnação",
+      "chapters": [
+        {
+          "id": "1929",
+          "title": "A Casca da Reencarnação",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzE5MjkuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/10921/680eb134f2c93.jpg"
         }
       ]
     }
