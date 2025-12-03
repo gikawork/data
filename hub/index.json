@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764762879,
-    "totalMangas": 2618,
+    "lastUpdated": 1764762890,
+    "totalMangas": 2619,
     "version": "1.0.6"
   },
   "mangas": {
@@ -31418,6 +31418,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl81NDczNi5qc29u/",
           "type": "manhwa",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx152437-fMOBUQwdG4tV.png"
+        }
+      ]
+    },
+    "makr_d27cba": {
+      "title": "Tio da Loja de Armas",
+      "chapters": [
+        {
+          "id": "d27cba",
+          "title": "Tio da Loja de Armas",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl9kMjdjYmEuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/7318/wp-content/uploads/2024/12/tar.jpg"
         }
       ]
     }
