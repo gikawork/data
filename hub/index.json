@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": 1764727807,
+    "lastUpdated": 1764727822,
     "totalMangas": 1142,
     "version": "1.0.5"
   },
@@ -13694,6 +13694,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8xNTguanNvbg/",
           "type": "manhwa",
           "cover_url": "https://images2.imgbox.com/48/cc/zcsh0sbd_o.jpg"
+        }
+      ]
+    },
+    "majp_59391": {
+      "title": "Eden of Witches",
+      "chapters": [
+        {
+          "id": "59391",
+          "title": "Eden of Witches",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzU5MzkxLmpzb24/",
+          "type": "manga",
+          "cover_url": "https://cdn.mangaupdates.com/image/i496291.jpg"
         }
       ]
     }
