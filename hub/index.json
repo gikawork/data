@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": 1764729648,
+    "lastUpdated": 1764729662,
     "totalMangas": 1180,
     "version": "1.0.5"
   },
@@ -14150,6 +14150,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzgwLmpzb24/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx143659-YWVdANkDZMd4.jpg"
+        }
+      ]
+    },
+    "majp_5209": {
+      "title": "Tiji-kun!",
+      "chapters": [
+        {
+          "id": "5209",
+          "title": "Tiji-kun!",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzUyMDkuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/16604.jpg"
         }
       ]
     }
