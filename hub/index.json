@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": 1764724855,
+    "lastUpdated": 1764724871,
     "totalMangas": 1109,
     "version": "1.0.5"
   },
@@ -13298,6 +13298,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzMwNjcuanNvbg/",
           "type": "manga",
           "cover_url": "https://cdn.mangaupdates.com/image/i392556.jpg"
+        }
+      ]
+    },
+    "makr_5307": {
+      "title": "The Extra’s Academy Survival Guide",
+      "chapters": [
+        {
+          "id": "5307",
+          "title": "The Extra’s Academy Survival Guide",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl81MzA3Lmpzb24/",
+          "type": "manhwa",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx172619-l0nj7adMLAfc.png"
         }
       ]
     }
