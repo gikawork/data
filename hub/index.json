@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764735825,
-    "totalMangas": 1799,
+    "lastUpdated": 1764735834,
+    "totalMangas": 1800,
     "version": "1.0.5"
   },
   "mangas": {
@@ -21590,6 +21590,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl81NjUyNC5qc29u/",
           "type": "manhwa",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx156488-BcMSyPSQFM9b.jpg"
+        }
+      ]
+    },
+    "mach_6d277a": {
+      "title": "Invencível Desde O Começo",
+      "chapters": [
+        {
+          "id": "6d277a",
+          "title": "Invencível Desde O Começo",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF82ZDI3N2EuanNvbg/",
+          "type": "manhua",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/8663/6861cd8bbee89.jpg"
         }
       ]
     }
