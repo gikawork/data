@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": 1764729771,
+    "lastUpdated": 1764729786,
     "totalMangas": 1182,
     "version": "1.0.5"
   },
@@ -14174,6 +14174,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzI0MTU2Lmpzb24/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/43427.jpg"
+        }
+      ]
+    },
+    "mach_1228": {
+      "title": "Temple of Dragon King",
+      "chapters": [
+        {
+          "id": "1228",
+          "title": "Temple of Dragon King",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF8xMjI4Lmpzb24/",
+          "type": "manhua",
+          "cover_url": "https://cdn.mangaupdates.com/image/i431841.jpg"
         }
       ]
     }
