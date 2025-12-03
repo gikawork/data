@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": 1764727146,
+    "lastUpdated": 1764727161,
     "totalMangas": 1135,
     "version": "1.0.5"
   },
@@ -13610,6 +13610,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzU1NzAuanNvbg/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx71629-b1McvLSvE9X9.jpg"
+        }
+      ]
+    },
+    "majp_85": {
+      "title": "Tokyo Aliens",
+      "chapters": [
+        {
+          "id": "85",
+          "title": "Tokyo Aliens",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzg1Lmpzb24/",
+          "type": "manga",
+          "cover_url": "https://cdn.myanimelist.net/images/manga/3/234828.jpg"
         }
       ]
     }
