@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": 1764724959,
+    "lastUpdated": 1764724974,
     "totalMangas": 1110,
     "version": "1.0.5"
   },
@@ -13310,6 +13310,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzM4MTAuanNvbg/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx31790-c8P4JPxIxN91.png"
+        }
+      ]
+    },
+    "majp_4770": {
+      "title": "Split Lover",
+      "chapters": [
+        {
+          "id": "4770",
+          "title": "Split Lover",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzQ3NzAuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx121863-HNmolmPZnsea.png"
         }
       ]
     }
