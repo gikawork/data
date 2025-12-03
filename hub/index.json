@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764733636,
-    "totalMangas": 1558,
+    "lastUpdated": 1764733645,
+    "totalMangas": 1559,
     "version": "1.0.5"
   },
   "mangas": {
@@ -18698,6 +18698,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF8zMjc5MC5qc29u/",
           "type": "manhua",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx122177-XcCTxsJYDQqk.png"
+        }
+      ]
+    },
+    "makr_6715": {
+      "title": "Lorde do Gelo",
+      "chapters": [
+        {
+          "id": "6715",
+          "title": "Lorde do Gelo",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl82NzE1Lmpzb24/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/3401/wp-content/uploads/2024/06/Ice_Lord_COVER_ORBITAL.png"
         }
       ]
     }
