@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764738796,
-    "totalMangas": 2118,
+    "lastUpdated": 1764738805,
+    "totalMangas": 2119,
     "version": "1.0.5"
   },
   "mangas": {
@@ -25418,6 +25418,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl83NzQxNy5qc29u/",
           "type": "manhwa",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx135998-3FhCsiEEXQ4Z.jpg"
+        }
+      ]
+    },
+    "makr_a595b9": {
+      "title": "O Senpai Atrás de Mim",
+      "chapters": [
+        {
+          "id": "a595b9",
+          "title": "O Senpai Atrás de Mim",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl9hNTk1YjkuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/10802/680ea8acb8633.jpg"
         }
       ]
     }
