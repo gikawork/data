@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": 1764725035,
+    "lastUpdated": 1764725050,
     "totalMangas": 1110,
     "version": "1.0.5"
   },
@@ -13310,6 +13310,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzQyLmpzb24/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx88867-0c5FpUlvsJy2.png"
+        }
+      ]
+    },
+    "makr_2684": {
+      "title": "The Genius Wants an Ordinary Life",
+      "chapters": [
+        {
+          "id": "2684",
+          "title": "The Genius Wants an Ordinary Life",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8yNjg0Lmpzb24/",
+          "type": "manhwa",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx189679-I5iZIfL3IpaO.jpg"
         }
       ]
     }
