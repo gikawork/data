@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764738341,
-    "totalMangas": 2068,
+    "lastUpdated": 1764738350,
+    "totalMangas": 2069,
     "version": "1.0.5"
   },
   "mangas": {
@@ -24818,6 +24818,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl9mNzBiZWUuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/10181/67cdcb499adf6.png"
+        }
+      ]
+    },
+    "makr_1486": {
+      "title": "The Perks of Being a Villainess",
+      "chapters": [
+        {
+          "id": "1486",
+          "title": "The Perks of Being a Villainess",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8xNDg2Lmpzb24/",
+          "type": "manhwa",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx158706-rGGTXRjqJQgu.jpg"
         }
       ]
     }
