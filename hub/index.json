@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764729002,
-    "totalMangas": 1164,
+    "lastUpdated": 1764729011,
+    "totalMangas": 1165,
     "version": "1.0.5"
   },
   "mangas": {
@@ -13970,6 +13970,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzI4MDkuanNvbg/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx107789-GZwF2Ua1HqHy.png"
+        }
+      ]
+    },
+    "majp_2072": {
+      "title": "Yuusha ni Zenbu Ubawareta Ore wa Yuusha no Hahaoya to Party o Kumimashita!",
+      "chapters": [
+        {
+          "id": "2072",
+          "title": "Yuusha ni Zenbu Ubawareta Ore wa Yuusha no Hahaoya to Party o Kumimashita!",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzIwNzIuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://cdn.mangaupdates.com/image/i483780.jpg"
         }
       ]
     }
