@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": 1764728615,
+    "lastUpdated": 1764728629,
     "totalMangas": 1156,
     "version": "1.0.5"
   },
@@ -13862,6 +13862,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzc1NTc0Lmpzb24/",
           "type": "manga",
           "cover_url": "https://images2.imgbox.com/6b/9e/EaIQig0k_o.jpg"
+        }
+      ]
+    },
+    "majp_4237": {
+      "title": "Splatoon",
+      "chapters": [
+        {
+          "id": "4237",
+          "title": "Splatoon",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzQyMzcuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx95170-m9D2SrdGZfjq.png"
         }
       ]
     }
