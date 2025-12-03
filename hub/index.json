@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764734673,
-    "totalMangas": 1674,
+    "lastUpdated": 1764734683,
+    "totalMangas": 1675,
     "version": "1.0.5"
   },
   "mangas": {
@@ -20090,6 +20090,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl80MTIxLmpzb24/",
           "type": "manhwa",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b154258-UirlUQqaOwVR.jpg"
+        }
+      ]
+    },
+    "makr_0f79f6": {
+      "title": "Lendas do Deus Demônio Reencarnado",
+      "chapters": [
+        {
+          "id": "0f79f6",
+          "title": "Lendas do Deus Demônio Reencarnado",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8wZjc5ZjYuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/7346/6861e8e6bf476.webp"
         }
       ]
     }
