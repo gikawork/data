@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764763182,
-    "totalMangas": 2619,
+    "lastUpdated": 1764763190,
+    "totalMangas": 2620,
     "version": "1.0.6"
   },
   "mangas": {
@@ -31430,6 +31430,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8xNDljMTQuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/8761/679489e966544.png"
+        }
+      ]
+    },
+    "majp_913": {
+      "title": "A Rainha Demônio não Pode Derrotar Yuusha-kun",
+      "chapters": [
+        {
+          "id": "913",
+          "title": "A Rainha Demônio não Pode Derrotar Yuusha-kun",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzkxMy5qc29u/",
+          "type": "manga",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/985/wp-content/uploads/2024/05/A-Rainha-Demonio-nao-pode-derrotar-Yuusha-kun.webp"
         }
       ]
     }
