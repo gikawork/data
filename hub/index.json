@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764730531,
-    "totalMangas": 1212,
+    "lastUpdated": 1764730540,
+    "totalMangas": 1213,
     "version": "1.0.5"
   },
   "mangas": {
@@ -14546,6 +14546,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl9mYzU1MzcuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/7271/wp-content/uploads/2024/12/masqqqq.jpg"
+        }
+      ]
+    },
+    "makr_81700": {
+      "title": "Morando em um quarto individual com uma Santa",
+      "chapters": [
+        {
+          "id": "81700",
+          "title": "Morando em um quarto individual com uma Santa",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl84MTcwMC5qc29u/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/11000/6817d268cc53c.webp"
         }
       ]
     }
