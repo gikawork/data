@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764739077,
-    "totalMangas": 2149,
+    "lastUpdated": 1764739085,
+    "totalMangas": 2150,
     "version": "1.0.5"
   },
   "mangas": {
@@ -25790,6 +25790,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzc4NC5qc29u/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx151278-fjkFzaIvACjM.jpg"
+        }
+      ]
+    },
+    "makr_e74fe7": {
+      "title": "Comprarei O Poder Divino Com Dinheiro",
+      "chapters": [
+        {
+          "id": "e74fe7",
+          "title": "Comprarei O Poder Divino Com Dinheiro",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl9lNzRmZTcuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/11257/683db9a9f0a7c.png"
         }
       ]
     }
