@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": 1764728987,
+    "lastUpdated": 1764729002,
     "totalMangas": 1164,
     "version": "1.0.5"
   },
@@ -13958,6 +13958,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzE3MzkuanNvbg/",
           "type": "manga",
           "cover_url": "https://cdn.myanimelist.net/images/manga/3/287818.jpg"
+        }
+      ]
+    },
+    "majp_2809": {
+      "title": "Sweet & Tart Boyfriend",
+      "chapters": [
+        {
+          "id": "2809",
+          "title": "Sweet & Tart Boyfriend",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzI4MDkuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx107789-GZwF2Ua1HqHy.png"
         }
       ]
     }
