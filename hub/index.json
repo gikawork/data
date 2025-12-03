@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": 1764727377,
+    "lastUpdated": 1764727392,
     "totalMangas": 1135,
     "version": "1.0.5"
   },
@@ -13610,6 +13610,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzEyNTMuanNvbg/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx85475-qOw2DyE0VBuJ.png"
+        }
+      ]
+    },
+    "majp_4908": {
+      "title": "Uso Kareshi Demo Ii Kara Tonikaku Shitai Mashiro-chan",
+      "chapters": [
+        {
+          "id": "4908",
+          "title": "Uso Kareshi Demo Ii Kara Tonikaku Shitai Mashiro-chan",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzQ5MDguanNvbg/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx183838-NG3zph5LRWGN.jpg"
         }
       ]
     }
