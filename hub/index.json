@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": 1764724826,
+    "lastUpdated": 1764724840,
     "totalMangas": 1109,
     "version": "1.0.5"
   },
@@ -13298,6 +13298,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzQyMTYuanNvbg/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx114834-9roqttbL5Pa7.jpg"
+        }
+      ]
+    },
+    "makr_3613": {
+      "title": "Absolute Necromancer",
+      "chapters": [
+        {
+          "id": "3613",
+          "title": "Absolute Necromancer",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8zNjEzLmpzb24/",
+          "type": "manhwa",
+          "cover_url": "https://images2.imgbox.com/a1/9f/IzAnCLwk_o.jpg"
         }
       ]
     }
