@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764734485,
-    "totalMangas": 1653,
+    "lastUpdated": 1764734494,
+    "totalMangas": 1654,
     "version": "1.0.5"
   },
   "mangas": {
@@ -19838,6 +19838,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF8yMDIyNTcuanNvbg/",
           "type": "manhua",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/11025/68657ebf6670f.webp"
+        }
+      ]
+    },
+    "makr_06f40d": {
+      "title": "O Mais Jovem Chef do Hotel de 3°Categoria",
+      "chapters": [
+        {
+          "id": "06f40d",
+          "title": "O Mais Jovem Chef do Hotel de 3°Categoria",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8wNmY0MGQuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/11459/6855a09621b82.png"
         }
       ]
     }
