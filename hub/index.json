@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764735566,
-    "totalMangas": 1771,
+    "lastUpdated": 1764735576,
+    "totalMangas": 1772,
     "version": "1.0.5"
   },
   "mangas": {
@@ -21254,6 +21254,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl84MzM5Lmpzb24/",
           "type": "manhwa",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx132165-vbmIhwI4JjeZ.jpg"
+        }
+      ]
+    },
+    "makr_c17512": {
+      "title": "A Flor da França",
+      "chapters": [
+        {
+          "id": "c17512",
+          "title": "A Flor da França",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl9jMTc1MTIuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/10307/67d0fdc23329e.png"
         }
       ]
     }
