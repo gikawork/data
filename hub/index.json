@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764731192,
-    "totalMangas": 1287,
+    "lastUpdated": 1764731200,
+    "totalMangas": 1288,
     "version": "1.0.5"
   },
   "mangas": {
@@ -15446,6 +15446,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl83MDMzLmpzb24/",
           "type": "manhwa",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx154152-0jMQP9ibnOau.png"
+        }
+      ]
+    },
+    "mach_6301": {
+      "title": "Estocando dez mil toneladas de carne suína durante o Apocalipse",
+      "chapters": [
+        {
+          "id": "6301",
+          "title": "Estocando dez mil toneladas de carne suína durante o Apocalipse",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF82MzAxLmpzb24/",
+          "type": "manhua",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/5458/wp-content/uploads/2024/10/caraio.jpg"
         }
       ]
     }
