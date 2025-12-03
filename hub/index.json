@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764761363,
-    "totalMangas": 2613,
+    "lastUpdated": 1764761372,
+    "totalMangas": 2614,
     "version": "1.0.6"
   },
   "mangas": {
@@ -31358,6 +31358,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl9kOGQ5MjQuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/9806/67ac1b5ee13ff.png"
+        }
+      ]
+    },
+    "majp_30640": {
+      "title": "Encontro ao Acaso: Rika e Natsuko",
+      "chapters": [
+        {
+          "id": "30640",
+          "title": "Encontro ao Acaso: Rika e Natsuko",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzMwNjQwLmpzb24/",
+          "type": "manga",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/13907/68d8741730d2d.webp"
         }
       ]
     }
