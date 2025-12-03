@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": 1764729632,
+    "lastUpdated": 1764729648,
     "totalMangas": 1180,
     "version": "1.0.5"
   },
@@ -14150,6 +14150,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzE5MzMuanNvbg/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx126338-1MYCrsRP3DyK.jpg"
+        }
+      ]
+    },
+    "majp_80": {
+      "title": "Ryuu to Ayumu Nariagari Boukensha-dou: Youzumi toshite S-Rank Party kara Tsuihou sareta Kaifuku Majutsushi, Suterareta Saki de Saikyou no Shinryuu wo Fukkatsu sasete Shimau",
+      "chapters": [
+        {
+          "id": "80",
+          "title": "Ryuu to Ayumu Nariagari Boukensha-dou: Youzumi toshite S-Rank Party kara Tsuihou sareta Kaifuku Majutsushi, Suterareta Saki de Saikyou no Shinryuu wo Fukkatsu sasete Shimau",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzgwLmpzb24/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx143659-YWVdANkDZMd4.jpg"
         }
       ]
     }
