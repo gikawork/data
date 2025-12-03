@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": 1764727613,
+    "lastUpdated": 1764727628,
     "totalMangas": 1137,
     "version": "1.0.5"
   },
@@ -13634,6 +13634,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzQ0NzQuanNvbg/",
           "type": "manga",
           "cover_url": "https://cdn.mangaupdates.com/image/i472740.png"
+        }
+      ]
+    },
+    "makr_1451": {
+      "title": "SSS-Class Suicide Hunter",
+      "chapters": [
+        {
+          "id": "1451",
+          "title": "SSS-Class Suicide Hunter",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8xNDUxLmpzb24/",
+          "type": "manhwa",
+          "cover_url": "https://ap-proxy.mangabaka.dev/proxy.php?url=https://cdn.anime-planet.com/manga/primary/sss-class-suicide-hunter-novel-1.jpg?t=1625927368"
         }
       ]
     }
