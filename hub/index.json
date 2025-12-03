@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764734556,
-    "totalMangas": 1661,
+    "lastUpdated": 1764734564,
+    "totalMangas": 1662,
     "version": "1.0.5"
   },
   "mangas": {
@@ -19934,6 +19934,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF8yMDA0NDAuanNvbg/",
           "type": "manhua",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/12843/6860169d5894b.png"
+        }
+      ]
+    },
+    "makr_c24d2d": {
+      "title": "O Novato é Muito Forte",
+      "chapters": [
+        {
+          "id": "c24d2d",
+          "title": "O Novato é Muito Forte",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl9jMjRkMmQuanNvbg/",
+          "type": "manhwa",
+          "cover_url": ""
         }
       ]
     }
