@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": 1764726864,
+    "lastUpdated": 1764726878,
     "totalMangas": 1133,
     "version": "1.0.5"
   },
@@ -13586,6 +13586,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21vdC9tYW90XzI3MzU4Lmpzb24/",
           "type": "outro",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx152521-x42S40guHrta.jpg"
+        }
+      ]
+    },
+    "majp_3002": {
+      "title": "Katabutsu-kei Joshi ni Kokuhaku shitemita",
+      "chapters": [
+        {
+          "id": "3002",
+          "title": "Katabutsu-kei Joshi ni Kokuhaku shitemita",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzMwMDIuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://cdn.mangaupdates.com/image/i475780.jpg"
         }
       ]
     }
