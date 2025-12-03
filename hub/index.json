@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": 1764727901,
+    "lastUpdated": 1764727915,
     "totalMangas": 1143,
     "version": "1.0.5"
   },
@@ -13706,6 +13706,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzE2OTIuanNvbg/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx30002-Cul4OeN7bYtn.jpg"
+        }
+      ]
+    },
+    "majp_2249": {
+      "title": "Kimi ga Bokura wo Akuma to Yonda Koro",
+      "chapters": [
+        {
+          "id": "2249",
+          "title": "Kimi ga Bokura wo Akuma to Yonda Koro",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzIyNDkuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx109147-yg8HH488cK69.jpg"
         }
       ]
     }
