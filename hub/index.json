@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": 1764725705,
+    "lastUpdated": 1764725720,
     "totalMangas": 1120,
     "version": "1.0.5"
   },
@@ -13430,6 +13430,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzI3NTcuanNvbg/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/nx103111-SO6QbkbL6IH7.jpg"
+        }
+      ]
+    },
+    "majp_47171": {
+      "title": "Kin no Ito",
+      "chapters": [
+        {
+          "id": "47171",
+          "title": "Kin no Ito",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzQ3MTcxLmpzb24/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx129788-i7Wioxjnh6pR.jpg"
         }
       ]
     }
