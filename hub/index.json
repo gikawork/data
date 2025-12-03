@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764725951,
-    "totalMangas": 1127,
+    "lastUpdated": 1764725967,
+    "totalMangas": 1126,
     "version": "1.0.5"
   },
   "mangas": {
@@ -554,18 +554,6 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9KUDM1NS5qc29u/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx49315-2AqZShRMXyfx.png"
-        }
-      ]
-    },
-    "JP717": {
-      "title": "RuriDragon",
-      "chapters": [
-        {
-          "id": 717,
-          "title": "RuriDragon",
-          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9KUDcxNy5qc29u/",
-          "type": "manga",
-          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx150440-QdBFoMh4YHsK.jpg"
         }
       ]
     },
@@ -13514,6 +13502,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzk5Ni5qc29u/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx53627-fHXEQ3eT0zPN.png"
+        }
+      ]
+    },
+    "majp_717": {
+      "title": "Shingeki no Eroko-san: Hen na Oneesan wa Danshikousei to Nakayoku Naritai",
+      "chapters": [
+        {
+          "id": "717",
+          "title": "Shingeki no Eroko-san: Hen na Oneesan wa Danshikousei to Nakayoku Naritai",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzcxNy5qc29u/",
+          "type": "manga",
+          "cover_url": "https://cdn.mangaupdates.com/image/i477134.jpg"
         }
       ]
     }
