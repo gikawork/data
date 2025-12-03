@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764731621,
-    "totalMangas": 1332,
+    "lastUpdated": 1764731629,
+    "totalMangas": 1333,
     "version": "1.0.5"
   },
   "mangas": {
@@ -15986,6 +15986,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl80OTQ5OC5qc29u/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/9227/679fb4268f2fa.png"
+        }
+      ]
+    },
+    "maoel_6756": {
+      "title": "Juramento",
+      "chapters": [
+        {
+          "id": "6756",
+          "title": "Juramento",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21vZWwvbWFvZWxfNjc1Ni5qc29u/",
+          "type": "oel",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/9993/67c1f30392e75.png"
         }
       ]
     }
