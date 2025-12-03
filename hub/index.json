@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764736686,
-    "totalMangas": 1893,
+    "lastUpdated": 1764736695,
+    "totalMangas": 1894,
     "version": "1.0.5"
   },
   "mangas": {
@@ -22718,6 +22718,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl9jY2IwY2QuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/9180/679adcc11eaac.png"
+        }
+      ]
+    },
+    "makr_9aff84": {
+      "title": "Assassino Pietro",
+      "chapters": [
+        {
+          "id": "9aff84",
+          "title": "Assassino Pietro",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl85YWZmODQuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/1893/6864c51255b37.webp"
         }
       ]
     }
