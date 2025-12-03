@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": 1764728422,
+    "lastUpdated": 1764728437,
     "totalMangas": 1150,
     "version": "1.0.5"
   },
@@ -13790,6 +13790,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl80NDg5Lmpzb24/",
           "type": "manhwa",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx86785-RhrW6H0MImsC.jpg"
+        }
+      ]
+    },
+    "majp_8297": {
+      "title": "Tokyo Ghoul:re",
+      "chapters": [
+        {
+          "id": "8297",
+          "title": "Tokyo Ghoul:re",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzgyOTcuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx85611-Asb0BNP23NsJ.png"
         }
       ]
     }
