@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764735084,
-    "totalMangas": 1718,
+    "lastUpdated": 1764735093,
+    "totalMangas": 1719,
     "version": "1.0.5"
   },
   "mangas": {
@@ -20618,6 +20618,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl83NjIxOS5qc29u/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/8955/6795be63df38e.png"
+        }
+      ]
+    },
+    "majp_1466": {
+      "title": "Nina a Noiva Estrelada",
+      "chapters": [
+        {
+          "id": "1466",
+          "title": "Nina a Noiva Estrelada",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzE0NjYuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/9995/67c202905336c.jpg"
         }
       ]
     }
