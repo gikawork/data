@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764734403,
-    "totalMangas": 1644,
+    "lastUpdated": 1764734413,
+    "totalMangas": 1645,
     "version": "1.0.5"
   },
   "mangas": {
@@ -19730,6 +19730,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl9mZDUwODguanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/8740/679484e16e89f.png"
+        }
+      ]
+    },
+    "makr_94e111": {
+      "title": "Reencarnei Como um Cirurgião Lendário",
+      "chapters": [
+        {
+          "id": "94e111",
+          "title": "Reencarnei Como um Cirurgião Lendário",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl85NGUxMTEuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/7770/wp-content/uploads/2024/12/13__surgeon-20-06-2023_11_40_14_PM.jpg.webp"
         }
       ]
     }
