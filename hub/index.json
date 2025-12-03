@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764736880,
-    "totalMangas": 1914,
+    "lastUpdated": 1764736890,
+    "totalMangas": 1915,
     "version": "1.0.5"
   },
   "mangas": {
@@ -22970,6 +22970,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF80ZWVjMTQuanNvbg/",
           "type": "manhua",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/9957/67be24e550d6c.png"
+        }
+      ]
+    },
+    "makr_39e003": {
+      "title": "Cuidado com os Irmãos!",
+      "chapters": [
+        {
+          "id": "39e003",
+          "title": "Cuidado com os Irmãos!",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8zOWUwMDMuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/8832/67955d6e61733.png"
         }
       ]
     }
