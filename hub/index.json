@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764739349,
-    "totalMangas": 2179,
+    "lastUpdated": 1764739357,
+    "totalMangas": 2180,
     "version": "1.0.5"
   },
   "mangas": {
@@ -26150,6 +26150,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl84MTYzMDEuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/8891/67959a54e8fcc.png"
+        }
+      ]
+    },
+    "majp_1958": {
+      "title": "Eu me Tornei o Mais Forte com uma Habilidade Anômala de Classe Inútil e Dominarei Tudo",
+      "chapters": [
+        {
+          "id": "1958",
+          "title": "Eu me Tornei o Mais Forte com uma Habilidade Anômala de Classe Inútil e Dominarei Tudo",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzE5NTguanNvbg/",
+          "type": "manga",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/5323/wp-content/uploads/2024/10/4e35ff58-d0b1-4f44-8c28-ed604542d8d9.jpg.512.jpg"
         }
       ]
     }
