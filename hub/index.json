@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764733949,
-    "totalMangas": 1593,
+    "lastUpdated": 1764733958,
+    "totalMangas": 1594,
     "version": "1.0.5"
   },
   "mangas": {
@@ -19118,6 +19118,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl9mMzFjMDUuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/9265/67a3ae4652324.png"
+        }
+      ]
+    },
+    "makr_f6ed10": {
+      "title": "A Garota do Chat Aleatório",
+      "chapters": [
+        {
+          "id": "f6ed10",
+          "title": "A Garota do Chat Aleatório",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl9mNmVkMTAuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/4418/wp-content/uploads/2024/10/474.jpg"
         }
       ]
     }
