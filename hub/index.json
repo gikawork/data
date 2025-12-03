@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764729228,
-    "totalMangas": 1169,
+    "lastUpdated": 1764729239,
+    "totalMangas": 1170,
     "version": "1.0.5"
   },
   "mangas": {
@@ -14030,6 +14030,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzEzMDQ3Lmpzb24/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx31329-pcCYJUXKvjd4.png"
+        }
+      ]
+    },
+    "makr_52908": {
+      "title": "+99 Reinforced Wooden Stick",
+      "chapters": [
+        {
+          "id": "52908",
+          "title": "+99 Reinforced Wooden Stick",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl81MjkwOC5qc29u/",
+          "type": "manhwa",
+          "cover_url": "https://images2.imgbox.com/8b/22/s4JpU51B_o.jpg"
         }
       ]
     }
