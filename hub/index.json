@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764730869,
-    "totalMangas": 1250,
+    "lastUpdated": 1764730878,
+    "totalMangas": 1251,
     "version": "1.0.5"
   },
   "mangas": {
@@ -15002,6 +15002,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8yYjMwMjkuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/9962/67be3dde47f89.png"
+        }
+      ]
+    },
+    "makr_321": {
+      "title": "Sala da Vilã",
+      "chapters": [
+        {
+          "id": "321",
+          "title": "Sala da Vilã",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8zMjEuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/4966/wp-content/uploads/2024/10/9b309b4a-45ba-44cf-ba6c-fccd3e1b64bd.jpg.512.jpg"
         }
       ]
     }
