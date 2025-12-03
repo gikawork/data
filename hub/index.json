@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764739504,
-    "totalMangas": 2196,
+    "lastUpdated": 1764739513,
+    "totalMangas": 2197,
     "version": "1.0.5"
   },
   "mangas": {
@@ -26354,6 +26354,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl80ODkwNC5qc29u/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/10379/67d5b92c0d077.png"
+        }
+      ]
+    },
+    "mach_5eef19": {
+      "title": "Meu Peixinho Divino me Deixou Invencível",
+      "chapters": [
+        {
+          "id": "5eef19",
+          "title": "Meu Peixinho Divino me Deixou Invencível",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF81ZWVmMTkuanNvbg/",
+          "type": "manhua",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/9740/67a7fefa8a2a6.jpg"
         }
       ]
     }
