@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764733269,
-    "totalMangas": 1517,
+    "lastUpdated": 1764733278,
+    "totalMangas": 1518,
     "version": "1.0.5"
   },
   "mangas": {
@@ -18206,6 +18206,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8zNTgzOS5qc29u/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/10946/68105a7a39539.jpg"
+        }
+      ]
+    },
+    "makr_54b4fd": {
+      "title": "A nova imperatriz",
+      "chapters": [
+        {
+          "id": "54b4fd",
+          "title": "A nova imperatriz",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl81NGI0ZmQuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/10701/6806ac11ca032.png"
         }
       ]
     }
