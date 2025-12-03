@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": 1764762899,
+    "lastUpdated": 1764762908,
     "totalMangas": 2619,
     "version": "1.0.6"
   },
@@ -31421,15 +31421,15 @@
         }
       ]
     },
-    "mach_7b18ac": {
-      "title": "Mestre da Espada Espiritual",
+    "makr_f2bcb0": {
+      "title": "Enfeitiçado pela Lua",
       "chapters": [
         {
-          "id": "7b18ac",
-          "title": "Mestre da Espada Espiritual",
-          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF83YjE4YWMuanNvbg/",
-          "type": "manhua",
-          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/9855/67b11f12af540.webp"
+          "id": "f2bcb0",
+          "title": "Enfeitiçado pela Lua",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl9mMmJjYjAuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/10251/67cf3ce385a54.png"
         }
       ]
     }
