@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764733618,
-    "totalMangas": 1556,
+    "lastUpdated": 1764733627,
+    "totalMangas": 1557,
     "version": "1.0.5"
   },
   "mangas": {
@@ -18674,6 +18674,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF83ZjBiZWUuanNvbg/",
           "type": "manhua",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/9103/6796eb89072f3.png"
+        }
+      ]
+    },
+    "makr_23066": {
+      "title": "O General",
+      "chapters": [
+        {
+          "id": "23066",
+          "title": "O General",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8yMzA2Ni5qc29u/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/10078/67c5096ed7aff.png"
         }
       ]
     }
