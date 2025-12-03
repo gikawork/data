@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764732429,
-    "totalMangas": 1423,
+    "lastUpdated": 1764732437,
+    "totalMangas": 1424,
     "version": "1.0.5"
   },
   "mangas": {
@@ -17078,6 +17078,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl9iNWQzY2QuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/9070/67961e4a64233.png"
+        }
+      ]
+    },
+    "makr_dded28": {
+      "title": "Eu sou o pai dela",
+      "chapters": [
+        {
+          "id": "dded28",
+          "title": "Eu sou o pai dela",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl9kZGVkMjguanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/11347/684b30414cb94.png"
         }
       ]
     }
