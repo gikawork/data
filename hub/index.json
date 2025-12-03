@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": 1764728855,
+    "lastUpdated": 1764728870,
     "totalMangas": 1161,
     "version": "1.0.5"
   },
@@ -13922,6 +13922,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzM2OC5qc29u/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx185129-BejBDBOhG7Ps.jpg"
+        }
+      ]
+    },
+    "majp_1591": {
+      "title": "Dead Dead Demons Dededede Destruction",
+      "chapters": [
+        {
+          "id": "1591",
+          "title": "Dead Dead Demons Dededede Destruction",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzE1OTEuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx85316-EGrSrwSMeOxd.jpg"
         }
       ]
     }
