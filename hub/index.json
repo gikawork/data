@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764764397,
-    "totalMangas": 2623,
+    "lastUpdated": 1764764407,
+    "totalMangas": 2624,
     "version": "1.0.6"
   },
   "mangas": {
@@ -31478,6 +31478,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl83OTRhNGYuanNvbg/",
           "type": "manhwa",
           "cover_url": ""
+        }
+      ]
+    },
+    "makr_2827": {
+      "title": "A Salvadora Favorita",
+      "chapters": [
+        {
+          "id": "2827",
+          "title": "A Salvadora Favorita",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8yODI3Lmpzb24/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/8767/67948b206fb8f.png"
         }
       ]
     }
