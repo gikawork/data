@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764733233,
-    "totalMangas": 1513,
+    "lastUpdated": 1764733242,
+    "totalMangas": 1514,
     "version": "1.0.5"
   },
   "mangas": {
@@ -18158,6 +18158,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8zMTU3YTAuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/12907/6869d4820d4fa.webp"
+        }
+      ]
+    },
+    "mach_5001": {
+      "title": "Organização da Salvação",
+      "chapters": [
+        {
+          "id": "5001",
+          "title": "Organização da Salvação",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF81MDAxLmpzb24/",
+          "type": "manhua",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/5573/wp-content/uploads/2024/10/Capa-de-ODS-768x1018-1.png"
         }
       ]
     }
