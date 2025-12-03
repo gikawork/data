@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764734136,
-    "totalMangas": 1614,
+    "lastUpdated": 1764734146,
+    "totalMangas": 1615,
     "version": "1.0.5"
   },
   "mangas": {
@@ -19370,6 +19370,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl9lMmI2ZDIuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/8894/67959ce6c1be8.png"
+        }
+      ]
+    },
+    "makr_729fee": {
+      "title": " Senhora Fera",
+      "chapters": [
+        {
+          "id": "729fee",
+          "title": " Senhora Fera",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl83MjlmZWUuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/10374/67d5adfdb013b.png"
         }
       ]
     }
