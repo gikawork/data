@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764729351,
-    "totalMangas": 1173,
+    "lastUpdated": 1764729361,
+    "totalMangas": 1174,
     "version": "1.0.5"
   },
   "mangas": {
@@ -14078,6 +14078,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzMwMS5qc29u/",
           "type": "manga",
           "cover_url": "https://cdn.mangaupdates.com/image/i502650.jpg"
+        }
+      ]
+    },
+    "makr_3117": {
+      "title": "Student Jo-Eun",
+      "chapters": [
+        {
+          "id": "3117",
+          "title": "Student Jo-Eun",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8zMTE3Lmpzb24/",
+          "type": "manhwa",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx188373-3EdOCzROTNgH.jpg"
         }
       ]
     }
