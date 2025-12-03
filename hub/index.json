@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": 1764725020,
+    "lastUpdated": 1764725035,
     "totalMangas": 1110,
     "version": "1.0.5"
   },
@@ -13310,6 +13310,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzY4MjQ1Lmpzb24/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx127588-sn2krjAmSLdd.jpg"
+        }
+      ]
+    },
+    "majp_42": {
+      "title": "Be Blues! Ao ni Nare",
+      "chapters": [
+        {
+          "id": "42",
+          "title": "Be Blues! Ao ni Nare",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzQyLmpzb24/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx88867-0c5FpUlvsJy2.png"
         }
       ]
     }
