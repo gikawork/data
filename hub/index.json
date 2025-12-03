@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764737270,
-    "totalMangas": 1955,
+    "lastUpdated": 1764737280,
+    "totalMangas": 1956,
     "version": "1.0.5"
   },
   "mangas": {
@@ -23462,6 +23462,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl82OTkwM2UuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/6144/67d317da920a3.webp"
+        }
+      ]
+    },
+    "makr_204542": {
+      "title": "O Ator de Mil Faces",
+      "chapters": [
+        {
+          "id": "204542",
+          "title": "O Ator de Mil Faces",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8yMDQ1NDIuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/11273/68c4931a7e691.png"
         }
       ]
     }
