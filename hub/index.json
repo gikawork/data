@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": 1764724290,
+    "lastUpdated": 1764724305,
     "totalMangas": 1104,
     "version": "1.0.5"
   },
@@ -13238,6 +13238,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzQxMjQyLmpzb24/",
           "type": "manga",
           "cover_url": "https://cdn.mangaupdates.com/image/i363631.jpg"
+        }
+      ]
+    },
+    "majp_7615": {
+      "title": "Fundari, Kettari, Aishitari",
+      "chapters": [
+        {
+          "id": "7615",
+          "title": "Fundari, Kettari, Aishitari",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzc2MTUuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx139654-LC4vgY4e60N7.jpg"
         }
       ]
     }
