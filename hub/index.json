@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764730981,
-    "totalMangas": 1263,
+    "lastUpdated": 1764730990,
+    "totalMangas": 1264,
     "version": "1.0.5"
   },
   "mangas": {
@@ -15158,6 +15158,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzIwMDQ1Ny5qc29u/",
           "type": "manga",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/11039/681d5124b85e4.png"
+        }
+      ]
+    },
+    "makr_8832": {
+      "title": "A Última Passagem",
+      "chapters": [
+        {
+          "id": "8832",
+          "title": "A Última Passagem",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl84ODMyLmpzb24/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/5789/6861f593f0676.webp"
         }
       ]
     }
