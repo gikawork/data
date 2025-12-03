@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764724459,
-    "totalMangas": 1105,
+    "lastUpdated": 1764724468,
+    "totalMangas": 1106,
     "version": "1.0.5"
   },
   "mangas": {
@@ -13262,6 +13262,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzIxODYuanNvbg/",
           "type": "manga",
           "cover_url": "https://cdn.myanimelist.net/images/manga/1/281536.jpg"
+        }
+      ]
+    },
+    "makr_977": {
+      "title": "Espuma do Mar",
+      "chapters": [
+        {
+          "id": "977",
+          "title": "Espuma do Mar",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl85NzcuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/11317/68460fe01f9e7.png"
         }
       ]
     }
