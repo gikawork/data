@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": 1764726634,
+    "lastUpdated": 1764726649,
     "totalMangas": 1129,
     "version": "1.0.5"
   },
@@ -13538,6 +13538,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzIwNDQuanNvbg/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b182970-3sLzQWmIbbjz.jpg"
+        }
+      ]
+    },
+    "majp_202926": {
+      "title": "Yachiru-san wa Homeru to Nobiru",
+      "chapters": [
+        {
+          "id": "202926",
+          "title": "Yachiru-san wa Homeru to Nobiru",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzIwMjkyNi5qc29u/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx195077-yLRHAIFLD5rl.jpg"
         }
       ]
     }
