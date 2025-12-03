@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": 1764762632,
+    "lastUpdated": 1764762641,
     "totalMangas": 2618,
     "version": "1.0.6"
   },
@@ -31409,15 +31409,15 @@
         }
       ]
     },
-    "majp_111467": {
-      "title": "10 anos sem contato",
+    "mach_9139": {
+      "title": "Crônicas do Soberano da Selva",
       "chapters": [
         {
-          "id": "111467",
-          "title": "10 anos sem contato",
-          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzExMTQ2Ny5qc29u/",
-          "type": "manga",
-          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/10931/680eb59ad36fa.jpg"
+          "id": "9139",
+          "title": "Crônicas do Soberano da Selva",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF85MTM5Lmpzb24/",
+          "type": "manhua",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/5953/wp-content/uploads/2024/10/sobe.webp"
         }
       ]
     }
