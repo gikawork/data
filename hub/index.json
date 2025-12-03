@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764734394,
-    "totalMangas": 1643,
+    "lastUpdated": 1764734403,
+    "totalMangas": 1644,
     "version": "1.0.5"
   },
   "mangas": {
@@ -19718,6 +19718,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl9jNTVlMjUuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/7260/wp-content/uploads/2024/12/pseudoson.png"
+        }
+      ]
+    },
+    "makr_fd5088": {
+      "title": "A Falsa Santa Espera para Partir",
+      "chapters": [
+        {
+          "id": "fd5088",
+          "title": "A Falsa Santa Espera para Partir",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl9mZDUwODguanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/8740/679484e16e89f.png"
         }
       ]
     }
