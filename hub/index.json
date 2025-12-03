@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764733278,
-    "totalMangas": 1518,
+    "lastUpdated": 1764733287,
+    "totalMangas": 1519,
     "version": "1.0.5"
   },
   "mangas": {
@@ -18218,6 +18218,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl81NGI0ZmQuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/10701/6806ac11ca032.png"
+        }
+      ]
+    },
+    "makr_16c583": {
+      "title": "Regressando como o Bastardo do Clã da Espada",
+      "chapters": [
+        {
+          "id": "16c583",
+          "title": "Regressando como o Bastardo do Clã da Espada",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8xNmM1ODMuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/4372/6861f3d24d07b.jpg"
         }
       ]
     }
