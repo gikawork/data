@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764739666,
-    "totalMangas": 2214,
+    "lastUpdated": 1764739674,
+    "totalMangas": 2215,
     "version": "1.0.5"
   },
   "mangas": {
@@ -26570,6 +26570,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzEwNzQ4Lmpzb24/",
           "type": "manga",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/12979/68706c2e20438.png"
+        }
+      ]
+    },
+    "makr_b194c5": {
+      "title": "Funcionário Público Especial",
+      "chapters": [
+        {
+          "id": "b194c5",
+          "title": "Funcionário Público Especial",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl9iMTk0YzUuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/7189/6861eebc4fbc3.webp"
         }
       ]
     }
