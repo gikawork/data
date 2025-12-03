@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764738575,
-    "totalMangas": 2094,
+    "lastUpdated": 1764738583,
+    "totalMangas": 2095,
     "version": "1.0.5"
   },
   "mangas": {
@@ -25130,6 +25130,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF85NDA5Lmpzb24/",
           "type": "manhua",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/2129/68cf0d74987eb.png"
+        }
+      ]
+    },
+    "makr_502": {
+      "title": "Amor na prisão",
+      "chapters": [
+        {
+          "id": "502",
+          "title": "Amor na prisão",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl81MDIuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/8168/67ca90c0a3048.png"
         }
       ]
     }
