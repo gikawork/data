@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764736776,
-    "totalMangas": 1903,
+    "lastUpdated": 1764736787,
+    "totalMangas": 1904,
     "version": "1.0.5"
   },
   "mangas": {
@@ -22838,6 +22838,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwX2MyNzBiZi5qc29u/",
           "type": "manga",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/10103/67c6e1bd23cec.png"
+        }
+      ]
+    },
+    "makr_11529": {
+      "title": "Damas De Ferro",
+      "chapters": [
+        {
+          "id": "11529",
+          "title": "Damas De Ferro",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8xMTUyOS5qc29u/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/9239/67a04c76f0b6f.png"
         }
       ]
     }
