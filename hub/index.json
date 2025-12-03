@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": 1764723466,
+    "lastUpdated": 1764723481,
     "totalMangas": 1099,
     "version": "1.0.5"
   },
@@ -13178,6 +13178,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzQ1OTguanNvbg/",
           "type": "manga",
           "cover_url": "https://cdn.myanimelist.net/images/manga/3/293666.jpg"
+        }
+      ]
+    },
+    "majp_506": {
+      "title": "Kimi wa Yotsuba no Clover",
+      "chapters": [
+        {
+          "id": "506",
+          "title": "Kimi wa Yotsuba no Clover",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzUwNi5qc29u/",
+          "type": "manga",
+          "cover_url": "https://cdn.myanimelist.net/images/manga/1/315736.jpg"
         }
       ]
     }
