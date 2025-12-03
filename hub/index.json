@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764733600,
-    "totalMangas": 1554,
+    "lastUpdated": 1764733609,
+    "totalMangas": 1555,
     "version": "1.0.5"
   },
   "mangas": {
@@ -18650,6 +18650,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF80MDIwMi5qc29u/",
           "type": "manhua",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/9062/67960fb6db900.webp"
+        }
+      ]
+    },
+    "makr_d5ea7f": {
+      "title": "A Vilã Mais Fofa",
+      "chapters": [
+        {
+          "id": "d5ea7f",
+          "title": "A Vilã Mais Fofa",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl9kNWVhN2YuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/4253/wp-content/uploads/2024/10/a-vila-mais-fofa_upscayl_2x_realesrgan-x4plus-anime.png"
         }
       ]
     }
