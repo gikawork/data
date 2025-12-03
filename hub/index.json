@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764731954,
-    "totalMangas": 1369,
+    "lastUpdated": 1764731962,
+    "totalMangas": 1370,
     "version": "1.0.5"
   },
   "mangas": {
@@ -16430,6 +16430,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl83MGE5MzEuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/8904/6795a3fb13d6e.png"
+        }
+      ]
+    },
+    "makr_83a456": {
+      "title": "Retorno do Sobrevivente",
+      "chapters": [
+        {
+          "id": "83a456",
+          "title": "Retorno do Sobrevivente",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl84M2E0NTYuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/10996/6817788240dbd.jpg"
         }
       ]
     }
