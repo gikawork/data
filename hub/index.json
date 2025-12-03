@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764736353,
-    "totalMangas": 1857,
+    "lastUpdated": 1764736362,
+    "totalMangas": 1858,
     "version": "1.0.5"
   },
   "mangas": {
@@ -22286,6 +22286,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl80NTkxNi5qc29u/",
           "type": "manhwa",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx128483-cTlSgVsdeBCF.jpg"
+        }
+      ]
+    },
+    "makr_6939": {
+      "title": "Sigrid",
+      "chapters": [
+        {
+          "id": "6939",
+          "title": "Sigrid",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl82OTM5Lmpzb24/",
+          "type": "manhwa",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx160187-mwZFOApEBMvl.jpg"
         }
       ]
     }
