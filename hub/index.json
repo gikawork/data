@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764729179,
-    "totalMangas": 1167,
+    "lastUpdated": 1764729189,
+    "totalMangas": 1168,
     "version": "1.0.5"
   },
   "mangas": {
@@ -14006,6 +14006,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzMwOTIuanNvbg/",
           "type": "manga",
           "cover_url": "https://cdn.myanimelist.net/images/manga/3/166196.jpg"
+        }
+      ]
+    },
+    "makr_1186": {
+      "title": "Absolute Regression",
+      "chapters": [
+        {
+          "id": "1186",
+          "title": "Absolute Regression",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8xMTg2Lmpzb24/",
+          "type": "manhwa",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx180891-ZBbyOWSYI41R.jpg"
         }
       ]
     }
