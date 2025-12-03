@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": 1764725150,
+    "lastUpdated": 1764725165,
     "totalMangas": 1111,
     "version": "1.0.5"
   },
@@ -13322,6 +13322,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzEwNjcuanNvbg/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx107540-vjzxizt1PVLS.jpg"
+        }
+      ]
+    },
+    "majp_101662": {
+      "title": "Saint Seiya: Origin",
+      "chapters": [
+        {
+          "id": "101662",
+          "title": "Saint Seiya: Origin",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzEwMTY2Mi5qc29u/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx120279-XsmkvuVrLxVM.jpg"
         }
       ]
     }
