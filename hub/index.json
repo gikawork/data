@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": 1764724320,
+    "lastUpdated": 1764724335,
     "totalMangas": 1104,
     "version": "1.0.5"
   },
@@ -13238,6 +13238,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzg2NTQuanNvbg/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx30583-Ysqwu8uryIUX.png"
+        }
+      ]
+    },
+    "majp_2245": {
+      "title": "Uruwashi no Yoi no Tsuki",
+      "chapters": [
+        {
+          "id": "2245",
+          "title": "Uruwashi no Yoi no Tsuki",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzIyNDUuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx120502-hcoa5cQG0RD1.jpg"
         }
       ]
     }
