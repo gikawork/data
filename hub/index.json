@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764737145,
-    "totalMangas": 1943,
+    "lastUpdated": 1764737154,
+    "totalMangas": 1944,
     "version": "1.0.5"
   },
   "mangas": {
@@ -23318,6 +23318,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl9hMzVjMDkuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/275/wp-content/uploads/2024/05/GDVUM6TWAAAi2Dh.jpg"
+        }
+      ]
+    },
+    "makr_72649": {
+      "title": "A Cafeteria Lo-Fi da Duquesa",
+      "chapters": [
+        {
+          "id": "72649",
+          "title": "A Cafeteria Lo-Fi da Duquesa",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl83MjY0OS5qc29u/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/8668/6789a50d21d8d.png"
         }
       ]
     }
