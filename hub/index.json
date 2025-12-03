@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764734305,
-    "totalMangas": 1633,
+    "lastUpdated": 1764734314,
+    "totalMangas": 1634,
     "version": "1.0.5"
   },
   "mangas": {
@@ -19598,6 +19598,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl9lMTVhNzMuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/8906/6795a67065fd4.png"
+        }
+      ]
+    },
+    "makr_609ef3": {
+      "title": "Eu Pretendo me Tornar a Mestra da Família que me foi Roubada",
+      "chapters": [
+        {
+          "id": "609ef3",
+          "title": "Eu Pretendo me Tornar a Mestra da Família que me foi Roubada",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl82MDllZjMuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/9009/6795d1c47b8cb.png"
         }
       ]
     }
