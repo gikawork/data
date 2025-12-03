@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764734278,
-    "totalMangas": 1630,
+    "lastUpdated": 1764734287,
+    "totalMangas": 1631,
     "version": "1.0.5"
   },
   "mangas": {
@@ -19562,6 +19562,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF84MTg3OC5qc29u/",
           "type": "manhua",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/7764/wp-content/uploads/2024/12/ahg.webp"
+        }
+      ]
+    },
+    "makr_04ff9d": {
+      "title": "A Candidata Odiada Retorna",
+      "chapters": [
+        {
+          "id": "04ff9d",
+          "title": "A Candidata Odiada Retorna",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8wNGZmOWQuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/9204/67f31770a4e1a.gif"
         }
       ]
     }
