@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": 1764724500,
+    "lastUpdated": 1764724515,
     "totalMangas": 1106,
     "version": "1.0.5"
   },
@@ -13262,6 +13262,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF8xMDkzLmpzb24/",
           "type": "manhua",
           "cover_url": "https://cdn.mangaupdates.com/image/i493049.png"
+        }
+      ]
+    },
+    "mach_873": {
+      "title": "The Devil Never Cries",
+      "chapters": [
+        {
+          "id": "873",
+          "title": "The Devil Never Cries",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF84NzMuanNvbg/",
+          "type": "manhua",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx163536-v7YMGxY4AVIx.jpg"
         }
       ]
     }
