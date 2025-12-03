@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": 1764726060,
+    "lastUpdated": 1764726075,
     "totalMangas": 1126,
     "version": "1.0.5"
   },
@@ -13502,6 +13502,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl81NTIuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx146139-wyY4cGEYK8Kf.jpg"
+        }
+      ]
+    },
+    "majp_42058": {
+      "title": "Tensei shitara Ken deshita: Another Wish",
+      "chapters": [
+        {
+          "id": "42058",
+          "title": "Tensei shitara Ken deshita: Another Wish",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzQyMDU4Lmpzb24/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx119269-3Yd3PsczEDIF.jpg"
         }
       ]
     }
