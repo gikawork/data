@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764730576,
-    "totalMangas": 1217,
+    "lastUpdated": 1764730585,
+    "totalMangas": 1218,
     "version": "1.0.5"
   },
   "mangas": {
@@ -14606,6 +14606,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8zNjVhYmEuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/9094/67ddb42d19b16.png"
+        }
+      ]
+    },
+    "makr_1c915b": {
+      "title": "Pai, Eu Não Quero me Casar",
+      "chapters": [
+        {
+          "id": "1c915b",
+          "title": "Pai, Eu Não Quero me Casar",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8xYzkxNWIuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/7795/wp-content/uploads/2024/12/d9907e01e9923ce3cdf3238591ff4af9c6f623a5_294_427_86532.jpeg"
         }
       ]
     }
