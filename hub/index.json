@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764732745,
-    "totalMangas": 1459,
+    "lastUpdated": 1764732755,
+    "totalMangas": 1460,
     "version": "1.0.5"
   },
   "mangas": {
@@ -17510,6 +17510,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl80MjY4OGEuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/4300/6864c1caa5612.jpg"
+        }
+      ]
+    },
+    "makr_77297": {
+      "title": "Deus tigre de Jangsan",
+      "chapters": [
+        {
+          "id": "77297",
+          "title": "Deus tigre de Jangsan",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl83NzI5Ny5qc29u/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/10229/67cf16542a972.png"
         }
       ]
     }
