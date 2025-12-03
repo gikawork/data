@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": 1764724746,
+    "lastUpdated": 1764724763,
     "totalMangas": 1107,
     "version": "1.0.5"
   },
@@ -13274,6 +13274,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8xNDQyLmpzb24/",
           "type": "manhwa",
           "cover_url": "https://cdn.mangaupdates.com/image/i496392.jpg"
+        }
+      ]
+    },
+    "majp_263": {
+      "title": "Isekai de Slow Life wo (Ganbou)",
+      "chapters": [
+        {
+          "id": "263",
+          "title": "Isekai de Slow Life wo (Ganbou)",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzI2My5qc29u/",
+          "type": "manga",
+          "cover_url": "https://cdn.myanimelist.net/images/manga/1/231057.jpg"
         }
       ]
     }
