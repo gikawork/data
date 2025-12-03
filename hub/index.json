@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764735767,
-    "totalMangas": 1793,
+    "lastUpdated": 1764735775,
+    "totalMangas": 1794,
     "version": "1.0.5"
   },
   "mangas": {
@@ -21518,6 +21518,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl84OThkODkuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/10694/680329faeb5fa.png"
+        }
+      ]
+    },
+    "makr_f6dca5": {
+      "title": "Cavaleiro do Abismo",
+      "chapters": [
+        {
+          "id": "f6dca5",
+          "title": "Cavaleiro do Abismo",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl9mNmRjYTUuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/7749/wp-content/uploads/2024/12/22ddf43c-a360-4c37-ad89-558e688e2257.jpg.512.jpg"
         }
       ]
     }
