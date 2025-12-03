@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764727876,
-    "totalMangas": 1142,
+    "lastUpdated": 1764727886,
+    "totalMangas": 1143,
     "version": "1.0.5"
   },
   "mangas": {
@@ -13706,6 +13706,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzIyMzcuanNvbg/",
           "type": "manga",
           "cover_url": "https://cdn.mangaupdates.com/image/i478089.jpg"
+        }
+      ]
+    },
+    "majp_4035": {
+      "title": "Itsuwari no Marigold",
+      "chapters": [
+        {
+          "id": "4035",
+          "title": "Itsuwari no Marigold",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzQwMzUuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://cdn.myanimelist.net/images/manga/1/287538.jpg"
         }
       ]
     }
