@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764731610,
-    "totalMangas": 1331,
+    "lastUpdated": 1764731621,
+    "totalMangas": 1332,
     "version": "1.0.5"
   },
   "mangas": {
@@ -15974,6 +15974,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8wY2U5OTYuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/9870/6818022eb7695.png"
+        }
+      ]
+    },
+    "makr_49498": {
+      "title": "Cadê Meus Pais?",
+      "chapters": [
+        {
+          "id": "49498",
+          "title": "Cadê Meus Pais?",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl80OTQ5OC5qc29u/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/9227/679fb4268f2fa.png"
         }
       ]
     }
