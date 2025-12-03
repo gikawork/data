@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764726570,
-    "totalMangas": 1128,
+    "lastUpdated": 1764726579,
+    "totalMangas": 1129,
     "version": "1.0.5"
   },
   "mangas": {
@@ -13538,6 +13538,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzczMC5qc29u/",
           "type": "manga",
           "cover_url": "https://images2.imgbox.com/be/41/DXBsdLCY_o.jpg"
+        }
+      ]
+    },
+    "majp_1312": {
+      "title": "Zense wa Reikoku Koutei, Konse wa Youjo",
+      "chapters": [
+        {
+          "id": "1312",
+          "title": "Zense wa Reikoku Koutei, Konse wa Youjo",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzEzMTIuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b188501-yH07ETmfKQ0V.png"
         }
       ]
     }
