@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764736603,
-    "totalMangas": 1884,
+    "lastUpdated": 1764736612,
+    "totalMangas": 1885,
     "version": "1.0.5"
   },
   "mangas": {
@@ -22610,6 +22610,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF85NDAyLmpzb24/",
           "type": "manhua",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/6155/wp-content/uploads/2024/11/seitaaa.webp"
+        }
+      ]
+    },
+    "makr_2746": {
+      "title": "The Promise Isn't Mine",
+      "chapters": [
+        {
+          "id": "2746",
+          "title": "The Promise Isn't Mine",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8yNzQ2Lmpzb24/",
+          "type": "manhwa",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx177170-0vsr8HwShZrZ.jpg"
         }
       ]
     }
