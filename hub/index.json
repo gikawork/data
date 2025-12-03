@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764737475,
-    "totalMangas": 1977,
+    "lastUpdated": 1764737484,
+    "totalMangas": 1978,
     "version": "1.0.5"
   },
   "mangas": {
@@ -23726,6 +23726,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8xMTA1OTIuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/10532/6864604490008.webp"
+        }
+      ]
+    },
+    "mach_98cd9a": {
+      "title": "Sistema de atualização de nível de Deus",
+      "chapters": [
+        {
+          "id": "98cd9a",
+          "title": "Sistema de atualização de nível de Deus",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF85OGNkOWEuanNvbg/",
+          "type": "manhua",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/10288/67d065ce8d312.png"
         }
       ]
     }
