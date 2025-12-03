@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764733429,
-    "totalMangas": 1535,
+    "lastUpdated": 1764733438,
+    "totalMangas": 1536,
     "version": "1.0.5"
   },
   "mangas": {
@@ -18422,6 +18422,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwX2EzNTg4ZC5qc29u/",
           "type": "manga",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/1136/wp-content/uploads/2024/05/namoradas.jpg"
+        }
+      ]
+    },
+    "makr_868bcd": {
+      "title": "A Reencarnação Do Mago De Oitavo Círculo",
+      "chapters": [
+        {
+          "id": "868bcd",
+          "title": "A Reencarnação Do Mago De Oitavo Círculo",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl84NjhiY2QuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/12807/685e151fb62eb.jpg"
         }
       ]
     }
