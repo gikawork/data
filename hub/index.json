@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764740025,
-    "totalMangas": 2254,
+    "lastUpdated": 1764740035,
+    "totalMangas": 2255,
     "version": "1.0.5"
   },
   "mangas": {
@@ -27050,6 +27050,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8xMTcwMy5qc29u/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/7722/wp-content/uploads/2024/12/cf26d331-1b26-455c-8b85-2443b2125d11.jpg.512.jpg"
+        }
+      ]
+    },
+    "makr_9064": {
+      "title": "Eu, que sou ignorante deste mundo, me tornei uma princesa",
+      "chapters": [
+        {
+          "id": "9064",
+          "title": "Eu, que sou ignorante deste mundo, me tornei uma princesa",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl85MDY0Lmpzb24/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/9702/67a516ed4c88a.png"
         }
       ]
     }
