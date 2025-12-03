@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764735970,
-    "totalMangas": 1815,
+    "lastUpdated": 1764735978,
+    "totalMangas": 1816,
     "version": "1.0.5"
   },
   "mangas": {
@@ -21782,6 +21782,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl84MzMxLmpzb24/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/5381/wp-content/uploads/2024/10/filmes.jpg"
+        }
+      ]
+    },
+    "makr_0c2fa0": {
+      "title": "Um Passo até o Lorde das Trevas",
+      "chapters": [
+        {
+          "id": "0c2fa0",
+          "title": "Um Passo até o Lorde das Trevas",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8wYzJmYTAuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/173/wp-content/uploads/2024/05/imagem_2024-06-29_194820922.png"
         }
       ]
     }
