@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764735648,
-    "totalMangas": 1780,
+    "lastUpdated": 1764735657,
+    "totalMangas": 1781,
     "version": "1.0.5"
   },
   "mangas": {
@@ -21362,6 +21362,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF8zNzEyNi5qc29u/",
           "type": "manhua",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/10107/67c75e8e9ff7d.png"
+        }
+      ]
+    },
+    "majp_16aa01": {
+      "title": "Não podemos ter filhos",
+      "chapters": [
+        {
+          "id": "16aa01",
+          "title": "Não podemos ter filhos",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzE2YWEwMS5qc29u/",
+          "type": "manga",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/11423/68541979c8f3b.png"
         }
       ]
     }
