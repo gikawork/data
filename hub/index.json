@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764740402,
-    "totalMangas": 2295,
+    "lastUpdated": 1764740412,
+    "totalMangas": 2296,
     "version": "1.0.5"
   },
   "mangas": {
@@ -27542,6 +27542,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8xMy5qc29u/",
           "type": "manhwa",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx176071-P30kncwh96k3.jpg"
+        }
+      ]
+    },
+    "makr_1933a1": {
+      "title": "Canção De Amor de Heeran",
+      "chapters": [
+        {
+          "id": "1933a1",
+          "title": "Canção De Amor de Heeran",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8xOTMzYTEuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/8980/6795c94fa7a11.png"
         }
       ]
     }
