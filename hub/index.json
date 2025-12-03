@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": 1764728972,
+    "lastUpdated": 1764728987,
     "totalMangas": 1164,
     "version": "1.0.5"
   },
@@ -13958,6 +13958,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl85MzUuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b153207-Jps2rCfCgWtP.jpg"
+        }
+      ]
+    },
+    "majp_1739": {
+      "title": "Tensei shitara Sainou ga Atta Ken: Isekai Ittemo Doryoku suru",
+      "chapters": [
+        {
+          "id": "1739",
+          "title": "Tensei shitara Sainou ga Atta Ken: Isekai Ittemo Doryoku suru",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzE3MzkuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://cdn.myanimelist.net/images/manga/3/287818.jpg"
         }
       ]
     }
