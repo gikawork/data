@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764735906,
-    "totalMangas": 1808,
+    "lastUpdated": 1764735914,
+    "totalMangas": 1809,
     "version": "1.0.5"
   },
   "mangas": {
@@ -21698,6 +21698,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl85MDI5Lmpzb24/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/8953/6795be17aa59a.png"
+        }
+      ]
+    },
+    "makr_400108": {
+      "title": "O Infrator! 3 - Força Eterna",
+      "chapters": [
+        {
+          "id": "400108",
+          "title": "O Infrator! 3 - Força Eterna",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl80MDAxMDguanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/6470/wp-content/uploads/2024/11/meia.jpg"
         }
       ]
     }
