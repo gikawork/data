@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764736165,
-    "totalMangas": 1836,
+    "lastUpdated": 1764736174,
+    "totalMangas": 1837,
     "version": "1.0.5"
   },
   "mangas": {
@@ -22034,6 +22034,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8yMjQ0NC5qc29u/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/10050/67c40d751573a.png"
+        }
+      ]
+    },
+    "makr_d76ca0": {
+      "title": "Sonhos de recorte de papel",
+      "chapters": [
+        {
+          "id": "d76ca0",
+          "title": "Sonhos de recorte de papel",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl9kNzZjYTAuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/10684/6800e0ad55a4d.jpg"
         }
       ]
     }
