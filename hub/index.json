@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764734163,
-    "totalMangas": 1617,
+    "lastUpdated": 1764734172,
+    "totalMangas": 1618,
     "version": "1.0.5"
   },
   "mangas": {
@@ -19406,6 +19406,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl81MWJlOGEuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/8836/67955e2d0dd13.jpg"
+        }
+      ]
+    },
+    "makr_5dfa4f": {
+      "title": "A História do Vovô e da Vovó que se Transformaram",
+      "chapters": [
+        {
+          "id": "5dfa4f",
+          "title": "A História do Vovô e da Vovó que se Transformaram",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl81ZGZhNGYuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/10857/680eab23c252a.jpg"
         }
       ]
     }
