@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": 1764723535,
+    "lastUpdated": 1764723550,
     "totalMangas": 1100,
     "version": "1.0.5"
   },
@@ -13190,6 +13190,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzEwMDQuanNvbg/",
           "type": "manga",
           "cover_url": "https://cdn.mangaupdates.com/image/i499687.jpg"
+        }
+      ]
+    },
+    "majp_1761": {
+      "title": "Medalist",
+      "chapters": [
+        {
+          "id": "1761",
+          "title": "Medalist",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzE3NjEuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx118371-3xk9VUbWnnRR.jpg"
         }
       ]
     }
