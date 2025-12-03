@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764737539,
-    "totalMangas": 1984,
+    "lastUpdated": 1764737548,
+    "totalMangas": 1985,
     "version": "1.0.5"
   },
   "mangas": {
@@ -23810,6 +23810,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwX2QxZmQ3OS5qc29u/",
           "type": "manga",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/11403/68507da5ebdde.jpg"
+        }
+      ]
+    },
+    "makr_8900": {
+      "title": "Pagoehareo Watseumnida",
+      "chapters": [
+        {
+          "id": "8900",
+          "title": "Pagoehareo Watseumnida",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl84OTAwLmpzb24/",
+          "type": "manhwa",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx184140-MzIMlM6YUMi8.png"
         }
       ]
     }
