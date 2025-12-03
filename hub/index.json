@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764739394,
-    "totalMangas": 2184,
+    "lastUpdated": 1764739403,
+    "totalMangas": 2185,
     "version": "1.0.5"
   },
   "mangas": {
@@ -26210,6 +26210,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl83ODAwOS5qc29u/",
           "type": "manhwa",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx184647-d3RpEJuaNkCu.jpg"
+        }
+      ]
+    },
+    "mach_66b1b7": {
+      "title": "O Avatar do Rei",
+      "chapters": [
+        {
+          "id": "66b1b7",
+          "title": "O Avatar do Rei",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF82NmIxYjcuanNvbg/",
+          "type": "manhua",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/10120/67c8bde314b36.jpg"
         }
       ]
     }
