@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764738962,
-    "totalMangas": 2136,
+    "lastUpdated": 1764738972,
+    "totalMangas": 2137,
     "version": "1.0.5"
   },
   "mangas": {
@@ -25634,6 +25634,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21vdC9tYW90Xzc4MzAuanNvbg/",
           "type": "outro",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/8698/679240b168e7f.jpg"
+        }
+      ]
+    },
+    "makr_63260": {
+      "title": "Impiedoso",
+      "chapters": [
+        {
+          "id": "63260",
+          "title": "Impiedoso",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl82MzI2MC5qc29u/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/1822/wp-content/uploads/2024/05/19_29_-1.webp"
         }
       ]
     }
