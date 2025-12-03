@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764735518,
-    "totalMangas": 1766,
+    "lastUpdated": 1764735527,
+    "totalMangas": 1767,
     "version": "1.0.5"
   },
   "mangas": {
@@ -21194,6 +21194,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl84OGRmOTcuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/9743/67a8c072e3d7f.png"
+        }
+      ]
+    },
+    "mach_b3012e": {
+      "title": "Reencarnei Como a Princesa do Inimigo",
+      "chapters": [
+        {
+          "id": "b3012e",
+          "title": "Reencarnei Como a Princesa do Inimigo",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF9iMzAxMmUuanNvbg/",
+          "type": "manhua",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/9952/67bdda9dd81a6.jpg"
         }
       ]
     }
