@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764736500,
-    "totalMangas": 1873,
+    "lastUpdated": 1764736508,
+    "totalMangas": 1874,
     "version": "1.0.5"
   },
   "mangas": {
@@ -22478,6 +22478,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl80ZTYzOTAuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/2136/wp-content/uploads/2024/05/82cc6110-d190-408e-afe0-66621ff95a00.jpg.512.jpg"
+        }
+      ]
+    },
+    "makr_1bf183": {
+      "title": "O Último Aventureiro",
+      "chapters": [
+        {
+          "id": "1bf183",
+          "title": "O Último Aventureiro",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8xYmYxODMuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/1249/6864bdc3893cd.webp"
         }
       ]
     }
