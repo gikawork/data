@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764727645,
-    "totalMangas": 1139,
+    "lastUpdated": 1764727655,
+    "totalMangas": 1140,
     "version": "1.0.5"
   },
   "mangas": {
@@ -13670,6 +13670,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21vZWwvbWFvZWxfMTU1Ny5qc29u/",
           "type": "oel",
           "cover_url": "https://media.kitsu.app/manga/61518/poster_image/34d0a2456dc84b6e53429668cca9aea7.jpg"
+        }
+      ]
+    },
+    "mach_68": {
+      "title": "Minha esposa é de mil anos atrás",
+      "chapters": [
+        {
+          "id": "68",
+          "title": "Minha esposa é de mil anos atrás",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF82OC5qc29u/",
+          "type": "manhua",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/4926/wp-content/uploads/2024/10/capa_my-wife-is-from-a-thousand-years-ago.webp"
         }
       ]
     }
