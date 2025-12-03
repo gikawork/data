@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764738936,
-    "totalMangas": 2133,
+    "lastUpdated": 1764738946,
+    "totalMangas": 2134,
     "version": "1.0.5"
   },
   "mangas": {
@@ -25598,6 +25598,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl80MTIyLmpzb24/",
           "type": "manhwa",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx176790-qR0AhWd6xxWC.png"
+        }
+      ]
+    },
+    "makr_2b7772": {
+      "title": " Sobrevivendo Como a Esposa do Héroi",
+      "chapters": [
+        {
+          "id": "2b7772",
+          "title": " Sobrevivendo Como a Esposa do Héroi",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8yYjc3NzIuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/10392/67d6cdd56bd03.png"
         }
       ]
     }
