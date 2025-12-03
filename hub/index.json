@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764735162,
-    "totalMangas": 1727,
+    "lastUpdated": 1764735171,
+    "totalMangas": 1728,
     "version": "1.0.5"
   },
   "mangas": {
@@ -20726,6 +20726,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8wMTY2NGEuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/9212/679e4ca847fcc.avif"
+        }
+      ]
+    },
+    "makr_8e5626": {
+      "title": "Transmigrando para outro mundo outra vez",
+      "chapters": [
+        {
+          "id": "8e5626",
+          "title": "Transmigrando para outro mundo outra vez",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl84ZTU2MjYuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/7850/wp-content/uploads/2024/12/a51a07bd-fa88-4e3e-b106-f42be65ddea7.jpg.512.jpg"
         }
       ]
     }
