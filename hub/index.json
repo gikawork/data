@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764731894,
-    "totalMangas": 1362,
+    "lastUpdated": 1764731902,
+    "totalMangas": 1363,
     "version": "1.0.5"
   },
   "mangas": {
@@ -16346,6 +16346,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8xNjIwMzEuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b168301-ev0Z2SUCUZ5y.jpg"
+        }
+      ]
+    },
+    "makr_657cb7": {
+      "title": "Eu Me Tornei uma Figurante Miserável em uma História de Cura",
+      "chapters": [
+        {
+          "id": "657cb7",
+          "title": "Eu Me Tornei uma Figurante Miserável em uma História de Cura",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl82NTdjYjcuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/9914/67bb42ca02c94.png"
         }
       ]
     }
