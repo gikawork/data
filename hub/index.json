@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": 1764725607,
+    "lastUpdated": 1764725623,
     "totalMangas": 1119,
     "version": "1.0.5"
   },
@@ -13418,6 +13418,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8xODQ3NS5qc29u/",
           "type": "manhwa",
           "cover_url": "https://cdn.mangaupdates.com/image/i191565.jpg"
+        }
+      ]
+    },
+    "majp_4929": {
+      "title": "School Rumble",
+      "chapters": [
+        {
+          "id": "4929",
+          "title": "School Rumble",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzQ5MjkuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx30160-aeVOoazhC4xg.jpg"
         }
       ]
     }
