@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": 1764723977,
+    "lastUpdated": 1764723992,
     "totalMangas": 1103,
     "version": "1.0.5"
   },
@@ -13226,6 +13226,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl80ODMxLmpzb24/",
           "type": "manhwa",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx125653-EtaMhXUvgSta.jpg"
+        }
+      ]
+    },
+    "majp_534": {
+      "title": "Fukushuu o Koinegau Saikyou Yuusha wa, Yami no Chikara de Senmetsu Musou Suru",
+      "chapters": [
+        {
+          "id": "534",
+          "title": "Fukushuu o Koinegau Saikyou Yuusha wa, Yami no Chikara de Senmetsu Musou Suru",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzUzNC5qc29u/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx107780-SWoW1oBmgU8K.jpg"
         }
       ]
     }
