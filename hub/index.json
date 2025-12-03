@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764738285,
-    "totalMangas": 2062,
+    "lastUpdated": 1764738296,
+    "totalMangas": 2063,
     "version": "1.0.5"
   },
   "mangas": {
@@ -24746,6 +24746,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl9jNzNhYjIuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/1302/wp-content/uploads/2024/05/healer.png"
+        }
+      ]
+    },
+    "majp_5926": {
+      "title": "Sobrevivência em Outro Mundo com o Meu Mestre",
+      "chapters": [
+        {
+          "id": "5926",
+          "title": "Sobrevivência em Outro Mundo com o Meu Mestre",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzU5MjYuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/10962/6812800654103.jpg"
         }
       ]
     }
