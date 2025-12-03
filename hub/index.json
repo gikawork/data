@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": 1764727939,
+    "lastUpdated": 1764727955,
     "totalMangas": 1144,
     "version": "1.0.5"
   },
@@ -13718,6 +13718,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl83Mi5qc29u/",
           "type": "manhwa",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx167649-8qpdNIjBdIhQ.png"
+        }
+      ]
+    },
+    "majp_5188": {
+      "title": "Doku Doku Mori Mori",
+      "chapters": [
+        {
+          "id": "5188",
+          "title": "Doku Doku Mori Mori",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzUxODguanNvbg/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx163303-WruZKqlSPZzA.jpg"
         }
       ]
     }
