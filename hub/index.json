@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764733110,
-    "totalMangas": 1499,
+    "lastUpdated": 1764733119,
+    "totalMangas": 1500,
     "version": "1.0.5"
   },
   "mangas": {
@@ -17990,6 +17990,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF8yMTY2N2QuanNvbg/",
           "type": "manhua",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/13739/68bddfda9e2db.jpg"
+        }
+      ]
+    },
+    "makr_28a72f": {
+      "title": "Nascida como a Segunda Filha",
+      "chapters": [
+        {
+          "id": "28a72f",
+          "title": "Nascida como a Segunda Filha",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8yOGE3MmYuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/9051/6806ce1297dc9.jpg"
         }
       ]
     }
