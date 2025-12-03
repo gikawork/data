@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764739213,
-    "totalMangas": 2164,
+    "lastUpdated": 1764739221,
+    "totalMangas": 2165,
     "version": "1.0.5"
   },
   "mangas": {
@@ -25970,6 +25970,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8wZjk5MDkuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/11177/68327f2e64a88.png"
+        }
+      ]
+    },
+    "makr_38526": {
+      "title": "1-Nen de 1 Page dake Susumu Manga no Sekai",
+      "chapters": [
+        {
+          "id": "38526",
+          "title": "1-Nen de 1 Page dake Susumu Manga no Sekai",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8zODUyNi5qc29u/",
+          "type": "manhwa",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx117010-wgp3SkdNExFA.png"
         }
       ]
     }
