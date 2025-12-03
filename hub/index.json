@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": 1764725121,
+    "lastUpdated": 1764725135,
     "totalMangas": 1111,
     "version": "1.0.5"
   },
@@ -13322,6 +13322,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl80NjYuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://images2.imgbox.com/ad/b8/WrZALqQk_o.png"
+        }
+      ]
+    },
+    "majp_5562": {
+      "title": "Not All Girls Are Stupid",
+      "chapters": [
+        {
+          "id": "5562",
+          "title": "Not All Girls Are Stupid",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzU1NjIuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx41472-HCkSPS49tEUI.png"
         }
       ]
     }
