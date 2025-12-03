@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764730704,
-    "totalMangas": 1231,
+    "lastUpdated": 1764730713,
+    "totalMangas": 1232,
     "version": "1.0.5"
   },
   "mangas": {
@@ -14774,6 +14774,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl80YjNkNzEuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/8413/wp-content/uploads/2025/01/bell.jpg"
+        }
+      ]
+    },
+    "makr_f67f7c": {
+      "title": "Todos os taoístas dizem que meu imperador tem um físico invencível",
+      "chapters": [
+        {
+          "id": "f67f7c",
+          "title": "Todos os taoístas dizem que meu imperador tem um físico invencível",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl9mNjdmN2MuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/7320/wp-content/uploads/2024/12/taooo.jpg"
         }
       ]
     }
