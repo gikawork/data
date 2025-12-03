@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": 1764724539,
+    "lastUpdated": 1764724554,
     "totalMangas": 1107,
     "version": "1.0.5"
   },
@@ -13274,6 +13274,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8xMjM0Lmpzb24/",
           "type": "manhwa",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx180074-XsEFhKeZHPm6.png"
+        }
+      ]
+    },
+    "majp_2119": {
+      "title": "Red Blue",
+      "chapters": [
+        {
+          "id": "2119",
+          "title": "Red Blue",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzIxMTkuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx144939-znZFKewRGtqE.jpg"
         }
       ]
     }
