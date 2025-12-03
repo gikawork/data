@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764732024,
-    "totalMangas": 1377,
+    "lastUpdated": 1764732033,
+    "totalMangas": 1378,
     "version": "1.0.5"
   },
   "mangas": {
@@ -16526,6 +16526,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl9hNGY4OGIuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/847/6864a7022553a.jpg"
+        }
+      ]
+    },
+    "makr_243f9a": {
+      "title": "Eu sou a filha do protagonista",
+      "chapters": [
+        {
+          "id": "243f9a",
+          "title": "Eu sou a filha do protagonista",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8yNDNmOWEuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/9019/6795d38a3d9bd.png"
         }
       ]
     }
