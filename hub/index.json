@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": 1764763103,
+    "lastUpdated": 1764763111,
     "totalMangas": 2619,
     "version": "1.0.6"
   },
@@ -31421,15 +31421,15 @@
         }
       ]
     },
-    "makr_125": {
-      "title": "Retorno da Lenda",
+    "mach_50722": {
+      "title": "Super Gene",
       "chapters": [
         {
-          "id": "125",
-          "title": "Retorno da Lenda",
-          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8xMjUuanNvbg/",
-          "type": "manhwa",
-          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/9996/68b4ef389d732.jpg"
+          "id": "50722",
+          "title": "Super Gene",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF81MDcyMi5qc29u/",
+          "type": "manhua",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx146404-4mfn3bNgGuPo.png"
         }
       ]
     }
