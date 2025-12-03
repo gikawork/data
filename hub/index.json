@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": 1764728910,
+    "lastUpdated": 1764728925,
     "totalMangas": 1164,
     "version": "1.0.5"
   },
@@ -13958,6 +13958,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzc3Lmpzb24/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx143329-3u3rbOOiWbnP.jpg"
+        }
+      ]
+    },
+    "makr_5248": {
+      "title": "The Lone Necromancer",
+      "chapters": [
+        {
+          "id": "5248",
+          "title": "The Lone Necromancer",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl81MjQ4Lmpzb24/",
+          "type": "manhwa",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx139572-e3vwLcOVQISn.jpg"
         }
       ]
     }
