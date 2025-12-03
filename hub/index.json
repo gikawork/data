@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764739657,
-    "totalMangas": 2213,
+    "lastUpdated": 1764739666,
+    "totalMangas": 2214,
     "version": "1.0.5"
   },
   "mangas": {
@@ -26558,6 +26558,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl80NzAwNS5qc29u/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/8811/679559a22864c.png"
+        }
+      ]
+    },
+    "majp_10748": {
+      "title": "Devorador de Monstros",
+      "chapters": [
+        {
+          "id": "10748",
+          "title": "Devorador de Monstros",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzEwNzQ4Lmpzb24/",
+          "type": "manga",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/12979/68706c2e20438.png"
         }
       ]
     }
