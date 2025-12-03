@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764736462,
-    "totalMangas": 1869,
+    "lastUpdated": 1764736472,
+    "totalMangas": 1870,
     "version": "1.0.5"
   },
   "mangas": {
@@ -22430,6 +22430,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl84YTEyMjQuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/11285/683f1b5a6555a.png"
+        }
+      ]
+    },
+    "makr_c306e3": {
+      "title": "A Estética do Vilão",
+      "chapters": [
+        {
+          "id": "c306e3",
+          "title": "A Estética do Vilão",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl9jMzA2ZTMuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/9711/67a60d8b02563.png"
         }
       ]
     }
