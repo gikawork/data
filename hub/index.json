@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": 1764724679,
+    "lastUpdated": 1764724694,
     "totalMangas": 1106,
     "version": "1.0.5"
   },
@@ -13262,6 +13262,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzI1NDYuanNvbg/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx138110-KBjso1rsdzXh.jpg"
+        }
+      ]
+    },
+    "majp_434": {
+      "title": "Tsuihou sareta Renkinjutsushi wa Mujikaku ni Densetsu to Naru: Yandere Imouto (Oukoku no Shugoryuu) to Issho ni Henkyou de Shiawase ni Kurashimasu!",
+      "chapters": [
+        {
+          "id": "434",
+          "title": "Tsuihou sareta Renkinjutsushi wa Mujikaku ni Densetsu to Naru: Yandere Imouto (Oukoku no Shugoryuu) to Issho ni Henkyou de Shiawase ni Kurashimasu!",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzQzNC5qc29u/",
+          "type": "manga",
+          "cover_url": "https://cdn.myanimelist.net/images/manga/1/313219.jpg"
         }
       ]
     }
