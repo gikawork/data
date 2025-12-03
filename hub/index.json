@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": 1764763111,
+    "lastUpdated": 1764763120,
     "totalMangas": 2619,
     "version": "1.0.6"
   },
@@ -31421,15 +31421,15 @@
         }
       ]
     },
-    "mach_50722": {
-      "title": "Super Gene",
+    "majp_75131": {
+      "title": "Meu esposo é um Conde Tímido",
       "chapters": [
         {
-          "id": "50722",
-          "title": "Super Gene",
-          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF81MDcyMi5qc29u/",
-          "type": "manhua",
-          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx146404-4mfn3bNgGuPo.png"
+          "id": "75131",
+          "title": "Meu esposo é um Conde Tímido",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzc1MTMxLmpzb24/",
+          "type": "manga",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/8905/6795a488ebaad.png"
         }
       ]
     }
