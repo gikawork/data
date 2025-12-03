@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": 1764729272,
+    "lastUpdated": 1764729288,
     "totalMangas": 1172,
     "version": "1.0.5"
   },
@@ -14054,6 +14054,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzcxODkuanNvbg/",
           "type": "manga",
           "cover_url": "https://images2.imgbox.com/9f/8e/SWdmI0ox_o.jpg"
+        }
+      ]
+    },
+    "makr_4635": {
+      "title": "Twin Moon",
+      "chapters": [
+        {
+          "id": "4635",
+          "title": "Twin Moon",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl80NjM1Lmpzb24/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.myanimelist.net/images/manga/3/317097.jpg"
         }
       ]
     }
