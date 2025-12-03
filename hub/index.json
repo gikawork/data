@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764731077,
-    "totalMangas": 1274,
+    "lastUpdated": 1764731086,
+    "totalMangas": 1275,
     "version": "1.0.5"
   },
   "mangas": {
@@ -15290,6 +15290,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8zOTg5MjQuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/13855/68cde2e8b5fe3.png"
+        }
+      ]
+    },
+    "makr_8987": {
+      "title": "The Max Level Hero Strikes Back!",
+      "chapters": [
+        {
+          "id": "8987",
+          "title": "The Max Level Hero Strikes Back!",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl84OTg3Lmpzb24/",
+          "type": "manhwa",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx125636-g0gkyLZbo3Tz.png"
         }
       ]
     }
