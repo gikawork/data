@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764740583,
-    "totalMangas": 2315,
+    "lastUpdated": 1764740592,
+    "totalMangas": 2316,
     "version": "1.0.5"
   },
   "mangas": {
@@ -27782,6 +27782,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl82NzgwOC5qc29u/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/10041/67c3c33d94e4a.png"
+        }
+      ]
+    },
+    "makr_3311": {
+      "title": "Minha Filha é um Dragão!",
+      "chapters": [
+        {
+          "id": "3311",
+          "title": "Minha Filha é um Dragão!",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8zMzExLmpzb24/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/8886/679596b887ae3.png"
         }
       ]
     }
