@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764733491,
-    "totalMangas": 1542,
+    "lastUpdated": 1764733500,
+    "totalMangas": 1543,
     "version": "1.0.5"
   },
   "mangas": {
@@ -18506,6 +18506,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl9lZTIzNmQuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/10544/67edf4a4a921b.png"
+        }
+      ]
+    },
+    "mach_765913": {
+      "title": "Babá Imortal: Pai por Obrigação",
+      "chapters": [
+        {
+          "id": "765913",
+          "title": "Babá Imortal: Pai por Obrigação",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF83NjU5MTMuanNvbg/",
+          "type": "manhua",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/13949/68dc47a995745.png"
         }
       ]
     }
