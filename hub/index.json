@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764731407,
-    "totalMangas": 1311,
+    "lastUpdated": 1764731415,
+    "totalMangas": 1312,
     "version": "1.0.5"
   },
   "mangas": {
@@ -15734,6 +15734,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8xMmU1N2EuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/523/6864c195943b4.jpg"
+        }
+      ]
+    },
+    "makr_49836": {
+      "title": " O Pedido Especial do Meu Chefe",
+      "chapters": [
+        {
+          "id": "49836",
+          "title": " O Pedido Especial do Meu Chefe",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl80OTgzNi5qc29u/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/8887/6795975c89082.png"
         }
       ]
     }
