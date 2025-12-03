@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764740128,
-    "totalMangas": 2265,
+    "lastUpdated": 1764740136,
+    "totalMangas": 2266,
     "version": "1.0.5"
   },
   "mangas": {
@@ -27182,6 +27182,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8yYTJiMDEuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/10362/67d50d2a33e7b.png"
+        }
+      ]
+    },
+    "makr_b2e126": {
+      "title": "Eu Domei um Marquês Louco",
+      "chapters": [
+        {
+          "id": "b2e126",
+          "title": "Eu Domei um Marquês Louco",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl9iMmUxMjYuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/9948/67bd30c6775a1.png"
         }
       ]
     }
