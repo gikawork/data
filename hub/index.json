@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764732956,
-    "totalMangas": 1482,
+    "lastUpdated": 1764732965,
+    "totalMangas": 1483,
     "version": "1.0.5"
   },
   "mangas": {
@@ -17786,6 +17786,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF8yYzI3NDguanNvbg/",
           "type": "manhua",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/9143/6798d6892c0fa.png"
+        }
+      ]
+    },
+    "makr_8fca70": {
+      "title": "Uma Coroa de Louros Vermelhos para Meu Imperador",
+      "chapters": [
+        {
+          "id": "8fca70",
+          "title": "Uma Coroa de Louros Vermelhos para Meu Imperador",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl84ZmNhNzAuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/10196/67ce32a8759ec.png"
         }
       ]
     }
