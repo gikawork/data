@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": 1764723520,
+    "lastUpdated": 1764723535,
     "totalMangas": 1100,
     "version": "1.0.5"
   },
@@ -13190,6 +13190,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzM4NTAuanNvbg/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx44232-JIf5oB4e2M1L.jpg"
+        }
+      ]
+    },
+    "majp_1004": {
+      "title": "Rock wa Lady no Tashinami deshite",
+      "chapters": [
+        {
+          "id": "1004",
+          "title": "Rock wa Lady no Tashinami deshite",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzEwMDQuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://cdn.mangaupdates.com/image/i499687.jpg"
         }
       ]
     }
