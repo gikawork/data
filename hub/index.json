@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764733002,
-    "totalMangas": 1487,
+    "lastUpdated": 1764733010,
+    "totalMangas": 1488,
     "version": "1.0.5"
   },
   "mangas": {
@@ -17846,6 +17846,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl80MDMzMzAuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/10218/67ce6ad162173.png"
+        }
+      ]
+    },
+    "makr_bd3463": {
+      "title": "Investigação",
+      "chapters": [
+        {
+          "id": "bd3463",
+          "title": "Investigação",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl9iZDM0NjMuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/10870/680eac0bb646e.jpg"
         }
       ]
     }
