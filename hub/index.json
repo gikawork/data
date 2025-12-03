@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": 1764725276,
+    "lastUpdated": 1764725291,
     "totalMangas": 1114,
     "version": "1.0.5"
   },
@@ -13358,6 +13358,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21vdC9tYW90XzI0MTUuanNvbg/",
           "type": "outro",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/10224/67ce7a5891ee0.png"
+        }
+      ]
+    },
+    "majp_807": {
+      "title": "Isekai Samurai",
+      "chapters": [
+        {
+          "id": "807",
+          "title": "Isekai Samurai",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzgwNy5qc29u/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx162325-EFZjTxrUlkZZ.jpg"
         }
       ]
     }
