@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": 1764727500,
+    "lastUpdated": 1764727515,
     "totalMangas": 1136,
     "version": "1.0.5"
   },
@@ -13622,6 +13622,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzExNTczLmpzb24/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/4759.jpg"
+        }
+      ]
+    },
+    "majp_51": {
+      "title": "Yuusha-sama wa Houshuu ni Hitozuma wo go Kibou desu",
+      "chapters": [
+        {
+          "id": "51",
+          "title": "Yuusha-sama wa Houshuu ni Hitozuma wo go Kibou desu",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzUxLmpzb24/",
+          "type": "manga",
+          "cover_url": "https://cdn.myanimelist.net/images/manga/1/314154.jpg"
         }
       ]
     }
