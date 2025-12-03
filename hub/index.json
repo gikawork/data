@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764737393,
-    "totalMangas": 1968,
+    "lastUpdated": 1764737402,
+    "totalMangas": 1969,
     "version": "1.0.5"
   },
   "mangas": {
@@ -23618,6 +23618,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8zZGZlZTkuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/273/6861f25c2e9f0.jpg"
+        }
+      ]
+    },
+    "makr_24488e": {
+      "title": "Eu Não Era a Cinderela",
+      "chapters": [
+        {
+          "id": "24488e",
+          "title": "Eu Não Era a Cinderela",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8yNDQ4OGUuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/8925/6795b4029e8e3.png"
         }
       ]
     }
