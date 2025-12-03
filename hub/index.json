@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764737233,
-    "totalMangas": 1952,
+    "lastUpdated": 1764737242,
+    "totalMangas": 1953,
     "version": "1.0.5"
   },
   "mangas": {
@@ -23426,6 +23426,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8zNzcxNC5qc29u/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/10305/67d0fb3280750.png"
+        }
+      ]
+    },
+    "makr_cb830c": {
+      "title": "Por Favor, Não Venha à Papelaria da Vilã!",
+      "chapters": [
+        {
+          "id": "cb830c",
+          "title": "Por Favor, Não Venha à Papelaria da Vilã!",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl9jYjgzMGMuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/8217/67ca8ddd7e04a.png"
         }
       ]
     }
