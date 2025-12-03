@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764735684,
-    "totalMangas": 1784,
+    "lastUpdated": 1764735692,
+    "totalMangas": 1785,
     "version": "1.0.5"
   },
   "mangas": {
@@ -21410,6 +21410,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl81MzM0ODUuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/6480/wp-content/uploads/2024/11/19_11_.png"
+        }
+      ]
+    },
+    "makr_7069": {
+      "title": "O Transcendente",
+      "chapters": [
+        {
+          "id": "7069",
+          "title": "O Transcendente",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl83MDY5Lmpzb24/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/6411/wp-content/uploads/2024/11/transcade.png"
         }
       ]
     }
