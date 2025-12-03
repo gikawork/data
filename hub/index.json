@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": 1764727080,
+    "lastUpdated": 1764727096,
     "totalMangas": 1135,
     "version": "1.0.5"
   },
@@ -13610,6 +13610,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzcxNjAuanNvbg/",
           "type": "manga",
           "cover_url": "https://cdn.mangaupdates.com/image/i496415.jpg"
+        }
+      ]
+    },
+    "majp_2137": {
+      "title": "Gotou-san wa Furimukasetai!",
+      "chapters": [
+        {
+          "id": "2137",
+          "title": "Gotou-san wa Furimukasetai!",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzIxMzcuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://cdn.myanimelist.net/images/manga/1/249122.jpg"
         }
       ]
     }
