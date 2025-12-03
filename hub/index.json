@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764736245,
-    "totalMangas": 1845,
+    "lastUpdated": 1764736254,
+    "totalMangas": 1846,
     "version": "1.0.5"
   },
   "mangas": {
@@ -22142,6 +22142,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8xNzIxMzEuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/10236/67cf24cf3da02.png"
+        }
+      ]
+    },
+    "mach_1676": {
+      "title": "Renascido como Boss",
+      "chapters": [
+        {
+          "id": "1676",
+          "title": "Renascido como Boss",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF8xNjc2Lmpzb24/",
+          "type": "manhua",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/5059/wp-content/uploads/2024/10/renascido-como-boss.jpeg"
         }
       ]
     }
