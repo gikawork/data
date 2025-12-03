@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764734037,
-    "totalMangas": 1603,
+    "lastUpdated": 1764734046,
+    "totalMangas": 1604,
     "version": "1.0.5"
   },
   "mangas": {
@@ -19238,6 +19238,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl9lM2M0OTYuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/8593/68c4935abfaac.png"
+        }
+      ]
+    },
+    "mach_7925": {
+      "title": "Eu Sou o BOSS Mais Forte",
+      "chapters": [
+        {
+          "id": "7925",
+          "title": "Eu Sou o BOSS Mais Forte",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF83OTI1Lmpzb24/",
+          "type": "manhua",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/9205/679d11dd34db4.jpg"
         }
       ]
     }
