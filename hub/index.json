@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764740071,
-    "totalMangas": 2259,
+    "lastUpdated": 1764740080,
+    "totalMangas": 2260,
     "version": "1.0.5"
   },
   "mangas": {
@@ -27110,6 +27110,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl83NzkxM2MuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/9034/6795d7a83ce08.png"
+        }
+      ]
+    },
+    "makr_362378": {
+      "title": "Que tal um horror cósmico?",
+      "chapters": [
+        {
+          "id": "362378",
+          "title": "Que tal um horror cósmico?",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8zNjIzNzguanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/8651/68815e7b7d1b5.jpg"
         }
       ]
     }
