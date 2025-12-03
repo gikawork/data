@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764731008,
-    "totalMangas": 1266,
+    "lastUpdated": 1764731017,
+    "totalMangas": 1267,
     "version": "1.0.5"
   },
   "mangas": {
@@ -15194,6 +15194,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl80NTExNy5qc29u/",
           "type": "manhwa",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx126384-jkpbSvIVCMRs.jpg"
+        }
+      ]
+    },
+    "makr_765db8": {
+      "title": "Reencarnação Ninja",
+      "chapters": [
+        {
+          "id": "765db8",
+          "title": "Reencarnação Ninja",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl83NjVkYjguanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/13471/6893f07b13f08.png"
         }
       ]
     }
