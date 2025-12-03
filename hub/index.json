@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764738816,
-    "totalMangas": 2120,
+    "lastUpdated": 1764738825,
+    "totalMangas": 2121,
     "version": "1.0.5"
   },
   "mangas": {
@@ -25442,6 +25442,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8xN2U4NGIuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/10367/67d59724ab8e3.png"
+        }
+      ]
+    },
+    "makr_dc4180": {
+      "title": "Espada do Deus Dragão",
+      "chapters": [
+        {
+          "id": "dc4180",
+          "title": "Espada do Deus Dragão",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl9kYzQxODAuanNvbg/",
+          "type": "manhwa",
+          "cover_url": ""
         }
       ]
     }
