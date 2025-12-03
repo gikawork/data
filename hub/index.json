@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764737465,
-    "totalMangas": 1976,
+    "lastUpdated": 1764737475,
+    "totalMangas": 1977,
     "version": "1.0.5"
   },
   "mangas": {
@@ -23714,6 +23714,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl83MjcuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx101942-yjslDpT6XcpK.jpg"
+        }
+      ]
+    },
+    "makr_110592": {
+      "title": "Eu me Tornei o Gênio Bastardo de um Nobre Clã Sombrio",
+      "chapters": [
+        {
+          "id": "110592",
+          "title": "Eu me Tornei o Gênio Bastardo de um Nobre Clã Sombrio",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8xMTA1OTIuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/10532/6864604490008.webp"
         }
       ]
     }
