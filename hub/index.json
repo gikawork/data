@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764734692,
-    "totalMangas": 1676,
+    "lastUpdated": 1764734701,
+    "totalMangas": 1677,
     "version": "1.0.5"
   },
   "mangas": {
@@ -20114,6 +20114,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl80ODg1NDQuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/1490/wp-content/uploads/2024/05/1_waifu2x_noise3_scale_x1.0-e1712345557749-1.jpg"
+        }
+      ]
+    },
+    "makr_2888": {
+      "title": "A Caminho de Matar Deus",
+      "chapters": [
+        {
+          "id": "2888",
+          "title": "A Caminho de Matar Deus",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8yODg4Lmpzb24/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/7668/wp-content/uploads/2024/12/killerfod.jpg"
         }
       ]
     }
