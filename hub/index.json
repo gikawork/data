@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": 1764723550,
+    "lastUpdated": 1764723565,
     "totalMangas": 1100,
     "version": "1.0.5"
   },
@@ -13190,6 +13190,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzE3NjEuanNvbg/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx118371-3xk9VUbWnnRR.jpg"
+        }
+      ]
+    },
+    "majp_49746": {
+      "title": "Mieruko-chan Official Comic Anthology",
+      "chapters": [
+        {
+          "id": "49746",
+          "title": "Mieruko-chan Official Comic Anthology",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzQ5NzQ2Lmpzb24/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx141593-UkoBa4Uvv25n.jpg"
         }
       ]
     }
