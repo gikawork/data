@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": 1764728524,
+    "lastUpdated": 1764728539,
     "totalMangas": 1151,
     "version": "1.0.5"
   },
@@ -13802,6 +13802,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8yNjcuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://files.catbox.moe/fg0yfe.jpg"
+        }
+      ]
+    },
+    "majp_4328": {
+      "title": "Isekai Cheat Survival Meshi",
+      "chapters": [
+        {
+          "id": "4328",
+          "title": "Isekai Cheat Survival Meshi",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzQzMjguanNvbg/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx108422-VzWHTN2RYN6n.jpg"
         }
       ]
     }
