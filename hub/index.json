@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764736299,
-    "totalMangas": 1851,
+    "lastUpdated": 1764736308,
+    "totalMangas": 1852,
     "version": "1.0.5"
   },
   "mangas": {
@@ -22214,6 +22214,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl84NzEyNy5qc29u/",
           "type": "manhwa",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx181066-1OpAWw1U9s9F.jpg"
+        }
+      ]
+    },
+    "makr_9109": {
+      "title": "A Heroína é um Homem! (Completo)",
+      "chapters": [
+        {
+          "id": "9109",
+          "title": "A Heroína é um Homem! (Completo)",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl85MTA5Lmpzb24/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/8720/6794201fc6cd9.png"
         }
       ]
     }
