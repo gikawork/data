@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764740565,
-    "totalMangas": 2313,
+    "lastUpdated": 1764740574,
+    "totalMangas": 2314,
     "version": "1.0.5"
   },
   "mangas": {
@@ -27758,6 +27758,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl83NjI5Ny5qc29u/",
           "type": "manhwa",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx173035-DxwNrjU94RWc.jpg"
+        }
+      ]
+    },
+    "makr_ba2fa2": {
+      "title": "Com a Doença Mental Eu Sou Imortal",
+      "chapters": [
+        {
+          "id": "ba2fa2",
+          "title": "Com a Doença Mental Eu Sou Imortal",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl9iYTJmYTIuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/5737/wp-content/uploads/2024/10/Capa-de-In-the-Face-of-Mental-Illness-Ghosts-Are-Nothing-768x1024-1.jpg"
         }
       ]
     }
