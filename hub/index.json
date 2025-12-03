@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764732579,
-    "totalMangas": 1440,
+    "lastUpdated": 1764732587,
+    "totalMangas": 1441,
     "version": "1.0.5"
   },
   "mangas": {
@@ -17282,6 +17282,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl85NGM4NmQuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/7591/wp-content/uploads/2024/12/b0dff732-447c-494e-ac3c-6c092ce40fd3-193x278-1.jpg"
+        }
+      ]
+    },
+    "makr_bd4380": {
+      "title": "O Descendente Mais Jovem dos Magos",
+      "chapters": [
+        {
+          "id": "bd4380",
+          "title": "O Descendente Mais Jovem dos Magos",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl9iZDQzODAuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/143/6861f38464e73.jpg"
         }
       ]
     }
