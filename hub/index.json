@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": 1764727924,
+    "lastUpdated": 1764727939,
     "totalMangas": 1144,
     "version": "1.0.5"
   },
@@ -13718,6 +13718,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzQ4My5qc29u/",
           "type": "manga",
           "cover_url": "https://images2.imgbox.com/d5/46/3BoMJA69_o.jpg"
+        }
+      ]
+    },
+    "makr_72": {
+      "title": "Academy's Genius Swordmaster",
+      "chapters": [
+        {
+          "id": "72",
+          "title": "Academy's Genius Swordmaster",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl83Mi5qc29u/",
+          "type": "manhwa",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx167649-8qpdNIjBdIhQ.png"
         }
       ]
     }
