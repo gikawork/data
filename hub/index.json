@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764732111,
-    "totalMangas": 1387,
+    "lastUpdated": 1764732119,
+    "totalMangas": 1388,
     "version": "1.0.5"
   },
   "mangas": {
@@ -16646,6 +16646,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF8yNzk1MS5qc29u/",
           "type": "manhua",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/7274/wp-content/uploads/2024/12/matevia.jpg"
+        }
+      ]
+    },
+    "maoel_40104": {
+      "title": "Cara da torradeira",
+      "chapters": [
+        {
+          "id": "40104",
+          "title": "Cara da torradeira",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21vZWwvbWFvZWxfNDAxMDQuanNvbg/",
+          "type": "oel",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/11475/6856a2848733b.png"
         }
       ]
     }
