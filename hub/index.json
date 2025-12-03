@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764731683,
-    "totalMangas": 1338,
+    "lastUpdated": 1764731692,
+    "totalMangas": 1339,
     "version": "1.0.5"
   },
   "mangas": {
@@ -16058,6 +16058,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8xYjI3MDkuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/13967/68dde59fa4cfb.webp"
+        }
+      ]
+    },
+    "mach_3049": {
+      "title": "Acontece Que Sou Invencível Há Muito Tempo",
+      "chapters": [
+        {
+          "id": "3049",
+          "title": "Acontece Que Sou Invencível Há Muito Tempo",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF8zMDQ5Lmpzb24/",
+          "type": "manhua",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/10981/68160e76d4fb5.jpg"
         }
       ]
     }
