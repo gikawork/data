@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764737456,
-    "totalMangas": 1975,
+    "lastUpdated": 1764737465,
+    "totalMangas": 1976,
     "version": "1.0.5"
   },
   "mangas": {
@@ -23702,6 +23702,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl82OTIyLmpzb24/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/10376/67d5b6502a606.png"
+        }
+      ]
+    },
+    "makr_727": {
+      "title": "Heavenly Delusion",
+      "chapters": [
+        {
+          "id": "727",
+          "title": "Heavenly Delusion",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl83MjcuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx101942-yjslDpT6XcpK.jpg"
         }
       ]
     }
