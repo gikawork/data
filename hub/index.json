@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": 1764725135,
+    "lastUpdated": 1764725150,
     "totalMangas": 1111,
     "version": "1.0.5"
   },
@@ -13322,6 +13322,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzU1NjIuanNvbg/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx41472-HCkSPS49tEUI.png"
+        }
+      ]
+    },
+    "majp_1067": {
+      "title": "Hitoribocchi no Isekai Kouryaku",
+      "chapters": [
+        {
+          "id": "1067",
+          "title": "Hitoribocchi no Isekai Kouryaku",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzEwNjcuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx107540-vjzxizt1PVLS.jpg"
         }
       ]
     }
