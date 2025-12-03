@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": 1764725199,
+    "lastUpdated": 1764725213,
     "totalMangas": 1113,
     "version": "1.0.5"
   },
@@ -13346,6 +13346,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzY4NS5qc29u/",
           "type": "manga",
           "cover_url": "https://images2.imgbox.com/e8/9d/Z0WKisKN_o.jpg"
+        }
+      ]
+    },
+    "majp_57454": {
+      "title": "Kishi Danchou no Elf-san Datte Otome ga Shitai",
+      "chapters": [
+        {
+          "id": "57454",
+          "title": "Kishi Danchou no Elf-san Datte Otome ga Shitai",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzU3NDU0Lmpzb24/",
+          "type": "manga",
+          "cover_url": "https://cdn.mangaupdates.com/image/i489083.jpg"
         }
       ]
     }
