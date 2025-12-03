@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": 1764723169,
+    "lastUpdated": 1764723184,
     "totalMangas": 1098,
     "version": "1.0.5"
   },
@@ -13166,6 +13166,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8xMjQ1Lmpzb24/",
           "type": "manhwa",
           "cover_url": "https://ap-proxy.mangabaka.dev/proxy.php?url=https://cdn.anime-planet.com/manga/primary/presepe-outside-the-cage-novel-1.webp?t=1732636965"
+        }
+      ]
+    },
+    "majp_872": {
+      "title": "Chigau Miyahara Omae janai!",
+      "chapters": [
+        {
+          "id": "872",
+          "title": "Chigau Miyahara Omae janai!",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzg3Mi5qc29u/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx157065-tyMpdcpkKW49.png"
         }
       ]
     }
