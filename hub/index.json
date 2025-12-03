@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764736806,
-    "totalMangas": 1906,
+    "lastUpdated": 1764736817,
+    "totalMangas": 1907,
     "version": "1.0.5"
   },
   "mangas": {
@@ -22874,6 +22874,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl9jZDAwZDcuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/9175/679ac38ac6916.png"
+        }
+      ]
+    },
+    "makr_baa269": {
+      "title": "Porque eu sou um tio que tem uma loja de armas",
+      "chapters": [
+        {
+          "id": "baa269",
+          "title": "Porque eu sou um tio que tem uma loja de armas",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl9iYWEyNjkuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/10973/6813f2cb99b7c.jpg"
         }
       ]
     }
