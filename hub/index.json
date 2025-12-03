@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764736472,
-    "totalMangas": 1870,
+    "lastUpdated": 1764736481,
+    "totalMangas": 1871,
     "version": "1.0.5"
   },
   "mangas": {
@@ -22442,6 +22442,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl9jMzA2ZTMuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/9711/67a60d8b02563.png"
+        }
+      ]
+    },
+    "makr_21001c": {
+      "title": "O Protagonista Masculino? Eu não o quero.",
+      "chapters": [
+        {
+          "id": "21001c",
+          "title": "O Protagonista Masculino? Eu não o quero.",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8yMTAwMWMuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/9873/67b390d744815.png"
         }
       ]
     }
