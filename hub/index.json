@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764730783,
-    "totalMangas": 1240,
+    "lastUpdated": 1764730792,
+    "totalMangas": 1241,
     "version": "1.0.5"
   },
   "mangas": {
@@ -14882,6 +14882,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8yYjQyMjEuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/171/wp-content/uploads/2024/05/216899bb-optimized.webp"
+        }
+      ]
+    },
+    "makr_e0831f": {
+      "title": "Não Quero Ser Mais o Rei Demônio",
+      "chapters": [
+        {
+          "id": "e0831f",
+          "title": "Não Quero Ser Mais o Rei Demônio",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl9lMDgzMWYuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/4201/6861cffb64c5e.jpg"
         }
       ]
     }
