@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764740236,
-    "totalMangas": 2277,
+    "lastUpdated": 1764740245,
+    "totalMangas": 2278,
     "version": "1.0.5"
   },
   "mangas": {
@@ -27326,6 +27326,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF9iNzk1NzEuanNvbg/",
           "type": "manhua",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/9797/67aba36653c05.jpg"
+        }
+      ]
+    },
+    "makr_2b18d8": {
+      "title": "teste",
+      "chapters": [
+        {
+          "id": "2b18d8",
+          "title": "teste",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8yYjE4ZDguanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/8666/680f873dc41dd.jpg"
         }
       ]
     }
