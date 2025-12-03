@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764729263,
-    "totalMangas": 1171,
+    "lastUpdated": 1764729272,
+    "totalMangas": 1172,
     "version": "1.0.5"
   },
   "mangas": {
@@ -14054,6 +14054,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8xNDYwLmpzb24/",
           "type": "manhwa",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx130870-hRlgIlkXBgqb.png"
+        }
+      ]
+    },
+    "majp_7189": {
+      "title": "Death Penalty",
+      "chapters": [
+        {
+          "id": "7189",
+          "title": "Death Penalty",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzcxODkuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://images2.imgbox.com/9f/8e/SWdmI0ox_o.jpg"
         }
       ]
     }
