@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764730765,
-    "totalMangas": 1238,
+    "lastUpdated": 1764730774,
+    "totalMangas": 1239,
     "version": "1.0.5"
   },
   "mangas": {
@@ -14858,6 +14858,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl84NGYzZDQuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/8112/67a8c65e54078.png"
+        }
+      ]
+    },
+    "makr_21e17d": {
+      "title": "Para o Imoral",
+      "chapters": [
+        {
+          "id": "21e17d",
+          "title": "Para o Imoral",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8yMWUxN2QuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/11077/6820d9523072e.webp"
         }
       ]
     }
