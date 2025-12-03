@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764732303,
-    "totalMangas": 1409,
+    "lastUpdated": 1764732313,
+    "totalMangas": 1410,
     "version": "1.0.5"
   },
   "mangas": {
@@ -16910,6 +16910,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl84MTEzLmpzb24/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/2123/67ce2f16a74cf.png"
+        }
+      ]
+    },
+    "mach_5602": {
+      "title": "Rise of the Mountain Chief",
+      "chapters": [
+        {
+          "id": "5602",
+          "title": "Rise of the Mountain Chief",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF81NjAyLmpzb24/",
+          "type": "manhua",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx141581-3zcr6ZiU5nrR.jpg"
         }
       ]
     }
