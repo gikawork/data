@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764736537,
-    "totalMangas": 1877,
+    "lastUpdated": 1764736547,
+    "totalMangas": 1878,
     "version": "1.0.5"
   },
   "mangas": {
@@ -22526,6 +22526,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl82NTkwLmpzb24/",
           "type": "manhwa",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx139550-VYllS7eBfBoS.png"
+        }
+      ]
+    },
+    "makr_2e093c": {
+      "title": "Fisgando o Protagonista",
+      "chapters": [
+        {
+          "id": "2e093c",
+          "title": "Fisgando o Protagonista",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8yZTA5M2MuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/11167/682f7dbaa095f.jpg"
         }
       ]
     }
