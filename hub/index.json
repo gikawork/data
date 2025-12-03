@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": 1764728749,
+    "lastUpdated": 1764728763,
     "totalMangas": 1159,
     "version": "1.0.5"
   },
@@ -13898,6 +13898,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzEyMDUuanNvbg/",
           "type": "manga",
           "cover_url": "https://images2.imgbox.com/b3/2e/0WmyYFWy_o.png"
+        }
+      ]
+    },
+    "majp_9080": {
+      "title": "Isekai Executioner: The Serial Killer in Another World",
+      "chapters": [
+        {
+          "id": "9080",
+          "title": "Isekai Executioner: The Serial Killer in Another World",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzkwODAuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx159295-g6rYtqRG5YAm.jpg"
         }
       ]
     }
