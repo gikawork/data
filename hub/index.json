@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764731034,
-    "totalMangas": 1269,
+    "lastUpdated": 1764731043,
+    "totalMangas": 1270,
     "version": "1.0.5"
   },
   "mangas": {
@@ -15230,6 +15230,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzMxMjQuanNvbg/",
           "type": "manga",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/10729/6808dc78ec099.jpg"
+        }
+      ]
+    },
+    "mach_25dc47": {
+      "title": "O Retorno do Deus de Guerra Ye Feng",
+      "chapters": [
+        {
+          "id": "25dc47",
+          "title": "O Retorno do Deus de Guerra Ye Feng",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF8yNWRjNDcuanNvbg/",
+          "type": "manhua",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/10979/68160cc6b5ed8.jpg"
         }
       ]
     }
