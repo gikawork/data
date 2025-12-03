@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": 1764725404,
+    "lastUpdated": 1764725419,
     "totalMangas": 1115,
     "version": "1.0.5"
   },
@@ -13370,6 +13370,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzE1OTkuanNvbg/",
           "type": "manga",
           "cover_url": "https://cdn.myanimelist.net/images/manga/1/281783.jpg"
+        }
+      ]
+    },
+    "majp_2272": {
+      "title": "Danshi Kokoseidakedo Gyaru ni TS Shimashita",
+      "chapters": [
+        {
+          "id": "2272",
+          "title": "Danshi Kokoseidakedo Gyaru ni TS Shimashita",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzIyNzIuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://images2.imgbox.com/39/a8/zjuR4Av6_o.jpg"
         }
       ]
     }
