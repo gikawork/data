@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764732198,
-    "totalMangas": 1397,
+    "lastUpdated": 1764732206,
+    "totalMangas": 1398,
     "version": "1.0.5"
   },
   "mangas": {
@@ -16766,6 +16766,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl83OTJmZTIuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/8984/6795cb1302728.png"
+        }
+      ]
+    },
+    "maoel_8806": {
+      "title": "Estou Namorando um Psicopata",
+      "chapters": [
+        {
+          "id": "8806",
+          "title": "Estou Namorando um Psicopata",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21vZWwvbWFvZWxfODgwNi5qc29u/",
+          "type": "oel",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/8928/6795b4f8509a7.png"
         }
       ]
     }
