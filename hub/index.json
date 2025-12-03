@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": 1764727682,
+    "lastUpdated": 1764727696,
     "totalMangas": 1140,
     "version": "1.0.5"
   },
@@ -13670,6 +13670,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzEwMTM2Lmpzb24/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/nx35994-3cWtJWc8KhJq.jpg"
+        }
+      ]
+    },
+    "majp_1015": {
+      "title": "Wazawai no Avalon",
+      "chapters": [
+        {
+          "id": "1015",
+          "title": "Wazawai no Avalon",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzEwMTUuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx170106-TQNdIDrtsN9C.png"
         }
       ]
     }
