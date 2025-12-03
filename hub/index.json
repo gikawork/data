@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764739365,
-    "totalMangas": 2181,
+    "lastUpdated": 1764739375,
+    "totalMangas": 2182,
     "version": "1.0.5"
   },
   "mangas": {
@@ -26174,6 +26174,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl84MDAuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/9975/67c0b003b5081.png"
+        }
+      ]
+    },
+    "makr_78292e": {
+      "title": "Missões de Supremacia",
+      "chapters": [
+        {
+          "id": "78292e",
+          "title": "Missões de Supremacia",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl83ODI5MmUuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/705/6864c46950e4e.jpg"
         }
       ]
     }
