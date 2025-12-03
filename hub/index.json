@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764740618,
-    "totalMangas": 2319,
+    "lastUpdated": 1764740627,
+    "totalMangas": 2320,
     "version": "1.0.5"
   },
   "mangas": {
@@ -27830,6 +27830,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF81MDYxNzkuanNvbg/",
           "type": "manhua",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/9220/679e57b2311e3.avif"
+        }
+      ]
+    },
+    "makr_120851": {
+      "title": "Entrelaçamento Quântico",
+      "chapters": [
+        {
+          "id": "120851",
+          "title": "Entrelaçamento Quântico",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8xMjA4NTEuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/10511/67e4c383a41c2.png"
         }
       ]
     }
