@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": 1764723403,
+    "lastUpdated": 1764723418,
     "totalMangas": 1099,
     "version": "1.0.5"
   },
@@ -13178,6 +13178,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF8yNi5qc29u/",
           "type": "manhua",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx31320-34hlJNSVlvbb.jpg"
+        }
+      ]
+    },
+    "majp_2374": {
+      "title": "Ore no Tomodachi♂♀ ga Kawaisugite Komaru!",
+      "chapters": [
+        {
+          "id": "2374",
+          "title": "Ore no Tomodachi♂♀ ga Kawaisugite Komaru!",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzIzNzQuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx108432-5Vq9GkqAj5ng.jpg"
         }
       ]
     }
