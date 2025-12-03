@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764737054,
-    "totalMangas": 1933,
+    "lastUpdated": 1764737064,
+    "totalMangas": 1934,
     "version": "1.0.5"
   },
   "mangas": {
@@ -23198,6 +23198,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8yYjkzZTAuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/10178/67cdc61841dba.png"
+        }
+      ]
+    },
+    "makr_644": {
+      "title": "A Vilã Vive Novamente",
+      "chapters": [
+        {
+          "id": "644",
+          "title": "A Vilã Vive Novamente",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl82NDQuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/7788/6789837c09f3b.png"
         }
       ]
     }
