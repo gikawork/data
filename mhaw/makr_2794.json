@@ -3,9 +3,30 @@
   "author": "Autor não encontrado",
   "artist": "Artista não encontrado",
   "description": "Quando o implacável Lorde Tiwakan toma o reino de Nauk, a Princesa Liene Arsac enfrenta uma escolha impossível: casar-se com seu captor ou assistir sua terra natal desmoronar. Mas Lorde Tiwakan não está apenas atrás de poder; ele deseja Liene, e sua devoção desperta uma mistura de medo e atração inegável dentro dela. Com seu antigo noivo, Lafitte, ainda desaparecido, Liene deve decidir se confia nas promessas de Tiwakan ou mantém a esperança de um resgate. À medida que segredos perigosos vêm à tona, a decisão de Liene pode mudar o destino de Nauk — e seu próprio coração — para sempre.\n\n",
-  "cover": "https://cdn.verdinha.wtf /scans/1/obras/9973/67c0a0b9c2b9d.png",
+  "cover": "https://cdn.verdinha.wtf/scans/1/obras/9973/67c0a0b9c2b9d.png",
   "status": "Em Andamento",
   "chapters": {
+    "15": {
+      "title": "Capítulo 15",
+      "groups": {
+        "gikamura": [
+          "https://cdn.verdinha.wtf/scans/1/obras/9973/capitulos/15/01.webp",
+          "https://cdn.verdinha.wtf/scans/1/obras/9973/capitulos/15/02.webp",
+          "https://cdn.verdinha.wtf/scans/1/obras/9973/capitulos/15/03.webp",
+          "https://cdn.verdinha.wtf/scans/1/obras/9973/capitulos/15/04.webp",
+          "https://cdn.verdinha.wtf/scans/1/obras/9973/capitulos/15/05.webp",
+          "https://cdn.verdinha.wtf/scans/1/obras/9973/capitulos/15/06.webp",
+          "https://cdn.verdinha.wtf/scans/1/obras/9973/capitulos/15/07.webp",
+          "https://cdn.verdinha.wtf/scans/1/obras/9973/capitulos/15/08.webp",
+          "https://cdn.verdinha.wtf/scans/1/obras/9973/capitulos/15/09.webp",
+          "https://cdn.verdinha.wtf/scans/1/obras/9973/capitulos/15/10.webp",
+          "https://cdn.verdinha.wtf/scans/1/obras/9973/capitulos/15/11.webp",
+          "https://cdn.verdinha.wtf/scans/1/obras/9973/capitulos/15/12.webp",
+          "https://cdn.verdinha.wtf/scans/1/obras/9973/capitulos/15/13.webp",
+          "https://cdn.verdinha.wtf/scans/1/obras/9973/capitulos/15/14.webp"
+        ]
+      }
+    },
     "14": {
       "title": "Capítulo 14",
       "volume": "",
@@ -1086,27 +1107,6 @@
           "https://cdn.mangalivre.ru/manga_67c0145ae0168/6db2a271061ea1e43ba82bc6f755c9d0/74.webp",
           "https://cdn.mangalivre.ru/manga_67c0145ae0168/6db2a271061ea1e43ba82bc6f755c9d0/75.webp",
           "https://cdn.mangalivre.ru/manga_67c0145ae0168/6db2a271061ea1e43ba82bc6f755c9d0/76.webp"
-        ]
-      }
-    },
-    "15": {
-      "title": "Capítulo 15",
-      "groups": {
-        "gikamura": [
-          "https://cdn.verdinha.wtf /scans/1/obras/9973/capitulos/15/01.webp",
-          "https://cdn.verdinha.wtf /scans/1/obras/9973/capitulos/15/02.webp",
-          "https://cdn.verdinha.wtf /scans/1/obras/9973/capitulos/15/03.webp",
-          "https://cdn.verdinha.wtf /scans/1/obras/9973/capitulos/15/04.webp",
-          "https://cdn.verdinha.wtf /scans/1/obras/9973/capitulos/15/05.webp",
-          "https://cdn.verdinha.wtf /scans/1/obras/9973/capitulos/15/06.webp",
-          "https://cdn.verdinha.wtf /scans/1/obras/9973/capitulos/15/07.webp",
-          "https://cdn.verdinha.wtf /scans/1/obras/9973/capitulos/15/08.webp",
-          "https://cdn.verdinha.wtf /scans/1/obras/9973/capitulos/15/09.webp",
-          "https://cdn.verdinha.wtf /scans/1/obras/9973/capitulos/15/10.webp",
-          "https://cdn.verdinha.wtf /scans/1/obras/9973/capitulos/15/11.webp",
-          "https://cdn.verdinha.wtf /scans/1/obras/9973/capitulos/15/12.webp",
-          "https://cdn.verdinha.wtf /scans/1/obras/9973/capitulos/15/13.webp",
-          "https://cdn.verdinha.wtf /scans/1/obras/9973/capitulos/15/14.webp"
         ]
       }
     }
