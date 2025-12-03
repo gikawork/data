@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764735951,
-    "totalMangas": 1813,
+    "lastUpdated": 1764735959,
+    "totalMangas": 1814,
     "version": "1.0.5"
   },
   "mangas": {
@@ -21758,6 +21758,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8xN2E5OTEuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/13721/68b8b000c37c8.webp"
+        }
+      ]
+    },
+    "makr_cce713": {
+      "title": "A Protagonista É A Irmã Mais Velha",
+      "chapters": [
+        {
+          "id": "cce713",
+          "title": "A Protagonista É A Irmã Mais Velha",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl9jY2U3MTMuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/9177/679adaa40f54b.png"
         }
       ]
     }
