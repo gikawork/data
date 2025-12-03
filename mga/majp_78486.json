@@ -6,7 +6,7 @@
   "cover": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx151167-iSrMKlWl1UMS.jpg",
   "status": "Completed",
   "chapters": {
-    "03.6": {
+    "3.6": {
       "title": "Capítulo 03.6",
       "volume": "",
       "last_updated": "1758924624",
@@ -35,7 +35,7 @@
         ]
       }
     },
-    "03.5": {
+    "3.5": {
       "title": "Capítulo 03.5",
       "volume": "",
       "last_updated": "1758924624",
@@ -64,7 +64,7 @@
         ]
       }
     },
-    "03": {
+    "3": {
       "title": "Capítulo 03",
       "volume": "",
       "last_updated": "1758924624",
@@ -112,7 +112,7 @@
         ]
       }
     },
-    "02": {
+    "2": {
       "title": "Capítulo 02",
       "volume": "",
       "last_updated": "1758924624",
@@ -148,7 +148,7 @@
         ]
       }
     },
-    "01": {
+    "1": {
       "title": "Capítulo 01",
       "volume": "",
       "last_updated": "1758924623",
