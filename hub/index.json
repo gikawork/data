@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764738665,
-    "totalMangas": 2104,
+    "lastUpdated": 1764738673,
+    "totalMangas": 2105,
     "version": "1.0.5"
   },
   "mangas": {
@@ -25250,6 +25250,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl9hNjUzODguanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/9150/679968c569e6f.png"
+        }
+      ]
+    },
+    "makr_5030": {
+      "title": "The Possessive Tyrant and His Sleepy Cat",
+      "chapters": [
+        {
+          "id": "5030",
+          "title": "The Possessive Tyrant and His Sleepy Cat",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl81MDMwLmpzb24/",
+          "type": "manhwa",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx176785-4soorA3w5esl.png"
         }
       ]
     }
