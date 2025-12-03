@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764725892,
-    "totalMangas": 1126,
+    "lastUpdated": 1764725904,
+    "totalMangas": 1127,
     "version": "1.0.5"
   },
   "mangas": {
@@ -13514,6 +13514,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl84NzM3My5qc29u/",
           "type": "manhwa",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx188686-Agwyj6NJE4JI.png"
+        }
+      ]
+    },
+    "majp_3294": {
+      "title": "Renai Shigou Shugi",
+      "chapters": [
+        {
+          "id": "3294",
+          "title": "Renai Shigou Shugi",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzMyOTQuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx30828-I0kacikA1GNk.jpg"
         }
       ]
     }
