@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": 1764730166,
+    "lastUpdated": 1764730181,
     "totalMangas": 1191,
     "version": "1.0.5"
   },
@@ -14282,6 +14282,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzU2NzguanNvbg/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx119493-dtva4KFa1z7I.jpg"
+        }
+      ]
+    },
+    "majp_7080": {
+      "title": "Hadashi De Bara Wo Fume",
+      "chapters": [
+        {
+          "id": "7080",
+          "title": "Hadashi De Bara Wo Fume",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzcwODAuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx35272-LPRJKXhg4d9k.png"
         }
       ]
     }
