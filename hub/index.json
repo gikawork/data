@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": 1764727416,
+    "lastUpdated": 1764727429,
     "totalMangas": 1136,
     "version": "1.0.5"
   },
@@ -13622,6 +13622,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzM4MTQ1Lmpzb24/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx114965-yjUURKzPrhSl.jpg"
+        }
+      ]
+    },
+    "majp_2734": {
+      "title": "Okuremashite Seishun",
+      "chapters": [
+        {
+          "id": "2734",
+          "title": "Okuremashite Seishun",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzI3MzQuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx175717-cERkjiw9mzkj.jpg"
         }
       ]
     }
