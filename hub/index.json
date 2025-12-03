@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764731069,
-    "totalMangas": 1273,
+    "lastUpdated": 1764731077,
+    "totalMangas": 1274,
     "version": "1.0.5"
   },
   "mangas": {
@@ -15278,6 +15278,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl82Y2NhNTUuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/8352/wp-content/uploads/2024/12/malledita.webp"
+        }
+      ]
+    },
+    "makr_398924": {
+      "title": "Alguém Te Forçou Se Tornar o Demônio Celestial?",
+      "chapters": [
+        {
+          "id": "398924",
+          "title": "Alguém Te Forçou Se Tornar o Demônio Celestial?",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8zOTg5MjQuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/13855/68cde2e8b5fe3.png"
         }
       ]
     }
