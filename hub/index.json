@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764737280,
-    "totalMangas": 1956,
+    "lastUpdated": 1764737289,
+    "totalMangas": 1957,
     "version": "1.0.5"
   },
   "mangas": {
@@ -23474,6 +23474,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8yMDQ1NDIuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/11273/68c4931a7e691.png"
+        }
+      ]
+    },
+    "makr_4129": {
+      "title": "Os Relatos do Erudito Guerreiro",
+      "chapters": [
+        {
+          "id": "4129",
+          "title": "Os Relatos do Erudito Guerreiro",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl80MTI5Lmpzb24/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/5582/67db2b5a954e1.jpg"
         }
       ]
     }
