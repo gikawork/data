@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764740110,
-    "totalMangas": 2263,
+    "lastUpdated": 1764740119,
+    "totalMangas": 2264,
     "version": "1.0.5"
   },
   "mangas": {
@@ -27158,6 +27158,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl81MTM5NC5qc29u/",
           "type": "manhwa",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx155251-JBrhS56SPKnM.jpg"
+        }
+      ]
+    },
+    "makr_8529cf": {
+      "title": "Os Protagonistas Masculinos Estão Presos Na Minha Casa",
+      "chapters": [
+        {
+          "id": "8529cf",
+          "title": "Os Protagonistas Masculinos Estão Presos Na Minha Casa",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl84NTI5Y2YuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/8450/wp-content/uploads/2025/01/Screenshot_20250103_195257_Chrome.jpg"
         }
       ]
     }
