@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": 1764728344,
+    "lastUpdated": 1764728359,
     "totalMangas": 1149,
     "version": "1.0.5"
   },
@@ -13778,6 +13778,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzMwMjEuanNvbg/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx145675-DKDhWmJTzPAn.jpg"
+        }
+      ]
+    },
+    "makr_808": {
+      "title": "Revenge of the Baskerville Bloodhound",
+      "chapters": [
+        {
+          "id": "808",
+          "title": "Revenge of the Baskerville Bloodhound",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl84MDguanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx163824-KiablxybJD6i.jpg"
         }
       ]
     }
