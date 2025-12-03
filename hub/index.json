@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764732659,
-    "totalMangas": 1449,
+    "lastUpdated": 1764732668,
+    "totalMangas": 1450,
     "version": "1.0.5"
   },
   "mangas": {
@@ -17390,6 +17390,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl84MDE1Lmpzb24/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/8697/67aff0d91d305.png"
+        }
+      ]
+    },
+    "makr_036d58": {
+      "title": "O Gamer Gourmet",
+      "chapters": [
+        {
+          "id": "036d58",
+          "title": "O Gamer Gourmet",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8wMzZkNTguanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/8084/wp-content/uploads/2024/12/803bb5d4-7ce9-4418-84e1-232fa3ad938c.jpg"
         }
       ]
     }
