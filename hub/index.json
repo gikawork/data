@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764737317,
-    "totalMangas": 1960,
+    "lastUpdated": 1764737326,
+    "totalMangas": 1961,
     "version": "1.0.5"
   },
   "mangas": {
@@ -23522,6 +23522,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl83Nzc2NS5qc29u/",
           "type": "manhwa",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx155192-n4pnltBM5fFi.png"
+        }
+      ]
+    },
+    "makr_ec7f36": {
+      "title": "Akagi: O Gênio Que Desceu à Escuridão",
+      "chapters": [
+        {
+          "id": "ec7f36",
+          "title": "Akagi: O Gênio Que Desceu à Escuridão",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl9lYzdmMzYuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/10894/680ead917b340.jpg"
         }
       ]
     }
