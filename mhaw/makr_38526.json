@@ -1,0 +1,27 @@
+{
+  "title": "1-Nen de 1 Page dake Susumu Manga no Sekai",
+  "author": "Jirou Kido",
+  "artist": "Jirou Kido",
+  "description": "O mangá segue um mundo fictício onde a história avança apenas uma página por ano. A narrativa brinca com a expectativa dos leitores, oferecendo pequenos avanços anuais que criam tanto suspense quanto humor. A consistência na liberação de uma única página anualmente é o ponto central, o que torna a obra única e cômica",
+  "cover": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx117010-wgp3SkdNExFA.png",
+  "status": "Em Andamento",
+  "chapters": {
+    "2": {
+      "title": "Capítulo 2",
+      "groups": {
+        "gikamura": [
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/manga_6719a47708aae/08cb347b54c0f69c17146c7dce3a6816/175958_001.jpg"
+        ]
+      }
+    },
+    "1": {
+      "title": "Capítulo 01",
+      "groups": {
+        "gikamura": [
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/manga_6719a47708aae/a31cefa103c8993cee6662c39fe162f9/01.png",
+          "https://cdn.verdinha.wtf/wp-content/uploads/WP-manga/data/manga_6719a47708aae/a31cefa103c8993cee6662c39fe162f9/02.png"
+        ]
+      }
+    }
+  }
+}
