@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764739140,
-    "totalMangas": 2156,
+    "lastUpdated": 1764739149,
+    "totalMangas": 2157,
     "version": "1.0.5"
   },
   "mangas": {
@@ -25874,6 +25874,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl81MDI3OS5qc29u/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/11443/6854988a77c6b.png"
+        }
+      ]
+    },
+    "makr_ccf5d3": {
+      "title": "O Infrator",
+      "chapters": [
+        {
+          "id": "ccf5d3",
+          "title": "O Infrator",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl9jY2Y1ZDMuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/6459/wp-content/uploads/2024/11/break.jpg"
         }
       ]
     }
