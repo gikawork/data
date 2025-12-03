@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": 1764724897,
+    "lastUpdated": 1764724913,
     "totalMangas": 1110,
     "version": "1.0.5"
   },
@@ -13310,6 +13310,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzEzMjMuanNvbg/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/882.jpg"
+        }
+      ]
+    },
+    "majp_1593": {
+      "title": "Mob kara Hajimaru Tansaku Eiyuutan",
+      "chapters": [
+        {
+          "id": "1593",
+          "title": "Mob kara Hajimaru Tansaku Eiyuutan",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzE1OTMuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://cdn.myanimelist.net/images/manga/3/293110.jpg"
         }
       ]
     }
