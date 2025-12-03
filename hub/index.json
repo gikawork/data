@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764732632,
-    "totalMangas": 1446,
+    "lastUpdated": 1764732641,
+    "totalMangas": 1447,
     "version": "1.0.5"
   },
   "mangas": {
@@ -17354,6 +17354,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl9iY2Y0ZTYuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/10280/67d039168bf98.png"
+        }
+      ]
+    },
+    "makr_358883": {
+      "title": "Um Cadete se Torna um Profeta?!",
+      "chapters": [
+        {
+          "id": "358883",
+          "title": "Um Cadete se Torna um Profeta?!",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8zNTg4ODMuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/13539/68a02be3c6930.jpg"
         }
       ]
     }
