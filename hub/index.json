@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764738757,
-    "totalMangas": 2114,
+    "lastUpdated": 1764738766,
+    "totalMangas": 2115,
     "version": "1.0.5"
   },
   "mangas": {
@@ -25370,6 +25370,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8yYzc1MTcuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/5161/6861faf0e5f1d.webp"
+        }
+      ]
+    },
+    "makr_ccb8ae": {
+      "title": "Eu Irei Destruir esse País",
+      "chapters": [
+        {
+          "id": "ccb8ae",
+          "title": "Eu Irei Destruir esse País",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl9jY2I4YWUuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/9203/6861d4e5c3633.jpg"
         }
       ]
     }
