@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764729402,
-    "totalMangas": 1174,
+    "lastUpdated": 1764729414,
+    "totalMangas": 1175,
     "version": "1.0.5"
   },
   "mangas": {
@@ -14090,6 +14090,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzUyMS5qc29u/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx153825-R7HRsUdJQL7h.jpg"
+        }
+      ]
+    },
+    "majp_602": {
+      "title": "Giant Killing",
+      "chapters": [
+        {
+          "id": "602",
+          "title": "Giant Killing",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzYwMi5qc29u/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx43897-nWNzhEW9ibIf.jpg"
         }
       ]
     }
