@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764736236,
-    "totalMangas": 1844,
+    "lastUpdated": 1764736245,
+    "totalMangas": 1845,
     "version": "1.0.5"
   },
   "mangas": {
@@ -22130,6 +22130,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl81NTA1MC5qc29u/",
           "type": "manhwa",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx154361-exmdrQ6zZJdR.jpg"
+        }
+      ]
+    },
+    "makr_172131": {
+      "title": "Fale Comigo",
+      "chapters": [
+        {
+          "id": "172131",
+          "title": "Fale Comigo",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8xNzIxMzEuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/10236/67cf24cf3da02.png"
         }
       ]
     }
