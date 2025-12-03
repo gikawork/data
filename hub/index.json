@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764740052,
-    "totalMangas": 2257,
+    "lastUpdated": 1764740062,
+    "totalMangas": 2258,
     "version": "1.0.5"
   },
   "mangas": {
@@ -27086,6 +27086,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl9jOTA3OWIuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/13555/68a3c1b4c7f79.jpg"
+        }
+      ]
+    },
+    "mach_362480": {
+      "title": "Despertar em Tempo Integral",
+      "chapters": [
+        {
+          "id": "362480",
+          "title": "Despertar em Tempo Integral",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF8zNjI0ODAuanNvbg/",
+          "type": "manhua",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/13297/687f841d718e4.png"
         }
       ]
     }
