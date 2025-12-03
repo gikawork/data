@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764724724,
-    "totalMangas": 1106,
+    "lastUpdated": 1764724733,
+    "totalMangas": 1107,
     "version": "1.0.5"
   },
   "mangas": {
@@ -13274,6 +13274,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzI1MDI0Lmpzb24/",
           "type": "manga",
           "cover_url": "https://cdn.mangaupdates.com/image/i453100.jpg"
+        }
+      ]
+    },
+    "makr_82142": {
+      "title": "Yongsaljaui Keullaeseuga Dareun Hoegwi",
+      "chapters": [
+        {
+          "id": "82142",
+          "title": "Yongsaljaui Keullaeseuga Dareun Hoegwi",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl84MjE0Mi5qc29u/",
+          "type": "manhwa",
+          "cover_url": "https://images2.imgbox.com/0d/31/F9ZVLF3E_o.jpg"
         }
       ]
     }
