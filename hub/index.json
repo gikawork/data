@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": 1764761756,
+    "lastUpdated": 1764761764,
     "totalMangas": 2615,
     "version": "1.0.6"
   },
@@ -31373,15 +31373,15 @@
         }
       ]
     },
-    "makr_49019": {
-      "title": "Chama Azul",
+    "majp_415": {
+      "title": "Garotas Super Bola",
       "chapters": [
         {
-          "id": "49019",
-          "title": "Chama Azul",
-          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl80OTAxOS5qc29u/",
-          "type": "manhwa",
-          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/9192/679ae44b5decf.jpg"
+          "id": "415",
+          "title": "Garotas Super Bola",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzQxNS5qc29u/",
+          "type": "manga",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/10916/680eb04811267.jpg"
         }
       ]
     }
