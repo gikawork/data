@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764733728,
-    "totalMangas": 1568,
+    "lastUpdated": 1764733736,
+    "totalMangas": 1569,
     "version": "1.0.5"
   },
   "mangas": {
@@ -18818,6 +18818,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8xMTYyZGUuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/10284/67d04828e7421.png"
+        }
+      ]
+    },
+    "makr_447df1": {
+      "title": " História de Amor da Neve do Norte",
+      "chapters": [
+        {
+          "id": "447df1",
+          "title": " História de Amor da Neve do Norte",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl80NDdkZjEuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/8857/67e849ed1a1d9.png"
         }
       ]
     }
