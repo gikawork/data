@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764730843,
-    "totalMangas": 1247,
+    "lastUpdated": 1764730852,
+    "totalMangas": 1248,
     "version": "1.0.5"
   },
   "mangas": {
@@ -14966,6 +14966,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl9lN2Y4ZDIuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/10945/6810586040f5e.png"
+        }
+      ]
+    },
+    "makr_f7b2c6": {
+      "title": "O Retorno do Herói",
+      "chapters": [
+        {
+          "id": "f7b2c6",
+          "title": "O Retorno do Herói",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl9mN2IyYzYuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/284/67d0537ae9e84.jpg"
         }
       ]
     }
