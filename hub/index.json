@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": 1764727569,
+    "lastUpdated": 1764727584,
     "totalMangas": 1137,
     "version": "1.0.5"
   },
@@ -13634,6 +13634,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl84MDIyNC5qc29u/",
           "type": "manhwa",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx183698-TmBjV6nJIHeq.jpg"
+        }
+      ]
+    },
+    "mach_4431": {
+      "title": "Ultimate Son-in-law",
+      "chapters": [
+        {
+          "id": "4431",
+          "title": "Ultimate Son-in-law",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF80NDMxLmpzb24/",
+          "type": "manhua",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx165063-lXGNwxADe2S1.png"
         }
       ]
     }
