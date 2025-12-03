@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764733921,
-    "totalMangas": 1590,
+    "lastUpdated": 1764733930,
+    "totalMangas": 1591,
     "version": "1.0.5"
   },
   "mangas": {
@@ -19082,6 +19082,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl9jMjUxYmQuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/5406/wp-content/uploads/2024/10/f4d9b4eb-46c0-415b-a2f3-0b395faf52b3.png"
+        }
+      ]
+    },
+    "makr_c8dab0": {
+      "title": "Não Posso Ser Apenas Um Estudante?",
+      "chapters": [
+        {
+          "id": "c8dab0",
+          "title": "Não Posso Ser Apenas Um Estudante?",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl9jOGRhYjAuanNvbg/",
+          "type": "manhwa",
+          "cover_url": ""
         }
       ]
     }
