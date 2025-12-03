@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764731094,
-    "totalMangas": 1276,
+    "lastUpdated": 1764731103,
+    "totalMangas": 1277,
     "version": "1.0.5"
   },
   "mangas": {
@@ -15314,6 +15314,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzI4MzA2Lmpzb24/",
           "type": "manga",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/10057/67c4626a92261.png"
+        }
+      ]
+    },
+    "makr_fd7588": {
+      "title": "A Máscara do Imperador",
+      "chapters": [
+        {
+          "id": "fd7588",
+          "title": "A Máscara do Imperador",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl9mZDc1ODguanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/8749/67948737bc490.png"
         }
       ]
     }
