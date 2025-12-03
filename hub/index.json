@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764735006,
-    "totalMangas": 1709,
+    "lastUpdated": 1764735015,
+    "totalMangas": 1710,
     "version": "1.0.5"
   },
   "mangas": {
@@ -20510,6 +20510,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl9hNmFlNTcuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/9269/67a3ed8d46fe1.png"
+        }
+      ]
+    },
+    "mach_db3874": {
+      "title": "Terra Espiritual (Parte 2.5) - A Lenda do Reino dos Deuses",
+      "chapters": [
+        {
+          "id": "db3874",
+          "title": "Terra Espiritual (Parte 2.5) - A Lenda do Reino dos Deuses",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF9kYjM4NzQuanNvbg/",
+          "type": "manhua",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/13801/68c47ea04001d.png"
         }
       ]
     }
