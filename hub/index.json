@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764737784,
-    "totalMangas": 2007,
+    "lastUpdated": 1764737795,
+    "totalMangas": 2008,
     "version": "1.0.5"
   },
   "mangas": {
@@ -24086,6 +24086,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF8zOTYxNjMuanNvbg/",
           "type": "manhua",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx190687-tVmIaZbKAJhx.png"
+        }
+      ]
+    },
+    "makr_5346": {
+      "title": "How to Win My Husband Over",
+      "chapters": [
+        {
+          "id": "5346",
+          "title": "How to Win My Husband Over",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl81MzQ2Lmpzb24/",
+          "type": "manhwa",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx141013-YZhKrs2IqxWY.png"
         }
       ]
     }
