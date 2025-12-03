@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764734711,
-    "totalMangas": 1678,
+    "lastUpdated": 1764734720,
+    "totalMangas": 1679,
     "version": "1.0.5"
   },
   "mangas": {
@@ -20138,6 +20138,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl9jNjRlMjguanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/8861/679565af66040.png"
+        }
+      ]
+    },
+    "makr_3771": {
+      "title": "Serena",
+      "chapters": [
+        {
+          "id": "3771",
+          "title": "Serena",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8zNzcxLmpzb24/",
+          "type": "manhwa",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx157871-osXsP0Wmz3JI.jpg"
         }
       ]
     }
