@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764728777,
-    "totalMangas": 1159,
+    "lastUpdated": 1764728789,
+    "totalMangas": 1160,
     "version": "1.0.5"
   },
   "mangas": {
@@ -13910,6 +13910,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF8zNTEyOTguanNvbg/",
           "type": "manhua",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx195075-ihTiKium9JrI.jpg"
+        }
+      ]
+    },
+    "majp_2748": {
+      "title": "10-manbun no 1",
+      "chapters": [
+        {
+          "id": "2748",
+          "title": "10-manbun no 1",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzI3NDguanNvbg/",
+          "type": "manga",
+          "cover_url": "https://images2.imgbox.com/e3/fc/vHds2pVB_o.jpg"
         }
       ]
     }
