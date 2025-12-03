@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764730800,
-    "totalMangas": 1242,
+    "lastUpdated": 1764730809,
+    "totalMangas": 1243,
     "version": "1.0.5"
   },
   "mangas": {
@@ -14906,6 +14906,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzczMDJlMi5qc29u/",
           "type": "manga",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/12913/686aa4c09450e.webp"
+        }
+      ]
+    },
+    "makr_7dc055": {
+      "title": "O conto de um imortal",
+      "chapters": [
+        {
+          "id": "7dc055",
+          "title": "O conto de um imortal",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl83ZGMwNTUuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/8833/67955db3735ce.png"
         }
       ]
     }
