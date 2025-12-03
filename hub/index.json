@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764739594,
-    "totalMangas": 2206,
+    "lastUpdated": 1764739603,
+    "totalMangas": 2207,
     "version": "1.0.5"
   },
   "mangas": {
@@ -26474,6 +26474,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl9lNWNkZmYuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/8178/wp-content/uploads/2024/12/514j6C1ua0L.jpg"
+        }
+      ]
+    },
+    "majp_56154": {
+      "title": "A Reencarnação do Arquimago Proibido",
+      "chapters": [
+        {
+          "id": "56154",
+          "title": "A Reencarnação do Arquimago Proibido",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzU2MTU0Lmpzb24/",
+          "type": "manga",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/7324/68c2656f083f0.jpg"
         }
       ]
     }
