@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764733582,
-    "totalMangas": 1552,
+    "lastUpdated": 1764733591,
+    "totalMangas": 1553,
     "version": "1.0.5"
   },
   "mangas": {
@@ -18626,6 +18626,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl81NGU5OGMuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/9144/6798d7dbee31b.png"
+        }
+      ]
+    },
+    "majp_a55370": {
+      "title": "Imperador Primordial",
+      "chapters": [
+        {
+          "id": "a55370",
+          "title": "Imperador Primordial",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwX2E1NTM3MC5qc29u/",
+          "type": "manga",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/10346/67d3920f2d94c.png"
         }
       ]
     }
