@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": 1764722887,
+    "lastUpdated": 1764722901,
     "totalMangas": 1098,
     "version": "1.0.5"
   },
@@ -13166,6 +13166,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzY5MjUuanNvbg/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx152235-ckNVfSZs9Lqt.jpg"
+        }
+      ]
+    },
+    "majp_990": {
+      "title": "Kaoru Hana wa Rin to Saku",
+      "chapters": [
+        {
+          "id": "990",
+          "title": "Kaoru Hana wa Rin to Saku",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzk5MC5qc29u/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx140475-QEGtrmdvbpOv.jpg"
         }
       ]
     }
