@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764726893,
-    "totalMangas": 1133,
+    "lastUpdated": 1764726903,
+    "totalMangas": 1134,
     "version": "1.0.5"
   },
   "mangas": {
@@ -13598,6 +13598,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzM3MzYuanNvbg/",
           "type": "manga",
           "cover_url": "https://cdn.myanimelist.net/images/manga/3/314827.jpg"
+        }
+      ]
+    },
+    "makr_4005": {
+      "title": "Kowloon Copóka",
+      "chapters": [
+        {
+          "id": "4005",
+          "title": "Kowloon Copóka",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl80MDA1Lmpzb24/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/10170/67cd05805fe72.png"
         }
       ]
     }
