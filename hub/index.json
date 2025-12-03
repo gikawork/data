@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764738442,
-    "totalMangas": 2079,
+    "lastUpdated": 1764738451,
+    "totalMangas": 2080,
     "version": "1.0.5"
   },
   "mangas": {
@@ -24950,6 +24950,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl83ODYyLmpzb24/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/10358/67d4af0947312.png"
+        }
+      ]
+    },
+    "mach_51181": {
+      "title": "Roleta Mundial",
+      "chapters": [
+        {
+          "id": "51181",
+          "title": "Roleta Mundial",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF81MTE4MS5qc29u/",
+          "type": "manhua",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/6379/wp-content/uploads/2024/11/roletaaa.jpg"
         }
       ]
     }
