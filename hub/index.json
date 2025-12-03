@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764736890,
-    "totalMangas": 1915,
+    "lastUpdated": 1764736899,
+    "totalMangas": 1916,
     "version": "1.0.5"
   },
   "mangas": {
@@ -22982,6 +22982,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8zOWUwMDMuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/8832/67955d6e61733.png"
+        }
+      ]
+    },
+    "makr_6abea0": {
+      "title": "Derrubando Gigantes",
+      "chapters": [
+        {
+          "id": "6abea0",
+          "title": "Derrubando Gigantes",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl82YWJlYTAuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/10814/680ea93d904b6.jpg"
         }
       ]
     }
