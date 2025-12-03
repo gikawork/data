@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764735594,
-    "totalMangas": 1774,
+    "lastUpdated": 1764735602,
+    "totalMangas": 1775,
     "version": "1.0.5"
   },
   "mangas": {
@@ -21290,6 +21290,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8yZWE0MDYuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/4210/67c325365b20c.jpg"
+        }
+      ]
+    },
+    "makr_41f4dc": {
+      "title": "Transformando um Cachorro Louco em um Gentil Lorde!",
+      "chapters": [
+        {
+          "id": "41f4dc",
+          "title": "Transformando um Cachorro Louco em um Gentil Lorde!",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl80MWY0ZGMuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/8170/67cbe081f4080.png"
         }
       ]
     }
