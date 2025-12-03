@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764731971,
-    "totalMangas": 1371,
+    "lastUpdated": 1764731980,
+    "totalMangas": 1372,
     "version": "1.0.5"
   },
   "mangas": {
@@ -16454,6 +16454,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl9lNjVhNzEuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/8324/6793db9025577.png"
+        }
+      ]
+    },
+    "makr_496": {
+      "title": "Post-Possession Damage Control",
+      "chapters": [
+        {
+          "id": "496",
+          "title": "Post-Possession Damage Control",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl80OTYuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx170261-1K9JYzNaBAX1.jpg"
         }
       ]
     }
