@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": 1764729888,
+    "lastUpdated": 1764729903,
     "totalMangas": 1187,
     "version": "1.0.5"
   },
@@ -14234,6 +14234,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzI0NDQuanNvbg/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx128448-7EMeQjdXbB2k.png"
+        }
+      ]
+    },
+    "makr_81545": {
+      "title": "Bad Born Blood",
+      "chapters": [
+        {
+          "id": "81545",
+          "title": "Bad Born Blood",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl84MTU0NS5qc29u/",
+          "type": "manhwa",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx184347-lDVGEttgQHbY.jpg"
         }
       ]
     }
