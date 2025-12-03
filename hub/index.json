@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764763483,
-    "totalMangas": 2620,
+    "lastUpdated": 1764763491,
+    "totalMangas": 2621,
     "version": "1.0.6"
   },
   "mangas": {
@@ -31442,6 +31442,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl80ODY0Mi5qc29u/",
           "type": "manhwa",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx146985-X2QIWXAKpSYu.png"
+        }
+      ]
+    },
+    "makr_4ef517": {
+      "title": "Ascensão do Imperador",
+      "chapters": [
+        {
+          "id": "4ef517",
+          "title": "Ascensão do Imperador",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl80ZWY1MTcuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/6102/wp-content/uploads/2024/11/fraudddd.jpg"
         }
       ]
     }
