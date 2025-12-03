@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764731868,
-    "totalMangas": 1359,
+    "lastUpdated": 1764731876,
+    "totalMangas": 1360,
     "version": "1.0.5"
   },
   "mangas": {
@@ -16310,6 +16310,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl83ODIyNC5qc29u/",
           "type": "manhwa",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx177675-IpUeDowelE08.png"
+        }
+      ]
+    },
+    "makr_2fb090": {
+      "title": "Em Busca da Coroa",
+      "chapters": [
+        {
+          "id": "2fb090",
+          "title": "Em Busca da Coroa",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8yZmIwOTAuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/13241/687c178871d16.webp"
         }
       ]
     }
