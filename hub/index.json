@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764735110,
-    "totalMangas": 1721,
+    "lastUpdated": 1764735119,
+    "totalMangas": 1722,
     "version": "1.0.5"
   },
   "mangas": {
@@ -20654,6 +20654,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl9iZDBkYTAuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/13901/68d86d4d032ae.webp"
+        }
+      ]
+    },
+    "makr_7071": {
+      "title": "Mestre Domador",
+      "chapters": [
+        {
+          "id": "7071",
+          "title": "Mestre Domador",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl83MDcxLmpzb24/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/8662/678931924d6bb.jpg"
         }
       ]
     }
