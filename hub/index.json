@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": 1764761337,
+    "lastUpdated": 1764761345,
     "totalMangas": 2613,
     "version": "1.0.6"
   },
@@ -31349,15 +31349,15 @@
         }
       ]
     },
-    "makr_2301b6": {
-      "title": "O Recomeço de um Noob",
+    "majp_7fbea2": {
+      "title": "A Ovelha Dourada",
       "chapters": [
         {
-          "id": "2301b6",
-          "title": "O Recomeço de um Noob",
-          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8yMzAxYjYuanNvbg/",
-          "type": "manhwa",
-          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/4166/6861f70abc6b9.jpg"
+          "id": "7fbea2",
+          "title": "A Ovelha Dourada",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzdmYmVhMi5qc29u/",
+          "type": "manga",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/11463/6855af4667eeb.webp"
         }
       ]
     }
