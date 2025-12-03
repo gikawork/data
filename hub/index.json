@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764732093,
-    "totalMangas": 1385,
+    "lastUpdated": 1764732102,
+    "totalMangas": 1386,
     "version": "1.0.5"
   },
   "mangas": {
@@ -16622,6 +16622,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzMxMzIuanNvbg/",
           "type": "manga",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/13317/687fcec6c3a88.webp"
+        }
+      ]
+    },
+    "makr_479": {
+      "title": "A Saga de Valhalla",
+      "chapters": [
+        {
+          "id": "479",
+          "title": "A Saga de Valhalla",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl80NzkuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/6563/679d0abf685a0.png"
         }
       ]
     }
