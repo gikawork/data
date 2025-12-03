@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": 1764723565,
+    "lastUpdated": 1764723580,
     "totalMangas": 1100,
     "version": "1.0.5"
   },
@@ -13190,6 +13190,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzQ5NzQ2Lmpzb24/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx141593-UkoBa4Uvv25n.jpg"
+        }
+      ]
+    },
+    "majp_202936": {
+      "title": "Shachou to Sake to Hoshi",
+      "chapters": [
+        {
+          "id": "202936",
+          "title": "Shachou to Sake to Hoshi",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzIwMjkzNi5qc29u/",
+          "type": "manga",
+          "cover_url": "https://cdn.myanimelist.net/images/manga/3/329496.jpg"
         }
       ]
     }
