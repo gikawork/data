@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": 1764726374,
+    "lastUpdated": 1764726389,
     "totalMangas": 1126,
     "version": "1.0.5"
   },
@@ -13502,6 +13502,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl80MTQ0Lmpzb24/",
           "type": "manhwa",
           "cover_url": "https://cdn.myanimelist.net/images/manga/2/270824.jpg"
+        }
+      ]
+    },
+    "majp_5038": {
+      "title": "Ankoku Delta",
+      "chapters": [
+        {
+          "id": "5038",
+          "title": "Ankoku Delta",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzUwMzguanNvbg/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx176152-opWhRFmedLMC.jpg"
         }
       ]
     }
