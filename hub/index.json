@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": 1764724258,
+    "lastUpdated": 1764724273,
     "totalMangas": 1104,
     "version": "1.0.5"
   },
@@ -13238,6 +13238,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzM4Ny5qc29u/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx170601-CdJ0QJcuflkX.jpg"
+        }
+      ]
+    },
+    "makr_5896": {
+      "title": "Death Is the Only Ending for the Villainess",
+      "chapters": [
+        {
+          "id": "5896",
+          "title": "Death Is the Only Ending for the Villainess",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl81ODk2Lmpzb24/",
+          "type": "manhwa",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx118408-zZuOINqjBZYn.jpg"
         }
       ]
     }
