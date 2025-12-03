@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764729110,
-    "totalMangas": 1166,
+    "lastUpdated": 1764729118,
+    "totalMangas": 1167,
     "version": "1.0.5"
   },
   "mangas": {
@@ -13994,6 +13994,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzcuanNvbg/",
           "type": "manga",
           "cover_url": "https://images2.imgbox.com/bc/29/eOy2ewbr_o.jpg"
+        }
+      ]
+    },
+    "maot_321907": {
+      "title": "Mushoku Tensei ~Isekai Ittara Honki Dasu~",
+      "chapters": [
+        {
+          "id": "321907",
+          "title": "Mushoku Tensei ~Isekai Ittara Honki Dasu~",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21vdC9tYW90XzMyMTkwNy5qc29u/",
+          "type": "outro",
+          "cover_url": "https://cdn.myanimelist.net/images/manga/2/181049.jpg"
         }
       ]
     }
