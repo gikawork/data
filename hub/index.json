@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764738433,
-    "totalMangas": 2078,
+    "lastUpdated": 1764738442,
+    "totalMangas": 2079,
     "version": "1.0.5"
   },
   "mangas": {
@@ -24938,6 +24938,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzU4NTAyLmpzb24/",
           "type": "manga",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/10966/681356267d4b5.jpg"
+        }
+      ]
+    },
+    "makr_7862": {
+      "title": "Por Favor, Se Esqueça Sobre Vivian",
+      "chapters": [
+        {
+          "id": "7862",
+          "title": "Por Favor, Se Esqueça Sobre Vivian",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl83ODYyLmpzb24/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/10358/67d4af0947312.png"
         }
       ]
     }
