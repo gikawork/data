@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764737353,
-    "totalMangas": 1964,
+    "lastUpdated": 1764737362,
+    "totalMangas": 1965,
     "version": "1.0.5"
   },
   "mangas": {
@@ -23570,6 +23570,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzA3Y2RkYi5qc29u/",
           "type": "manga",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/10957/68118e04f0d47.jpg"
+        }
+      ]
+    },
+    "makr_50575": {
+      "title": "My Ray of Hope",
+      "chapters": [
+        {
+          "id": "50575",
+          "title": "My Ray of Hope",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl81MDU3NS5qc29u/",
+          "type": "manhwa",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx144124-McRlQYNjlTR9.jpg"
         }
       ]
     }
