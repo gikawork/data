@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764739221,
-    "totalMangas": 2165,
+    "lastUpdated": 1764739232,
+    "totalMangas": 2166,
     "version": "1.0.5"
   },
   "mangas": {
@@ -25982,6 +25982,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8zODUyNi5qc29u/",
           "type": "manhwa",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx117010-wgp3SkdNExFA.png"
+        }
+      ]
+    },
+    "makr_abc36c": {
+      "title": "O Duque Monstruoso me Confundiu com Sua Esposa",
+      "chapters": [
+        {
+          "id": "abc36c",
+          "title": "O Duque Monstruoso me Confundiu com Sua Esposa",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl9hYmMzNmMuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/8817/67955ad4d2e6c.png"
         }
       ]
     }
