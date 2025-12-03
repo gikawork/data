@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764731876,
-    "totalMangas": 1360,
+    "lastUpdated": 1764731885,
+    "totalMangas": 1361,
     "version": "1.0.5"
   },
   "mangas": {
@@ -16322,6 +16322,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8yZmIwOTAuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/13241/687c178871d16.webp"
+        }
+      ]
+    },
+    "majp_045513": {
+      "title": "É possível existir amizade entre homens e mulheres? (Não, não pode!)",
+      "chapters": [
+        {
+          "id": "045513",
+          "title": "É possível existir amizade entre homens e mulheres? (Não, não pode!)",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzA0NTUxMy5qc29u/",
+          "type": "manga",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/10972/6813af591ea66.webp"
         }
       ]
     }
