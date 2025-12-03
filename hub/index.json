@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": 1764725080,
+    "lastUpdated": 1764725095,
     "totalMangas": 1110,
     "version": "1.0.5"
   },
@@ -13310,6 +13310,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzI3OTkuanNvbg/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx30869-74jlFKeVhvsG.jpg"
+        }
+      ]
+    },
+    "majp_26152": {
+      "title": "Light Trap",
+      "chapters": [
+        {
+          "id": "26152",
+          "title": "Light Trap",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzI2MTUyLmpzb24/",
+          "type": "manga",
+          "cover_url": "https://images2.imgbox.com/c6/0d/Zz2hRASd_o.jpg"
         }
       ]
     }
