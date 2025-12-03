@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": 1764723313,
+    "lastUpdated": 1764723328,
     "totalMangas": 1099,
     "version": "1.0.5"
   },
@@ -13178,6 +13178,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzM4NzQuanNvbg/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx104730-89vH0896A01d.jpg"
+        }
+      ]
+    },
+    "majp_18382": {
+      "title": "Saenai Heroine no Sodatekata: Koisuru Metronome",
+      "chapters": [
+        {
+          "id": "18382",
+          "title": "Saenai Heroine no Sodatekata: Koisuru Metronome",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzE4MzgyLmpzb24/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx85749-REX1dmRdgtmM.jpg"
         }
       ]
     }
