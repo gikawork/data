@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": 1764729361,
+    "lastUpdated": 1764729375,
     "totalMangas": 1174,
     "version": "1.0.5"
   },
@@ -14078,6 +14078,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8zMTE3Lmpzb24/",
           "type": "manhwa",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx188373-3EdOCzROTNgH.jpg"
+        }
+      ]
+    },
+    "majp_9315": {
+      "title": "The Stray and the Weeds",
+      "chapters": [
+        {
+          "id": "9315",
+          "title": "The Stray and the Weeds",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzkzMTUuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx101607-MKbX35JrKWWt.png"
         }
       ]
     }
