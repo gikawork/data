@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": 1764725919,
+    "lastUpdated": 1764725935,
     "totalMangas": 1127,
     "version": "1.0.5"
   },
@@ -13514,6 +13514,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzQ5MjQuanNvbg/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx117802-CsCjUyuG4lSB.jpg"
+        }
+      ]
+    },
+    "majp_1799": {
+      "title": "Clevatess: Majuu no Ou to Akago to Shikabane no Yuusha",
+      "chapters": [
+        {
+          "id": "1799",
+          "title": "Clevatess: Majuu no Ou to Akago to Shikabane no Yuusha",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzE3OTkuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx122693-hWjxoiHSpY1j.jpg"
         }
       ]
     }
