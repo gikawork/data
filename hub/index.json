@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": 1764726878,
+    "lastUpdated": 1764726893,
     "totalMangas": 1133,
     "version": "1.0.5"
   },
@@ -13586,6 +13586,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzMwMDIuanNvbg/",
           "type": "manga",
           "cover_url": "https://cdn.mangaupdates.com/image/i475780.jpg"
+        }
+      ]
+    },
+    "majp_3736": {
+      "title": "OMORI",
+      "chapters": [
+        {
+          "id": "3736",
+          "title": "OMORI",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzM3MzYuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://cdn.myanimelist.net/images/manga/3/314827.jpg"
         }
       ]
     }
