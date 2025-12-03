@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764735558,
-    "totalMangas": 1770,
+    "lastUpdated": 1764735566,
+    "totalMangas": 1771,
     "version": "1.0.5"
   },
   "mangas": {
@@ -21242,6 +21242,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF81MjAwMi5qc29u/",
           "type": "manhua",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/6092/wp-content/uploads/2024/11/invenc.png"
+        }
+      ]
+    },
+    "makr_8339": {
+      "title": "Kill the Villainess",
+      "chapters": [
+        {
+          "id": "8339",
+          "title": "Kill the Villainess",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl84MzM5Lmpzb24/",
+          "type": "manhwa",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx132165-vbmIhwI4JjeZ.jpg"
         }
       ]
     }
