@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764731060,
-    "totalMangas": 1272,
+    "lastUpdated": 1764731069,
+    "totalMangas": 1273,
     "version": "1.0.5"
   },
   "mangas": {
@@ -15266,6 +15266,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl85MDg4MS5qc29u/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/8860/68e0914fb8482.png"
+        }
+      ]
+    },
+    "makr_6cca55": {
+      "title": "Eu Recolho Lixo no Apocalipse",
+      "chapters": [
+        {
+          "id": "6cca55",
+          "title": "Eu Recolho Lixo no Apocalipse",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl82Y2NhNTUuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/8352/wp-content/uploads/2024/12/malledita.webp"
         }
       ]
     }
