@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764726236,
-    "totalMangas": 1126,
+    "lastUpdated": 1764726256,
+    "totalMangas": 1125,
     "version": "1.0.5"
   },
   "mangas": {
@@ -1958,18 +1958,6 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9KUDQ0Lmpzb24%3D/",
           "type": "manga",
           "cover_url": "https://cdn.mangaupdates.com/image/i502965.jpg"
-        }
-      ]
-    },
-    "JP1044": {
-      "title": "Yoku Wakaranai Keredo Isekai ni Tensei Shiteita You Desu",
-      "chapters": [
-        {
-          "id": 1044,
-          "title": "Yoku Wakaranai Keredo Isekai ni Tensei Shiteita You Desu",
-          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9KUDEwNDQuanNvbg%3D%3D/",
-          "type": "manga",
-          "cover_url": "https://cdn.myanimelist.net/images/manga/1/229276.jpg"
         }
       ]
     },
@@ -13502,6 +13490,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl83OTgyNi5qc29u/",
           "type": "manhwa",
           "cover_url": "https://cdn.myanimelist.net/images/manga/3/310371.jpg"
+        }
+      ]
+    },
+    "majp_1044": {
+      "title": "Boukenka ni Narou! Skill Board de Dungeon Kouryaku",
+      "chapters": [
+        {
+          "id": "1044",
+          "title": "Boukenka ni Narou! Skill Board de Dungeon Kouryaku",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzEwNDQuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/nx105652-99FqUJxGduJu.jpg"
         }
       ]
     }
