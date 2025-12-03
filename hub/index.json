@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": 1764725359,
+    "lastUpdated": 1764725374,
     "totalMangas": 1115,
     "version": "1.0.5"
   },
@@ -13370,6 +13370,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl81ODg1Lmpzb24/",
           "type": "manhwa",
           "cover_url": "https://cdn.myanimelist.net/images/manga/3/286408.jpg"
+        }
+      ]
+    },
+    "majp_40883": {
+      "title": "Kanojo, Hitomishirimasu",
+      "chapters": [
+        {
+          "id": "40883",
+          "title": "Kanojo, Hitomishirimasu",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzQwODgzLmpzb24/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx119767-1y8YtTNOmQpo.jpg"
         }
       ]
     }
