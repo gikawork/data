@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": 1764727362,
+    "lastUpdated": 1764727377,
     "totalMangas": 1135,
     "version": "1.0.5"
   },
@@ -13610,6 +13610,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzk1Ni5qc29u/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx163547-CYe1JZ5W2c3v.jpg"
+        }
+      ]
+    },
+    "majp_1253": {
+      "title": "Rikudou",
+      "chapters": [
+        {
+          "id": "1253",
+          "title": "Rikudou",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzEyNTMuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx85475-qOw2DyE0VBuJ.png"
         }
       ]
     }
