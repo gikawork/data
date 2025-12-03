@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764738167,
-    "totalMangas": 2049,
+    "lastUpdated": 1764738175,
+    "totalMangas": 2050,
     "version": "1.0.5"
   },
   "mangas": {
@@ -24590,6 +24590,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzI4ODkwLmpzb24/",
           "type": "manga",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/6012/6861fff99dded.webp"
+        }
+      ]
+    },
+    "makr_42c8ab": {
+      "title": "Demônio X Anjo, não se entendem!",
+      "chapters": [
+        {
+          "id": "42c8ab",
+          "title": "Demônio X Anjo, não se entendem!",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl80MmM4YWIuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/6100/67c1f1dedb190.png"
         }
       ]
     }
