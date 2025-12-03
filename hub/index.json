@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764739357,
-    "totalMangas": 2180,
+    "lastUpdated": 1764739365,
+    "totalMangas": 2181,
     "version": "1.0.5"
   },
   "mangas": {
@@ -26162,6 +26162,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzE5NTguanNvbg/",
           "type": "manga",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/5323/wp-content/uploads/2024/10/4e35ff58-d0b1-4f44-8c28-ed604542d8d9.jpg.512.jpg"
+        }
+      ]
+    },
+    "makr_800": {
+      "title": "Eu Não Consigo Me Afastar o Suficiente de Você",
+      "chapters": [
+        {
+          "id": "800",
+          "title": "Eu Não Consigo Me Afastar o Suficiente de Você",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl84MDAuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/9975/67c0b003b5081.png"
         }
       ]
     }
