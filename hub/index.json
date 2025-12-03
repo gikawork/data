@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764735191,
-    "totalMangas": 1730,
+    "lastUpdated": 1764735200,
+    "totalMangas": 1731,
     "version": "1.0.5"
   },
   "mangas": {
@@ -20762,6 +20762,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl81NzA4Lmpzb24/",
           "type": "manhwa",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx132128-R8zW3UPocEpI.jpg"
+        }
+      ]
+    },
+    "makr_914c97": {
+      "title": "Mestre da Espada no Telhado",
+      "chapters": [
+        {
+          "id": "914c97",
+          "title": "Mestre da Espada no Telhado",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl85MTRjOTcuanNvbg/",
+          "type": "manhwa",
+          "cover_url": ""
         }
       ]
     }
