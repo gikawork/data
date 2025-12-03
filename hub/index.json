@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": 1764726948,
+    "lastUpdated": 1764726966,
     "totalMangas": 1134,
     "version": "1.0.5"
   },
@@ -13598,6 +13598,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8zMTcyLmpzb24/",
           "type": "manhwa",
           "cover_url": "https://images2.imgbox.com/a9/02/XhxK0297_o.jpg"
+        }
+      ]
+    },
+    "makr_1258": {
+      "title": "Duke Pendragon: Master of the White Dragon",
+      "chapters": [
+        {
+          "id": "1258",
+          "title": "Duke Pendragon: Master of the White Dragon",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8xMjU4Lmpzb24/",
+          "type": "manhwa",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx143025-YL8hzpkVFR5J.jpg"
         }
       ]
     }
