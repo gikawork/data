@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": 1764761639,
+    "lastUpdated": 1764761648,
     "totalMangas": 2614,
     "version": "1.0.6"
   },
@@ -31361,15 +31361,15 @@
         }
       ]
     },
-    "majp_9ed194": {
-      "title": "Masmorra da Torre",
+    "makr_d7b474": {
+      "title": "Memórias do Futuro",
       "chapters": [
         {
-          "id": "9ed194",
-          "title": "Masmorra da Torre",
-          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzllZDE5NC5qc29u/",
-          "type": "manga",
-          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/11433/68545545d71bd.png"
+          "id": "d7b474",
+          "title": "Memórias do Futuro",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl9kN2I0NzQuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/12941/686c3fc8b0385.webp"
         }
       ]
     }
