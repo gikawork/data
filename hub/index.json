@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764734739,
-    "totalMangas": 1681,
+    "lastUpdated": 1764734749,
+    "totalMangas": 1682,
     "version": "1.0.5"
   },
   "mangas": {
@@ -20174,6 +20174,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8xMDY1NzIuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/4303/68c25dee78539.jpg"
+        }
+      ]
+    },
+    "makr_62234": {
+      "title": "Reconstrução da Seita Gelada do Monte Hua",
+      "chapters": [
+        {
+          "id": "62234",
+          "title": "Reconstrução da Seita Gelada do Monte Hua",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl82MjIzNC5qc29u/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/11121/682930e943e1f.jpg"
         }
       ]
     }
