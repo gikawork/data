@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764733083,
-    "totalMangas": 1496,
+    "lastUpdated": 1764733093,
+    "totalMangas": 1497,
     "version": "1.0.5"
   },
   "mangas": {
@@ -17954,6 +17954,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF8yNjkzLmpzb24/",
           "type": "manhua",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/7644/wp-content/uploads/2024/12/fafa.jpg"
+        }
+      ]
+    },
+    "makr_c2ed60": {
+      "title": "O Boxeador",
+      "chapters": [
+        {
+          "id": "c2ed60",
+          "title": "O Boxeador",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl9jMmVkNjAuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/9864/67b1e27ece401.png"
         }
       ]
     }
