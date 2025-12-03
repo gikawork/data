@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764732375,
-    "totalMangas": 1417,
+    "lastUpdated": 1764732383,
+    "totalMangas": 1418,
     "version": "1.0.5"
   },
   "mangas": {
@@ -17006,6 +17006,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl9kYWQxOTAuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/9249/67a25142570d7.avif"
+        }
+      ]
+    },
+    "mach_3bd0da": {
+      "title": " Infinita Mudança de Classe: Eu Posso Invocar a Deusa no Nível Máximo",
+      "chapters": [
+        {
+          "id": "3bd0da",
+          "title": " Infinita Mudança de Classe: Eu Posso Invocar a Deusa no Nível Máximo",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF8zYmQwZGEuanNvbg/",
+          "type": "manhua",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/9937/67bc9900091f7.jpg"
         }
       ]
     }
