@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": 1764723831,
+    "lastUpdated": 1764723846,
     "totalMangas": 1101,
     "version": "1.0.5"
   },
@@ -13202,6 +13202,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzc3MTMuanNvbg/",
           "type": "manga",
           "cover_url": "https://cdn.mangaupdates.com/image/i459072.jpg"
+        }
+      ]
+    },
+    "majp_1809": {
+      "title": "Rosen Garten Saga",
+      "chapters": [
+        {
+          "id": "1809",
+          "title": "Rosen Garten Saga",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzE4MDkuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx125528-BOF55llKv2d7.jpg"
         }
       ]
     }
