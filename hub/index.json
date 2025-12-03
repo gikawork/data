@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": 1764725175,
+    "lastUpdated": 1764725190,
     "totalMangas": 1112,
     "version": "1.0.5"
   },
@@ -13334,6 +13334,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8zMTcwLmpzb24/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/4420/67971b9ac6aeb.png"
+        }
+      ]
+    },
+    "majp_9740": {
+      "title": "Koiiji: Love Glutton",
+      "chapters": [
+        {
+          "id": "9740",
+          "title": "Koiiji: Love Glutton",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzk3NDAuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://images2.imgbox.com/9e/51/DsqKxNAY_o.jpg"
         }
       ]
     }
