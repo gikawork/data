@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764736944,
-    "totalMangas": 1921,
+    "lastUpdated": 1764736953,
+    "totalMangas": 1922,
     "version": "1.0.5"
   },
   "mangas": {
@@ -23054,6 +23054,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8xMmY1OGIuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/488/wp-content/uploads/2024/05/O_Mestre_Espadachim_Preguicoso_Cap.format-webp.original.jpg"
+        }
+      ]
+    },
+    "mach_e67eb2": {
+      "title": "Eu Posso Trocar Minha Vida com Outras Pessoas!",
+      "chapters": [
+        {
+          "id": "e67eb2",
+          "title": "Eu Posso Trocar Minha Vida com Outras Pessoas!",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF9lNjdlYjIuanNvbg/",
+          "type": "manhua",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/13779/68c3840c81bd8.jpg"
         }
       ]
     }
