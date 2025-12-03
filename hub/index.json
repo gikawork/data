@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764736908,
-    "totalMangas": 1917,
+    "lastUpdated": 1764736916,
+    "totalMangas": 1918,
     "version": "1.0.5"
   },
   "mangas": {
@@ -23006,6 +23006,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl9mZWMxOWMuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/9919/67bb95795aca5.webp"
+        }
+      ]
+    },
+    "makr_8214": {
+      "title": "Meu Marido Muda Todas As Noites",
+      "chapters": [
+        {
+          "id": "8214",
+          "title": "Meu Marido Muda Todas As Noites",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl84MjE0Lmpzb24/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/9217/679e526c69aa2.avif"
         }
       ]
     }
