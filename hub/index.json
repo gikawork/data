@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764740209,
-    "totalMangas": 2274,
+    "lastUpdated": 1764740218,
+    "totalMangas": 2275,
     "version": "1.0.5"
   },
   "mangas": {
@@ -27290,6 +27290,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8wMmRhZWYuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/9211/679e487ebe6c0.png"
+        }
+      ]
+    },
+    "makr_14299": {
+      "title": "Pó de Diamante",
+      "chapters": [
+        {
+          "id": "14299",
+          "title": "Pó de Diamante",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8xNDI5OS5qc29u/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/7807/wp-content/uploads/2024/12/ef6dbb70-f25c-4c74-be85-d1797f07df85.jpg.512.jpg"
         }
       ]
     }
