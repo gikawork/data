@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764738486,
-    "totalMangas": 2084,
+    "lastUpdated": 1764738495,
+    "totalMangas": 2085,
     "version": "1.0.5"
   },
   "mangas": {
@@ -25010,6 +25010,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF9iZTZkMDEuanNvbg/",
           "type": "manhua",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/11143/682b333baec97.jpg"
+        }
+      ]
+    },
+    "makr_0da235": {
+      "title": "O Dominador do Submundo",
+      "chapters": [
+        {
+          "id": "0da235",
+          "title": "O Dominador do Submundo",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8wZGEyMzUuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/4933/67db2b77472bc.jpg"
         }
       ]
     }
