@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764739909,
-    "totalMangas": 2241,
+    "lastUpdated": 1764739918,
+    "totalMangas": 2242,
     "version": "1.0.5"
   },
   "mangas": {
@@ -26894,6 +26894,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8zNjMxYWQuanNvbg/",
           "type": "manhwa",
           "cover_url": ""
+        }
+      ]
+    },
+    "makr_7249": {
+      "title": "Caminho Do Gênio Musical",
+      "chapters": [
+        {
+          "id": "7249",
+          "title": "Caminho Do Gênio Musical",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl83MjQ5Lmpzb24/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/4950/wp-content/uploads/2024/10/forthemusicalgenius512_upscayl_2x_realesrgan-x4plus-anime.png"
         }
       ]
     }
