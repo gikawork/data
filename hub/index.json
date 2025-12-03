@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764731209,
-    "totalMangas": 1289,
+    "lastUpdated": 1764731218,
+    "totalMangas": 1290,
     "version": "1.0.5"
   },
   "mangas": {
@@ -15470,6 +15470,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl81ODkwNC5qc29u/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/1379/689281a9ab619.jpg"
+        }
+      ]
+    },
+    "mach_6944b1": {
+      "title": "Eu Criei a Imperatriz Vilã Yandere",
+      "chapters": [
+        {
+          "id": "6944b1",
+          "title": "Eu Criei a Imperatriz Vilã Yandere",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF82OTQ0YjEuanNvbg/",
+          "type": "manhua",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/11451/685573ee1a39a.webp"
         }
       ]
     }
