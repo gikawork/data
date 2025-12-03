@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764736621,
-    "totalMangas": 1886,
+    "lastUpdated": 1764736630,
+    "totalMangas": 1887,
     "version": "1.0.5"
   },
   "mangas": {
@@ -22634,6 +22634,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF9iOWM4ZDguanNvbg/",
           "type": "manhua",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/11271/683ed2c55400a.jpg"
+        }
+      ]
+    },
+    "makr_464667": {
+      "title": "Saramui Tal",
+      "chapters": [
+        {
+          "id": "464667",
+          "title": "Saramui Tal",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl80NjQ2NjcuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx190477-p9vRvIDJxANP.jpg"
         }
       ]
     }
