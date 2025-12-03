@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764723623,
-    "totalMangas": 1101,
+    "lastUpdated": 1764723632,
+    "totalMangas": 1102,
     "version": "1.0.5"
   },
   "mangas": {
@@ -13214,6 +13214,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl80Mjc5Lmpzb24/",
           "type": "manhwa",
           "cover_url": "https://ap-proxy.mangabaka.dev/proxy.php?url=https://cdn.anime-planet.com/manga/primary/revenge-of-the-bloom-flower-novel-1.webp?t=1730289023"
+        }
+      ]
+    },
+    "makr_39062": {
+      "title": "1 Second",
+      "chapters": [
+        {
+          "id": "39062",
+          "title": "1 Second",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8zOTA2Mi5qc29u/",
+          "type": "manhwa",
+          "cover_url": "https://images2.imgbox.com/a5/d1/rulxaXJn_o.jpg"
         }
       ]
     }
