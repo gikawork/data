@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764734989,
-    "totalMangas": 1707,
+    "lastUpdated": 1764734998,
+    "totalMangas": 1708,
     "version": "1.0.5"
   },
   "mangas": {
@@ -20486,6 +20486,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl9mNjgzNmQuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/9102/67ddb4cd01bc2.jpg"
+        }
+      ]
+    },
+    "majp_4796": {
+      "title": "Noite tola",
+      "chapters": [
+        {
+          "id": "4796",
+          "title": "Noite tola",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzQ3OTYuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/867/wp-content/uploads/2024/05/61xtIttt3fL._AC_UF10001000_QL80_.jpg"
         }
       ]
     }
