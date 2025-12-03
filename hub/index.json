@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764735421,
-    "totalMangas": 1755,
+    "lastUpdated": 1764735430,
+    "totalMangas": 1756,
     "version": "1.0.5"
   },
   "mangas": {
@@ -21062,6 +21062,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF84NzEuanNvbg/",
           "type": "manhua",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/3715/wp-content/uploads/2024/07/Martial-Peak.jpg"
+        }
+      ]
+    },
+    "mach_6785": {
+      "title": "Menina Pequena",
+      "chapters": [
+        {
+          "id": "6785",
+          "title": "Menina Pequena",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF82Nzg1Lmpzb24/",
+          "type": "manhua",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/10580/67f42bde5398c.png"
         }
       ]
     }
