@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764736558,
-    "totalMangas": 1879,
+    "lastUpdated": 1764736567,
+    "totalMangas": 1880,
     "version": "1.0.5"
   },
   "mangas": {
@@ -22550,6 +22550,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8yNDI4Ny5qc29u/",
           "type": "manhwa",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx118522-oZEI8tbwuGrP.png"
+        }
+      ]
+    },
+    "mach_47519": {
+      "title": "Eterno Primeiro Deus",
+      "chapters": [
+        {
+          "id": "47519",
+          "title": "Eterno Primeiro Deus",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF80NzUxOS5qc29u/",
+          "type": "manhua",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/8711/6793aaee69c3f.png"
         }
       ]
     }
