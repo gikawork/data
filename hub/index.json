@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764734189,
-    "totalMangas": 1620,
+    "lastUpdated": 1764734197,
+    "totalMangas": 1621,
     "version": "1.0.5"
   },
   "mangas": {
@@ -19442,6 +19442,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF82NzQxLmpzb24/",
           "type": "manhua",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/9795/67aba27494a05.jpg"
+        }
+      ]
+    },
+    "mach_57484": {
+      "title": "Seu Guarda Costas Particular",
+      "chapters": [
+        {
+          "id": "57484",
+          "title": "Seu Guarda Costas Particular",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF81NzQ4NC5qc29u/",
+          "type": "manhua",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/12901/6869cc6c0028e.webp"
         }
       ]
     }
