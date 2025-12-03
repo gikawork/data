@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": 1764726559,
+    "lastUpdated": 1764726570,
     "totalMangas": 1128,
     "version": "1.0.5"
   },
@@ -2882,18 +2882,6 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvS1I2NDguanNvbg%3D%3D/",
           "type": "manhwa",
           "cover_url": "https://cdn.mangaupdates.com/image/i443181.jpg"
-        }
-      ]
-    },
-    "JP730": {
-      "title": "Saint Seiya꞉ Shura vs Tenma vs Shoko!! Shugeki Battle Royale Hen",
-      "chapters": [
-        {
-          "id": 730,
-          "title": "Saint Seiya꞉ Shura vs Tenma vs Shoko!! Shugeki Battle Royale Hen",
-          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9KUDczMC5qc29u/",
-          "type": "manga",
-          "cover_url": "https://images2.imgbox.com/be/41/DXBsdLCY_o.jpg"
         }
       ]
     },
@@ -13538,6 +13526,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8zNjEyNDQuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx196010-TNOMgmlpLV5G.jpg"
+        }
+      ]
+    },
+    "majp_730": {
+      "title": "Saint Seiya꞉ Shura vs Tenma vs Shoko!! Shugeki Battle Royale Hen",
+      "chapters": [
+        {
+          "id": "730",
+          "title": "Saint Seiya꞉ Shura vs Tenma vs Shoko!! Shugeki Battle Royale Hen",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzczMC5qc29u/",
+          "type": "manga",
+          "cover_url": "https://images2.imgbox.com/be/41/DXBsdLCY_o.jpg"
         }
       ]
     }
