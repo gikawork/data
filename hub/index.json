@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764730903,
-    "totalMangas": 1254,
+    "lastUpdated": 1764730912,
+    "totalMangas": 1255,
     "version": "1.0.5"
   },
   "mangas": {
@@ -15050,6 +15050,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl82ODM0Lmpzb24/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/7834/wp-content/uploads/2024/12/saf.webp"
+        }
+      ]
+    },
+    "makr_46518": {
+      "title": "Segunda vida de um gangster",
+      "chapters": [
+        {
+          "id": "46518",
+          "title": "Segunda vida de um gangster",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl80NjUxOC5qc29u/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/13265/687d5a82a7e32.webp"
         }
       ]
     }
