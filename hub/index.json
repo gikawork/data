@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764733342,
-    "totalMangas": 1525,
+    "lastUpdated": 1764733351,
+    "totalMangas": 1526,
     "version": "1.0.5"
   },
   "mangas": {
@@ -18302,6 +18302,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl81ODE1MS5qc29u/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/10246/67cf375abe519.png"
+        }
+      ]
+    },
+    "makr_42660": {
+      "title": "Noite de Imoralidade",
+      "chapters": [
+        {
+          "id": "42660",
+          "title": "Noite de Imoralidade",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl80MjY2MC5qc29u/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/10203/67ce48d7c43a7.png"
         }
       ]
     }
