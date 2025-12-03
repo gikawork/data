@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764737099,
-    "totalMangas": 1938,
+    "lastUpdated": 1764737108,
+    "totalMangas": 1939,
     "version": "1.0.5"
   },
   "mangas": {
@@ -23258,6 +23258,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8zNTNjZDAuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/149/6861fbcc37540.png"
+        }
+      ]
+    },
+    "makr_91618": {
+      "title": "Mensagem do Futuro",
+      "chapters": [
+        {
+          "id": "91618",
+          "title": "Mensagem do Futuro",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl85MTYxOC5qc29u/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/9850/67b01c08c6790.png"
         }
       ]
     }
