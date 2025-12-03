@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764734350,
-    "totalMangas": 1638,
+    "lastUpdated": 1764734358,
+    "totalMangas": 1639,
     "version": "1.0.5"
   },
   "mangas": {
@@ -19658,6 +19658,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF84MjcwLmpzb24/",
           "type": "manhua",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/10173/67cd1735e03c3.webp"
+        }
+      ]
+    },
+    "makr_7a8e6f": {
+      "title": "Pretty Cure: Brilho Tropical!",
+      "chapters": [
+        {
+          "id": "7a8e6f",
+          "title": "Pretty Cure: Brilho Tropical!",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl83YThlNmYuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/10866/680eab84e108d.jpg"
         }
       ]
     }
