@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764739693,
-    "totalMangas": 2217,
+    "lastUpdated": 1764739701,
+    "totalMangas": 2218,
     "version": "1.0.5"
   },
   "mangas": {
@@ -26606,6 +26606,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl83NDIyLmpzb24/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/6096/wp-content/uploads/2024/11/cliq.jpg"
+        }
+      ]
+    },
+    "makr_4245": {
+      "title": "A Confissão do Rei Demônio",
+      "chapters": [
+        {
+          "id": "4245",
+          "title": "A Confissão do Rei Demônio",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl80MjQ1Lmpzb24/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/9918/67bb7dc091d2a.png"
         }
       ]
     }
