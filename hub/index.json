@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": 1764723216,
+    "lastUpdated": 1764723230,
     "totalMangas": 1098,
     "version": "1.0.5"
   },
@@ -13166,6 +13166,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzIzNzEuanNvbg/",
           "type": "manga",
           "cover_url": "https://cdn.myanimelist.net/images/manga/2/271986.jpg"
+        }
+      ]
+    },
+    "majp_3324": {
+      "title": "Kusuriya no Hitorigoto ~Maomao no Koukyuu Nazotoki Techou~",
+      "chapters": [
+        {
+          "id": "3324",
+          "title": "Kusuriya no Hitorigoto ~Maomao no Koukyuu Nazotoki Techou~",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzMzMjQuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx113322-gwV3eakaVqZQ.png"
         }
       ]
     }
