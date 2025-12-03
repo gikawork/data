@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": 1764727035,
+    "lastUpdated": 1764727049,
     "totalMangas": 1135,
     "version": "1.0.5"
   },
@@ -13610,6 +13610,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl83ODkzLmpzb24/",
           "type": "manhwa",
           "cover_url": "https://cdn.mangaupdates.com/image/i502493.jpg"
+        }
+      ]
+    },
+    "majp_562": {
+      "title": "Tou no Kanri o Shite Miyou",
+      "chapters": [
+        {
+          "id": "562",
+          "title": "Tou no Kanri o Shite Miyou",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzU2Mi5qc29u/",
+          "type": "manga",
+          "cover_url": "https://cdn.myanimelist.net/images/manga/1/221246.jpg"
         }
       ]
     }
