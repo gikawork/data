@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": 1764723388,
+    "lastUpdated": 1764723403,
     "totalMangas": 1099,
     "version": "1.0.5"
   },
@@ -13178,6 +13178,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzc4Ny5qc29u/",
           "type": "manga",
           "cover_url": "https://cdn.myanimelist.net/images/manga/2/304497.jpg"
+        }
+      ]
+    },
+    "mach_26": {
+      "title": "The Ravages of Time",
+      "chapters": [
+        {
+          "id": "26",
+          "title": "The Ravages of Time",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF8yNi5qc29u/",
+          "type": "manhua",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx31320-34hlJNSVlvbb.jpg"
         }
       ]
     }
