@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": 1764728270,
+    "lastUpdated": 1764728285,
     "totalMangas": 1149,
     "version": "1.0.5"
   },
@@ -13778,6 +13778,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl81ODI1Mi5qc29u/",
           "type": "manhwa",
           "cover_url": "https://cdn.myanimelist.net/images/manga/2/273589.jpg"
+        }
+      ]
+    },
+    "majp_277": {
+      "title": "Maou ni Natta node, Dungeon Tsukutte Jingai Musume to Honobono suru",
+      "chapters": [
+        {
+          "id": "277",
+          "title": "Maou ni Natta node, Dungeon Tsukutte Jingai Musume to Honobono suru",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzI3Ny5qc29u/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx106233-Tsf8vOdkCtNy.jpg"
         }
       ]
     }
