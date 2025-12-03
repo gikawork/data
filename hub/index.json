@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764736080,
-    "totalMangas": 1827,
+    "lastUpdated": 1764736090,
+    "totalMangas": 1828,
     "version": "1.0.5"
   },
   "mangas": {
@@ -21926,6 +21926,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF80MzEyYWYuanNvbg/",
           "type": "manhua",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/8721/679472370a2d5.jpg"
+        }
+      ]
+    },
+    "makr_92276": {
+      "title": "Mordida pelo cão que eu abandonei",
+      "chapters": [
+        {
+          "id": "92276",
+          "title": "Mordida pelo cão que eu abandonei",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl85MjI3Ni5qc29u/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/10566/67f2028496f0b.jpg"
         }
       ]
     }
