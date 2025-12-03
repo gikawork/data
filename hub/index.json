@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764735869,
-    "totalMangas": 1804,
+    "lastUpdated": 1764735879,
+    "totalMangas": 1805,
     "version": "1.0.5"
   },
   "mangas": {
@@ -21650,6 +21650,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF9mNmM5OGIuanNvbg/",
           "type": "manhua",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/12937/686bf26d1d38c.png"
+        }
+      ]
+    },
+    "makr_66509": {
+      "title": "Last on Earth",
+      "chapters": [
+        {
+          "id": "66509",
+          "title": "Last on Earth",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl82NjUwOS5qc29u/",
+          "type": "manhwa",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx161749-Kv6fpyzIxl02.jpg"
         }
       ]
     }
