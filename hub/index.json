@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764737747,
-    "totalMangas": 2003,
+    "lastUpdated": 1764737755,
+    "totalMangas": 2004,
     "version": "1.0.5"
   },
   "mangas": {
@@ -24038,6 +24038,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8xNGNkMjAuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/8991/6795cd309df01.png"
+        }
+      ]
+    },
+    "makr_006ee7": {
+      "title": "Forçado a se tornar o genro vilão",
+      "chapters": [
+        {
+          "id": "006ee7",
+          "title": "Forçado a se tornar o genro vilão",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8wMDZlZTcuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/6161/wp-content/uploads/2024/11/genro.jpg"
         }
       ]
     }
