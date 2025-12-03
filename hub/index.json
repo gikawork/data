@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764731515,
-    "totalMangas": 1323,
+    "lastUpdated": 1764731548,
+    "totalMangas": 1324,
     "version": "1.0.5"
   },
   "mangas": {
@@ -15878,6 +15878,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF8xMzc1Lmpzb24/",
           "type": "manhua",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/10550/67eecac034889.png"
+        }
+      ]
+    },
+    "makr_53392": {
+      "title": "Esconde-Esconde no Sofá",
+      "chapters": [
+        {
+          "id": "53392",
+          "title": "Esconde-Esconde no Sofá",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl81MzM5Mi5qc29u/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/7628/wp-content/uploads/2024/12/sof.jpg"
         }
       ]
     }
