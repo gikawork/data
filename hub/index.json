@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764725564,
-    "totalMangas": 1116,
+    "lastUpdated": 1764725575,
+    "totalMangas": 1117,
     "version": "1.0.5"
   },
   "mangas": {
@@ -13394,6 +13394,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzUxOS5qc29u/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx113540-MmwNK1a8mhgx.jpg"
+        }
+      ]
+    },
+    "makr_203": {
+      "title": "Personagem da Webtoon Na Kang Lim",
+      "chapters": [
+        {
+          "id": "203",
+          "title": "Personagem da Webtoon Na Kang Lim",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8yMDMuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/6173/wp-content/uploads/2024/11/kang.jpg"
         }
       ]
     }
