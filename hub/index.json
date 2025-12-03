@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764733805,
-    "totalMangas": 1577,
+    "lastUpdated": 1764733814,
+    "totalMangas": 1578,
     "version": "1.0.5"
   },
   "mangas": {
@@ -18926,6 +18926,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF80Nzk5My5qc29u/",
           "type": "manhua",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/10095/67c647c621162.png"
+        }
+      ]
+    },
+    "makr_c1fce1": {
+      "title": "Os Dias de Diamante",
+      "chapters": [
+        {
+          "id": "c1fce1",
+          "title": "Os Dias de Diamante",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl9jMWZjZTEuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/10806/680ea90042781.jpg"
         }
       ]
     }
