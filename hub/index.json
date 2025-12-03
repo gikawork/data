@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": 1764727262,
+    "lastUpdated": 1764727277,
     "totalMangas": 1135,
     "version": "1.0.5"
   },
@@ -13610,6 +13610,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzE2OC5qc29u/",
           "type": "manga",
           "cover_url": "https://images2.imgbox.com/b5/35/zAzNZrIW_o.jpg"
+        }
+      ]
+    },
+    "majp_53295": {
+      "title": "Inside the Tentacle Cave",
+      "chapters": [
+        {
+          "id": "53295",
+          "title": "Inside the Tentacle Cave",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzUzMjk1Lmpzb24/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx142839-LwBW1ZWjMXkx.jpg"
         }
       ]
     }
