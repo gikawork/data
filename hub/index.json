@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": 1764761345,
+    "lastUpdated": 1764761355,
     "totalMangas": 2613,
     "version": "1.0.6"
   },
@@ -31349,15 +31349,15 @@
         }
       ]
     },
-    "majp_7fbea2": {
-      "title": "A Ovelha Dourada",
+    "makr_97c0ea": {
+      "title": "Quem Raptou a Imperatriz",
       "chapters": [
         {
-          "id": "7fbea2",
-          "title": "A Ovelha Dourada",
-          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzdmYmVhMi5qc29u/",
-          "type": "manga",
-          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/11463/6855af4667eeb.webp"
+          "id": "97c0ea",
+          "title": "Quem Raptou a Imperatriz",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl85N2MwZWEuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/8191/wp-content/uploads/2024/12/who-stole-the-empress-1-285x427-1.jpg"
         }
       ]
     }
