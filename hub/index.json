@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764739953,
-    "totalMangas": 2246,
+    "lastUpdated": 1764739962,
+    "totalMangas": 2247,
     "version": "1.0.5"
   },
   "mangas": {
@@ -26954,6 +26954,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwX2FjYzFhZC5qc29u/",
           "type": "manga",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/9854/67b10cd70ba35.jpg"
+        }
+      ]
+    },
+    "makr_286228": {
+      "title": "O Que Eu Estava Pensando?",
+      "chapters": [
+        {
+          "id": "286228",
+          "title": "O Que Eu Estava Pensando?",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8yODYyMjguanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/10801/680ea867979d3.jpg"
         }
       ]
     }
