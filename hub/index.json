@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764736281,
-    "totalMangas": 1849,
+    "lastUpdated": 1764736290,
+    "totalMangas": 1850,
     "version": "1.0.5"
   },
   "mangas": {
@@ -22190,6 +22190,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl9jOGJlOTMuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/10654/67f9b0e30ef32.png"
+        }
+      ]
+    },
+    "makr_56153": {
+      "title": "Caminho do Campeão ao Murim",
+      "chapters": [
+        {
+          "id": "56153",
+          "title": "Caminho do Campeão ao Murim",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl81NjE1My5qc29u/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/11065/681f7c0229d98.jpg"
         }
       ]
     }
