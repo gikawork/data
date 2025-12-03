@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": 1764723239,
+    "lastUpdated": 1764723253,
     "totalMangas": 1099,
     "version": "1.0.5"
   },
@@ -13178,6 +13178,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzI3OTcuanNvbg/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx178184-z5LGdRLUufQF.jpg"
+        }
+      ]
+    },
+    "majp_4274": {
+      "title": "Osananajimi wo Erabenai!",
+      "chapters": [
+        {
+          "id": "4274",
+          "title": "Osananajimi wo Erabenai!",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzQyNzQuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx181226-dz6pRHYM6B8G.jpg"
         }
       ]
     }
