@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764739710,
-    "totalMangas": 2219,
+    "lastUpdated": 1764739719,
+    "totalMangas": 2220,
     "version": "1.0.5"
   },
   "mangas": {
@@ -26630,6 +26630,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl83OThmMDUuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/10510/67e4c08fab405.png"
+        }
+      ]
+    },
+    "makr_32775": {
+      "title": "Chitra",
+      "chapters": [
+        {
+          "id": "32775",
+          "title": "Chitra",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8zMjc3NS5qc29u/",
+          "type": "manhwa",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx109230-guUjt641ms8D.jpg"
         }
       ]
     }
