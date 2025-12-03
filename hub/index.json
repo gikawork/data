@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": 1764727392,
+    "lastUpdated": 1764727406,
     "totalMangas": 1135,
     "version": "1.0.5"
   },
@@ -13610,6 +13610,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzQ5MDguanNvbg/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx183838-NG3zph5LRWGN.jpg"
+        }
+      ]
+    },
+    "makr_66340": {
+      "title": "The Player Hides His Past",
+      "chapters": [
+        {
+          "id": "66340",
+          "title": "The Player Hides His Past",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl82NjM0MC5qc29u/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.myanimelist.net/images/manga/3/283574.jpg"
         }
       ]
     }
