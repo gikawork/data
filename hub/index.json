@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764725111,
-    "totalMangas": 1110,
+    "lastUpdated": 1764725121,
+    "totalMangas": 1111,
     "version": "1.0.5"
   },
   "mangas": {
@@ -13322,6 +13322,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzEwMjI5Lmpzb24/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx41327-ayO3EwG9Hcgk.png"
+        }
+      ]
+    },
+    "makr_466": {
+      "title": "Top 1 Fighting Tutoring",
+      "chapters": [
+        {
+          "id": "466",
+          "title": "Top 1 Fighting Tutoring",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl80NjYuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://images2.imgbox.com/ad/b8/WrZALqQk_o.png"
         }
       ]
     }
