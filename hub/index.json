@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764731735,
-    "totalMangas": 1344,
+    "lastUpdated": 1764731745,
+    "totalMangas": 1345,
     "version": "1.0.5"
   },
   "mangas": {
@@ -16130,6 +16130,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl84NDg1Lmpzb24/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/8030/wp-content/uploads/2024/12/sat.jpg"
+        }
+      ]
+    },
+    "makr_1432": {
+      "title": "O Retorno do Herói de Classe Desastre",
+      "chapters": [
+        {
+          "id": "1432",
+          "title": "O Retorno do Herói de Classe Desastre",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8xNDMyLmpzb24/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/2487/6864b5c147a1c.webp"
         }
       ]
     }
