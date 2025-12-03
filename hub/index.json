@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": 1764728315,
+    "lastUpdated": 1764728329,
     "totalMangas": 1149,
     "version": "1.0.5"
   },
@@ -13778,6 +13778,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzQ0NTMuanNvbg/",
           "type": "manga",
           "cover_url": "https://cdn.mangaupdates.com/image/i468106.jpg"
+        }
+      ]
+    },
+    "majp_1852": {
+      "title": "Ore no Class ni Wakagaetta Motoyome ga Iru",
+      "chapters": [
+        {
+          "id": "1852",
+          "title": "Ore no Class ni Wakagaetta Motoyome ga Iru",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzE4NTIuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx146484-D9CZzEAE3VLN.jpg"
         }
       ]
     }
