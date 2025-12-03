@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764735482,
-    "totalMangas": 1762,
+    "lastUpdated": 1764735491,
+    "totalMangas": 1763,
     "version": "1.0.5"
   },
   "mangas": {
@@ -21146,6 +21146,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl9hZDgzMjIuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/7906/wp-content/uploads/2024/12/im-an-ex-rank-hunter-1.jpg"
+        }
+      ]
+    },
+    "makr_123e09": {
+      "title": "A Lei de Inso",
+      "chapters": [
+        {
+          "id": "123e09",
+          "title": "A Lei de Inso",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8xMjNlMDkuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/8748/67948706cf6b5.png"
         }
       ]
     }
