@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764727406,
-    "totalMangas": 1135,
+    "lastUpdated": 1764727416,
+    "totalMangas": 1136,
     "version": "1.0.5"
   },
   "mangas": {
@@ -13622,6 +13622,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl82NjM0MC5qc29u/",
           "type": "manhwa",
           "cover_url": "https://cdn.myanimelist.net/images/manga/3/283574.jpg"
+        }
+      ]
+    },
+    "majp_38145": {
+      "title": "Coffee Moon",
+      "chapters": [
+        {
+          "id": "38145",
+          "title": "Coffee Moon",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzM4MTQ1Lmpzb24/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx114965-yjUURKzPrhSl.jpg"
         }
       ]
     }
