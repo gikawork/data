@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764738521,
-    "totalMangas": 2088,
+    "lastUpdated": 1764738530,
+    "totalMangas": 2089,
     "version": "1.0.5"
   },
   "mangas": {
@@ -25058,6 +25058,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8xZTg5YjUuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/11153/682b88809f5ad.webp"
+        }
+      ]
+    },
+    "makr_151": {
+      "title": "Despertar do Chef Apocalíptico",
+      "chapters": [
+        {
+          "id": "151",
+          "title": "Despertar do Chef Apocalíptico",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8xNTEuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/10092/67c60ecda812e.jpg"
         }
       ]
     }
