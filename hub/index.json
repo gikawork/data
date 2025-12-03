@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": 1764760852,
+    "lastUpdated": 1764760860,
     "totalMangas": 2612,
     "version": "1.0.6"
   },
@@ -31337,15 +31337,15 @@
         }
       ]
     },
-    "mach_375462": {
-      "title": "De Volta à Primavera",
+    "majp_37481": {
+      "title": "30 Minutos",
       "chapters": [
         {
-          "id": "375462",
-          "title": "De Volta à Primavera",
-          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF8zNzU0NjIuanNvbg/",
-          "type": "manhua",
-          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/8819/67ca8a4112b6d.png"
+          "id": "37481",
+          "title": "30 Minutos",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzM3NDgxLmpzb24/",
+          "type": "manga",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/13899/68d86fabaaf17.webp"
         }
       ]
     }
