@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": 1764729094,
+    "lastUpdated": 1764729110,
     "totalMangas": 1166,
     "version": "1.0.5"
   },
@@ -13982,6 +13982,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzEyNjYuanNvbg/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx97314-5FAcoZooP4Hk.jpg"
+        }
+      ]
+    },
+    "majp_7": {
+      "title": "A Strict Gyaru to the Otaku",
+      "chapters": [
+        {
+          "id": "7",
+          "title": "A Strict Gyaru to the Otaku",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzcuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://images2.imgbox.com/bc/29/eOy2ewbr_o.jpg"
         }
       ]
     }
