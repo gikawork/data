@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764738131,
-    "totalMangas": 2045,
+    "lastUpdated": 1764738140,
+    "totalMangas": 2046,
     "version": "1.0.5"
   },
   "mangas": {
@@ -24542,6 +24542,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF83NzA3MC5qc29u/",
           "type": "manhua",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/6421/wp-content/uploads/2024/11/miorr.jpg"
+        }
+      ]
+    },
+    "makr_943": {
+      "title": "Seu Trono",
+      "chapters": [
+        {
+          "id": "943",
+          "title": "Seu Trono",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl85NDMuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/10471/67ddc08b303a0.webp"
         }
       ]
     }
