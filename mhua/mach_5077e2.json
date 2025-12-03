@@ -1,0 +1,497 @@
+{
+  "title": "A Cidade Rastejante",
+  "author": "Autor não encontrado",
+  "artist": "Artista não encontrado",
+  "description": "Aria Wintermint mora em uma cidade com seu colega de quarto Gug, que por acaso é um monstro tentáculo.\n\n",
+  "cover": "https://cdn.verdinha.wtf/scans/1/obras/10255/67cf3f7d5df34.png",
+  "status": "Em Andamento",
+  "chapters": {
+    "44": {
+      "title": "Capítulo 44",
+      "groups": {
+        "gikamura": [
+          "https://cdn.verdinha.wtf/scans/1/obras/10255/capitulos/44/001.jpg",
+          "https://cdn.verdinha.wtf/scans/1/obras/10255/capitulos/44/002.jpg",
+          "https://cdn.verdinha.wtf/scans/1/obras/10255/capitulos/44/003.jpg"
+        ]
+      }
+    },
+    "43": {
+      "title": "Capítulo 43",
+      "groups": {
+        "gikamura": [
+          "https://cdn.verdinha.wtf/scans/1/obras/10255/capitulos/43/001.jpg",
+          "https://cdn.verdinha.wtf/scans/1/obras/10255/capitulos/43/002.jpg",
+          "https://cdn.verdinha.wtf/scans/1/obras/10255/capitulos/43/003.jpg",
+          "https://cdn.verdinha.wtf/scans/1/obras/10255/capitulos/43/004.jpg"
+        ]
+      }
+    },
+    "42": {
+      "title": "Capítulo 42",
+      "groups": {
+        "gikamura": [
+          "https://cdn.verdinha.wtf/scans/1/obras/10255/capitulos/42/001.jpg",
+          "https://cdn.verdinha.wtf/scans/1/obras/10255/capitulos/42/002.jpg",
+          "https://cdn.verdinha.wtf/scans/1/obras/10255/capitulos/42/003.jpg",
+          "https://cdn.verdinha.wtf/scans/1/obras/10255/capitulos/42/004.jpg"
+        ]
+      }
+    },
+    "41": {
+      "title": "Capítulo 41",
+      "groups": {
+        "gikamura": [
+          "https://cdn.verdinha.wtf/scans/1/obras/10255/capitulos/41/001.jpg",
+          "https://cdn.verdinha.wtf/scans/1/obras/10255/capitulos/41/002.jpg",
+          "https://cdn.verdinha.wtf/scans/1/obras/10255/capitulos/41/003.jpg",
+          "https://cdn.verdinha.wtf/scans/1/obras/10255/capitulos/41/004.jpg"
+        ]
+      }
+    },
+    "40": {
+      "title": "Capítulo 40",
+      "groups": {
+        "gikamura": [
+          "https://cdn.verdinha.wtf/scans/1/obras/10255/capitulos/40/001.jpg",
+          "https://cdn.verdinha.wtf/scans/1/obras/10255/capitulos/40/002.jpg",
+          "https://cdn.verdinha.wtf/scans/1/obras/10255/capitulos/40/003.jpg",
+          "https://cdn.verdinha.wtf/scans/1/obras/10255/capitulos/40/004.jpg"
+        ]
+      }
+    },
+    "39": {
+      "title": "Capítulo 39",
+      "groups": {
+        "gikamura": [
+          "https://cdn.verdinha.wtf/scans/1/obras/10255/capitulos/39/001.jpg",
+          "https://cdn.verdinha.wtf/scans/1/obras/10255/capitulos/39/002.jpg",
+          "https://cdn.verdinha.wtf/scans/1/obras/10255/capitulos/39/003.jpg",
+          "https://cdn.verdinha.wtf/scans/1/obras/10255/capitulos/39/004.jpg"
+        ]
+      }
+    },
+    "38": {
+      "title": "Capítulo 38",
+      "groups": {
+        "gikamura": [
+          "https://cdn.verdinha.wtf/scans/1/obras/10255/capitulos/38/001.jpg",
+          "https://cdn.verdinha.wtf/scans/1/obras/10255/capitulos/38/002.jpg",
+          "https://cdn.verdinha.wtf/scans/1/obras/10255/capitulos/38/003.jpg",
+          "https://cdn.verdinha.wtf/scans/1/obras/10255/capitulos/38/004.jpg"
+        ]
+      }
+    },
+    "37": {
+      "title": "Capítulo 37",
+      "groups": {
+        "gikamura": [
+          "https://cdn.verdinha.wtf/scans/1/obras/10255/capitulos/37/001.jpg",
+          "https://cdn.verdinha.wtf/scans/1/obras/10255/capitulos/37/002.jpg",
+          "https://cdn.verdinha.wtf/scans/1/obras/10255/capitulos/37/003.jpg",
+          "https://cdn.verdinha.wtf/scans/1/obras/10255/capitulos/37/004.jpg"
+        ]
+      }
+    },
+    "36": {
+      "title": "Capítulo 36",
+      "groups": {
+        "gikamura": [
+          "https://cdn.verdinha.wtf/scans/1/obras/10255/capitulos/36/001.jpg",
+          "https://cdn.verdinha.wtf/scans/1/obras/10255/capitulos/36/002.jpg",
+          "https://cdn.verdinha.wtf/scans/1/obras/10255/capitulos/36/003.jpg",
+          "https://cdn.verdinha.wtf/scans/1/obras/10255/capitulos/36/004.jpg",
+          "https://cdn.verdinha.wtf/scans/1/obras/10255/capitulos/36/005.jpg"
+        ]
+      }
+    },
+    "35": {
+      "title": "Capítulo 35",
+      "groups": {
+        "gikamura": [
+          "https://cdn.verdinha.wtf/scans/1/obras/10255/capitulos/35/001.jpg",
+          "https://cdn.verdinha.wtf/scans/1/obras/10255/capitulos/35/002.jpg",
+          "https://cdn.verdinha.wtf/scans/1/obras/10255/capitulos/35/003.jpg",
+          "https://cdn.verdinha.wtf/scans/1/obras/10255/capitulos/35/004.jpg",
+          "https://cdn.verdinha.wtf/scans/1/obras/10255/capitulos/35/005.jpg"
+        ]
+      }
+    },
+    "34": {
+      "title": "Capítulo 34",
+      "groups": {
+        "gikamura": [
+          "https://cdn.verdinha.wtf/scans/1/obras/10255/capitulos/34/001.jpg",
+          "https://cdn.verdinha.wtf/scans/1/obras/10255/capitulos/34/002.jpg",
+          "https://cdn.verdinha.wtf/scans/1/obras/10255/capitulos/34/003.jpg",
+          "https://cdn.verdinha.wtf/scans/1/obras/10255/capitulos/34/004.jpg"
+        ]
+      }
+    },
+    "33": {
+      "title": "Capítulo 33",
+      "groups": {
+        "gikamura": [
+          "https://cdn.verdinha.wtf/scans/1/obras/10255/capitulos/33/001.jpg",
+          "https://cdn.verdinha.wtf/scans/1/obras/10255/capitulos/33/002.jpg",
+          "https://cdn.verdinha.wtf/scans/1/obras/10255/capitulos/33/003.jpg",
+          "https://cdn.verdinha.wtf/scans/1/obras/10255/capitulos/33/004.jpg",
+          "https://cdn.verdinha.wtf/scans/1/obras/10255/capitulos/33/005.jpg"
+        ]
+      }
+    },
+    "32": {
+      "title": "Capítulo 32",
+      "groups": {
+        "gikamura": [
+          "https://cdn.verdinha.wtf/scans/1/obras/10255/capitulos/32/001.jpg",
+          "https://cdn.verdinha.wtf/scans/1/obras/10255/capitulos/32/002.jpg",
+          "https://cdn.verdinha.wtf/scans/1/obras/10255/capitulos/32/003.jpg",
+          "https://cdn.verdinha.wtf/scans/1/obras/10255/capitulos/32/004.jpg"
+        ]
+      }
+    },
+    "31": {
+      "title": "Capítulo 31",
+      "groups": {
+        "gikamura": [
+          "https://cdn.verdinha.wtf/scans/1/obras/10255/capitulos/31/001.jpg",
+          "https://cdn.verdinha.wtf/scans/1/obras/10255/capitulos/31/002.jpg",
+          "https://cdn.verdinha.wtf/scans/1/obras/10255/capitulos/31/003.jpg",
+          "https://cdn.verdinha.wtf/scans/1/obras/10255/capitulos/31/004.jpg"
+        ]
+      }
+    },
+    "30": {
+      "title": "Capítulo 30",
+      "groups": {
+        "gikamura": [
+          "https://cdn.verdinha.wtf/scans/1/obras/10255/capitulos/30/001.jpg",
+          "https://cdn.verdinha.wtf/scans/1/obras/10255/capitulos/30/002.jpg",
+          "https://cdn.verdinha.wtf/scans/1/obras/10255/capitulos/30/003.jpg",
+          "https://cdn.verdinha.wtf/scans/1/obras/10255/capitulos/30/004.jpg"
+        ]
+      }
+    },
+    "29": {
+      "title": "Capítulo 29",
+      "groups": {
+        "gikamura": [
+          "https://cdn.verdinha.wtf/scans/1/obras/10255/capitulos/29/001.jpg",
+          "https://cdn.verdinha.wtf/scans/1/obras/10255/capitulos/29/002.jpg",
+          "https://cdn.verdinha.wtf/scans/1/obras/10255/capitulos/29/003.jpg",
+          "https://cdn.verdinha.wtf/scans/1/obras/10255/capitulos/29/004.jpg"
+        ]
+      }
+    },
+    "28": {
+      "title": "Capítulo 28",
+      "groups": {
+        "gikamura": [
+          "https://cdn.verdinha.wtf/scans/1/obras/10255/capitulos/28/001.jpg",
+          "https://cdn.verdinha.wtf/scans/1/obras/10255/capitulos/28/002.jpg",
+          "https://cdn.verdinha.wtf/scans/1/obras/10255/capitulos/28/003.jpg",
+          "https://cdn.verdinha.wtf/scans/1/obras/10255/capitulos/28/004.jpg"
+        ]
+      }
+    },
+    "27": {
+      "title": "Capítulo 27",
+      "groups": {
+        "gikamura": [
+          "https://cdn.verdinha.wtf/scans/1/obras/10255/capitulos/27/001.jpg",
+          "https://cdn.verdinha.wtf/scans/1/obras/10255/capitulos/27/002.jpg",
+          "https://cdn.verdinha.wtf/scans/1/obras/10255/capitulos/27/003.jpg",
+          "https://cdn.verdinha.wtf/scans/1/obras/10255/capitulos/27/004.jpg"
+        ]
+      }
+    },
+    "26": {
+      "title": "Capítulo 26",
+      "groups": {
+        "gikamura": [
+          "https://cdn.verdinha.wtf/scans/1/obras/10255/capitulos/26/001.jpg",
+          "https://cdn.verdinha.wtf/scans/1/obras/10255/capitulos/26/002.jpg",
+          "https://cdn.verdinha.wtf/scans/1/obras/10255/capitulos/26/003.jpg",
+          "https://cdn.verdinha.wtf/scans/1/obras/10255/capitulos/26/004.jpg"
+        ]
+      }
+    },
+    "25": {
+      "title": "Capítulo 25",
+      "groups": {
+        "gikamura": [
+          "https://cdn.verdinha.wtf/scans/1/obras/10255/capitulos/25/001.jpg",
+          "https://cdn.verdinha.wtf/scans/1/obras/10255/capitulos/25/002.jpg",
+          "https://cdn.verdinha.wtf/scans/1/obras/10255/capitulos/25/003.jpg",
+          "https://cdn.verdinha.wtf/scans/1/obras/10255/capitulos/25/004.jpg"
+        ]
+      }
+    },
+    "24": {
+      "title": "Capítulo 24",
+      "groups": {
+        "gikamura": [
+          "https://cdn.verdinha.wtf/scans/1/obras/10255/capitulos/24/001.jpg",
+          "https://cdn.verdinha.wtf/scans/1/obras/10255/capitulos/24/002.jpg",
+          "https://cdn.verdinha.wtf/scans/1/obras/10255/capitulos/24/003.jpg",
+          "https://cdn.verdinha.wtf/scans/1/obras/10255/capitulos/24/004.jpg"
+        ]
+      }
+    },
+    "23": {
+      "title": "Capítulo 23",
+      "groups": {
+        "gikamura": [
+          "https://cdn.verdinha.wtf/scans/1/obras/10255/capitulos/23/001.jpg",
+          "https://cdn.verdinha.wtf/scans/1/obras/10255/capitulos/23/002.jpg",
+          "https://cdn.verdinha.wtf/scans/1/obras/10255/capitulos/23/003.jpg",
+          "https://cdn.verdinha.wtf/scans/1/obras/10255/capitulos/23/004.jpg"
+        ]
+      }
+    },
+    "22": {
+      "title": "Capítulo 22",
+      "groups": {
+        "gikamura": [
+          "https://cdn.verdinha.wtf/scans/1/obras/10255/capitulos/22/001.jpg",
+          "https://cdn.verdinha.wtf/scans/1/obras/10255/capitulos/22/002.jpg",
+          "https://cdn.verdinha.wtf/scans/1/obras/10255/capitulos/22/003.jpg",
+          "https://cdn.verdinha.wtf/scans/1/obras/10255/capitulos/22/004.jpg"
+        ]
+      }
+    },
+    "21": {
+      "title": "Capítulo 21",
+      "groups": {
+        "gikamura": [
+          "https://cdn.verdinha.wtf/scans/1/obras/10255/capitulos/21/001.jpg",
+          "https://cdn.verdinha.wtf/scans/1/obras/10255/capitulos/21/002.jpg",
+          "https://cdn.verdinha.wtf/scans/1/obras/10255/capitulos/21/003.jpg",
+          "https://cdn.verdinha.wtf/scans/1/obras/10255/capitulos/21/004.jpg"
+        ]
+      }
+    },
+    "20": {
+      "title": "Capítulo 20",
+      "groups": {
+        "gikamura": [
+          "https://cdn.verdinha.wtf/scans/1/obras/10255/capitulos/20/001.jpg",
+          "https://cdn.verdinha.wtf/scans/1/obras/10255/capitulos/20/002.jpg",
+          "https://cdn.verdinha.wtf/scans/1/obras/10255/capitulos/20/003.jpg",
+          "https://cdn.verdinha.wtf/scans/1/obras/10255/capitulos/20/004.jpg"
+        ]
+      }
+    },
+    "19": {
+      "title": "Capítulo 19",
+      "groups": {
+        "gikamura": [
+          "https://cdn.verdinha.wtf/scans/1/obras/10255/capitulos/19/001.jpg",
+          "https://cdn.verdinha.wtf/scans/1/obras/10255/capitulos/19/002.jpg",
+          "https://cdn.verdinha.wtf/scans/1/obras/10255/capitulos/19/003.jpg",
+          "https://cdn.verdinha.wtf/scans/1/obras/10255/capitulos/19/004.jpg"
+        ]
+      }
+    },
+    "18": {
+      "title": "Capítulo 18",
+      "groups": {
+        "gikamura": [
+          "https://cdn.verdinha.wtf/scans/1/obras/10255/capitulos/18/001.jpg",
+          "https://cdn.verdinha.wtf/scans/1/obras/10255/capitulos/18/002.jpg",
+          "https://cdn.verdinha.wtf/scans/1/obras/10255/capitulos/18/003.jpg",
+          "https://cdn.verdinha.wtf/scans/1/obras/10255/capitulos/18/004.jpg"
+        ]
+      }
+    },
+    "17": {
+      "title": "Capítulo 17",
+      "groups": {
+        "gikamura": [
+          "https://cdn.verdinha.wtf/scans/1/obras/10255/capitulos/17/001.jpg",
+          "https://cdn.verdinha.wtf/scans/1/obras/10255/capitulos/17/002.jpg",
+          "https://cdn.verdinha.wtf/scans/1/obras/10255/capitulos/17/003.jpg",
+          "https://cdn.verdinha.wtf/scans/1/obras/10255/capitulos/17/004.jpg"
+        ]
+      }
+    },
+    "16": {
+      "title": "Capítulo 16",
+      "groups": {
+        "gikamura": [
+          "https://cdn.verdinha.wtf/scans/1/obras/10255/capitulos/16/001.jpg",
+          "https://cdn.verdinha.wtf/scans/1/obras/10255/capitulos/16/002.jpg",
+          "https://cdn.verdinha.wtf/scans/1/obras/10255/capitulos/16/003.jpg",
+          "https://cdn.verdinha.wtf/scans/1/obras/10255/capitulos/16/004.jpg"
+        ]
+      }
+    },
+    "15": {
+      "title": "Capítulo 15",
+      "groups": {
+        "gikamura": [
+          "https://cdn.verdinha.wtf/scans/1/obras/10255/capitulos/15/001.jpg",
+          "https://cdn.verdinha.wtf/scans/1/obras/10255/capitulos/15/002.jpg",
+          "https://cdn.verdinha.wtf/scans/1/obras/10255/capitulos/15/003.jpg",
+          "https://cdn.verdinha.wtf/scans/1/obras/10255/capitulos/15/004.jpg"
+        ]
+      }
+    },
+    "14": {
+      "title": "Capítulo 14",
+      "groups": {
+        "gikamura": [
+          "https://cdn.verdinha.wtf/scans/1/obras/10255/capitulos/14/001.jpg",
+          "https://cdn.verdinha.wtf/scans/1/obras/10255/capitulos/14/002.jpg",
+          "https://cdn.verdinha.wtf/scans/1/obras/10255/capitulos/14/003.jpg",
+          "https://cdn.verdinha.wtf/scans/1/obras/10255/capitulos/14/004.jpg",
+          "https://cdn.verdinha.wtf/scans/1/obras/10255/capitulos/14/005.jpg"
+        ]
+      }
+    },
+    "13": {
+      "title": "Capítulo 13",
+      "groups": {
+        "gikamura": [
+          "https://cdn.verdinha.wtf/scans/1/obras/10255/capitulos/13/001.jpg",
+          "https://cdn.verdinha.wtf/scans/1/obras/10255/capitulos/13/002.jpg",
+          "https://cdn.verdinha.wtf/scans/1/obras/10255/capitulos/13/003.jpg",
+          "https://cdn.verdinha.wtf/scans/1/obras/10255/capitulos/13/004.jpg"
+        ]
+      }
+    },
+    "12": {
+      "title": "Capítulo 12",
+      "groups": {
+        "gikamura": [
+          "https://cdn.verdinha.wtf/scans/1/obras/10255/capitulos/12/001.jpg",
+          "https://cdn.verdinha.wtf/scans/1/obras/10255/capitulos/12/002.jpg",
+          "https://cdn.verdinha.wtf/scans/1/obras/10255/capitulos/12/003.jpg",
+          "https://cdn.verdinha.wtf/scans/1/obras/10255/capitulos/12/004.jpg"
+        ]
+      }
+    },
+    "11": {
+      "title": "Capítulo 11",
+      "groups": {
+        "gikamura": [
+          "https://cdn.verdinha.wtf/scans/1/obras/10255/capitulos/11/001.jpg",
+          "https://cdn.verdinha.wtf/scans/1/obras/10255/capitulos/11/002.jpg",
+          "https://cdn.verdinha.wtf/scans/1/obras/10255/capitulos/11/003.jpg",
+          "https://cdn.verdinha.wtf/scans/1/obras/10255/capitulos/11/004.jpg"
+        ]
+      }
+    },
+    "10": {
+      "title": "Capítulo 10",
+      "groups": {
+        "gikamura": [
+          "https://cdn.verdinha.wtf/scans/1/obras/10255/capitulos/10/001.jpg",
+          "https://cdn.verdinha.wtf/scans/1/obras/10255/capitulos/10/002.jpg",
+          "https://cdn.verdinha.wtf/scans/1/obras/10255/capitulos/10/003.jpg",
+          "https://cdn.verdinha.wtf/scans/1/obras/10255/capitulos/10/004.jpg"
+        ]
+      }
+    },
+    "9": {
+      "title": "Capítulo 9",
+      "groups": {
+        "gikamura": [
+          "https://cdn.verdinha.wtf/scans/1/obras/10255/capitulos/9/001.jpg",
+          "https://cdn.verdinha.wtf/scans/1/obras/10255/capitulos/9/002.jpg",
+          "https://cdn.verdinha.wtf/scans/1/obras/10255/capitulos/9/003.jpg",
+          "https://cdn.verdinha.wtf/scans/1/obras/10255/capitulos/9/004.jpg"
+        ]
+      }
+    },
+    "8": {
+      "title": "Capítulo 8",
+      "groups": {
+        "gikamura": [
+          "https://cdn.verdinha.wtf/scans/1/obras/10255/capitulos/8/001.jpg",
+          "https://cdn.verdinha.wtf/scans/1/obras/10255/capitulos/8/002.jpg",
+          "https://cdn.verdinha.wtf/scans/1/obras/10255/capitulos/8/003.jpg",
+          "https://cdn.verdinha.wtf/scans/1/obras/10255/capitulos/8/004.jpg"
+        ]
+      }
+    },
+    "7": {
+      "title": "Capítulo 7",
+      "groups": {
+        "gikamura": [
+          "https://cdn.verdinha.wtf/scans/1/obras/10255/capitulos/7/001.jpg",
+          "https://cdn.verdinha.wtf/scans/1/obras/10255/capitulos/7/002.jpg",
+          "https://cdn.verdinha.wtf/scans/1/obras/10255/capitulos/7/003.jpg",
+          "https://cdn.verdinha.wtf/scans/1/obras/10255/capitulos/7/004.jpg"
+        ]
+      }
+    },
+    "6": {
+      "title": "Capítulo 6",
+      "groups": {
+        "gikamura": [
+          "https://cdn.verdinha.wtf/scans/1/obras/10255/capitulos/6/001.jpg",
+          "https://cdn.verdinha.wtf/scans/1/obras/10255/capitulos/6/002.jpg",
+          "https://cdn.verdinha.wtf/scans/1/obras/10255/capitulos/6/003.jpg",
+          "https://cdn.verdinha.wtf/scans/1/obras/10255/capitulos/6/004.jpg"
+        ]
+      }
+    },
+    "5": {
+      "title": "Capítulo 5",
+      "groups": {
+        "gikamura": [
+          "https://cdn.verdinha.wtf/scans/1/obras/10255/capitulos/5/001.jpg",
+          "https://cdn.verdinha.wtf/scans/1/obras/10255/capitulos/5/002.jpg",
+          "https://cdn.verdinha.wtf/scans/1/obras/10255/capitulos/5/003.jpg",
+          "https://cdn.verdinha.wtf/scans/1/obras/10255/capitulos/5/004.jpg"
+        ]
+      }
+    },
+    "4": {
+      "title": "Capítulo 4",
+      "groups": {
+        "gikamura": [
+          "https://cdn.verdinha.wtf/scans/1/obras/10255/capitulos/4/001.jpg",
+          "https://cdn.verdinha.wtf/scans/1/obras/10255/capitulos/4/002.jpg",
+          "https://cdn.verdinha.wtf/scans/1/obras/10255/capitulos/4/003.jpg",
+          "https://cdn.verdinha.wtf/scans/1/obras/10255/capitulos/4/004.jpg"
+        ]
+      }
+    },
+    "3": {
+      "title": "Capítulo 3",
+      "groups": {
+        "gikamura": [
+          "https://cdn.verdinha.wtf/scans/1/obras/10255/capitulos/3/001.jpg",
+          "https://cdn.verdinha.wtf/scans/1/obras/10255/capitulos/3/002.jpg",
+          "https://cdn.verdinha.wtf/scans/1/obras/10255/capitulos/3/003.jpg",
+          "https://cdn.verdinha.wtf/scans/1/obras/10255/capitulos/3/004.jpg"
+        ]
+      }
+    },
+    "2": {
+      "title": "Capítulo 2",
+      "groups": {
+        "gikamura": [
+          "https://cdn.verdinha.wtf/scans/1/obras/10255/capitulos/2/001.jpg",
+          "https://cdn.verdinha.wtf/scans/1/obras/10255/capitulos/2/002.jpg",
+          "https://cdn.verdinha.wtf/scans/1/obras/10255/capitulos/2/003.jpg",
+          "https://cdn.verdinha.wtf/scans/1/obras/10255/capitulos/2/004.jpg"
+        ]
+      }
+    },
+    "1": {
+      "title": "Capítulo 1",
+      "groups": {
+        "gikamura": [
+          "https://cdn.verdinha.wtf/scans/1/obras/10255/capitulos/1/001.jpg",
+          "https://cdn.verdinha.wtf/scans/1/obras/10255/capitulos/1/002.jpg",
+          "https://cdn.verdinha.wtf/scans/1/obras/10255/capitulos/1/003.jpg",
+          "https://cdn.verdinha.wtf/scans/1/obras/10255/capitulos/1/004.jpg"
+        ]
+      }
+    }
+  }
+}
