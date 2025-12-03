@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764731989,
-    "totalMangas": 1373,
+    "lastUpdated": 1764731998,
+    "totalMangas": 1374,
     "version": "1.0.5"
   },
   "mangas": {
@@ -16478,6 +16478,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl80MTE2Lmpzb24/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/4162/wp-content/uploads/2024/10/ScreenXota_waifu2x_art_noise3.webp"
+        }
+      ]
+    },
+    "makr_78130": {
+      "title": "Streaming do Arqueiro Genial",
+      "chapters": [
+        {
+          "id": "78130",
+          "title": "Streaming do Arqueiro Genial",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl83ODEzMC5qc29u/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/354/67e6227661ff9.png"
         }
       ]
     }
