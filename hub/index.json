@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764736677,
-    "totalMangas": 1892,
+    "lastUpdated": 1764736686,
+    "totalMangas": 1893,
     "version": "1.0.5"
   },
   "mangas": {
@@ -22706,6 +22706,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl84MjUyOGYuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/12829/685f65e5f0b59.png"
+        }
+      ]
+    },
+    "makr_ccb0cd": {
+      "title": "Nesta Vida, Eu Serei A Maior Estrela Do Universo",
+      "chapters": [
+        {
+          "id": "ccb0cd",
+          "title": "Nesta Vida, Eu Serei A Maior Estrela Do Universo",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl9jY2IwY2QuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/9180/679adcc11eaac.png"
         }
       ]
     }
