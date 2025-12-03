@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764738259,
-    "totalMangas": 2059,
+    "lastUpdated": 1764738267,
+    "totalMangas": 2060,
     "version": "1.0.5"
   },
   "mangas": {
@@ -24710,6 +24710,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8zOTUwNS5qc29u/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/8903/6795a33fe9add.png"
+        }
+      ]
+    },
+    "makr_1204": {
+      "title": "O Gênio que Lê o Mundo",
+      "chapters": [
+        {
+          "id": "1204",
+          "title": "O Gênio que Lê o Mundo",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8xMjA0Lmpzb24/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/9989/6869c0543616a.webp"
         }
       ]
     }
