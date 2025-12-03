@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764737859,
-    "totalMangas": 2015,
+    "lastUpdated": 1764737868,
+    "totalMangas": 2016,
     "version": "1.0.5"
   },
   "mangas": {
@@ -24182,6 +24182,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8yMzk2MDguanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/10904/680eaed778af9.jpg"
+        }
+      ]
+    },
+    "mach_e2ded1": {
+      "title": "Horror Global: Eu Desbloqueei uma Loja de Trapaças à Minha Escolha",
+      "chapters": [
+        {
+          "id": "e2ded1",
+          "title": "Horror Global: Eu Desbloqueei uma Loja de Trapaças à Minha Escolha",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF9lMmRlZDEuanNvbg/",
+          "type": "manhua",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/12827/685f63b17e9af.png"
         }
       ]
     }
