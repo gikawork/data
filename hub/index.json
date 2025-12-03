@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": 1764725050,
+    "lastUpdated": 1764725065,
     "totalMangas": 1110,
     "version": "1.0.5"
   },
@@ -13310,6 +13310,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8yNjg0Lmpzb24/",
           "type": "manhwa",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx189679-I5iZIfL3IpaO.jpg"
+        }
+      ]
+    },
+    "mach_3272": {
+      "title": "Ultimate Scheming System",
+      "chapters": [
+        {
+          "id": "3272",
+          "title": "Ultimate Scheming System",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF8zMjcyLmpzb24/",
+          "type": "manhua",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/nx105674-CHRp759Ywqxr.jpg"
         }
       ]
     }
