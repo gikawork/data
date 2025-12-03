@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764733323,
-    "totalMangas": 1523,
+    "lastUpdated": 1764733332,
+    "totalMangas": 1524,
     "version": "1.0.5"
   },
   "mangas": {
@@ -18278,6 +18278,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl84MWUzMTMuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/9067/67961c6a62ed7.png"
+        }
+      ]
+    },
+    "mach_9418": {
+      "title": "CLT em um Mundo de Cultivo",
+      "chapters": [
+        {
+          "id": "9418",
+          "title": "CLT em um Mundo de Cultivo",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF85NDE4Lmpzb24/",
+          "type": "manhua",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/7886/wp-content/uploads/2024/12/safradoooooooooooooo.jpg"
         }
       ]
     }
