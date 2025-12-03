@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764735366,
-    "totalMangas": 1749,
+    "lastUpdated": 1764735375,
+    "totalMangas": 1750,
     "version": "1.0.5"
   },
   "mangas": {
@@ -20990,6 +20990,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8xZGFjMjUuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/10074/67c4f0e0ca26e.png"
+        }
+      ]
+    },
+    "makr_8cdb3f": {
+      "title": "Mago Prismático Genial",
+      "chapters": [
+        {
+          "id": "8cdb3f",
+          "title": "Mago Prismático Genial",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl84Y2RiM2YuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/9146/6861e46ecb4ac.webp"
         }
       ]
     }
