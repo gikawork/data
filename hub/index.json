@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764730559,
-    "totalMangas": 1215,
+    "lastUpdated": 1764730568,
+    "totalMangas": 1216,
     "version": "1.0.5"
   },
   "mangas": {
@@ -14582,6 +14582,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwX2YxZjI3YS5qc29u/",
           "type": "manga",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/11093/6823741414cd3.jpg"
+        }
+      ]
+    },
+    "makr_1075": {
+      "title": "Me tornarei a provadora de veneno do vilão!",
+      "chapters": [
+        {
+          "id": "1075",
+          "title": "Me tornarei a provadora de veneno do vilão!",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8xMDc1Lmpzb24/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/10736/680c336440591.png"
         }
       ]
     }
