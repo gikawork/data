@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764737045,
-    "totalMangas": 1932,
+    "lastUpdated": 1764737054,
+    "totalMangas": 1933,
     "version": "1.0.5"
   },
   "mangas": {
@@ -23186,6 +23186,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF84MGVhYjAuanNvbg/",
           "type": "manhua",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/10352/67d44389c1920.jpg"
+        }
+      ]
+    },
+    "makr_2b93e0": {
+      "title": "Saia, Romeu.",
+      "chapters": [
+        {
+          "id": "2b93e0",
+          "title": "Saia, Romeu.",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8yYjkzZTAuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/10178/67cdc61841dba.png"
         }
       ]
     }
