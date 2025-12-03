@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": 1764761443,
+    "lastUpdated": 1764761452,
     "totalMangas": 2614,
     "version": "1.0.6"
   },
@@ -31361,15 +31361,15 @@
         }
       ]
     },
-    "makr_5720": {
-      "title": "The Lady of the Devil",
+    "maoel_371669": {
+      "title": "Nunca mais",
       "chapters": [
         {
-          "id": "5720",
-          "title": "The Lady of the Devil",
-          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl81NzIwLmpzb24/",
-          "type": "manhwa",
-          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx170406-oavwctINmFUc.jpg"
+          "id": "371669",
+          "title": "Nunca mais",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21vZWwvbWFvZWxfMzcxNjY5Lmpzb24/",
+          "type": "oel",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/10600/67f7a89343a56.jpg"
         }
       ]
     }
