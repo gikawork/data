@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": 1764730152,
+    "lastUpdated": 1764730166,
     "totalMangas": 1191,
     "version": "1.0.5"
   },
@@ -14282,6 +14282,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl84OTMwMi5qc29u/",
           "type": "manhwa",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx187140-KaOPLwtIStid.png"
+        }
+      ]
+    },
+    "majp_5678": {
+      "title": "Ayakashi Triangle",
+      "chapters": [
+        {
+          "id": "5678",
+          "title": "Ayakashi Triangle",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzU2NzguanNvbg/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx119493-dtva4KFa1z7I.jpg"
         }
       ]
     }
