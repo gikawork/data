@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764738777,
-    "totalMangas": 2116,
+    "lastUpdated": 1764738786,
+    "totalMangas": 2117,
     "version": "1.0.5"
   },
   "mangas": {
@@ -25394,6 +25394,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl85MzU5YTAuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/13105/68726fec91e1c.jpg"
+        }
+      ]
+    },
+    "makr_8909": {
+      "title": "O Diletante",
+      "chapters": [
+        {
+          "id": "8909",
+          "title": "O Diletante",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl84OTA5Lmpzb24/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/10201/67ce4391c818b.png"
         }
       ]
     }
