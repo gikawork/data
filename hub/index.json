@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764731859,
-    "totalMangas": 1358,
+    "lastUpdated": 1764731868,
+    "totalMangas": 1359,
     "version": "1.0.5"
   },
   "mangas": {
@@ -16298,6 +16298,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl9iZTJmYzUuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/10923/680eb1e2a1382.jpg"
+        }
+      ]
+    },
+    "makr_78224": {
+      "title": "Lily of the Valley",
+      "chapters": [
+        {
+          "id": "78224",
+          "title": "Lily of the Valley",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl83ODIyNC5qc29u/",
+          "type": "manhwa",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx177675-IpUeDowelE08.png"
         }
       ]
     }
