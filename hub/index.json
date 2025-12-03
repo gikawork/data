@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764735978,
-    "totalMangas": 1816,
+    "lastUpdated": 1764735987,
+    "totalMangas": 1817,
     "version": "1.0.5"
   },
   "mangas": {
@@ -21794,6 +21794,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8wYzJmYTAuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/173/wp-content/uploads/2024/05/imagem_2024-06-29_194820922.png"
+        }
+      ]
+    },
+    "makr_373932": {
+      "title": "De Tirar o Fôlego",
+      "chapters": [
+        {
+          "id": "373932",
+          "title": "De Tirar o Fôlego",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8zNzM5MzIuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/13547/68d7f8121cbc3.png"
         }
       ]
     }
