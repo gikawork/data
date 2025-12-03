@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": 1764729203,
+    "lastUpdated": 1764729218,
     "totalMangas": 1168,
     "version": "1.0.5"
   },
@@ -14006,6 +14006,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzU1NjQuanNvbg/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/6114.jpg"
+        }
+      ]
+    },
+    "majp_5058": {
+      "title": "The Wolf in Love & Mille-Feuille",
+      "chapters": [
+        {
+          "id": "5058",
+          "title": "The Wolf in Love & Mille-Feuille",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzUwNTguanNvbg/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx118226-1f8Y780g8I8X.jpg"
         }
       ]
     }
