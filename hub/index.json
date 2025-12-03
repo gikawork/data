@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764730928,
-    "totalMangas": 1257,
+    "lastUpdated": 1764730937,
+    "totalMangas": 1258,
     "version": "1.0.5"
   },
   "mangas": {
@@ -15086,6 +15086,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF80NTIxOC5qc29u/",
           "type": "manhua",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/9765/67aa3071b0f58.png"
+        }
+      ]
+    },
+    "majp_109187": {
+      "title": "Romance Louco",
+      "chapters": [
+        {
+          "id": "109187",
+          "title": "Romance Louco",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzEwOTE4Ny5qc29u/",
+          "type": "manga",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/10179/67cdc6cdddbdb.png"
         }
       ]
     }
