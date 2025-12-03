@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764739331,
-    "totalMangas": 2177,
+    "lastUpdated": 1764739339,
+    "totalMangas": 2178,
     "version": "1.0.5"
   },
   "mangas": {
@@ -26126,6 +26126,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl9jM2NmZjkuanNvbg/",
           "type": "manhwa",
           "cover_url": ""
+        }
+      ]
+    },
+    "majp_2a7742": {
+      "title": "A invocação dela",
+      "chapters": [
+        {
+          "id": "2a7742",
+          "title": "A invocação dela",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzJhNzc0Mi5qc29u/",
+          "type": "manga",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/10154/67cc847f4ab9c.png"
         }
       ]
     }
