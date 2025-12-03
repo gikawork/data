@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764740538,
-    "totalMangas": 2310,
+    "lastUpdated": 1764740547,
+    "totalMangas": 2311,
     "version": "1.0.5"
   },
   "mangas": {
@@ -27722,6 +27722,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8yNTUxN2YuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/9869/67b29d2d68a56.png"
+        }
+      ]
+    },
+    "makr_d6a88a": {
+      "title": "O Deus da Espada de um Mundo Caído",
+      "chapters": [
+        {
+          "id": "d6a88a",
+          "title": "O Deus da Espada de um Mundo Caído",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl9kNmE4OGEuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/11265/683df50e2a101.jpg"
         }
       ]
     }
