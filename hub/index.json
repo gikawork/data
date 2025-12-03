@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764736935,
-    "totalMangas": 1920,
+    "lastUpdated": 1764736944,
+    "totalMangas": 1921,
     "version": "1.0.5"
   },
   "mangas": {
@@ -23042,6 +23042,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8yMTEwLmpzb24/",
           "type": "manhwa",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx188182-OsbA2VA4V9OC.jpg"
+        }
+      ]
+    },
+    "makr_12f58b": {
+      "title": "O Mestre Espadachim Preguiçoso",
+      "chapters": [
+        {
+          "id": "12f58b",
+          "title": "O Mestre Espadachim Preguiçoso",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8xMmY1OGIuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/488/wp-content/uploads/2024/05/O_Mestre_Espadachim_Preguicoso_Cap.format-webp.original.jpg"
         }
       ]
     }
