@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": 1764723268,
+    "lastUpdated": 1764723283,
     "totalMangas": 1099,
     "version": "1.0.5"
   },
@@ -13178,6 +13178,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl80Nzc4My5qc29u/",
           "type": "manhwa",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx130566-ahDRD0JH2WSr.jpg"
+        }
+      ]
+    },
+    "majp_3001": {
+      "title": "“Okaeri, Papa”",
+      "chapters": [
+        {
+          "id": "3001",
+          "title": "“Okaeri, Papa”",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzMwMDEuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx154376-WPNV9HYASIZN.jpg"
         }
       ]
     }
