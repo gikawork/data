@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": 1764728592,
+    "lastUpdated": 1764728606,
     "totalMangas": 1155,
     "version": "1.0.5"
   },
@@ -13850,6 +13850,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzc2Ni5qc29u/",
           "type": "manga",
           "cover_url": "https://images2.imgbox.com/4d/cc/9xjWwi7a_o.jpg"
+        }
+      ]
+    },
+    "majp_2452": {
+      "title": "Mieruko-chan",
+      "chapters": [
+        {
+          "id": "2452",
+          "title": "Mieruko-chan",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzI0NTIuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx105097-nMpc8bjBeuXE.jpg"
         }
       ]
     }
