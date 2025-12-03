@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764730445,
-    "totalMangas": 1202,
+    "lastUpdated": 1764730454,
+    "totalMangas": 1203,
     "version": "1.0.5"
   },
   "mangas": {
@@ -14426,6 +14426,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF85NTc2MS5qc29u/",
           "type": "manhua",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/10529/67ea80fbc20ca.png"
+        }
+      ]
+    },
+    "makr_2395": {
+      "title": "Me Tornei um Pai por Acaso",
+      "chapters": [
+        {
+          "id": "2395",
+          "title": "Me Tornei um Pai por Acaso",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8yMzk1Lmpzb24/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/12741/685c8cf5db3aa.png"
         }
       ]
     }
