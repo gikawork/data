@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764738323,
-    "totalMangas": 2066,
+    "lastUpdated": 1764738332,
+    "totalMangas": 2067,
     "version": "1.0.5"
   },
   "mangas": {
@@ -24794,6 +24794,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl83OTczLmpzb24/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/5019/wp-content/uploads/2024/10/87.jpg"
+        }
+      ]
+    },
+    "majp_897fc9": {
+      "title": "Um amor que ainda não floresceu",
+      "chapters": [
+        {
+          "id": "897fc9",
+          "title": "Um amor que ainda não floresceu",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzg5N2ZjOS5qc29u/",
+          "type": "manga",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/10728/6808dbb35ca2c.jpg"
         }
       ]
     }
