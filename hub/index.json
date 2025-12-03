@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764733894,
-    "totalMangas": 1587,
+    "lastUpdated": 1764733903,
+    "totalMangas": 1588,
     "version": "1.0.5"
   },
   "mangas": {
@@ -19046,6 +19046,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF81NDI3Ny5qc29u/",
           "type": "manhua",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/10286/67d06181a5c69.jpg"
+        }
+      ]
+    },
+    "makr_15e29e": {
+      "title": "Sozinho no Inferno",
+      "chapters": [
+        {
+          "id": "15e29e",
+          "title": "Sozinho no Inferno",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8xNWUyOWUuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/9956/67be20d86a755.png"
         }
       ]
     }
