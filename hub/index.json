@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": 1764729321,
+    "lastUpdated": 1764729335,
     "totalMangas": 1174,
     "version": "1.0.5"
   },
@@ -14078,6 +14078,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8xNTAuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx180163-Wkn2WPbIiOdl.jpg"
+        }
+      ]
+    },
+    "majp_200730": {
+      "title": "Mobile Suit Gundam Eight",
+      "chapters": [
+        {
+          "id": "200730",
+          "title": "Mobile Suit Gundam Eight",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzIwMDczMC5qc29u/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx191532-6VRpN4GeW15E.jpg"
         }
       ]
     }
