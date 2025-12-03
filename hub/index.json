@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764740592,
-    "totalMangas": 2316,
+    "lastUpdated": 1764740601,
+    "totalMangas": 2317,
     "version": "1.0.5"
   },
   "mangas": {
@@ -27794,6 +27794,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8zMzExLmpzb24/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/8886/679596b887ae3.png"
+        }
+      ]
+    },
+    "makr_412bd4": {
+      "title": "Sistema Humilde",
+      "chapters": [
+        {
+          "id": "412bd4",
+          "title": "Sistema Humilde",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl80MTJiZDQuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/5957/wp-content/uploads/2024/10/hum.png"
         }
       ]
     }
