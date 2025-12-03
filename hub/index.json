@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764738592,
-    "totalMangas": 2096,
+    "lastUpdated": 1764738601,
+    "totalMangas": 2097,
     "version": "1.0.5"
   },
   "mangas": {
@@ -25154,6 +25154,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl9lYTJmYmMuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/8763/67948a464ad64.png"
+        }
+      ]
+    },
+    "makr_129dc1": {
+      "title": "Clevatess - O Rei das Feras Diabólicas, O bebê e a Valente Heróina Morta-Viva",
+      "chapters": [
+        {
+          "id": "129dc1",
+          "title": "Clevatess - O Rei das Feras Diabólicas, O bebê e a Valente Heróina Morta-Viva",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8xMjlkYzEuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/6506/wp-content/uploads/2024/11/ClevatessOReidasFerasDiabolicasObebeeaValenteHeroinaMortaViva512_20240312T180748569Z.jpeg"
         }
       ]
     }
