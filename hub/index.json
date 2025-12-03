@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764735630,
-    "totalMangas": 1778,
+    "lastUpdated": 1764735638,
+    "totalMangas": 1779,
     "version": "1.0.5"
   },
   "mangas": {
@@ -21338,6 +21338,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl84ODUwNi5qc29u/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/10582/67f4845ed1b2b.webp"
+        }
+      ]
+    },
+    "makr_50999": {
+      "title": "Pelo Que Eu Decidi Morrer",
+      "chapters": [
+        {
+          "id": "50999",
+          "title": "Pelo Que Eu Decidi Morrer",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl81MDk5OS5qc29u/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/10233/67cf222559d6a.png"
         }
       ]
     }
