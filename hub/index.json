@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764735284,
-    "totalMangas": 1740,
+    "lastUpdated": 1764735294,
+    "totalMangas": 1741,
     "version": "1.0.5"
   },
   "mangas": {
@@ -20882,6 +20882,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzgyMjkuanNvbg/",
           "type": "manga",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/10919/680eb0eceafba.jpg"
+        }
+      ]
+    },
+    "mach_46445": {
+      "title": "Xian Zun Luo Wuji",
+      "chapters": [
+        {
+          "id": "46445",
+          "title": "Xian Zun Luo Wuji",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF80NjQ0NS5qc29u/",
+          "type": "manhua",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/2023/wp-content/uploads/2024/05/thumbnail-7-1.webp"
         }
       ]
     }
