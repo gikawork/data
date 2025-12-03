@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": 1764728723,
+    "lastUpdated": 1764728739,
     "totalMangas": 1158,
     "version": "1.0.5"
   },
@@ -13886,6 +13886,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzE2MjYuanNvbg/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx165829-ozwweGqVTPp2.jpg"
+        }
+      ]
+    },
+    "mach_2543": {
+      "title": "Our Similarities",
+      "chapters": [
+        {
+          "id": "2543",
+          "title": "Our Similarities",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF8yNTQzLmpzb24/",
+          "type": "manhua",
+          "cover_url": "https://images2.imgbox.com/43/72/xvNKD8K6_o.jpg"
         }
       ]
     }
