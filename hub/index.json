@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764729826,
-    "totalMangas": 1183,
+    "lastUpdated": 1764729835,
+    "totalMangas": 1184,
     "version": "1.0.5"
   },
   "mangas": {
@@ -14198,6 +14198,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzQ4OTcuanNvbg/",
           "type": "manga",
           "cover_url": "https://cdn.myanimelist.net/images/manga/1/260104.jpg"
+        }
+      ]
+    },
+    "majp_188687": {
+      "title": "Date or Kill: Secret Matching",
+      "chapters": [
+        {
+          "id": "188687",
+          "title": "Date or Kill: Secret Matching",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzE4ODY4Ny5qc29u/",
+          "type": "manga",
+          "cover_url": "https://images2.imgbox.com/0a/fc/teCjSLTq_o.jpg"
         }
       ]
     }
