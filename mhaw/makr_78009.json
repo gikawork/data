@@ -1,0 +1,52 @@
+{
+  "title": "Divine Delivery",
+  "author": "Kkulbeom, Bada Nangja",
+  "artist": "Jaemkkyu",
+  "description": "Entre no mundo de Hajun Lee, um entregador comum tentando sobreviver. Mas quando ele é convocado ao Olimpo para uma entrega especial, sua vida toma um rumo inesperado. De repente, ele se torna o entregador pessoal dos deuses, ganhando muito dinheiro e aprimorando seus equipamentos a cada entrega arriscada. Acompanhe suas aventuras ousadas por masmorras e batalhas com monstros enquanto aprende a ser mais esperto que todos eles. De um trabalho divino para o outro, Hajun encara tudo com inteligência e coragem. Mas será que ele conseguirá manter a rotina de ser um entregador comum e, ao mesmo tempo, servir aos poderosos deuses?\n\n",
+  "cover": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx184647-d3RpEJuaNkCu.jpg",
+  "status": "Em Andamento",
+  "chapters": {
+    "3": {
+      "title": "Capítulo 3",
+      "groups": {
+        "gikamura": [
+          "https://cdn.verdinha.wtf/scans/1/obras/13795/capitulos/3/pagina_001.jpg",
+          "https://cdn.verdinha.wtf/scans/1/obras/13795/capitulos/3/pagina_002.jpg",
+          "https://cdn.verdinha.wtf/scans/1/obras/13795/capitulos/3/pagina_003.jpg",
+          "https://cdn.verdinha.wtf/scans/1/obras/13795/capitulos/3/pagina_004.jpg",
+          "https://cdn.verdinha.wtf/scans/1/obras/13795/capitulos/3/pagina_005.jpg",
+          "https://cdn.verdinha.wtf/scans/1/obras/13795/capitulos/3/pagina_006.jpg",
+          "https://cdn.verdinha.wtf/scans/1/obras/13795/capitulos/3/pagina_007.jpg"
+        ]
+      }
+    },
+    "2": {
+      "title": "Capítulo 2",
+      "groups": {
+        "gikamura": [
+          "https://cdn.verdinha.wtf/scans/1/obras/13795/capitulos/2/pagina_001.jpg",
+          "https://cdn.verdinha.wtf/scans/1/obras/13795/capitulos/2/pagina_002.jpg",
+          "https://cdn.verdinha.wtf/scans/1/obras/13795/capitulos/2/pagina_003.jpg",
+          "https://cdn.verdinha.wtf/scans/1/obras/13795/capitulos/2/pagina_004.jpg",
+          "https://cdn.verdinha.wtf/scans/1/obras/13795/capitulos/2/pagina_005.jpg",
+          "https://cdn.verdinha.wtf/scans/1/obras/13795/capitulos/2/pagina_006.jpg",
+          "https://cdn.verdinha.wtf/scans/1/obras/13795/capitulos/2/pagina_007.jpg"
+        ]
+      }
+    },
+    "1": {
+      "title": "Capítulo 1",
+      "groups": {
+        "gikamura": [
+          "https://cdn.verdinha.wtf/scans/1/obras/13795/capitulos/1/pagina_001.jpg",
+          "https://cdn.verdinha.wtf/scans/1/obras/13795/capitulos/1/pagina_002.jpg",
+          "https://cdn.verdinha.wtf/scans/1/obras/13795/capitulos/1/pagina_003.jpg",
+          "https://cdn.verdinha.wtf/scans/1/obras/13795/capitulos/1/pagina_004.jpg",
+          "https://cdn.verdinha.wtf/scans/1/obras/13795/capitulos/1/pagina_005.jpg",
+          "https://cdn.verdinha.wtf/scans/1/obras/13795/capitulos/1/pagina_006.jpg",
+          "https://cdn.verdinha.wtf/scans/1/obras/13795/capitulos/1/pagina_007.jpg"
+        ]
+      }
+    }
+  }
+}
