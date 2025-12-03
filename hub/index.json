@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764732853,
-    "totalMangas": 1471,
+    "lastUpdated": 1764732862,
+    "totalMangas": 1472,
     "version": "1.0.5"
   },
   "mangas": {
@@ -17654,6 +17654,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF8zNzgzNDcuanNvbg/",
           "type": "manhua",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/5432/67fc0a32ecef4.png"
+        }
+      ]
+    },
+    "mach_5077e2": {
+      "title": "A Cidade Rastejante",
+      "chapters": [
+        {
+          "id": "5077e2",
+          "title": "A Cidade Rastejante",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF81MDc3ZTIuanNvbg/",
+          "type": "manhua",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/10255/67cf3f7d5df34.png"
         }
       ]
     }
