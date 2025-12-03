@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": 1764730327,
+    "lastUpdated": 1764730343,
     "totalMangas": 1194,
     "version": "1.0.5"
   },
@@ -14318,6 +14318,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzM1MS5qc29u/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx169298-8BbsOPN4Neh8.jpg"
+        }
+      ]
+    },
+    "majp_5742": {
+      "title": "Kirikago-hime to Mahoutsukai",
+      "chapters": [
+        {
+          "id": "5742",
+          "title": "Kirikago-hime to Mahoutsukai",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzU3NDIuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://cdn.myanimelist.net/images/manga/1/168286.jpg"
         }
       ]
     }
