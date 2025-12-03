@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764739972,
-    "totalMangas": 2248,
+    "lastUpdated": 1764739981,
+    "totalMangas": 2249,
     "version": "1.0.5"
   },
   "mangas": {
@@ -26978,6 +26978,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl81NTQxNC5qc29u/",
           "type": "manhwa",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx153983-n3I1eIkzQghC.jpg"
+        }
+      ]
+    },
+    "makr_164": {
+      "title": "Discípulo Mais Jovem do Mestre de Artes Marciais",
+      "chapters": [
+        {
+          "id": "164",
+          "title": "Discípulo Mais Jovem do Mestre de Artes Marciais",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8xNjQuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/8654/6786cfa52ebff.png"
         }
       ]
     }
