@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764735887,
-    "totalMangas": 1806,
+    "lastUpdated": 1764735896,
+    "totalMangas": 1807,
     "version": "1.0.5"
   },
   "mangas": {
@@ -21674,6 +21674,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF85NjU0My5qc29u/",
           "type": "manhua",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/10560/67f001afc98e9.png"
+        }
+      ]
+    },
+    "makr_fcea38": {
+      "title": "Como Você Quiser, Margrave",
+      "chapters": [
+        {
+          "id": "fcea38",
+          "title": "Como Você Quiser, Margrave",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl9mY2VhMzguanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/8800/679557cb0e0b0.png"
         }
       ]
     }
