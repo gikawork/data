@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764738898,
-    "totalMangas": 2129,
+    "lastUpdated": 1764738910,
+    "totalMangas": 2130,
     "version": "1.0.5"
   },
   "mangas": {
@@ -25550,6 +25550,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl80YjUwZWYuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/10400/67d780999c88d.png"
+        }
+      ]
+    },
+    "makr_8277": {
+      "title": "Duquesa em Ruínas",
+      "chapters": [
+        {
+          "id": "8277",
+          "title": "Duquesa em Ruínas",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl84Mjc3Lmpzb24/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/8850/6795611c1d52c.png"
         }
       ]
     }
