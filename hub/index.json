@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764736183,
-    "totalMangas": 1838,
+    "lastUpdated": 1764736192,
+    "totalMangas": 1839,
     "version": "1.0.5"
   },
   "mangas": {
@@ -22058,6 +22058,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8xMTY1NTkuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/10231/67cf17d1ce429.png"
+        }
+      ]
+    },
+    "mach_4201": {
+      "title": "A Lenda do General Estelar",
+      "chapters": [
+        {
+          "id": "4201",
+          "title": "A Lenda do General Estelar",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF80MjAxLmpzb24/",
+          "type": "manhua",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/1998/67ad0a85e1ea6.png"
         }
       ]
     }
