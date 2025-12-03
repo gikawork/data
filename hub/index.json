@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764739674,
-    "totalMangas": 2215,
+    "lastUpdated": 1764739683,
+    "totalMangas": 2216,
     "version": "1.0.5"
   },
   "mangas": {
@@ -26582,6 +26582,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl9iMTk0YzUuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/7189/6861eebc4fbc3.webp"
+        }
+      ]
+    },
+    "makr_c9e90f": {
+      "title": "O Retorno da Constelação Perdida",
+      "chapters": [
+        {
+          "id": "c9e90f",
+          "title": "O Retorno da Constelação Perdida",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl9jOWU5MGYuanNvbg/",
+          "type": "manhwa",
+          "cover_url": ""
         }
       ]
     }
