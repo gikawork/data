@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764740491,
-    "totalMangas": 2305,
+    "lastUpdated": 1764740500,
+    "totalMangas": 2306,
     "version": "1.0.5"
   },
   "mangas": {
@@ -27662,6 +27662,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF8zOTE4NS5qc29u/",
           "type": "manhua",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/11141/682b30f8cb466.jpg"
+        }
+      ]
+    },
+    "makr_6f2010": {
+      "title": "Decreto Imperial: Trapaceie à vontade",
+      "chapters": [
+        {
+          "id": "6f2010",
+          "title": "Decreto Imperial: Trapaceie à vontade",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl82ZjIwMTAuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/13245/687c245d919ed.png"
         }
       ]
     }
