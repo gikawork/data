@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764739568,
-    "totalMangas": 2203,
+    "lastUpdated": 1764739577,
+    "totalMangas": 2204,
     "version": "1.0.5"
   },
   "mangas": {
@@ -26438,6 +26438,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl9lNjE1ZTcuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/8885/6795961ad072f.png"
+        }
+      ]
+    },
+    "makr_c381b4": {
+      "title": "O Apóstolo Rebelde da Deusa da Abundância",
+      "chapters": [
+        {
+          "id": "c381b4",
+          "title": "O Apóstolo Rebelde da Deusa da Abundância",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl9jMzgxYjQuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/13929/68db0f7546975.webp"
         }
       ]
     }
