@@ -1,0 +1,46 @@
+{
+  "title": "Decidi me tornar um vilão",
+  "author": "Autor não encontrado",
+  "artist": "Artista não encontrado",
+  "description": "San Kim, um maníaco por quadrinhos comum. Um dia, quando ele foi forçado a engolir um objeto desconhecido por alguns valentões, ele inesperadamente se torna um “super-homem” que exerce poderes transcendentais. Mas o que você faz quando se torna um “super-homem”? Você será um “herói” que precisa passar por dificuldades para resolver o caso? Ou um “vilão” que comete todo tipo de maldade? Não importa como você olhe para isso, aqueles que têm muito dinheiro e carisma são “vilões”. Se é assim, por que eu deveria me dar ao trabalho de ser um herói?!",
+  "cover": "https://cdn.verdinha.wtf/scans/1/obras/13933/68db178d83e61.webp",
+  "status": "Em Andamento",
+  "chapters": {
+    "2": {
+      "title": "Capítulo 2",
+      "groups": {
+        "gikamura": [
+          "https://cdn.verdinha.wtf/scans/1/obras/13933/capitulos/2/001.webp",
+          "https://cdn.verdinha.wtf/scans/1/obras/13933/capitulos/2/002.jpg",
+          "https://cdn.verdinha.wtf/scans/1/obras/13933/capitulos/2/003.jpg",
+          "https://cdn.verdinha.wtf/scans/1/obras/13933/capitulos/2/004.jpg",
+          "https://cdn.verdinha.wtf/scans/1/obras/13933/capitulos/2/005.jpg",
+          "https://cdn.verdinha.wtf/scans/1/obras/13933/capitulos/2/006.jpg",
+          "https://cdn.verdinha.wtf/scans/1/obras/13933/capitulos/2/007.jpg",
+          "https://cdn.verdinha.wtf/scans/1/obras/13933/capitulos/2/008.webp",
+          "https://cdn.verdinha.wtf/scans/1/obras/13933/capitulos/2/009.webp"
+        ]
+      }
+    },
+    "1": {
+      "title": "Capítulo 1",
+      "groups": {
+        "gikamura": [
+          "https://cdn.verdinha.wtf/scans/1/obras/13933/capitulos/1/001.webp",
+          "https://cdn.verdinha.wtf/scans/1/obras/13933/capitulos/1/002.jpg",
+          "https://cdn.verdinha.wtf/scans/1/obras/13933/capitulos/1/003.jpg",
+          "https://cdn.verdinha.wtf/scans/1/obras/13933/capitulos/1/004.jpg",
+          "https://cdn.verdinha.wtf/scans/1/obras/13933/capitulos/1/005.jpg",
+          "https://cdn.verdinha.wtf/scans/1/obras/13933/capitulos/1/006.jpg",
+          "https://cdn.verdinha.wtf/scans/1/obras/13933/capitulos/1/007.jpg",
+          "https://cdn.verdinha.wtf/scans/1/obras/13933/capitulos/1/008.jpg",
+          "https://cdn.verdinha.wtf/scans/1/obras/13933/capitulos/1/009.jpg",
+          "https://cdn.verdinha.wtf/scans/1/obras/13933/capitulos/1/010.jpg",
+          "https://cdn.verdinha.wtf/scans/1/obras/13933/capitulos/1/011.jpg",
+          "https://cdn.verdinha.wtf/scans/1/obras/13933/capitulos/1/012.webp",
+          "https://cdn.verdinha.wtf/scans/1/obras/13933/capitulos/1/013.webp"
+        ]
+      }
+    }
+  }
+}
