@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764735748,
-    "totalMangas": 1791,
+    "lastUpdated": 1764735757,
+    "totalMangas": 1792,
     "version": "1.0.5"
   },
   "mangas": {
@@ -21494,6 +21494,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8yMGQ5ZmYuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/9903/67b7b603c9a58.png"
+        }
+      ]
+    },
+    "makr_05df68": {
+      "title": "Ressurgindo do Futuro",
+      "chapters": [
+        {
+          "id": "05df68",
+          "title": "Ressurgindo do Futuro",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8wNWRmNjguanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/8041/wp-content/uploads/2024/12/the-livea.png"
         }
       ]
     }
