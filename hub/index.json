@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764734827,
-    "totalMangas": 1691,
+    "lastUpdated": 1764734836,
+    "totalMangas": 1692,
     "version": "1.0.5"
   },
   "mangas": {
@@ -20294,6 +20294,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8xMmQ5MTYuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/9836/67afa144ea513.png"
+        }
+      ]
+    },
+    "makr_90156": {
+      "title": "Memórias Escondidas",
+      "chapters": [
+        {
+          "id": "90156",
+          "title": "Memórias Escondidas",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl85MDE1Ni5qc29u/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/9012/6795d236ed0db.png"
         }
       ]
     }
