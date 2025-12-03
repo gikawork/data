@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": 1764722916,
+    "lastUpdated": 1764722931,
     "totalMangas": 1098,
     "version": "1.0.5"
   },
@@ -13166,6 +13166,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF85MC5qc29u/",
           "type": "manhua",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx102796-wa9ZYchL991E.jpg"
+        }
+      ]
+    },
+    "majp_1961": {
+      "title": "Batuque",
+      "chapters": [
+        {
+          "id": "1961",
+          "title": "Batuque",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzE5NjEuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx105774-e7EIPXxcm0Bq.png"
         }
       ]
     }
