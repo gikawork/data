@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": 1764723947,
+    "lastUpdated": 1764723962,
     "totalMangas": 1103,
     "version": "1.0.5"
   },
@@ -13226,6 +13226,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzEyNjEuanNvbg/",
           "type": "manga",
           "cover_url": "https://cdn.myanimelist.net/images/manga/1/324735.jpg"
+        }
+      ]
+    },
+    "majp_1618": {
+      "title": "Karaoke De Utau Oneesan To Issyo",
+      "chapters": [
+        {
+          "id": "1618",
+          "title": "Karaoke De Utau Oneesan To Issyo",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzE2MTguanNvbg/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx187713-2CQqpvUEN3RE.jpg"
         }
       ]
     }
