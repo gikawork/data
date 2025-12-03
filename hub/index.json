@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764734432,
-    "totalMangas": 1647,
+    "lastUpdated": 1764734440,
+    "totalMangas": 1648,
     "version": "1.0.5"
   },
   "mangas": {
@@ -19766,6 +19766,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8zNjEzOC5qc29u/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/6517/wp-content/uploads/2024/11/charlotte-tem-5-discipulos.jpeg"
+        }
+      ]
+    },
+    "makr_2f37aa": {
+      "title": "Policial Assassino",
+      "chapters": [
+        {
+          "id": "2f37aa",
+          "title": "Policial Assassino",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8yZjM3YWEuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/3121/wp-content/uploads/2024/06/Policial_Assassino_Capa.format-avif.original.avif"
         }
       ]
     }
