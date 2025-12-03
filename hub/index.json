@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764737814,
-    "totalMangas": 2010,
+    "lastUpdated": 1764737823,
+    "totalMangas": 2011,
     "version": "1.0.5"
   },
   "mangas": {
@@ -24122,6 +24122,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl9hNDFhYjIuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/8409/wp-content/uploads/2025/01/psss.jpg"
+        }
+      ]
+    },
+    "makr_7104": {
+      "title": "A Biografia da Espada Luar",
+      "chapters": [
+        {
+          "id": "7104",
+          "title": "A Biografia da Espada Luar",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl83MTA0Lmpzb24/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/1423/wp-content/uploads/2024/05/Moonlight-Sword-350x476-1.jpeg"
         }
       ]
     }
