@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764734118,
-    "totalMangas": 1612,
+    "lastUpdated": 1764734127,
+    "totalMangas": 1613,
     "version": "1.0.5"
   },
   "mangas": {
@@ -19346,6 +19346,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8xNDAwLmpzb24/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/7615/67ce301d47375.png"
+        }
+      ]
+    },
+    "makr_56185": {
+      "title": "Um Sincero e Calmo Amor",
+      "chapters": [
+        {
+          "id": "56185",
+          "title": "Um Sincero e Calmo Amor",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl81NjE4NS5qc29u/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/9706/67a6069b5f999.avif"
         }
       ]
     }
