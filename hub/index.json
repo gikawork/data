@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764732615,
-    "totalMangas": 1444,
+    "lastUpdated": 1764732624,
+    "totalMangas": 1445,
     "version": "1.0.5"
   },
   "mangas": {
@@ -17330,6 +17330,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl9lMDdmNWEuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/8873/67956d97e61ab.png"
+        }
+      ]
+    },
+    "makr_9d562e": {
+      "title": "O Mestre de Masmorras",
+      "chapters": [
+        {
+          "id": "9d562e",
+          "title": "O Mestre de Masmorras",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl85ZDU2MmUuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/1304/wp-content/uploads/2024/05/Dungeon-Majesty-1-350x476-1.jpg"
         }
       ]
     }
