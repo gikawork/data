@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": 1764728081,
+    "lastUpdated": 1764728095,
     "totalMangas": 1148,
     "version": "1.0.5"
   },
@@ -13766,6 +13766,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzM1MjI5My5qc29u/",
           "type": "manga",
           "cover_url": "https://cdn.myanimelist.net/images/manga/2/328279.jpg"
+        }
+      ]
+    },
+    "majp_2420": {
+      "title": "Keikenchi Chochiku de Nonbiri Shoushin Ryokou",
+      "chapters": [
+        {
+          "id": "2420",
+          "title": "Keikenchi Chochiku de Nonbiri Shoushin Ryokou",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzI0MjAuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://ap-proxy.mangabaka.dev/proxy.php?url=https://cdn.anime-planet.com/manga/primary/keikenchi-chochiku-de-nonbiri-shoushin-ryokou-light-novel-1.webp?t=1734555993"
         }
       ]
     }
