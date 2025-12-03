@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": 1764723358,
+    "lastUpdated": 1764723373,
     "totalMangas": 1099,
     "version": "1.0.5"
   },
@@ -13178,6 +13178,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzM0NTM2Lmpzb24/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx110104-ywTy3uQyuaV4.jpg"
+        }
+      ]
+    },
+    "majp_2845": {
+      "title": "Isshou Senkin",
+      "chapters": [
+        {
+          "id": "2845",
+          "title": "Isshou Senkin",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzI4NDUuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://cdn.myanimelist.net/images/manga/1/289698.jpg"
         }
       ]
     }
