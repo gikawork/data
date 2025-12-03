@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764735137,
-    "totalMangas": 1724,
+    "lastUpdated": 1764735145,
+    "totalMangas": 1725,
     "version": "1.0.5"
   },
   "mangas": {
@@ -20690,6 +20690,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl84ZjI4ZWMuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/10145/67cbc401282a1.png"
+        }
+      ]
+    },
+    "mach_246877": {
+      "title": "Honghuang: Começo adotando Minghe",
+      "chapters": [
+        {
+          "id": "246877",
+          "title": "Honghuang: Começo adotando Minghe",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF8yNDY4NzcuanNvbg/",
+          "type": "manhua",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/9697/67a4a0c40a04e.jpg"
         }
       ]
     }
