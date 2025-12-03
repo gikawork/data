@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764732641,
-    "totalMangas": 1447,
+    "lastUpdated": 1764732649,
+    "totalMangas": 1448,
     "version": "1.0.5"
   },
   "mangas": {
@@ -17366,6 +17366,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8zNTg4ODMuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/13539/68a02be3c6930.jpg"
+        }
+      ]
+    },
+    "makr_1a881e": {
+      "title": "O Manual para Vilãs",
+      "chapters": [
+        {
+          "id": "1a881e",
+          "title": "O Manual para Vilãs",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8xYTg4MWUuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/9083/6796e321dfe84.png"
         }
       ]
     }
