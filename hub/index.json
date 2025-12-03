@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764726075,
-    "totalMangas": 1126,
+    "lastUpdated": 1764726092,
+    "totalMangas": 1125,
     "version": "1.0.5"
   },
   "mangas": {
@@ -1586,18 +1586,6 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvQ0gxMDk3Lmpzb24%3D/",
           "type": "manhua",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx189990-QzKVF7o7Y5j5.jpg"
-        }
-      ]
-    },
-    "JP680": {
-      "title": "Ranking of Kings",
-      "chapters": [
-        {
-          "id": 680,
-          "title": "Ranking of Kings",
-          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9KUDY4MC5qc29u/",
-          "type": "manga",
-          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx114388-2rzAX4Ui1zIG.jpg"
         }
       ]
     },
@@ -13502,6 +13490,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzQyMDU4Lmpzb24/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx119269-3Yd3PsczEDIF.jpg"
+        }
+      ]
+    },
+    "majp_680": {
+      "title": "Days",
+      "chapters": [
+        {
+          "id": "680",
+          "title": "Days",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzY4MC5qc29u/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx86600-22xv3IewBq4T.jpg"
         }
       ]
     }
