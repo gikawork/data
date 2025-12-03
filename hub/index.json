@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764725165,
-    "totalMangas": 1111,
+    "lastUpdated": 1764725175,
+    "totalMangas": 1112,
     "version": "1.0.5"
   },
   "mangas": {
@@ -13334,6 +13334,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzEwMTY2Mi5qc29u/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx120279-XsmkvuVrLxVM.jpg"
+        }
+      ]
+    },
+    "makr_3170": {
+      "title": "Andarilho Diurno",
+      "chapters": [
+        {
+          "id": "3170",
+          "title": "Andarilho Diurno",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8zMTcwLmpzb24/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/4420/67971b9ac6aeb.png"
         }
       ]
     }
