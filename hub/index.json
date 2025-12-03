@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764725638,
-    "totalMangas": 1119,
+    "lastUpdated": 1764725655,
+    "totalMangas": 1118,
     "version": "1.0.5"
   },
   "mangas": {
@@ -566,18 +566,6 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9KUDcxNy5qc29u/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx150440-QdBFoMh4YHsK.jpg"
-        }
-      ]
-    },
-    "JP944": {
-      "title": "Toki-sensei wa Kigaetai",
-      "chapters": [
-        {
-          "id": 944,
-          "title": "Toki-sensei wa Kigaetai",
-          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9KUDk0NC5qc29u/",
-          "type": "manga",
-          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx155189-L7ZmIYokc2NB.jpg"
         }
       ]
     },
@@ -13418,6 +13406,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzI1NzcuanNvbg/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx128444-YPmGnzzC8w2d.jpg"
+        }
+      ]
+    },
+    "majp_944": {
+      "title": "The Guy She Was Interested in Wasn't a Guy at All",
+      "chapters": [
+        {
+          "id": "944",
+          "title": "The Guy She Was Interested in Wasn't a Guy at All",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzk0NC5qc29u/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx149544-466pXfETA8oP.jpg"
         }
       ]
     }
