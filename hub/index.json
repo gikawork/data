@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": 1764729578,
+    "lastUpdated": 1764729594,
     "totalMangas": 1179,
     "version": "1.0.5"
   },
@@ -14138,6 +14138,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF8zOTY2Lmpzb24/",
           "type": "manhua",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx104729-2aZV4QvfNVjy.png"
+        }
+      ]
+    },
+    "majp_4444": {
+      "title": "Genkaku Shoujo ga Tsukimatou Hanashi",
+      "chapters": [
+        {
+          "id": "4444",
+          "title": "Genkaku Shoujo ga Tsukimatou Hanashi",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzQ0NDQuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx180998-c4qoL9qeinku.jpg"
         }
       ]
     }
