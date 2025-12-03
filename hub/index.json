@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": 1764729414,
+    "lastUpdated": 1764729427,
     "totalMangas": 1175,
     "version": "1.0.5"
   },
@@ -14090,6 +14090,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzYwMi5qc29u/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx43897-nWNzhEW9ibIf.jpg"
+        }
+      ]
+    },
+    "makr_1465": {
+      "title": "Pick Me Up!",
+      "chapters": [
+        {
+          "id": "1465",
+          "title": "Pick Me Up!",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8xNDY1Lmpzb24/",
+          "type": "manhwa",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx159441-n919hUzb0j44.jpg"
         }
       ]
     }
