@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764730382,
-    "totalMangas": 1195,
+    "lastUpdated": 1764730390,
+    "totalMangas": 1196,
     "version": "1.0.5"
   },
   "mangas": {
@@ -14342,6 +14342,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl9iZTI4ZDIuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/9018/6795d3674597e.png"
+        }
+      ]
+    },
+    "mach_57986": {
+      "title": "O Último Cultivador Imortal",
+      "chapters": [
+        {
+          "id": "57986",
+          "title": "O Último Cultivador Imortal",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF81Nzk4Ni5qc29u/",
+          "type": "manhua",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/9237/67a009ee67f2c.png"
         }
       ]
     }
