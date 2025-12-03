@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764732881,
-    "totalMangas": 1474,
+    "lastUpdated": 1764732891,
+    "totalMangas": 1475,
     "version": "1.0.5"
   },
   "mangas": {
@@ -17690,6 +17690,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8zOTQwNS5qc29u/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/9151/67996eda53bca.png"
+        }
+      ]
+    },
+    "makr_197877": {
+      "title": "Para a Amante do Meu Marido",
+      "chapters": [
+        {
+          "id": "197877",
+          "title": "Para a Amante do Meu Marido",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8xOTc4NzcuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/9801/67abb06329921.png"
         }
       ]
     }
