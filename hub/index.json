@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": 1764727232,
+    "lastUpdated": 1764727247,
     "totalMangas": 1135,
     "version": "1.0.5"
   },
@@ -13610,6 +13610,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzU2MTguanNvbg/",
           "type": "manga",
           "cover_url": "https://cdn.mangaupdates.com/image/i498564.jpg"
+        }
+      ]
+    },
+    "mach_910": {
+      "title": "Starting Over as a Tree",
+      "chapters": [
+        {
+          "id": "910",
+          "title": "Starting Over as a Tree",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF85MTAuanNvbg/",
+          "type": "manhua",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx162199-KSWonApHYIDA.png"
         }
       ]
     }
