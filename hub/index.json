@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764731762,
-    "totalMangas": 1347,
+    "lastUpdated": 1764731772,
+    "totalMangas": 1348,
     "version": "1.0.5"
   },
   "mangas": {
@@ -16166,6 +16166,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF85ZGMxZjYuanNvbg/",
           "type": "manhua",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/13961/68dda87d8bbc4.webp"
+        }
+      ]
+    },
+    "makr_11bdb5": {
+      "title": "Ouvindo as estrelas",
+      "chapters": [
+        {
+          "id": "11bdb5",
+          "title": "Ouvindo as estrelas",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8xMWJkYjUuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/10044/67c3f395e5699.png"
         }
       ]
     }
