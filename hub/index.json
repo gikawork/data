@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764738566,
-    "totalMangas": 2093,
+    "lastUpdated": 1764738575,
+    "totalMangas": 2094,
     "version": "1.0.5"
   },
   "mangas": {
@@ -25118,6 +25118,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl85YTRmYjIuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/7460/wp-content/uploads/2024/12/huntayagami.jpg"
+        }
+      ]
+    },
+    "mach_9409": {
+      "title": "Meus Discípulos são todos Vilões",
+      "chapters": [
+        {
+          "id": "9409",
+          "title": "Meus Discípulos são todos Vilões",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF85NDA5Lmpzb24/",
+          "type": "manhua",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/2129/68cf0d74987eb.png"
         }
       ]
     }
