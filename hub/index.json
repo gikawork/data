@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764730713,
-    "totalMangas": 1232,
+    "lastUpdated": 1764730721,
+    "totalMangas": 1233,
     "version": "1.0.5"
   },
   "mangas": {
@@ -14786,6 +14786,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl9mNjdmN2MuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/7320/wp-content/uploads/2024/12/taooo.jpg"
+        }
+      ]
+    },
+    "makr_bc0ec5": {
+      "title": "A BEBÊ SONHA EM SER TORNAR UMA VILÃ",
+      "chapters": [
+        {
+          "id": "bc0ec5",
+          "title": "A BEBÊ SONHA EM SER TORNAR UMA VILÃ",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl9iYzBlYzUuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/9250/67a29404b4728.png"
         }
       ]
     }
