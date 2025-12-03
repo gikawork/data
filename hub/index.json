@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": 1764723057,
+    "lastUpdated": 1764723072,
     "totalMangas": 1098,
     "version": "1.0.5"
   },
@@ -13166,6 +13166,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzIzMzMuanNvbg/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx192035-reqe0KkMzdbN.jpg"
+        }
+      ]
+    },
+    "makr_5775": {
+      "title": "Caught by the Villain",
+      "chapters": [
+        {
+          "id": "5775",
+          "title": "Caught by the Villain",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl81Nzc1Lmpzb24/",
+          "type": "manhwa",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx124481-btZ3PfYbjdkm.jpg"
         }
       ]
     }
