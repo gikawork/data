@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764726579,
-    "totalMangas": 1129,
+    "lastUpdated": 1764726588,
+    "totalMangas": 1130,
     "version": "1.0.5"
   },
   "mangas": {
@@ -13550,6 +13550,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzEzMTIuanNvbg/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b188501-yH07ETmfKQ0V.png"
+        }
+      ]
+    },
+    "majp_1389": {
+      "title": "Ranking of Kings",
+      "chapters": [
+        {
+          "id": "1389",
+          "title": "Ranking of Kings",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzEzODkuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx114388-2rzAX4Ui1zIG.jpg"
         }
       ]
     }
