@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764729056,
-    "totalMangas": 1165,
+    "lastUpdated": 1764729065,
+    "totalMangas": 1166,
     "version": "1.0.5"
   },
   "mangas": {
@@ -13982,6 +13982,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzk0MC5qc29u/",
           "type": "manga",
           "cover_url": "https://images2.imgbox.com/7d/17/IgbTr6jU_o.jpg"
+        }
+      ]
+    },
+    "makr_2055": {
+      "title": "A Justiça de uma Lady Vilã",
+      "chapters": [
+        {
+          "id": "2055",
+          "title": "A Justiça de uma Lady Vilã",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8yMDU1Lmpzb24/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/9904/67b7b7a7c511a.webp"
         }
       ]
     }
