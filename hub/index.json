@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764733654,
-    "totalMangas": 1560,
+    "lastUpdated": 1764733664,
+    "totalMangas": 1561,
     "version": "1.0.5"
   },
   "mangas": {
@@ -18722,6 +18722,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF80MzdlNDYuanNvbg/",
           "type": "manhua",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/11105/68253776efd5d.png"
+        }
+      ]
+    },
+    "mach_55288": {
+      "title": "Eu Sei o Seu Segredo",
+      "chapters": [
+        {
+          "id": "55288",
+          "title": "Eu Sei o Seu Segredo",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF81NTI4OC5qc29u/",
+          "type": "manhua",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/10214/67ce652d07ea5.png"
         }
       ]
     }
