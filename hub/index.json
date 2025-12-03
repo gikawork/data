@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764729253,
-    "totalMangas": 1170,
+    "lastUpdated": 1764729263,
+    "totalMangas": 1171,
     "version": "1.0.5"
   },
   "mangas": {
@@ -14042,6 +14042,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzM2NDYuanNvbg/",
           "type": "manga",
           "cover_url": "https://cdn.mangaupdates.com/image/i487151.jpg"
+        }
+      ]
+    },
+    "makr_1460": {
+      "title": "The Frozen Player Returns",
+      "chapters": [
+        {
+          "id": "1460",
+          "title": "The Frozen Player Returns",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8xNDYwLmpzb24/",
+          "type": "manhwa",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx130870-hRlgIlkXBgqb.png"
         }
       ]
     }
