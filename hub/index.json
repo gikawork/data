@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764735861,
-    "totalMangas": 1803,
+    "lastUpdated": 1764735869,
+    "totalMangas": 1804,
     "version": "1.0.5"
   },
   "mangas": {
@@ -21638,6 +21638,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzVhNmI1My5qc29u/",
           "type": "manga",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/10967/681359778ed5a.png"
+        }
+      ]
+    },
+    "mach_f6c98b": {
+      "title": "Reverendo da Insanidade [Remake]",
+      "chapters": [
+        {
+          "id": "f6c98b",
+          "title": "Reverendo da Insanidade [Remake]",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF9mNmM5OGIuanNvbg/",
+          "type": "manhua",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/12937/686bf26d1d38c.png"
         }
       ]
     }
