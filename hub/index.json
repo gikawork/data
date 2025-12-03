@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764760151,
-    "totalMangas": 2609,
+    "lastUpdated": 1764760160,
+    "totalMangas": 2610,
     "version": "1.0.6"
   },
   "mangas": {
@@ -31310,6 +31310,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21vZWwvbWFvZWxfNzQ0MDUuanNvbg/",
           "type": "oel",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/8862/679566a0d224e.png"
+        }
+      ]
+    },
+    "makr_30141": {
+      "title": "What's Wrong with Secretary Kim?",
+      "chapters": [
+        {
+          "id": "30141",
+          "title": "What's Wrong with Secretary Kim?",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8zMDE0MS5qc29u/",
+          "type": "manhwa",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx103635-KhBRh4cfpYcX.jpg"
         }
       ]
     }
