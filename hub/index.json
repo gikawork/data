@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764739113,
-    "totalMangas": 2153,
+    "lastUpdated": 1764739121,
+    "totalMangas": 2154,
     "version": "1.0.5"
   },
   "mangas": {
@@ -25838,6 +25838,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl80MzFmZTcuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/8786/6795518added1.png"
+        }
+      ]
+    },
+    "makr_05f69d": {
+      "title": "Minha Bela Graça",
+      "chapters": [
+        {
+          "id": "05f69d",
+          "title": "Minha Bela Graça",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8wNWY2OWQuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/10456/67db787631850.png"
         }
       ]
     }
