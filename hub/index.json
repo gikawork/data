@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764733517,
-    "totalMangas": 1545,
+    "lastUpdated": 1764733526,
+    "totalMangas": 1546,
     "version": "1.0.5"
   },
   "mangas": {
@@ -18542,6 +18542,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl82Y2JkZTEuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/9963/67be431021666.png"
+        }
+      ]
+    },
+    "makr_e57d5d": {
+      "title": "As Crônicas do Demônio Celestial",
+      "chapters": [
+        {
+          "id": "e57d5d",
+          "title": "As Crônicas do Demônio Celestial",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl9lNTdkNWQuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/252/wp-content/uploads/2024/05/Cronicas-do-Demonio-Celestial.format-avif.width-320-1.jpg"
         }
       ]
     }
