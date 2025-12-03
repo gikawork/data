@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764731461,
-    "totalMangas": 1317,
+    "lastUpdated": 1764731470,
+    "totalMangas": 1318,
     "version": "1.0.5"
   },
   "mangas": {
@@ -15806,6 +15806,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl83MWRmZDMuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/9181/679addaa5b479.png"
+        }
+      ]
+    },
+    "makr_80005": {
+      "title": "Meus Colegas de Classe São Vampiros!",
+      "chapters": [
+        {
+          "id": "80005",
+          "title": "Meus Colegas de Classe São Vampiros!",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl84MDAwNS5qc29u/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/10519/67e878453f52a.png"
         }
       ]
     }
