@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764730118,
-    "totalMangas": 1189,
+    "lastUpdated": 1764730127,
+    "totalMangas": 1190,
     "version": "1.0.5"
   },
   "mangas": {
@@ -14270,6 +14270,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzM2MzUuanNvbg/",
           "type": "manga",
           "cover_url": "https://cdn.myanimelist.net/images/manga/3/318777.jpg"
+        }
+      ]
+    },
+    "majp_2213": {
+      "title": "Seishun Protagonist",
+      "chapters": [
+        {
+          "id": "2213",
+          "title": "Seishun Protagonist",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzIyMTMuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx150683-NmXUbc0BQvhP.jpg"
         }
       ]
     }
