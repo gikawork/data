@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764764705,
-    "totalMangas": 2624,
+    "lastUpdated": 1764764714,
+    "totalMangas": 2625,
     "version": "1.0.6"
   },
   "mangas": {
@@ -31490,6 +31490,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8zMDI5Lmpzb24/",
           "type": "manhwa",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx176731-XDiiD8aeBxVF.png"
+        }
+      ]
+    },
+    "makr_76ee33": {
+      "title": "Profissão sem Valor: Domador de Dragões",
+      "chapters": [
+        {
+          "id": "76ee33",
+          "title": "Profissão sem Valor: Domador de Dragões",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl83NmVlMzMuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/5437/67a7a516aca5d.png"
         }
       ]
     }
