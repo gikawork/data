@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": 1764725807,
+    "lastUpdated": 1764725822,
     "totalMangas": 1123,
     "version": "1.0.5"
   },
@@ -13466,6 +13466,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8zNTQyMzguanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/11379/684ddfc5bc088.png"
+        }
+      ]
+    },
+    "majp_3123": {
+      "title": "Glass Dama",
+      "chapters": [
+        {
+          "id": "3123",
+          "title": "Glass Dama",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzMxMjMuanNvbg/",
+          "type": "manga",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx197017-jAkGgfamstaD.png"
         }
       ]
     }
