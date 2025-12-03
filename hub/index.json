@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764737548,
-    "totalMangas": 1985,
+    "lastUpdated": 1764737557,
+    "totalMangas": 1986,
     "version": "1.0.5"
   },
   "mangas": {
@@ -23822,6 +23822,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl84OTAwLmpzb24/",
           "type": "manhwa",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx184140-MzIMlM6YUMi8.png"
+        }
+      ]
+    },
+    "mach_510927": {
+      "title": "O Retorno do Taoísta Caçador de Fantasmas Urbanos",
+      "chapters": [
+        {
+          "id": "510927",
+          "title": "O Retorno do Taoísta Caçador de Fantasmas Urbanos",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF81MTA5MjcuanNvbg/",
+          "type": "manhua",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/10978/68160b9727ac0.jpg"
         }
       ]
     }
