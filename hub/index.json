@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764730729,
-    "totalMangas": 1234,
+    "lastUpdated": 1764730739,
+    "totalMangas": 1235,
     "version": "1.0.5"
   },
   "mangas": {
@@ -14810,6 +14810,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF80Mzc4NC5qc29u/",
           "type": "manhua",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/9778/67ab7791d57a6.avif"
+        }
+      ]
+    },
+    "makr_061e68": {
+      "title": "Uma Vilã é uma Boa Combinação para um Tirano",
+      "chapters": [
+        {
+          "id": "061e68",
+          "title": "Uma Vilã é uma Boa Combinação para um Tirano",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8wNjFlNjguanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/4250/wp-content/uploads/2024/10/a-villain-is-a-good-match-for-a-tyrant.webp"
         }
       ]
     }
