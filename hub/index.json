@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764738601,
-    "totalMangas": 2097,
+    "lastUpdated": 1764738610,
+    "totalMangas": 2098,
     "version": "1.0.5"
   },
   "mangas": {
@@ -25166,6 +25166,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8xMjlkYzEuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/6506/wp-content/uploads/2024/11/ClevatessOReidasFerasDiabolicasObebeeaValenteHeroinaMortaViva512_20240312T180748569Z.jpeg"
+        }
+      ]
+    },
+    "makr_e6801f": {
+      "title": "Cogumelo Corajoso",
+      "chapters": [
+        {
+          "id": "e6801f",
+          "title": "Cogumelo Corajoso",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl9lNjgwMWYuanNvbg/",
+          "type": "manhwa",
+          "cover_url": ""
         }
       ]
     }
