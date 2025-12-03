@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": 1764726122,
+    "lastUpdated": 1764726137,
     "totalMangas": 1125,
     "version": "1.0.5"
   },
@@ -13490,6 +13490,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF8xODQuanNvbg/",
           "type": "manhua",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx191937-9DpHKQvPuJjU.png"
+        }
+      ]
+    },
+    "makr_965": {
+      "title": "Game Master",
+      "chapters": [
+        {
+          "id": "965",
+          "title": "Game Master",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl85NjUuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx181511-Pe0oCdDPzOmS.png"
         }
       ]
     }
