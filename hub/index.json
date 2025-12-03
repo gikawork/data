@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764738067,
-    "totalMangas": 2038,
+    "lastUpdated": 1764738077,
+    "totalMangas": 2039,
     "version": "1.0.5"
   },
   "mangas": {
@@ -24458,6 +24458,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl85NmJhNWEuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/9176/679ad9ff984e5.png"
+        }
+      ]
+    },
+    "makr_03f237": {
+      "title": "Reencarnei Como um Estudioso",
+      "chapters": [
+        {
+          "id": "03f237",
+          "title": "Reencarnei Como um Estudioso",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8wM2YyMzcuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/2150/wp-content/uploads/2024/05/TheScholarsReincarnation_20231114T025429871Z.webp"
         }
       ]
     }
