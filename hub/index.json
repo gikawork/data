@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764735171,
-    "totalMangas": 1728,
+    "lastUpdated": 1764735180,
+    "totalMangas": 1729,
     "version": "1.0.5"
   },
   "mangas": {
@@ -20738,6 +20738,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl84ZTU2MjYuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/7850/wp-content/uploads/2024/12/a51a07bd-fa88-4e3e-b106-f42be65ddea7.jpg.512.jpg"
+        }
+      ]
+    },
+    "makr_0892c4": {
+      "title": "Como o Vento em um Galho Seco",
+      "chapters": [
+        {
+          "id": "0892c4",
+          "title": "Como o Vento em um Galho Seco",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8wODkyYzQuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/8940/6795bbc044da4.png"
         }
       ]
     }
