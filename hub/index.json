@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764734776,
-    "totalMangas": 1685,
+    "lastUpdated": 1764734783,
+    "totalMangas": 1686,
     "version": "1.0.5"
   },
   "mangas": {
@@ -20222,6 +20222,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl85MWIyMjcuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/6415/wp-content/uploads/2024/11/zhou.jpg"
+        }
+      ]
+    },
+    "makr_7fa76b": {
+      "title": "A noiva Obsidiana",
+      "chapters": [
+        {
+          "id": "7fa76b",
+          "title": "A noiva Obsidiana",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl83ZmE3NmIuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/9947/67bd1e1434f54.png"
         }
       ]
     }
