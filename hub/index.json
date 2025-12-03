@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764733412,
-    "totalMangas": 1533,
+    "lastUpdated": 1764733419,
+    "totalMangas": 1534,
     "version": "1.0.5"
   },
   "mangas": {
@@ -18398,6 +18398,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF8wN2ZhNTUuanNvbg/",
           "type": "manhua",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/13507/689966e2212a6.jpg"
+        }
+      ]
+    },
+    "maoel_36497": {
+      "title": " Uma História de Amor Não Tão Shoujo",
+      "chapters": [
+        {
+          "id": "36497",
+          "title": " Uma História de Amor Não Tão Shoujo",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21vZWwvbWFvZWxfMzY0OTcuanNvbg/",
+          "type": "oel",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/8851/67956169d45e7.png"
         }
       ]
     }
