@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764732817,
-    "totalMangas": 1467,
+    "lastUpdated": 1764732826,
+    "totalMangas": 1468,
     "version": "1.0.5"
   },
   "mangas": {
@@ -17606,6 +17606,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8zNDI0Ny5qc29u/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/8835/67955df1d06ae.png"
+        }
+      ]
+    },
+    "makr_31433": {
+      "title": "Between Us (Goinmul)",
+      "chapters": [
+        {
+          "id": "31433",
+          "title": "Between Us (Goinmul)",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8zMTQzMy5qc29u/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.mangaupdates.com/image/i356643.png"
         }
       ]
     }
