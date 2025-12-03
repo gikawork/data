@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764737993,
-    "totalMangas": 2030,
+    "lastUpdated": 1764738003,
+    "totalMangas": 2031,
     "version": "1.0.5"
   },
   "mangas": {
@@ -24362,6 +24362,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl81MjI4Ny5qc29u/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/9161/67999de2da42b.png"
+        }
+      ]
+    },
+    "makr_047790": {
+      "title": "O bebê leopardo-das-neves da família dos leopardos-negros",
+      "chapters": [
+        {
+          "id": "047790",
+          "title": "O bebê leopardo-das-neves da família dos leopardos-negros",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8wNDc3OTAuanNvbg/",
+          "type": "manhwa",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/9200/67a29a857fa3a.png"
         }
       ]
     }
