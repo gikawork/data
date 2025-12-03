@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764733544,
-    "totalMangas": 1548,
+    "lastUpdated": 1764733553,
+    "totalMangas": 1549,
     "version": "1.0.5"
   },
   "mangas": {
@@ -18578,6 +18578,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl81ODBlYjUuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/8919/6795b30930d84.png"
+        }
+      ]
+    },
+    "mach_e7ac87": {
+      "title": "O Cultivador Imortal Onisciente",
+      "chapters": [
+        {
+          "id": "e7ac87",
+          "title": "O Cultivador Imortal Onisciente",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF9lN2FjODcuanNvbg/",
+          "type": "manhua",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/9243/67a118fc0540a.png"
         }
       ]
     }
