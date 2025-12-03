@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764736090,
-    "totalMangas": 1828,
+    "lastUpdated": 1764736098,
+    "totalMangas": 1829,
     "version": "1.0.5"
   },
   "mangas": {
@@ -21938,6 +21938,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl85MjI3Ni5qc29u/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/10566/67f2028496f0b.jpg"
+        }
+      ]
+    },
+    "mach_8473": {
+      "title": "Congelamento Global",
+      "chapters": [
+        {
+          "id": "8473",
+          "title": "Congelamento Global",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF84NDczLmpzb24/",
+          "type": "manhua",
+          "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/5955/wp-content/uploads/2024/10/free.jpg"
         }
       ]
     }
