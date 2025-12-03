@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "lastUpdated": 1764729523,
-    "totalMangas": 1176,
+    "lastUpdated": 1764729532,
+    "totalMangas": 1177,
     "version": "1.0.5"
   },
   "mangas": {
@@ -14114,6 +14114,18 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl82NTkuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.myanimelist.net/images/manga/2/272391.jpg"
+        }
+      ]
+    },
+    "mach_365567": {
+      "title": "Buhui Zhen Youren Juede Xiu Xian Nan Ba",
+      "chapters": [
+        {
+          "id": "365567",
+          "title": "Buhui Zhen Youren Juede Xiu Xian Nan Ba",
+          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF8zNjU1NjcuanNvbg/",
+          "type": "manhua",
+          "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx199427-OgU0k8YgYqJT.png"
         }
       ]
     }
