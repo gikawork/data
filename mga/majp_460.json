@@ -1,10 +1,10 @@
 {
-  "title": "Exorcista não Kiyoshi-kun",
+  "title": "Exorcist no Kiyoshi-kun",
   "author": "Autor não encontrado",
   "artist": "Artista não encontrado",
   "description": "O exorcista mais poderoso da história — Kiyoshi! Para proteger o que é precioso para ele, Kiyoshi atingiu a força máxima. Mas ele tem um segredo que não pode contar a ninguém... Torne-se uma espada que mata o mal! Torne-se um escudo que protege os fracos!",
   "cover": "https://cdn.verdinha.wtf/scans/1/obras/9987/67c1af4940f2b.png",
-  "status": null,
+  "status": "em lançamento",
   "chapters": {
     "32": {
       "title": "Capítulo 32",
@@ -896,5 +896,8 @@
         ]
       }
     }
-  }
+  },
+  "type": "manga",
+  "id": "majp_460",
+  "num_id": "460"
 }
