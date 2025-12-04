@@ -1,10 +1,10 @@
 {
-  "title": "Magic Academy's Genius Blinker",
+  "title": "Blink Master of the Magic Academy",
   "description": "No jogo Aether World, Baek Yuseol é considerado o personagem mais inútil de todos, pois, ao contrário dos outros, ele não consegue usar magia. Sua única habilidade, Blink, é uma habilidade de teletransporte de curto alcance que a maioria dos jogadores considera insignificante. No entanto, quando é encarregado de alcançar o final verdadeiro do jogo, Baek Yuseol decide usar sua habilidade pouco convencional para conquistar esse objetivo aparentemente impossível. Será que esse personagem, rotulado como “lixo”, conseguirá superar seus colegas poderosos, formar alianças improváveis e, no fim, dominar o jogo?",
   "artist": "SEOU, Seoyu",
   "author": "Eunmilhi",
   "cover": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx178379-dokda9kEw3Ns.jpg",
-  "status": "Unknown",
+  "status": "em lançamento",
   "chapters": {
     "71": {
       "title": "Capítulo 71",
@@ -1898,5 +1898,8 @@
   },
   "source_anilist_response_synonyms": [
     "Magic Academy's Genius Blinker"
-  ]
+  ],
+  "type": "manhwa",
+  "id": "makr_7893",
+  "num_id": "7893"
 }
