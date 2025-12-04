@@ -4,7 +4,7 @@
   "artist": "Togashi Yoshihiro",
   "author": "Togashi Yoshihiro",
   "cover": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx30026-uCvXMudMzmwI.jpg",
-  "status": "Unknown",
+  "status": "hiatos",
   "chapters": {
     "410": {
       "title": "Capitulo 410",
@@ -11591,5 +11591,8 @@
   },
   "source_anilist_response_synonyms": [
     "HUNTER x HUNTER"
-  ]
+  ],
+  "type": "manga",
+  "id": "majp_677",
+  "num_id": "677"
 }
