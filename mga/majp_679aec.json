@@ -1,10 +1,10 @@
 {
-  "title": "12 bestas",
+  "title": "12 Beast",
   "author": "Autor não encontrado",
   "artist": "Artista não encontrado",
   "description": "Junte-se ao aprendiz ninja Eita Touga enquanto ele embarca em uma aventura épica em busca de seu irmão desaparecido Kouki e salva a raça Autana (Besta Humanoide) de \"Live-Earth\" dos misteriosos Gigas que buscam exterminá-los.",
   "cover": "https://cdn.verdinha.wtf/scans/1/obras/10088/67c5b89b39220.png",
-  "status": null,
+  "status": "cancelado",
   "chapters": {
     "28": {
       "title": "Capítulo 28",
@@ -1109,5 +1109,8 @@
         ]
       }
     }
-  }
+  },
+  "type": "manga",
+  "id": "majp_679aec",
+  "num_id": "8042"
 }
