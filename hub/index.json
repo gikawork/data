@@ -4,7 +4,7 @@
     "totalMangas": 3203,
     "version": "1.1.0",
     "statusAdded": true,
-    "statusUpdatedAt": 1764819256
+    "statusUpdatedAt": 1764865605
   },
   "mangas": {
     "makr_1970": {
@@ -38,7 +38,7 @@
       "chapters": [
         {
           "id": "4943",
-          "status": "ongoing",
+          "status": "completed",
           "title": "Itadakimasu",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzQ5NDMuanNvbg/",
           "type": "manga",
@@ -64,7 +64,7 @@
       "chapters": [
         {
           "id": "9263",
-          "status": "ongoing",
+          "status": "completed",
           "title": "Medical Return",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl85MjYzLmpzb24/",
           "type": "manhwa",
@@ -116,7 +116,7 @@
       "chapters": [
         {
           "id": "10036",
-          "status": "ongoing",
+          "status": "completed",
           "title": "Ares",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8xMDAzNi5qc29u/",
           "type": "manhwa",
@@ -142,7 +142,7 @@
       "chapters": [
         {
           "id": "104391",
-          "status": "ongoing",
+          "status": "completed",
           "title": "Kamisama Hajimemashita",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzEwNDM5MS5qc29u/",
           "type": "manga",
@@ -168,7 +168,7 @@
       "chapters": [
         {
           "id": "4366",
-          "status": "ongoing",
+          "status": "completed",
           "title": "Asoko de Hataraku Musubu-san",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzQzNjYuanNvbg/",
           "type": "manga",
@@ -181,7 +181,7 @@
       "chapters": [
         {
           "id": "2410",
-          "status": "ongoing",
+          "status": "completed",
           "title": "Bleach",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzI0MTAuanNvbg/",
           "type": "manga",
@@ -194,7 +194,7 @@
       "chapters": [
         {
           "id": "3812",
-          "status": "ongoing",
+          "status": "completed",
           "title": "Captain Tsubasa: The Strongest Opponent! Holland Youth",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzM4MTIuanNvbg/",
           "type": "manga",
@@ -272,7 +272,7 @@
       "chapters": [
         {
           "id": "4389",
-          "status": "ongoing",
+          "status": "completed",
           "title": "Invitation of Mystic Messenger",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl80Mzg5Lmpzb24/",
           "type": "manhwa",
@@ -285,7 +285,7 @@
       "chapters": [
         {
           "id": "16765",
-          "status": "ongoing",
+          "status": "completed",
           "title": "Put it All in the Ring!",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzE2NzY1Lmpzb24/",
           "type": "manga",
@@ -337,7 +337,7 @@
       "chapters": [
         {
           "id": "714",
-          "status": "ongoing",
+          "status": "completed",
           "title": "Otona ni Narenai Bokura wa",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzcxNC5qc29u/",
           "type": "manga",
@@ -350,7 +350,7 @@
       "chapters": [
         {
           "id": "9018",
-          "status": "ongoing",
+          "status": "completed",
           "title": "Shuumatsu no Harem",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzkwMTguanNvbg/",
           "type": "manga",
@@ -363,7 +363,7 @@
       "chapters": [
         {
           "id": "4940",
-          "status": "ongoing",
+          "status": "completed",
           "title": "Isekai Monster Breeder",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzQ5NDAuanNvbg/",
           "type": "manga",
@@ -376,7 +376,7 @@
       "chapters": [
         {
           "id": "5441",
-          "status": "ongoing",
+          "status": "completed",
           "title": "A Swallow Falling into the Sea",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzU0NDEuanNvbg/",
           "type": "manga",
@@ -389,7 +389,7 @@
       "chapters": [
         {
           "id": "4997",
-          "status": "ongoing",
+          "status": "completed",
           "title": "Bakidou (2018)",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzQ5OTcuanNvbg/",
           "type": "manga",
@@ -467,7 +467,7 @@
       "chapters": [
         {
           "id": "4992",
-          "status": "ongoing",
+          "status": "completed",
           "title": "Beloved",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF80OTkyLmpzb24/",
           "type": "manhua",
@@ -558,7 +558,7 @@
       "chapters": [
         {
           "id": "19312",
-          "status": "ongoing",
+          "status": "completed",
           "title": "Saint Seiya Episode G: Assassin",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzE5MzEyLmpzb24/",
           "type": "manga",
@@ -636,7 +636,7 @@
       "chapters": [
         {
           "id": "37777",
-          "status": "ongoing",
+          "status": "completed",
           "title": "Tedama ni Toritai Kurokiya-san",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzM3Nzc3Lmpzb24/",
           "type": "manga",
@@ -675,7 +675,7 @@
       "chapters": [
         {
           "id": "270",
-          "status": "ongoing",
+          "status": "completed",
           "title": "Naruto",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzI3MC5qc29u/",
           "type": "manga",
@@ -818,7 +818,7 @@
       "chapters": [
         {
           "id": "3190",
-          "status": "ongoing",
+          "status": "completed",
           "title": "The Archmage's Daughter",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8zMTkwLmpzb24/",
           "type": "manhwa",
@@ -844,7 +844,7 @@
       "chapters": [
         {
           "id": "3397",
-          "status": "ongoing",
+          "status": "completed",
           "title": "Solo Leveling",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8zMzk3Lmpzb24/",
           "type": "manhwa",
@@ -870,7 +870,7 @@
       "chapters": [
         {
           "id": "3391",
-          "status": "ongoing",
+          "status": "completed",
           "title": "The Greatest Estate Developer",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8zMzkxLmpzb24/",
           "type": "manhwa",
@@ -974,7 +974,7 @@
       "chapters": [
         {
           "id": "2868",
-          "status": "ongoing",
+          "status": "completed",
           "title": "Takarazora",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzI4NjguanNvbg/",
           "type": "manga",
@@ -987,7 +987,7 @@
       "chapters": [
         {
           "id": "4037",
-          "status": "ongoing",
+          "status": "completed",
           "title": "Taisho Detective",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzQwMzcuanNvbg/",
           "type": "manga",
@@ -1117,7 +1117,7 @@
       "chapters": [
         {
           "id": "5224",
-          "status": "ongoing",
+          "status": "completed",
           "title": "Bowblade Spirit",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl81MjI0Lmpzb24/",
           "type": "manhwa",
@@ -1234,7 +1234,7 @@
       "chapters": [
         {
           "id": "24224",
-          "status": "ongoing",
+          "status": "completed",
           "title": "Ozanari-Kun",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzI0MjI0Lmpzb24/",
           "type": "manga",
@@ -1247,7 +1247,7 @@
       "chapters": [
         {
           "id": "78486",
-          "status": "ongoing",
+          "status": "completed",
           "title": "Saint Seiya: Saintia Sho Memories",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzc4NDg2Lmpzb24/",
           "type": "manga",
@@ -1481,7 +1481,7 @@
       "chapters": [
         {
           "id": "6586",
-          "status": "ongoing",
+          "status": "completed",
           "title": "Saint Seiya: Saintia Shou",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzY1ODYuanNvbg/",
           "type": "manga",
@@ -1546,7 +1546,7 @@
       "chapters": [
         {
           "id": "570",
-          "status": "ongoing",
+          "status": "completed",
           "title": "Goze Hotaru",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzU3MC5qc29u/",
           "type": "manga",
@@ -1559,7 +1559,7 @@
       "chapters": [
         {
           "id": "76767",
-          "status": "ongoing",
+          "status": "completed",
           "title": "Kimi ni Okuru Eien",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzc2NzY3Lmpzb24/",
           "type": "manga",
@@ -1611,7 +1611,7 @@
       "chapters": [
         {
           "id": "198973",
-          "status": "ongoing",
+          "status": "completed",
           "title": "Sono Bisque Doll wa Koi o Suru",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21vdC9tYW90XzE5ODk3My5qc29u/",
           "type": "outro",
@@ -1663,7 +1663,7 @@
       "chapters": [
         {
           "id": "37706",
-          "status": "ongoing",
+          "status": "completed",
           "title": "Reverse Villain",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8zNzcwNi5qc29u/",
           "type": "manhwa",
@@ -1676,7 +1676,7 @@
       "chapters": [
         {
           "id": "1311",
-          "status": "ongoing",
+          "status": "completed",
           "title": "The Jet Black Hedgehog꞉ Shadow the Hedgehog",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzEzMTEuanNvbg/",
           "type": "manga",
@@ -1702,7 +1702,7 @@
       "chapters": [
         {
           "id": "8189",
-          "status": "ongoing",
+          "status": "completed",
           "title": "High Score Girl",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzgxODkuanNvbg/",
           "type": "manga",
@@ -1715,7 +1715,7 @@
       "chapters": [
         {
           "id": "6757",
-          "status": "ongoing",
+          "status": "completed",
           "title": "Martial Master Asumi",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzY3NTcuanNvbg/",
           "type": "manga",
@@ -1754,7 +1754,7 @@
       "chapters": [
         {
           "id": "48104",
-          "status": "ongoing",
+          "status": "completed",
           "title": "Disney Twisted-Wonderland the Comic: Episode of Heartslabyul",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzQ4MTA0Lmpzb24/",
           "type": "manga",
@@ -1975,7 +1975,7 @@
       "chapters": [
         {
           "id": "2929",
-          "status": "ongoing",
+          "status": "completed",
           "title": "Crimson Hero",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzI5MjkuanNvbg/",
           "type": "manga",
@@ -1988,7 +1988,7 @@
       "chapters": [
         {
           "id": "5015",
-          "status": "ongoing",
+          "status": "completed",
           "title": "Metro・Survive",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzUwMTUuanNvbg/",
           "type": "manga",
@@ -2079,7 +2079,7 @@
       "chapters": [
         {
           "id": "10429",
-          "status": "ongoing",
+          "status": "completed",
           "title": "Parallel",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzEwNDI5Lmpzb24/",
           "type": "manga",
@@ -2092,7 +2092,7 @@
       "chapters": [
         {
           "id": "4537",
-          "status": "ongoing",
+          "status": "completed",
           "title": "Kiichi!!",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzQ1MzcuanNvbg/",
           "type": "manga",
@@ -2144,7 +2144,7 @@
       "chapters": [
         {
           "id": "1954",
-          "status": "ongoing",
+          "status": "completed",
           "title": "Hamster",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF8xOTU0Lmpzb24/",
           "type": "manhua",
@@ -2209,7 +2209,7 @@
       "chapters": [
         {
           "id": "4357",
-          "status": "ongoing",
+          "status": "completed",
           "title": "Nimotsu Mochi no Nousuji Musou",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzQzNTcuanNvbg/",
           "type": "manga",
@@ -2222,7 +2222,7 @@
       "chapters": [
         {
           "id": "832",
-          "status": "ongoing",
+          "status": "completed",
           "title": "Embers",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzgzMi5qc29u/",
           "type": "manga",
@@ -2235,7 +2235,7 @@
       "chapters": [
         {
           "id": "22",
-          "status": "ongoing",
+          "status": "completed",
           "title": "Saint Seiya꞉ Anime Comics",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzIyLmpzb24/",
           "type": "manga",
@@ -2248,7 +2248,7 @@
       "chapters": [
         {
           "id": "1161",
-          "status": "ongoing",
+          "status": "completed",
           "title": "Negai no Astro",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzExNjEuanNvbg/",
           "type": "manga",
@@ -2287,7 +2287,7 @@
       "chapters": [
         {
           "id": "4567",
-          "status": "ongoing",
+          "status": "completed",
           "title": "Minimum",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzQ1NjcuanNvbg/",
           "type": "manga",
@@ -2508,7 +2508,7 @@
       "chapters": [
         {
           "id": "5566",
-          "status": "ongoing",
+          "status": "completed",
           "title": "The Story of the Gatekeeper",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl81NTY2Lmpzb24/",
           "type": "manhwa",
@@ -2521,7 +2521,7 @@
       "chapters": [
         {
           "id": "5805",
-          "status": "ongoing",
+          "status": "completed",
           "title": "Karate Shoukoushi Kohinata Minoru",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzU4MDUuanNvbg/",
           "type": "manga",
@@ -2625,7 +2625,7 @@
       "chapters": [
         {
           "id": "3605",
-          "status": "ongoing",
+          "status": "completed",
           "title": "I Get Stronger the More I Eat",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8zNjA1Lmpzb24/",
           "type": "manhwa",
@@ -2638,7 +2638,7 @@
       "chapters": [
         {
           "id": "24919",
-          "status": "ongoing",
+          "status": "completed",
           "title": "Rokudou no Onna-tachi",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzI0OTE5Lmpzb24/",
           "type": "manga",
@@ -2703,7 +2703,7 @@
       "chapters": [
         {
           "id": "16900",
-          "status": "ongoing",
+          "status": "completed",
           "title": "Nishiki-kun no Nasugamama",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzE2OTAwLmpzb24/",
           "type": "manga",
@@ -2716,7 +2716,7 @@
       "chapters": [
         {
           "id": "31632",
-          "status": "ongoing",
+          "status": "completed",
           "title": "Salman",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzMxNjMyLmpzb24/",
           "type": "manga",
@@ -2924,7 +2924,7 @@
       "chapters": [
         {
           "id": "2897",
-          "status": "ongoing",
+          "status": "completed",
           "title": "Tight Rope",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzI4OTcuanNvbg/",
           "type": "manga",
@@ -3067,7 +3067,7 @@
       "chapters": [
         {
           "id": "5436",
-          "status": "ongoing",
+          "status": "completed",
           "title": "Saint Seiya: The Lost Canvas - Meiou Shinwa",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzU0MzYuanNvbg/",
           "type": "manga",
@@ -3080,7 +3080,7 @@
       "chapters": [
         {
           "id": "3229",
-          "status": "ongoing",
+          "status": "completed",
           "title": "That Sensation",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzMyMjkuanNvbg/",
           "type": "manga",
@@ -3093,7 +3093,7 @@
       "chapters": [
         {
           "id": "4801",
-          "status": "ongoing",
+          "status": "completed",
           "title": "GE: Good Ending",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzQ4MDEuanNvbg/",
           "type": "manga",
@@ -3119,7 +3119,7 @@
       "chapters": [
         {
           "id": "30760",
-          "status": "ongoing",
+          "status": "completed",
           "title": "Masamune-kun no Revenge",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzMwNzYwLmpzb24/",
           "type": "manga",
@@ -3184,7 +3184,7 @@
       "chapters": [
         {
           "id": "10319",
-          "status": "ongoing",
+          "status": "completed",
           "title": "Variante: Requiem for the world",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzEwMzE5Lmpzb24/",
           "type": "manga",
@@ -3418,7 +3418,7 @@
       "chapters": [
         {
           "id": "300",
-          "status": "ongoing",
+          "status": "completed",
           "title": "Kekkon surutte, Hontou desu ka",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzMwMC5qc29u/",
           "type": "manga",
@@ -3444,7 +3444,7 @@
       "chapters": [
         {
           "id": "10310",
-          "status": "ongoing",
+          "status": "completed",
           "title": "Boku no Hatsukoi o Kimi ni Sasagu",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzEwMzEwLmpzb24/",
           "type": "manga",
@@ -3457,7 +3457,7 @@
       "chapters": [
         {
           "id": "2948",
-          "status": "ongoing",
+          "status": "completed",
           "title": "Oresama Ouji",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzI5NDguanNvbg/",
           "type": "manga",
@@ -3522,7 +3522,7 @@
       "chapters": [
         {
           "id": "122009",
-          "status": "ongoing",
+          "status": "completed",
           "title": "One Love",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzEyMjAwOS5qc29u/",
           "type": "manga",
@@ -3639,7 +3639,7 @@
       "chapters": [
         {
           "id": "79587",
-          "status": "ongoing",
+          "status": "completed",
           "title": "The Sasuke Uchiha Sharingan Chronicles",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzc5NTg3Lmpzb24/",
           "type": "manga",
@@ -3704,7 +3704,7 @@
       "chapters": [
         {
           "id": "818",
-          "status": "ongoing",
+          "status": "completed",
           "title": "Ao Ashi",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzgxOC5qc29u/",
           "type": "manga",
@@ -3717,7 +3717,7 @@
       "chapters": [
         {
           "id": "187677",
-          "status": "ongoing",
+          "status": "completed",
           "title": "Shuumatsu no Harem After World",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzE4NzY3Ny5qc29u/",
           "type": "manga",
@@ -3730,7 +3730,7 @@
       "chapters": [
         {
           "id": "38",
-          "status": "ongoing",
+          "status": "completed",
           "title": "The Older Sister Who Says “Ara Ara” to Everything",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzM4Lmpzb24/",
           "type": "manga",
@@ -3834,7 +3834,7 @@
       "chapters": [
         {
           "id": "7367",
-          "status": "ongoing",
+          "status": "unknown",
           "title": "Hokago wa Kissaten De",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzczNjcuanNvbg/",
           "type": "manga",
@@ -4276,7 +4276,7 @@
       "chapters": [
         {
           "id": "2035",
-          "status": "ongoing",
+          "status": "completed",
           "title": "Shiganbana",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzIwMzUuanNvbg/",
           "type": "manga",
@@ -4367,7 +4367,7 @@
       "chapters": [
         {
           "id": "3993",
-          "status": "ongoing",
+          "status": "completed",
           "title": "Ano Otome Game wa Oretachi ni Kibishii Sekai desu",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzM5OTMuanNvbg/",
           "type": "manga",
@@ -4393,7 +4393,7 @@
       "chapters": [
         {
           "id": "5438",
-          "status": "ongoing",
+          "status": "completed",
           "title": "Romance of Darkness",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzU0MzguanNvbg/",
           "type": "manga",
@@ -4419,7 +4419,7 @@
       "chapters": [
         {
           "id": "40835",
-          "status": "ongoing",
+          "status": "completed",
           "title": "Shuumatsu no Harem: Fantasia Gakuen",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzQwODM1Lmpzb24/",
           "type": "manga",
@@ -4432,7 +4432,7 @@
       "chapters": [
         {
           "id": "18368",
-          "status": "ongoing",
+          "status": "completed",
           "title": "Saint Seiya꞉ Next Dimension",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzE4MzY4Lmpzb24/",
           "type": "manga",
@@ -4471,7 +4471,7 @@
       "chapters": [
         {
           "id": "308815",
-          "status": "ongoing",
+          "status": "completed",
           "title": "Ueno-san wa Bukiyou",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21vdC9tYW90XzMwODgxNS5qc29u/",
           "type": "outro",
@@ -4510,7 +4510,7 @@
       "chapters": [
         {
           "id": "3733",
-          "status": "ongoing",
+          "status": "completed",
           "title": "Komi-san wa Komyushou Desu.",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzM3MzMuanNvbg/",
           "type": "manga",
@@ -4523,7 +4523,7 @@
       "chapters": [
         {
           "id": "3395",
-          "status": "ongoing",
+          "status": "completed",
           "title": "My Dearest Self With Malice Aforethought",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzMzOTUuanNvbg/",
           "type": "manga",
@@ -4536,7 +4536,7 @@
       "chapters": [
         {
           "id": "4987",
-          "status": "ongoing",
+          "status": "completed",
           "title": "Bremen",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzQ5ODcuanNvbg/",
           "type": "manga",
@@ -4549,7 +4549,7 @@
       "chapters": [
         {
           "id": "9268",
-          "status": "ongoing",
+          "status": "completed",
           "title": "K-ON! College",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzkyNjguanNvbg/",
           "type": "manga",
@@ -4562,7 +4562,7 @@
       "chapters": [
         {
           "id": "658",
-          "status": "ongoing",
+          "status": "completed",
           "title": "The Return of the 8th Class Mage",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl82NTguanNvbg/",
           "type": "manhwa",
@@ -4575,7 +4575,7 @@
       "chapters": [
         {
           "id": "11501",
-          "status": "ongoing",
+          "status": "completed",
           "title": "Kingdom Hearts Final Mix",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzExNTAxLmpzb24/",
           "type": "manga",
@@ -4614,7 +4614,7 @@
       "chapters": [
         {
           "id": "284",
-          "status": "ongoing",
+          "status": "completed",
           "title": "Mikami Sensei no Aishikata",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzI4NC5qc29u/",
           "type": "manga",
@@ -4653,7 +4653,7 @@
       "chapters": [
         {
           "id": "5391",
-          "status": "ongoing",
+          "status": "completed",
           "title": "Tokyo卍Revengers",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzUzOTEuanNvbg/",
           "type": "manga",
@@ -4731,7 +4731,7 @@
       "chapters": [
         {
           "id": "9458",
-          "status": "ongoing",
+          "status": "completed",
           "title": "Signal All Red",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzk0NTguanNvbg/",
           "type": "manga",
@@ -4861,7 +4861,7 @@
       "chapters": [
         {
           "id": "7489",
-          "status": "ongoing",
+          "status": "completed",
           "title": "Angel Densetsu",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzc0ODkuanNvbg/",
           "type": "manga",
@@ -4926,7 +4926,7 @@
       "chapters": [
         {
           "id": "4781",
-          "status": "ongoing",
+          "status": "completed",
           "title": "Gantz",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzQ3ODEuanNvbg/",
           "type": "manga",
@@ -4965,7 +4965,7 @@
       "chapters": [
         {
           "id": "14990",
-          "status": "ongoing",
+          "status": "completed",
           "title": "Chagecha",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzE0OTkwLmpzb24/",
           "type": "manga",
@@ -5121,7 +5121,7 @@
       "chapters": [
         {
           "id": "11502",
-          "status": "ongoing",
+          "status": "completed",
           "title": "Kingdom Hearts꞉ Chain of Memories",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzExNTAyLmpzb24/",
           "type": "manga",
@@ -5173,7 +5173,7 @@
       "chapters": [
         {
           "id": "249",
-          "status": "ongoing",
+          "status": "completed",
           "title": "Banana Fish",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzI0OS5qc29u/",
           "type": "manga",
@@ -5264,7 +5264,7 @@
       "chapters": [
         {
           "id": "4941",
-          "status": "ongoing",
+          "status": "completed",
           "title": "Fujiyuu Sekai",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzQ5NDEuanNvbg/",
           "type": "manga",
@@ -5368,7 +5368,7 @@
       "chapters": [
         {
           "id": "4413",
-          "status": "ongoing",
+          "status": "completed",
           "title": "Hayaku Shitai Futari",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzQ0MTMuanNvbg/",
           "type": "manga",
@@ -5485,7 +5485,7 @@
       "chapters": [
         {
           "id": "1520",
-          "status": "ongoing",
+          "status": "completed",
           "title": "Tokyo Babylon",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzE1MjAuanNvbg/",
           "type": "manga",
@@ -5602,7 +5602,7 @@
       "chapters": [
         {
           "id": "4284",
-          "status": "ongoing",
+          "status": "completed",
           "title": "The Water Dragon's Bride",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzQyODQuanNvbg/",
           "type": "manga",
@@ -5628,7 +5628,7 @@
       "chapters": [
         {
           "id": "9331",
-          "status": "ongoing",
+          "status": "completed",
           "title": "Toriko",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzkzMzEuanNvbg/",
           "type": "manga",
@@ -5693,7 +5693,7 @@
       "chapters": [
         {
           "id": "36567",
-          "status": "ongoing",
+          "status": "completed",
           "title": "Taciturn Little Sister",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzM2NTY3Lmpzb24/",
           "type": "manga",
@@ -5706,7 +5706,7 @@
       "chapters": [
         {
           "id": "1259",
-          "status": "ongoing",
+          "status": "hiato",
           "title": "Veil",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzEyNTkuanNvbg/",
           "type": "manga",
@@ -5719,7 +5719,7 @@
       "chapters": [
         {
           "id": "543",
-          "status": "ongoing",
+          "status": "completed",
           "title": "Kakkou no Iinazuke (Oneshot)",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzU0My5qc29u/",
           "type": "manga",
@@ -5784,7 +5784,7 @@
       "chapters": [
         {
           "id": "65796",
-          "status": "ongoing",
+          "status": "completed",
           "title": "Ryuuou no Musume: Chuugoku Gensousen",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzY1Nzk2Lmpzb24/",
           "type": "manga",
@@ -5836,7 +5836,7 @@
       "chapters": [
         {
           "id": "9352",
-          "status": "ongoing",
+          "status": "completed",
           "title": "Hanma Baki",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzkzNTIuanNvbg/",
           "type": "manga",
@@ -5849,7 +5849,7 @@
       "chapters": [
         {
           "id": "9768",
-          "status": "ongoing",
+          "status": "completed",
           "title": "Boruto: Naruto Next Generations",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzk3NjguanNvbg/",
           "type": "manga",
@@ -5888,7 +5888,7 @@
       "chapters": [
         {
           "id": "2377",
-          "status": "ongoing",
+          "status": "completed",
           "title": "Kawaisou na Imouto-chan",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzIzNzcuanNvbg/",
           "type": "manga",
@@ -5901,7 +5901,7 @@
       "chapters": [
         {
           "id": "11376",
-          "status": "ongoing",
+          "status": "completed",
           "title": "As The Gods Will",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzExMzc2Lmpzb24/",
           "type": "manga",
@@ -5914,7 +5914,7 @@
       "chapters": [
         {
           "id": "3513",
-          "status": "ongoing",
+          "status": "completed",
           "title": "Rurouni Kenshin: Meiji Kenkaku Romantan",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzM1MTMuanNvbg/",
           "type": "manga",
@@ -5927,7 +5927,7 @@
       "chapters": [
         {
           "id": "3819",
-          "status": "ongoing",
+          "status": "completed",
           "title": "Jimoto ni Kaettekitara Osananajimi ga Kowareteta",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzM4MTkuanNvbg/",
           "type": "manga",
@@ -5992,7 +5992,7 @@
       "chapters": [
         {
           "id": "4800",
-          "status": "ongoing",
+          "status": "completed",
           "title": "Beware the Villainess!",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl80ODAwLmpzb24/",
           "type": "manhwa",
@@ -6057,7 +6057,7 @@
       "chapters": [
         {
           "id": "1976",
-          "status": "ongoing",
+          "status": "unknown",
           "title": "Nível Mágico 99990000 Grande Sábio de Todos os Atributos",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzE5NzYuanNvbg/",
           "type": "manga",
@@ -6135,7 +6135,7 @@
       "chapters": [
         {
           "id": "6272",
-          "status": "ongoing",
+          "status": "completed",
           "title": "The Dawn to Come",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl82MjcyLmpzb24/",
           "type": "manhwa",
@@ -6161,7 +6161,7 @@
       "chapters": [
         {
           "id": "4249",
-          "status": "ongoing",
+          "status": "completed",
           "title": "My Sister, The Cat",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzQyNDkuanNvbg/",
           "type": "manga",
@@ -6239,7 +6239,7 @@
       "chapters": [
         {
           "id": "9788",
-          "status": "ongoing",
+          "status": "completed",
           "title": "Please Love the Useless Me",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzk3ODguanNvbg/",
           "type": "manga",
@@ -6278,7 +6278,7 @@
       "chapters": [
         {
           "id": "1769",
-          "status": "ongoing",
+          "status": "completed",
           "title": "Kyoufu꞉ Fear",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzE3NjkuanNvbg/",
           "type": "manga",
@@ -6317,7 +6317,7 @@
       "chapters": [
         {
           "id": "4785",
-          "status": "ongoing",
+          "status": "completed",
           "title": "Slave B",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl80Nzg1Lmpzb24/",
           "type": "manhwa",
@@ -6356,7 +6356,7 @@
       "chapters": [
         {
           "id": "14994",
-          "status": "ongoing",
+          "status": "completed",
           "title": "Butsu Zone",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzE0OTk0Lmpzb24/",
           "type": "manga",
@@ -6369,7 +6369,7 @@
       "chapters": [
         {
           "id": "6492",
-          "status": "ongoing",
+          "status": "completed",
           "title": "“Something” That Isn’t Santa Has Come",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzY0OTIuanNvbg/",
           "type": "manga",
@@ -6473,7 +6473,7 @@
       "chapters": [
         {
           "id": "20138",
-          "status": "ongoing",
+          "status": "completed",
           "title": "Tokyo Ghoul꞉ JACK",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzIwMTM4Lmpzb24/",
           "type": "manga",
@@ -6538,7 +6538,7 @@
       "chapters": [
         {
           "id": "29",
-          "status": "ongoing",
+          "status": "completed",
           "title": "Hyakumanjou Labyrinth",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzI5Lmpzb24/",
           "type": "manga",
@@ -6642,7 +6642,7 @@
       "chapters": [
         {
           "id": "438",
-          "status": "ongoing",
+          "status": "completed",
           "title": "Kenna Furry",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl80MzguanNvbg/",
           "type": "manhwa",
@@ -6720,7 +6720,7 @@
       "chapters": [
         {
           "id": "4814",
-          "status": "ongoing",
+          "status": "completed",
           "title": "Hinomaru Sumo",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzQ4MTQuanNvbg/",
           "type": "manga",
@@ -6733,7 +6733,7 @@
       "chapters": [
         {
           "id": "2869",
-          "status": "ongoing",
+          "status": "completed",
           "title": "A Song to the Sun",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzI4NjkuanNvbg/",
           "type": "manga",
@@ -6863,7 +6863,7 @@
       "chapters": [
         {
           "id": "104220",
-          "status": "ongoing",
+          "status": "completed",
           "title": "Aoi no Heya ni Mata Haru ga Kita",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzEwNDIyMC5qc29u/",
           "type": "manga",
@@ -6876,7 +6876,7 @@
       "chapters": [
         {
           "id": "33106",
-          "status": "ongoing",
+          "status": "completed",
           "title": "Kimetsu no Yaiba",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzMzMTA2Lmpzb24/",
           "type": "manga",
@@ -6889,7 +6889,7 @@
       "chapters": [
         {
           "id": "10685",
-          "status": "ongoing",
+          "status": "completed",
           "title": "Emma",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzEwNjg1Lmpzb24/",
           "type": "manga",
@@ -6915,7 +6915,7 @@
       "chapters": [
         {
           "id": "3081",
-          "status": "ongoing",
+          "status": "completed",
           "title": "Kimi wa Yakamashi Tojite yo Kuchi o!",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzMwODEuanNvbg/",
           "type": "manga",
@@ -7006,7 +7006,7 @@
       "chapters": [
         {
           "id": "12397",
-          "status": "ongoing",
+          "status": "completed",
           "title": "Sachie-chan Guu!!",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzEyMzk3Lmpzb24/",
           "type": "manga",
@@ -7253,7 +7253,7 @@
       "chapters": [
         {
           "id": "11768",
-          "status": "ongoing",
+          "status": "completed",
           "title": "Cardcaptor Sakura",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzExNzY4Lmpzb24/",
           "type": "manga",
@@ -7383,7 +7383,7 @@
       "chapters": [
         {
           "id": "872",
-          "status": "ongoing",
+          "status": "completed",
           "title": "Chigau Miyahara Omae janai!",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzg3Mi5qc29u/",
           "type": "manga",
@@ -7513,7 +7513,7 @@
       "chapters": [
         {
           "id": "18382",
-          "status": "ongoing",
+          "status": "completed",
           "title": "Saenai Heroine no Sodatekata: Koisuru Metronome",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzE4MzgyLmpzb24/",
           "type": "manga",
@@ -7539,7 +7539,7 @@
       "chapters": [
         {
           "id": "34536",
-          "status": "ongoing",
+          "status": "completed",
           "title": "Sen wa, Boku o Egaku",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzM0NTM2Lmpzb24/",
           "type": "manga",
@@ -7617,7 +7617,7 @@
       "chapters": [
         {
           "id": "359862",
-          "status": "ongoing",
+          "status": "completed",
           "title": "1993",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzM1OTg2Mi5qc29u/",
           "type": "manga",
@@ -7656,7 +7656,7 @@
       "chapters": [
         {
           "id": "24255",
-          "status": "ongoing",
+          "status": "completed",
           "title": "Guerilla High",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzI0MjU1Lmpzb24/",
           "type": "manga",
@@ -7760,7 +7760,7 @@
       "chapters": [
         {
           "id": "1960",
-          "status": "ongoing",
+          "status": "completed",
           "title": "Misumi-san Can't See Through",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzE5NjAuanNvbg/",
           "type": "manga",
@@ -7799,7 +7799,7 @@
       "chapters": [
         {
           "id": "2174",
-          "status": "ongoing",
+          "status": "completed",
           "title": "The Woman Who Messes With My Emotions",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzIxNzQuanNvbg/",
           "type": "manga",
@@ -7929,7 +7929,7 @@
       "chapters": [
         {
           "id": "18176",
-          "status": "ongoing",
+          "status": "completed",
           "title": "Saint Seiya꞉ Episode G",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzE4MTc2Lmpzb24/",
           "type": "manga",
@@ -8007,7 +8007,7 @@
       "chapters": [
         {
           "id": "2855",
-          "status": "ongoing",
+          "status": "completed",
           "title": "Puzzle+",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzI4NTUuanNvbg/",
           "type": "manga",
@@ -8176,7 +8176,7 @@
       "chapters": [
         {
           "id": "3806",
-          "status": "ongoing",
+          "status": "completed",
           "title": "Captain Tsubasa: Traveling in Europe",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzM4MDYuanNvbg/",
           "type": "manga",
@@ -8215,7 +8215,7 @@
       "chapters": [
         {
           "id": "3896",
-          "status": "ongoing",
+          "status": "completed",
           "title": "Sket Dance",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzM4OTYuanNvbg/",
           "type": "manga",
@@ -8384,7 +8384,7 @@
       "chapters": [
         {
           "id": "41242",
-          "status": "ongoing",
+          "status": "completed",
           "title": "Shuumatsu no Harem: Britannia Lumiére",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzQxMjQyLmpzb24/",
           "type": "manga",
@@ -8410,7 +8410,7 @@
       "chapters": [
         {
           "id": "8654",
-          "status": "ongoing",
+          "status": "completed",
           "title": "Claymore",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzg2NTQuanNvbg/",
           "type": "manga",
@@ -8462,7 +8462,7 @@
       "chapters": [
         {
           "id": "253205",
-          "status": "ongoing",
+          "status": "completed",
           "title": "Kin no Hitsuji",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21vdC9tYW90XzI1MzIwNS5qc29u/",
           "type": "outro",
@@ -8475,7 +8475,7 @@
       "chapters": [
         {
           "id": "2781",
-          "status": "ongoing",
+          "status": "completed",
           "title": "Steins;Gate - Rebellion of the Missing Ring",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzI3ODEuanNvbg/",
           "type": "manga",
@@ -8553,7 +8553,7 @@
       "chapters": [
         {
           "id": "977",
-          "status": "ongoing",
+          "status": "completed",
           "title": "Espuma do Mar",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl85NzcuanNvbg/",
           "type": "manhwa",
@@ -8644,7 +8644,7 @@
       "chapters": [
         {
           "id": "6199",
-          "status": "ongoing",
+          "status": "completed",
           "title": "Jujutsu Kaisen",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzYxOTkuanNvbg/",
           "type": "manga",
@@ -8657,7 +8657,7 @@
       "chapters": [
         {
           "id": "7103",
-          "status": "ongoing",
+          "status": "completed",
           "title": "Jitsu wa Watashi wa",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzcxMDMuanNvbg/",
           "type": "manga",
@@ -8761,7 +8761,7 @@
       "chapters": [
         {
           "id": "28008",
-          "status": "ongoing",
+          "status": "completed",
           "title": "Saint Seiya꞉ Episode Zero",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzI4MDA4Lmpzb24/",
           "type": "manga",
@@ -8774,7 +8774,7 @@
       "chapters": [
         {
           "id": "25024",
-          "status": "ongoing",
+          "status": "completed",
           "title": "Please Love the Useless Me R",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzI1MDI0Lmpzb24/",
           "type": "manga",
@@ -8839,7 +8839,7 @@
       "chapters": [
         {
           "id": "1282",
-          "status": "ongoing",
+          "status": "completed",
           "title": "Kuroko's Basketball",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzEyODIuanNvbg/",
           "type": "manga",
@@ -8982,7 +8982,7 @@
       "chapters": [
         {
           "id": "4133",
-          "status": "ongoing",
+          "status": "completed",
           "title": "Afterschool Connection",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzQxMzMuanNvbg/",
           "type": "manga",
@@ -8995,7 +8995,7 @@
       "chapters": [
         {
           "id": "3810",
-          "status": "ongoing",
+          "status": "completed",
           "title": "Captain Tsubasa: World Youth-hen",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzM4MTAuanNvbg/",
           "type": "manga",
@@ -9034,7 +9034,7 @@
       "chapters": [
         {
           "id": "3270",
-          "status": "ongoing",
+          "status": "completed",
           "title": "Trinity of the Royal Palace",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzMyNzAuanNvbg/",
           "type": "manga",
@@ -9099,7 +9099,7 @@
       "chapters": [
         {
           "id": "2799",
-          "status": "ongoing",
+          "status": "completed",
           "title": "Zatch Bell",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzI3OTkuanNvbg/",
           "type": "manga",
@@ -9112,7 +9112,7 @@
       "chapters": [
         {
           "id": "26152",
-          "status": "ongoing",
+          "status": "completed",
           "title": "Light Trap",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzI2MTUyLmpzb24/",
           "type": "manga",
@@ -9177,7 +9177,7 @@
       "chapters": [
         {
           "id": "101662",
-          "status": "ongoing",
+          "status": "completed",
           "title": "Saint Seiya: Origin",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzEwMTY2Mi5qc29u/",
           "type": "manga",
@@ -9281,7 +9281,7 @@
       "chapters": [
         {
           "id": "1390",
-          "status": "ongoing",
+          "status": "completed",
           "title": "Coin Laundry no Onna",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzEzOTAuanNvbg/",
           "type": "manga",
@@ -9333,7 +9333,7 @@
       "chapters": [
         {
           "id": "3235",
-          "status": "ongoing",
+          "status": "completed",
           "title": "Captain Tsubasa: 2000 Millennium Dream",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzMyMzUuanNvbg/",
           "type": "manga",
@@ -9528,7 +9528,7 @@
       "chapters": [
         {
           "id": "8066",
-          "status": "ongoing",
+          "status": "completed",
           "title": "The Golden Age",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl84MDY2Lmpzb24/",
           "type": "manhwa",
@@ -9697,7 +9697,7 @@
       "chapters": [
         {
           "id": "2757",
-          "status": "ongoing",
+          "status": "completed",
           "title": "My Senpai is Annoying",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzI3NTcuanNvbg/",
           "type": "manga",
@@ -9736,7 +9736,7 @@
       "chapters": [
         {
           "id": "4024",
-          "status": "ongoing",
+          "status": "completed",
           "title": "Attack on Titan",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzQwMjQuanNvbg/",
           "type": "manga",
@@ -9814,7 +9814,7 @@
       "chapters": [
         {
           "id": "3123",
-          "status": "ongoing",
+          "status": "completed",
           "title": "Glass Dama",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzMxMjMuanNvbg/",
           "type": "manga",
@@ -9879,7 +9879,7 @@
       "chapters": [
         {
           "id": "2813",
-          "status": "ongoing",
+          "status": "completed",
           "title": "Tokyo Ghoul",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzI4MTMuanNvbg/",
           "type": "manga",
@@ -9905,7 +9905,7 @@
       "chapters": [
         {
           "id": "3294",
-          "status": "ongoing",
+          "status": "completed",
           "title": "Renai Shigou Shugi",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzMyOTQuanNvbg/",
           "type": "manga",
@@ -9918,7 +9918,7 @@
       "chapters": [
         {
           "id": "4924",
-          "status": "ongoing",
+          "status": "completed",
           "title": "One Piece: Episode A",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzQ5MjQuanNvbg/",
           "type": "manga",
@@ -10113,7 +10113,7 @@
       "chapters": [
         {
           "id": "5567",
-          "status": "ongoing",
+          "status": "completed",
           "title": "Terror (Terror)",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl81NTY3Lmpzb24/",
           "type": "manhwa",
@@ -10126,7 +10126,7 @@
       "chapters": [
         {
           "id": "5507",
-          "status": "ongoing",
+          "status": "completed",
           "title": "Demon's Plan",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzU1MDcuanNvbg/",
           "type": "manga",
@@ -10152,7 +10152,7 @@
       "chapters": [
         {
           "id": "9743",
-          "status": "ongoing",
+          "status": "completed",
           "title": "Ookii Kouhai wa Suki Desu ka?",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzk3NDMuanNvbg/",
           "type": "manga",
@@ -10243,7 +10243,7 @@
       "chapters": [
         {
           "id": "1109",
-          "status": "ongoing",
+          "status": "completed",
           "title": "Is a Mother in Her 30s Like Me Alright?",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzExMDkuanNvbg/",
           "type": "manga",
@@ -10269,7 +10269,7 @@
       "chapters": [
         {
           "id": "4869",
-          "status": "ongoing",
+          "status": "completed",
           "title": "Kodomo no Jikan: Houkago",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzQ4NjkuanNvbg/",
           "type": "manga",
@@ -10347,7 +10347,7 @@
       "chapters": [
         {
           "id": "29704",
-          "status": "ongoing",
+          "status": "completed",
           "title": "Hourai Tribute Chuugoku Kaiki Gensousen",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzI5NzA0Lmpzb24/",
           "type": "manga",
@@ -10360,7 +10360,7 @@
       "chapters": [
         {
           "id": "1848",
-          "status": "ongoing",
+          "status": "completed",
           "title": "Asura’s Verdict",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzE4NDguanNvbg/",
           "type": "manga",
@@ -10490,7 +10490,7 @@
       "chapters": [
         {
           "id": "730",
-          "status": "ongoing",
+          "status": "completed",
           "title": "Saint Seiya꞉ Shura vs Tenma vs Shoko!! Shugeki Battle Royale Hen",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzczMC5qc29u/",
           "type": "manga",
@@ -10529,7 +10529,7 @@
       "chapters": [
         {
           "id": "4318",
-          "status": "ongoing",
+          "status": "completed",
           "title": "Ookamidomo no Shitsukekata",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzQzMTguanNvbg/",
           "type": "manga",
@@ -10698,7 +10698,7 @@
       "chapters": [
         {
           "id": "1492",
-          "status": "ongoing",
+          "status": "completed",
           "title": "A Tactical Genius on the Field",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8xNDkyLmpzb24/",
           "type": "manhwa",
@@ -10763,7 +10763,7 @@
       "chapters": [
         {
           "id": "10318",
-          "status": "ongoing",
+          "status": "completed",
           "title": "Koimoku",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8xMDMxOC5qc29u/",
           "type": "manhwa",
@@ -10776,7 +10776,7 @@
       "chapters": [
         {
           "id": "27358",
-          "status": "ongoing",
+          "status": "completed",
           "title": "Ring ni Kakero: Jun to Jun! Hikari to Kage no Maki",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21vdC9tYW90XzI3MzU4Lmpzb24/",
           "type": "outro",
@@ -10867,7 +10867,7 @@
       "chapters": [
         {
           "id": "1258",
-          "status": "ongoing",
+          "status": "completed",
           "title": "Duke Pendragon: Master of the White Dragon",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8xMjU4Lmpzb24/",
           "type": "manhwa",
@@ -10932,7 +10932,7 @@
       "chapters": [
         {
           "id": "7893",
-          "status": "ongoing",
+          "status": "unknown",
           "title": "Magic Academy's Genius Blinker",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl83ODkzLmpzb24/",
           "type": "manhwa",
@@ -11127,7 +11127,7 @@
       "chapters": [
         {
           "id": "2882",
-          "status": "ongoing",
+          "status": "completed",
           "title": "Akazukin to Yasashii Ookami",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzI4ODIuanNvbg/",
           "type": "manga",
@@ -11244,7 +11244,7 @@
       "chapters": [
         {
           "id": "38145",
-          "status": "ongoing",
+          "status": "completed",
           "title": "Coffee Moon",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzM4MTQ1Lmpzb24/",
           "type": "manga",
@@ -11296,7 +11296,7 @@
       "chapters": [
         {
           "id": "3647",
-          "status": "ongoing",
+          "status": "completed",
           "title": "Captain Tsubasa: Rising Sun",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzM2NDcuanNvbg/",
           "type": "manga",
@@ -11322,7 +11322,7 @@
       "chapters": [
         {
           "id": "11573",
-          "status": "ongoing",
+          "status": "completed",
           "title": "Rokutousei Supika",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzExNTczLmpzb24/",
           "type": "manga",
@@ -11413,7 +11413,7 @@
       "chapters": [
         {
           "id": "48566",
-          "status": "ongoing",
+          "status": "completed",
           "title": "A Tiny Bit of Cotton Candy",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl80ODU2Ni5qc29u/",
           "type": "manhwa",
@@ -11504,7 +11504,7 @@
       "chapters": [
         {
           "id": "10136",
-          "status": "ongoing",
+          "status": "completed",
           "title": "Nana to Karou",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzEwMTM2Lmpzb24/",
           "type": "manga",
@@ -11543,7 +11543,7 @@
       "chapters": [
         {
           "id": "5",
-          "status": "ongoing",
+          "status": "unknown",
           "title": "Boku to Gal ga Fuufu ni Naru made",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzUuanNvbg/",
           "type": "manga",
@@ -11556,7 +11556,7 @@
       "chapters": [
         {
           "id": "37901",
-          "status": "ongoing",
+          "status": "completed",
           "title": "Kuraki Kyuuden no Shisha no Ou",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzM3OTAxLmpzb24/",
           "type": "manga",
@@ -11582,7 +11582,7 @@
       "chapters": [
         {
           "id": "4780",
-          "status": "ongoing",
+          "status": "completed",
           "title": "Papa no Iukoto wo Kikinasai!",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzQ3ODAuanNvbg/",
           "type": "manga",
@@ -11738,7 +11738,7 @@
       "chapters": [
         {
           "id": "9706",
-          "status": "ongoing",
+          "status": "completed",
           "title": "Homunculus",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzk3MDYuanNvbg/",
           "type": "manga",
@@ -11803,7 +11803,7 @@
       "chapters": [
         {
           "id": "5478",
-          "status": "ongoing",
+          "status": "completed",
           "title": "Deserted Place",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzU0NzguanNvbg/",
           "type": "manga",
@@ -12076,7 +12076,7 @@
       "chapters": [
         {
           "id": "1852",
-          "status": "ongoing",
+          "status": "completed",
           "title": "Ore no Class ni Wakagaetta Motoyome ga Iru",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzE4NTIuanNvbg/",
           "type": "manga",
@@ -12154,7 +12154,7 @@
       "chapters": [
         {
           "id": "677",
-          "status": "ongoing",
+          "status": "unknown",
           "title": "HUNTER x HUNTER",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzY3Ny5qc29u/",
           "type": "manga",
@@ -12180,7 +12180,7 @@
       "chapters": [
         {
           "id": "8297",
-          "status": "ongoing",
+          "status": "completed",
           "title": "Tokyo Ghoul:re",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzgyOTcuanNvbg/",
           "type": "manga",
@@ -12206,7 +12206,7 @@
       "chapters": [
         {
           "id": "6516",
-          "status": "ongoing",
+          "status": "completed",
           "title": "Saint Seiya Kanzenban",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzY1MTYuanNvbg/",
           "type": "manga",
@@ -12219,7 +12219,7 @@
       "chapters": [
         {
           "id": "2880",
-          "status": "ongoing",
+          "status": "completed",
           "title": "Natsuyasumi 00-nichime",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzI4ODAuanNvbg/",
           "type": "manga",
@@ -12271,7 +12271,7 @@
       "chapters": [
         {
           "id": "4328",
-          "status": "ongoing",
+          "status": "completed",
           "title": "Isekai Cheat Survival Meshi",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzQzMjguanNvbg/",
           "type": "manga",
@@ -12414,7 +12414,7 @@
       "chapters": [
         {
           "id": "37692",
-          "status": "ongoing",
+          "status": "completed",
           "title": "WonderLab",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8zNzY5Mi5qc29u/",
           "type": "manhwa",
@@ -12453,7 +12453,7 @@
       "chapters": [
         {
           "id": "4486",
-          "status": "ongoing",
+          "status": "completed",
           "title": "Tokyo ESP x Ga-Rei: Shadow Walker",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzQ0ODYuanNvbg/",
           "type": "manga",
@@ -12531,7 +12531,7 @@
       "chapters": [
         {
           "id": "2748",
-          "status": "ongoing",
+          "status": "completed",
           "title": "10-manbun no 1",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzI3NDguanNvbg/",
           "type": "manga",
@@ -12570,7 +12570,7 @@
       "chapters": [
         {
           "id": "9957",
-          "status": "ongoing",
+          "status": "completed",
           "title": "Saint Seiya: The Lost Canvas - Meiou Shinwa Gaiden",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzk5NTcuanNvbg/",
           "type": "manga",
@@ -12700,7 +12700,7 @@
       "chapters": [
         {
           "id": "9269",
-          "status": "ongoing",
+          "status": "completed",
           "title": "K-ON! High School",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzkyNjkuanNvbg/",
           "type": "manga",
@@ -12739,7 +12739,7 @@
       "chapters": [
         {
           "id": "2809",
-          "status": "ongoing",
+          "status": "completed",
           "title": "Sweet & Tart Boyfriend",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzI4MDkuanNvbg/",
           "type": "manga",
@@ -12908,7 +12908,7 @@
       "chapters": [
         {
           "id": "3092",
-          "status": "ongoing",
+          "status": "completed",
           "title": "Mori Kaoru Shuuishuu",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzMwOTIuanNvbg/",
           "type": "manga",
@@ -12934,7 +12934,7 @@
       "chapters": [
         {
           "id": "5564",
-          "status": "ongoing",
+          "status": "completed",
           "title": "Pandora's Cube",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzU1NjQuanNvbg/",
           "type": "manga",
@@ -12960,7 +12960,7 @@
       "chapters": [
         {
           "id": "13047",
-          "status": "ongoing",
+          "status": "completed",
           "title": "Saboten no Himitsu",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzEzMDQ3Lmpzb24/",
           "type": "manga",
@@ -13051,7 +13051,7 @@
       "chapters": [
         {
           "id": "4588",
-          "status": "ongoing",
+          "status": "completed",
           "title": "Bakuage Sentai Boonboomger formation lap - Jouhouya no Your Eyes Only",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzQ1ODguanNvbg/",
           "type": "manga",
@@ -13233,7 +13233,7 @@
       "chapters": [
         {
           "id": "4552",
-          "status": "ongoing",
+          "status": "completed",
           "title": "Kyou no Kira-kun",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzQ1NTIuanNvbg/",
           "type": "manga",
@@ -13246,7 +13246,7 @@
       "chapters": [
         {
           "id": "952",
-          "status": "ongoing",
+          "status": "completed",
           "title": "Tokyo Ghoul꞉ Redrawn",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzk1Mi5qc29u/",
           "type": "manga",
@@ -13285,7 +13285,7 @@
       "chapters": [
         {
           "id": "8672",
-          "status": "ongoing",
+          "status": "completed",
           "title": "The Robot Without a Heart",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzg2NzIuanNvbg/",
           "type": "manga",
@@ -13402,7 +13402,7 @@
       "chapters": [
         {
           "id": "5209",
-          "status": "ongoing",
+          "status": "completed",
           "title": "Tiji-kun!",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzUyMDkuanNvbg/",
           "type": "manga",
@@ -13480,7 +13480,7 @@
       "chapters": [
         {
           "id": "38368",
-          "status": "ongoing",
+          "status": "completed",
           "title": "Saint Seiya: Destiny",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzM4MzY4Lmpzb24/",
           "type": "manga",
@@ -13506,7 +13506,7 @@
       "chapters": [
         {
           "id": "24156",
-          "status": "ongoing",
+          "status": "completed",
           "title": "Persona 4 The Magician",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzI0MTU2Lmpzb24/",
           "type": "manga",
@@ -13532,7 +13532,7 @@
       "chapters": [
         {
           "id": "1523",
-          "status": "ongoing",
+          "status": "completed",
           "title": "Shut Hell",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzE1MjMuanNvbg/",
           "type": "manga",
@@ -13558,7 +13558,7 @@
       "chapters": [
         {
           "id": "4897",
-          "status": "ongoing",
+          "status": "completed",
           "title": "Akame ga KILL!",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzQ4OTcuanNvbg/",
           "type": "manga",
@@ -13727,7 +13727,7 @@
       "chapters": [
         {
           "id": "19473",
-          "status": "ongoing",
+          "status": "completed",
           "title": "Kamigami no Asobi",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzE5NDczLmpzb24/",
           "type": "manga",
@@ -13779,7 +13779,7 @@
       "chapters": [
         {
           "id": "2874",
-          "status": "ongoing",
+          "status": "completed",
           "title": "Selling Me Softly",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzI4NzQuanNvbg/",
           "type": "manga",
@@ -13896,7 +13896,7 @@
       "chapters": [
         {
           "id": "5678",
-          "status": "ongoing",
+          "status": "completed",
           "title": "Ayakashi Triangle",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzU2NzguanNvbg/",
           "type": "manga",
@@ -13909,7 +13909,7 @@
       "chapters": [
         {
           "id": "7080",
-          "status": "ongoing",
+          "status": "completed",
           "title": "Hadashi De Bara Wo Fume",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzcwODAuanNvbg/",
           "type": "manga",
@@ -14143,7 +14143,7 @@
       "chapters": [
         {
           "id": "1622",
-          "status": "ongoing",
+          "status": "hiato",
           "title": " Meu Marido, Minha Irmã e Eu",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8xNjIyLmpzb24/",
           "type": "manhwa",
@@ -14390,7 +14390,7 @@
       "chapters": [
         {
           "id": "365aba",
-          "status": "ongoing",
+          "status": "completed",
           "title": "O Que Acontece Quando o Segundo Protagonista Masculino Entra em Greve (Completo)",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8zNjVhYmEuanNvbg/",
           "type": "manhwa",
@@ -14403,7 +14403,7 @@
       "chapters": [
         {
           "id": "1c915b",
-          "status": "ongoing",
+          "status": "hiato",
           "title": "Pai, Eu Não Quero me Casar",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8xYzkxNWIuanNvbg/",
           "type": "manhwa",
@@ -14442,7 +14442,7 @@
       "chapters": [
         {
           "id": "4213f9",
-          "status": "ongoing",
+          "status": "completed",
           "title": "O Caçador com 990 Mil Vidas Passadas",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl80MjEzZjkuanNvbg/",
           "type": "manhwa",
@@ -14546,7 +14546,7 @@
       "chapters": [
         {
           "id": "d23cd2",
-          "status": "ongoing",
+          "status": "hiato",
           "title": "A Hora do Salvador",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl9kMjNjZDIuanNvbg/",
           "type": "manhwa",
@@ -14598,7 +14598,7 @@
       "chapters": [
         {
           "id": "43784",
-          "status": "ongoing",
+          "status": "hiato",
           "title": "Meu Mestre é uma Divindade",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF80Mzc4NC5qc29u/",
           "type": "manhua",
@@ -14754,7 +14754,7 @@
       "chapters": [
         {
           "id": "356559",
-          "status": "ongoing",
+          "status": "hiato",
           "title": "Mokrina",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8zNTY1NTkuanNvbg/",
           "type": "manhwa",
@@ -14910,7 +14910,7 @@
       "chapters": [
         {
           "id": "109187",
-          "status": "ongoing",
+          "status": "completed",
           "title": "Romance Louco",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzEwOTE4Ny5qc29u/",
           "type": "manga",
@@ -15144,7 +15144,7 @@
       "chapters": [
         {
           "id": "28306",
-          "status": "ongoing",
+          "status": "completed",
           "title": "A Noiva do Mago",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzI4MzA2Lmpzb24/",
           "type": "manga",
@@ -15170,7 +15170,7 @@
       "chapters": [
         {
           "id": "b1b5b9",
-          "status": "ongoing",
+          "status": "completed",
           "title": "O Pássaro de um Rei Goblin",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl9iMWI1YjkuanNvbg/",
           "type": "manhwa",
@@ -15573,7 +15573,7 @@
       "chapters": [
         {
           "id": "47287",
-          "status": "ongoing",
+          "status": "cancelled",
           "title": "Forçado a se tornar genro vilão Rainha Gélida",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF80NzI4Ny5qc29u/",
           "type": "manhua",
@@ -15612,7 +15612,7 @@
       "chapters": [
         {
           "id": "49836",
-          "status": "ongoing",
+          "status": "hiato",
           "title": " O Pedido Especial do Meu Chefe",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl80OTgzNi5qc29u/",
           "type": "manhwa",
@@ -15664,7 +15664,7 @@
       "chapters": [
         {
           "id": "cc550e",
-          "status": "ongoing",
+          "status": "completed",
           "title": "Case Com o Meu Marido",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl9jYzU1MGUuanNvbg/",
           "type": "manhwa",
@@ -15703,7 +15703,7 @@
       "chapters": [
         {
           "id": "9986",
-          "status": "ongoing",
+          "status": "completed",
           "title": "Promessa de uma Orquídea",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl85OTg2Lmpzb24/",
           "type": "manhwa",
@@ -15768,7 +15768,7 @@
       "chapters": [
         {
           "id": "53392",
-          "status": "ongoing",
+          "status": "hiato",
           "title": "Esconde-Esconde no Sofá",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl81MzM5Mi5qc29u/",
           "type": "manhwa",
@@ -15885,7 +15885,7 @@
       "chapters": [
         {
           "id": "6756",
-          "status": "ongoing",
+          "status": "completed",
           "title": "Juramento",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21vZWwvbWFvZWxfNjc1Ni5qc29u/",
           "type": "oel",
@@ -15937,7 +15937,7 @@
       "chapters": [
         {
           "id": "974",
-          "status": "ongoing",
+          "status": "hiato",
           "title": "The Little Princess and Her Monster Prince",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl85NzQuanNvbg/",
           "type": "manhwa",
@@ -16002,7 +16002,7 @@
       "chapters": [
         {
           "id": "47812",
-          "status": "ongoing",
+          "status": "completed",
           "title": "Espinhos Que Me Perfuram",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl80NzgxMi5qc29u/",
           "type": "manhwa",
@@ -16015,7 +16015,7 @@
       "chapters": [
         {
           "id": "3cb7ad",
-          "status": "ongoing",
+          "status": "completed",
           "title": "A Essência De Um Casamento Perfeito",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8zY2I3YWQuanNvbg/",
           "type": "manhwa",
@@ -16223,7 +16223,7 @@
       "chapters": [
         {
           "id": "78224",
-          "status": "ongoing",
+          "status": "completed",
           "title": "Lily of the Valley",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl83ODIyNC5qc29u/",
           "type": "manhwa",
@@ -16262,7 +16262,7 @@
       "chapters": [
         {
           "id": "162031",
-          "status": "ongoing",
+          "status": "completed",
           "title": "The Island",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8xNjIwMzEuanNvbg/",
           "type": "manhwa",
@@ -16366,7 +16366,7 @@
       "chapters": [
         {
           "id": "83a456",
-          "status": "ongoing",
+          "status": "completed",
           "title": "Retorno do Sobrevivente",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl84M2E0NTYuanNvbg/",
           "type": "manhwa",
@@ -16600,7 +16600,7 @@
       "chapters": [
         {
           "id": "40104",
-          "status": "ongoing",
+          "status": "completed",
           "title": "Cara da torradeira",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21vZWwvbWFvZWxfNDAxMDQuanNvbg/",
           "type": "oel",
@@ -17016,7 +17016,7 @@
       "chapters": [
         {
           "id": "42927",
-          "status": "ongoing",
+          "status": "completed",
           "title": "Aliança Secreta",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21vZWwvbWFvZWxfNDI5MjcuanNvbg/",
           "type": "oel",
@@ -17146,7 +17146,7 @@
       "chapters": [
         {
           "id": "4677",
-          "status": "ongoing",
+          "status": "completed",
           "title": "Pegue Um e Leve Dois",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl80Njc3Lmpzb24/",
           "type": "manhwa",
@@ -17172,7 +17172,7 @@
       "chapters": [
         {
           "id": "7d4bbb",
-          "status": "ongoing",
+          "status": "completed",
           "title": "Acabe Comigo",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl83ZDRiYmIuanNvbg/",
           "type": "manhwa",
@@ -17211,7 +17211,7 @@
       "chapters": [
         {
           "id": "356897",
-          "status": "ongoing",
+          "status": "unknown",
           "title": "O Guerreiro de Sangue Frio",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8zNTY4OTcuanNvbg/",
           "type": "manhwa",
@@ -17458,7 +17458,7 @@
       "chapters": [
         {
           "id": "6f1f57",
-          "status": "ongoing",
+          "status": "completed",
           "title": " Laboratório Maravilhoso",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl82ZjFmNTcuanNvbg/",
           "type": "manhwa",
@@ -17627,7 +17627,7 @@
       "chapters": [
         {
           "id": "34247",
-          "status": "ongoing",
+          "status": "completed",
           "title": "Inverno Negro",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8zNDI0Ny5qc29u/",
           "type": "manhwa",
@@ -17809,7 +17809,7 @@
       "chapters": [
         {
           "id": "31261",
-          "status": "ongoing",
+          "status": "hiato",
           "title": "Corações Azuis",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzMxMjYxLmpzb24/",
           "type": "manga",
@@ -17861,7 +17861,7 @@
       "chapters": [
         {
           "id": "a44385",
-          "status": "ongoing",
+          "status": "completed",
           "title": "Me Tornei a Princesa Feia",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl9hNDQzODUuanNvbg/",
           "type": "manhwa",
@@ -17913,7 +17913,7 @@
       "chapters": [
         {
           "id": "26194",
-          "status": "ongoing",
+          "status": "completed",
           "title": "Um bom dia para ser um cachorro",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8yNjE5NC5qc29u/",
           "type": "manhwa",
@@ -18017,7 +18017,7 @@
       "chapters": [
         {
           "id": "c2ed60",
-          "status": "ongoing",
+          "status": "completed",
           "title": "O Boxeador",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl9jMmVkNjAuanNvbg/",
           "type": "manhwa",
@@ -18342,7 +18342,7 @@
       "chapters": [
         {
           "id": "5ec829",
-          "status": "ongoing",
+          "status": "cancelled",
           "title": " A Musa de Yumyeong",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl81ZWM4MjkuanNvbg/",
           "type": "manhwa",
@@ -18394,7 +18394,7 @@
       "chapters": [
         {
           "id": "42660",
-          "status": "ongoing",
+          "status": "completed",
           "title": "Noite de Imoralidade",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl80MjY2MC5qc29u/",
           "type": "manhwa",
@@ -18459,7 +18459,7 @@
       "chapters": [
         {
           "id": "016c16",
-          "status": "ongoing",
+          "status": "hiato",
           "title": "Missão Bárbara",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8wMTZjMTYuanNvbg/",
           "type": "manhwa",
@@ -18498,7 +18498,7 @@
       "chapters": [
         {
           "id": "36497",
-          "status": "ongoing",
+          "status": "completed",
           "title": " Uma História de Amor Não Tão Shoujo",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21vZWwvbWFvZWxfMzY0OTcuanNvbg/",
           "type": "oel",
@@ -18537,7 +18537,7 @@
       "chapters": [
         {
           "id": "4487",
-          "status": "ongoing",
+          "status": "completed",
           "title": "A Dama Mascarada",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl80NDg3Lmpzb24/",
           "type": "manhwa",
@@ -18550,7 +18550,7 @@
       "chapters": [
         {
           "id": "41700",
-          "status": "ongoing",
+          "status": "completed",
           "title": "A Você, Que Engoliu uma Estrela",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl80MTcwMC5qc29u/",
           "type": "manhwa",
@@ -18589,7 +18589,7 @@
       "chapters": [
         {
           "id": "37341",
-          "status": "ongoing",
+          "status": "completed",
           "title": "The Princess's Spaceship",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8zNzM0MS5qc29u/",
           "type": "manhwa",
@@ -18797,7 +18797,7 @@
       "chapters": [
         {
           "id": "23066",
-          "status": "ongoing",
+          "status": "completed",
           "title": "O General",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8yMzA2Ni5qc29u/",
           "type": "manhwa",
@@ -18810,7 +18810,7 @@
       "chapters": [
         {
           "id": "32790",
-          "status": "ongoing",
+          "status": "completed",
           "title": "Dawn the Teen Witch",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF8zMjc5MC5qc29u/",
           "type": "manhua",
@@ -19083,7 +19083,7 @@
       "chapters": [
         {
           "id": "447",
-          "status": "ongoing",
+          "status": "completed",
           "title": "Flores da Juventude",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl80NDcuanNvbg/",
           "type": "manhwa",
@@ -19135,7 +19135,7 @@
       "chapters": [
         {
           "id": "44066",
-          "status": "ongoing",
+          "status": "hiato",
           "title": "Uma Espada Reina Suprema",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF80NDA2Ni5qc29u/",
           "type": "manhua",
@@ -19200,7 +19200,7 @@
       "chapters": [
         {
           "id": "15e29e",
-          "status": "ongoing",
+          "status": "cancelled",
           "title": "Sozinho no Inferno",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8xNWUyOWUuanNvbg/",
           "type": "manhwa",
@@ -19252,7 +19252,7 @@
       "chapters": [
         {
           "id": "87753",
-          "status": "ongoing",
+          "status": "completed",
           "title": "Lua de Sangue",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl84Nzc1My5qc29u/",
           "type": "manhwa",
@@ -19330,7 +19330,7 @@
       "chapters": [
         {
           "id": "30962",
-          "status": "ongoing",
+          "status": "hiato",
           "title": "Boss in School",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8zMDk2Mi5qc29u/",
           "type": "manhwa",
@@ -19356,7 +19356,7 @@
       "chapters": [
         {
           "id": "39673",
-          "status": "ongoing",
+          "status": "hiato",
           "title": "Shen Ze",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8zOTY3My5qc29u/",
           "type": "manhwa",
@@ -19538,7 +19538,7 @@
       "chapters": [
         {
           "id": "e2b6d2",
-          "status": "ongoing",
+          "status": "hiato",
           "title": "Minha irmã pegou o protagonista masculino",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl9lMmI2ZDIuanNvbg/",
           "type": "manhwa",
@@ -19564,7 +19564,7 @@
       "chapters": [
         {
           "id": "32925",
-          "status": "ongoing",
+          "status": "hiato",
           "title": "Espada que desafia os céus",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF8zMjkyNS5qc29u/",
           "type": "manhua",
@@ -19967,7 +19967,7 @@
       "chapters": [
         {
           "id": "36138",
-          "status": "ongoing",
+          "status": "completed",
           "title": "Charlotte Tem 5 Discípulos!",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8zNjEzOC5qc29u/",
           "type": "manhwa",
@@ -20058,7 +20058,7 @@
       "chapters": [
         {
           "id": "06f40d",
-          "status": "ongoing",
+          "status": "completed",
           "title": "O Mais Jovem Chef do Hotel de 3°Categoria",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8wNmY0MGQuanNvbg/",
           "type": "manhwa",
@@ -20370,7 +20370,7 @@
       "chapters": [
         {
           "id": "c64e28",
-          "status": "ongoing",
+          "status": "hiato",
           "title": "No meio do inverno sombrio",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl9jNjRlMjguanNvbg/",
           "type": "manhwa",
@@ -20500,7 +20500,7 @@
       "chapters": [
         {
           "id": "51227",
-          "status": "ongoing",
+          "status": "hiato",
           "title": "Amor em Nó",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21vZWwvbWFvZWxfNTEyMjcuanNvbg/",
           "type": "oel",
@@ -20695,7 +20695,7 @@
       "chapters": [
         {
           "id": "34208",
-          "status": "ongoing",
+          "status": "completed",
           "title": "Jogador Renascido",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF8zNDIwOC5qc29u/",
           "type": "manhua",
@@ -20708,7 +20708,7 @@
       "chapters": [
         {
           "id": "6975",
-          "status": "ongoing",
+          "status": "completed",
           "title": "Minha Esposa é a Rainha dos Demônios",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF82OTc1Lmpzb24/",
           "type": "manhua",
@@ -20734,7 +20734,7 @@
       "chapters": [
         {
           "id": "f6836d",
-          "status": "ongoing",
+          "status": "completed",
           "title": "O Tranquilizante do Tirano (Completo)",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl9mNjgzNmQuanNvbg/",
           "type": "manhwa",
@@ -20812,7 +20812,7 @@
       "chapters": [
         {
           "id": "9595",
-          "status": "ongoing",
+          "status": "completed",
           "title": "Panqueca Armada do Apocalipse",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzk1OTUuanNvbg/",
           "type": "manga",
@@ -20838,7 +20838,7 @@
       "chapters": [
         {
           "id": "72843",
-          "status": "ongoing",
+          "status": "completed",
           "title": "Circunstâncias de um Casamento",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl83Mjg0My5qc29u/",
           "type": "manhwa",
@@ -21111,7 +21111,7 @@
       "chapters": [
         {
           "id": "5730",
-          "status": "ongoing",
+          "status": "completed",
           "title": "Roxana",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl81NzMwLmpzb24/",
           "type": "manhwa",
@@ -21215,7 +21215,7 @@
       "chapters": [
         {
           "id": "ea8976",
-          "status": "ongoing",
+          "status": "completed",
           "title": "Relatos Diários de Coisas Estranhas e Misteriosas",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwX2VhODk3Ni5qc29u/",
           "type": "manga",
@@ -21319,7 +21319,7 @@
       "chapters": [
         {
           "id": "67e91f",
-          "status": "ongoing",
+          "status": "completed",
           "title": "Dança da Fada Açucarada",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl82N2U5MWYuanNvbg/",
           "type": "manhwa",
@@ -21332,7 +21332,7 @@
       "chapters": [
         {
           "id": "3d02ae",
-          "status": "ongoing",
+          "status": "hiato",
           "title": "A Vilã Reverte a Ampulheta",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8zZDAyYWUuanNvbg/",
           "type": "manhwa",
@@ -21501,7 +21501,7 @@
       "chapters": [
         {
           "id": "88df97",
-          "status": "ongoing",
+          "status": "completed",
           "title": "A Princesinha Abandonada",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl84OGRmOTcuanNvbg/",
           "type": "manhwa",
@@ -21579,7 +21579,7 @@
       "chapters": [
         {
           "id": "c17512",
-          "status": "ongoing",
+          "status": "completed",
           "title": "A Flor da França",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl9jMTc1MTIuanNvbg/",
           "type": "manhwa",
@@ -21592,7 +21592,7 @@
       "chapters": [
         {
           "id": "fbeb4a",
-          "status": "ongoing",
+          "status": "hiato",
           "title": "A Lâmina da Evolução Andando Sozinho na Masmorra",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl9mYmViNGEuanNvbg/",
           "type": "manhwa",
@@ -21631,7 +21631,7 @@
       "chapters": [
         {
           "id": "26401",
-          "status": "ongoing",
+          "status": "completed",
           "title": "Doce Lar",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8yNjQwMS5qc29u/",
           "type": "manhwa",
@@ -21657,7 +21657,7 @@
       "chapters": [
         {
           "id": "88506",
-          "status": "ongoing",
+          "status": "completed",
           "title": "Laranja Danificada\t\t\t\t\t",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl84ODUwNi5qc29u/",
           "type": "manhwa",
@@ -21670,7 +21670,7 @@
       "chapters": [
         {
           "id": "50999",
-          "status": "ongoing",
+          "status": "completed",
           "title": "Pelo Que Eu Decidi Morrer",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl81MDk5OS5qc29u/",
           "type": "manhwa",
@@ -21761,7 +21761,7 @@
       "chapters": [
         {
           "id": "52666",
-          "status": "ongoing",
+          "status": "hiato",
           "title": " Vamos Nos Divorciar, Marido!",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl81MjY2Ni5qc29u/",
           "type": "manhwa",
@@ -21943,7 +21943,7 @@
       "chapters": [
         {
           "id": "6d277a",
-          "status": "ongoing",
+          "status": "hiato",
           "title": "Invencível Desde O Começo",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF82ZDI3N2EuanNvbg/",
           "type": "manhua",
@@ -22008,7 +22008,7 @@
       "chapters": [
         {
           "id": "66509",
-          "status": "ongoing",
+          "status": "hiato",
           "title": "Last on Earth",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl82NjUwOS5qc29u/",
           "type": "manhwa",
@@ -22099,7 +22099,7 @@
       "chapters": [
         {
           "id": "45c8e4",
-          "status": "ongoing",
+          "status": "completed",
           "title": "O Rei Saqueador de Tumbas",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl80NWM4ZTQuanNvbg/",
           "type": "manhwa",
@@ -22229,7 +22229,7 @@
       "chapters": [
         {
           "id": "a06e8f",
-          "status": "ongoing",
+          "status": "cancelled",
           "title": "A Chegada do Anel Divino o Mais Forte dos Mundos Alternativos",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl9hMDZlOGYuanNvbg/",
           "type": "manhwa",
@@ -22281,7 +22281,7 @@
       "chapters": [
         {
           "id": "31922",
-          "status": "ongoing",
+          "status": "completed",
           "title": "Rompendo Limites",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzMxOTIyLmpzb24/",
           "type": "manga",
@@ -22294,7 +22294,7 @@
       "chapters": [
         {
           "id": "4312af",
-          "status": "ongoing",
+          "status": "cancelled",
           "title": "amir 2",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF80MzEyYWYuanNvbg/",
           "type": "manhua",
@@ -22411,7 +22411,7 @@
       "chapters": [
         {
           "id": "22444",
-          "status": "ongoing",
+          "status": "completed",
           "title": "Oh! Nossa!",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8yMjQ0NC5qc29u/",
           "type": "manhwa",
@@ -22528,7 +22528,7 @@
       "chapters": [
         {
           "id": "172131",
-          "status": "ongoing",
+          "status": "completed",
           "title": "Fale Comigo",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8xNzIxMzEuanNvbg/",
           "type": "manhwa",
@@ -22619,7 +22619,7 @@
       "chapters": [
         {
           "id": "9109",
-          "status": "ongoing",
+          "status": "completed",
           "title": "A Heroína é um Homem! (Completo)",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl85MTA5Lmpzb24/",
           "type": "manhwa",
@@ -22645,7 +22645,7 @@
       "chapters": [
         {
           "id": "3d438e",
-          "status": "ongoing",
+          "status": "cancelled",
           "title": "A esposa abandonada tem um novo marido",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8zZDQzOGUuanNvbg/",
           "type": "manhwa",
@@ -22749,7 +22749,7 @@
       "chapters": [
         {
           "id": "71d6fe",
-          "status": "ongoing",
+          "status": "cancelled",
           "title": "O Indomável",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF83MWQ2ZmUuanNvbg/",
           "type": "manhua",
@@ -22853,7 +22853,7 @@
       "chapters": [
         {
           "id": "c306e3",
-          "status": "ongoing",
+          "status": "completed",
           "title": "A Estética do Vilão",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl9jMzA2ZTMuanNvbg/",
           "type": "manhwa",
@@ -22970,7 +22970,7 @@
       "chapters": [
         {
           "id": "24287",
-          "status": "ongoing",
+          "status": "hiato",
           "title": "ANZ",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8yNDI4Ny5qc29u/",
           "type": "manhwa",
@@ -22983,7 +22983,7 @@
       "chapters": [
         {
           "id": "47519",
-          "status": "ongoing",
+          "status": "cancelled",
           "title": "Eterno Primeiro Deus",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF80NzUxOS5qc29u/",
           "type": "manhua",
@@ -23126,7 +23126,7 @@
       "chapters": [
         {
           "id": "1177",
-          "status": "ongoing",
+          "status": "completed",
           "title": "O Demônio que Beija Meus Pés",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8xMTc3Lmpzb24/",
           "type": "manhwa",
@@ -23230,7 +23230,7 @@
       "chapters": [
         {
           "id": "84a9d1",
-          "status": "ongoing",
+          "status": "completed",
           "title": "Espinhos de Calor (Completo)",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl84NGE5ZDEuanNvbg/",
           "type": "manhwa",
@@ -23386,7 +23386,7 @@
       "chapters": [
         {
           "id": "f978a3",
-          "status": "ongoing",
+          "status": "hiato",
           "title": "O Retorno do Mago Negro ao Exército",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl9mOTc4YTMuanNvbg/",
           "type": "manhwa",
@@ -23464,7 +23464,7 @@
       "chapters": [
         {
           "id": "fec19c",
-          "status": "ongoing",
+          "status": "completed",
           "title": "De Dama à Rainha",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl9mZWMxOWMuanNvbg/",
           "type": "manhwa",
@@ -23828,7 +23828,7 @@
       "chapters": [
         {
           "id": "542d4e",
-          "status": "ongoing",
+          "status": "completed",
           "title": "Seduzindo o Pai do Vilão",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl81NDJkNGUuanNvbg/",
           "type": "manhwa",
@@ -23893,7 +23893,7 @@
       "chapters": [
         {
           "id": "a821f3",
-          "status": "ongoing",
+          "status": "hiato",
           "title": " Lillien de Turin",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl9hODIxZjMuanNvbg/",
           "type": "manhwa",
@@ -24049,7 +24049,7 @@
       "chapters": [
         {
           "id": "1d8369",
-          "status": "ongoing",
+          "status": "completed",
           "title": "Queijo na Armadilha",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8xZDgzNjkuanNvbg/",
           "type": "manhwa",
@@ -24114,7 +24114,7 @@
       "chapters": [
         {
           "id": "51744",
-          "status": "ongoing",
+          "status": "hiato",
           "title": "Ele não pode ser tão burro assim",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl81MTc0NC5qc29u/",
           "type": "manhwa",
@@ -24166,7 +24166,7 @@
       "chapters": [
         {
           "id": "38838",
-          "status": "ongoing",
+          "status": "completed",
           "title": " Místico",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8zODgzOC5qc29u/",
           "type": "manhwa",
@@ -24374,7 +24374,7 @@
       "chapters": [
         {
           "id": "7d5322",
-          "status": "ongoing",
+          "status": "unknown",
           "title": "O Florista Mais Forte",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl83ZDUzMjIuanNvbg/",
           "type": "manhwa",
@@ -24582,7 +24582,7 @@
       "chapters": [
         {
           "id": "14cd20",
-          "status": "ongoing",
+          "status": "completed",
           "title": "Já Faz um Tempo Desde que o Romance Original foi Concluído (Completo)",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8xNGNkMjAuanNvbg/",
           "type": "manhwa",
@@ -24816,7 +24816,7 @@
       "chapters": [
         {
           "id": "d75584",
-          "status": "ongoing",
+          "status": "hiato",
           "title": "Dias da Morte",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl9kNzU1ODQuanNvbg/",
           "type": "manhwa",
@@ -24920,7 +24920,7 @@
       "chapters": [
         {
           "id": "58d298",
-          "status": "ongoing",
+          "status": "completed",
           "title": "Como Transformar um Caminho Espinhoso em um Caminho Florido - Oneshot",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl81OGQyOTguanNvbg/",
           "type": "manhwa",
@@ -24959,7 +24959,7 @@
       "chapters": [
         {
           "id": "a215a6",
-          "status": "ongoing",
+          "status": "completed",
           "title": "Pensei que era um clichê",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl9hMjE1YTYuanNvbg/",
           "type": "manhwa",
@@ -24972,7 +24972,7 @@
       "chapters": [
         {
           "id": "79b562",
-          "status": "ongoing",
+          "status": "unknown",
           "title": "O Cultivo Começa ao Criar a Imperatriz do Clã Demoníaco",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl83OWI1NjIuanNvbg/",
           "type": "manhwa",
@@ -25232,7 +25232,7 @@
       "chapters": [
         {
           "id": "66766",
-          "status": "ongoing",
+          "status": "completed",
           "title": "The Priest Dreaming Of A Dragon",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl82Njc2Ni5qc29u/",
           "type": "manhwa",
@@ -25466,7 +25466,7 @@
       "chapters": [
         {
           "id": "51207",
-          "status": "ongoing",
+          "status": "completed",
           "title": "Nossa Aliança Secreta",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl81MTIwNy5qc29u/",
           "type": "manhwa",
@@ -25505,7 +25505,7 @@
       "chapters": [
         {
           "id": "2272bd",
-          "status": "ongoing",
+          "status": "completed",
           "title": "Meus Subordinados Insanamente Fortes",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF8yMjcyYmQuanNvbg/",
           "type": "manhua",
@@ -25531,7 +25531,7 @@
       "chapters": [
         {
           "id": "9522",
-          "status": "ongoing",
+          "status": "unknown",
           "title": "Lobo Faminto Preto e Azul - Punho da Estrela do Norte: Rei Gaiden",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzk1MjIuanNvbg/",
           "type": "manga",
@@ -25791,7 +25791,7 @@
       "chapters": [
         {
           "id": "ea2fbc",
-          "status": "ongoing",
+          "status": "completed",
           "title": "A Proprietária Bebê Está se Aposentando",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl9lYTJmYmMuanNvbg/",
           "type": "manhwa",
@@ -25895,7 +25895,7 @@
       "chapters": [
         {
           "id": "a65388",
-          "status": "ongoing",
+          "status": "hiato",
           "title": "Eu Me Tornarei Mãe de Um Guerreiro",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl9hNjUzODguanNvbg/",
           "type": "manhwa",
@@ -26064,7 +26064,7 @@
       "chapters": [
         {
           "id": "8909",
-          "status": "ongoing",
+          "status": "completed",
           "title": "O Diletante",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl84OTA5Lmpzb24/",
           "type": "manhwa",
@@ -26142,7 +26142,7 @@
       "chapters": [
         {
           "id": "50317",
-          "status": "ongoing",
+          "status": "hiato",
           "title": "A Seleção do Salvador da Terra",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl81MDMxNy5qc29u/",
           "type": "manhwa",
@@ -26376,7 +26376,7 @@
       "chapters": [
         {
           "id": "6943",
-          "status": "ongoing",
+          "status": "unknown",
           "title": " Nessa Vida, Irei Criar Você Bem, Sua Majestade!",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl82OTQzLmpzb24/",
           "type": "manhwa",
@@ -26402,7 +26402,7 @@
       "chapters": [
         {
           "id": "50968",
-          "status": "ongoing",
+          "status": "completed",
           "title": "O Motivo pelo qual Ophelia não Consegue Escapar do Duque",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl81MDk2OC5qc29u/",
           "type": "manhwa",
@@ -26506,7 +26506,7 @@
       "chapters": [
         {
           "id": "fc700e",
-          "status": "ongoing",
+          "status": "hiato",
           "title": "O Que Significa Ser Você",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl9mYzcwMGUuanNvbg/",
           "type": "manhwa",
@@ -26545,7 +26545,7 @@
       "chapters": [
         {
           "id": "05f69d",
-          "status": "ongoing",
+          "status": "completed",
           "title": "Minha Bela Graça",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8wNWY2OWQuanNvbg/",
           "type": "manhwa",
@@ -26571,7 +26571,7 @@
       "chapters": [
         {
           "id": "50279",
-          "status": "ongoing",
+          "status": "hiato",
           "title": "O Livro de Lagier",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl81MDI3OS5qc29u/",
           "type": "manhwa",
@@ -26805,7 +26805,7 @@
       "chapters": [
         {
           "id": "8401",
-          "status": "ongoing",
+          "status": "completed",
           "title": "O Infrator! 2 - Novas Ondas",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl84NDAxLmpzb24/",
           "type": "manhwa",
@@ -26831,7 +26831,7 @@
       "chapters": [
         {
           "id": "48416",
-          "status": "ongoing",
+          "status": "completed",
           "title": "The Villainess Needs Her Tyrant",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl80ODQxNi5qc29u/",
           "type": "manhwa",
@@ -27078,7 +27078,7 @@
       "chapters": [
         {
           "id": "33986",
-          "status": "ongoing",
+          "status": "hiato",
           "title": "O Lugar Imundo",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8zMzk4Ni5qc29u/",
           "type": "manhwa",
@@ -27143,7 +27143,7 @@
       "chapters": [
         {
           "id": "4f48f7",
-          "status": "ongoing",
+          "status": "completed",
           "title": "O Jogo do Cultivo Imortal",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF80ZjQ4ZjcuanNvbg/",
           "type": "manhua",
@@ -27156,7 +27156,7 @@
       "chapters": [
         {
           "id": "2648",
-          "status": "ongoing",
+          "status": "unknown",
           "title": "Cavaleiro Esqueleto em Outro Mundo",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzI2NDguanNvbg/",
           "type": "manga",
@@ -27182,7 +27182,7 @@
       "chapters": [
         {
           "id": "e615e7",
-          "status": "ongoing",
+          "status": "hiato",
           "title": " Minha Filha é um Gênia Musical",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl9lNjE1ZTcuanNvbg/",
           "type": "manhwa",
@@ -27221,7 +27221,7 @@
       "chapters": [
         {
           "id": "e5cdff",
-          "status": "ongoing",
+          "status": "completed",
           "title": "Dominei o Cão Louco do Meu Ex-Marido",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl9lNWNkZmYuanNvbg/",
           "type": "manhwa",
@@ -27260,7 +27260,7 @@
       "chapters": [
         {
           "id": "cd9661",
-          "status": "ongoing",
+          "status": "hiato",
           "title": "O Batom da Imperatriz",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl9jZDk2NjEuanNvbg/",
           "type": "manhwa",
@@ -27273,7 +27273,7 @@
       "chapters": [
         {
           "id": "f661c9",
-          "status": "ongoing",
+          "status": "hiato",
           "title": "Mago & Rainha Demônio",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl9mNjYxYzkuanNvbg/",
           "type": "manhwa",
@@ -27286,7 +27286,7 @@
       "chapters": [
         {
           "id": "86793",
-          "status": "ongoing",
+          "status": "completed",
           "title": "Não Podemos Escapar a Menos que Façamos Isso?!",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl84Njc5My5qc29u/",
           "type": "manhwa",
@@ -27494,7 +27494,7 @@
       "chapters": [
         {
           "id": "66648",
-          "status": "ongoing",
+          "status": "cancelled",
           "title": "For the Queendom",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl82NjY0OC5qc29u/",
           "type": "manhwa",
@@ -27585,7 +27585,7 @@
       "chapters": [
         {
           "id": "112204",
-          "status": "ongoing",
+          "status": "completed",
           "title": "Meu Marido Secretamente Gostoso",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8xMTIyMDQuanNvbg/",
           "type": "manhwa",
@@ -27689,7 +27689,7 @@
       "chapters": [
         {
           "id": "7249",
-          "status": "ongoing",
+          "status": "completed",
           "title": "Caminho Do Gênio Musical",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl83MjQ5Lmpzb24/",
           "type": "manhwa",
@@ -27702,7 +27702,7 @@
       "chapters": [
         {
           "id": "55219",
-          "status": "ongoing",
+          "status": "hiato",
           "title": "Morte: Remarcada",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21vZWwvbWFvZWxfNTUyMTkuanNvbg/",
           "type": "oel",
@@ -27715,7 +27715,7 @@
       "chapters": [
         {
           "id": "be0f01",
-          "status": "ongoing",
+          "status": "hiato",
           "title": "Descendente do Mestre Demoníaco",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl9iZTBmMDEuanNvbg/",
           "type": "manhwa",
@@ -27728,7 +27728,7 @@
       "chapters": [
         {
           "id": "d7a7ce",
-          "status": "ongoing",
+          "status": "completed",
           "title": " É Hora de Mudar o Gênero",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl9kN2E3Y2UuanNvbg/",
           "type": "manhwa",
@@ -27754,7 +27754,7 @@
       "chapters": [
         {
           "id": "55414",
-          "status": "ongoing",
+          "status": "hiato",
           "title": "I'm the Queen in This Life",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl81NTQxNC5qc29u/",
           "type": "manhwa",
@@ -28053,7 +28053,7 @@
       "chapters": [
         {
           "id": "dc9f4a",
-          "status": "ongoing",
+          "status": "completed",
           "title": "A caminho de ver a minha mãe",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl9kYzlmNGEuanNvbg/",
           "type": "manhwa",
@@ -28066,7 +28066,7 @@
       "chapters": [
         {
           "id": "c9f03d",
-          "status": "ongoing",
+          "status": "completed",
           "title": "DICE: O cubo que muda tudo",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl9jOWYwM2QuanNvbg/",
           "type": "manhwa",
@@ -28079,7 +28079,7 @@
       "chapters": [
         {
           "id": "6f8803",
-          "status": "ongoing",
+          "status": "hiato",
           "title": " Que o Santo Venha",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl82Zjg4MDMuanNvbg/",
           "type": "manhwa",
@@ -28105,7 +28105,7 @@
       "chapters": [
         {
           "id": "14299",
-          "status": "ongoing",
+          "status": "hiato",
           "title": "Pó de Diamante",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8xNDI5OS5qc29u/",
           "type": "manhwa",
@@ -28170,7 +28170,7 @@
       "chapters": [
         {
           "id": "4089",
-          "status": "ongoing",
+          "status": "completed",
           "title": "Sun-Ken Rock",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzQwODkuanNvbg/",
           "type": "manga",
@@ -28378,7 +28378,7 @@
       "chapters": [
         {
           "id": "1933a1",
-          "status": "ongoing",
+          "status": "completed",
           "title": "Canção De Amor de Heeran",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8xOTMzYTEuanNvbg/",
           "type": "manhwa",
@@ -28430,7 +28430,7 @@
       "chapters": [
         {
           "id": "ea89dd",
-          "status": "ongoing",
+          "status": "completed",
           "title": "De Volta ao Inicio",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl9lYTg5ZGQuanNvbg/",
           "type": "manhwa",
@@ -28534,7 +28534,7 @@
       "chapters": [
         {
           "id": "2de459",
-          "status": "ongoing",
+          "status": "completed",
           "title": "Eu não salvei você para ser pedida em Casamento (Completo)",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8yZGU0NTkuanNvbg/",
           "type": "manhwa",
@@ -28638,7 +28638,7 @@
       "chapters": [
         {
           "id": "3311",
-          "status": "ongoing",
+          "status": "hiato",
           "title": "Minha Filha é um Dragão!",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8zMzExLmpzb24/",
           "type": "manhwa",
@@ -28677,7 +28677,7 @@
       "chapters": [
         {
           "id": "506179",
-          "status": "ongoing",
+          "status": "hiato",
           "title": "Névoa do Fim do Verão",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF81MDYxNzkuanNvbg/",
           "type": "manhua",
@@ -28742,7 +28742,7 @@
       "chapters": [
         {
           "id": "56829",
-          "status": "ongoing",
+          "status": "hiato",
           "title": "Nosso Tirano Se Tornou Jovem",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl81NjgyOS5qc29u/",
           "type": "manhwa",
@@ -28781,7 +28781,7 @@
       "chapters": [
         {
           "id": "6346",
-          "status": "ongoing",
+          "status": "completed",
           "title": "Aja Como Se Me Amasse!",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl82MzQ2Lmpzb24/",
           "type": "manhwa",
@@ -28794,7 +28794,7 @@
       "chapters": [
         {
           "id": "53902",
-          "status": "ongoing",
+          "status": "hiato",
           "title": "Biblioteca do Caminho do Céu",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF81MzkwMi5qc29u/",
           "type": "manhua",
@@ -28911,7 +28911,7 @@
       "chapters": [
         {
           "id": "4742",
-          "status": "ongoing",
+          "status": "hiato",
           "title": "Guowang Wansui",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl80NzQyLmpzb24/",
           "type": "manhwa",
@@ -29119,7 +29119,7 @@
       "chapters": [
         {
           "id": "30a1ba",
-          "status": "ongoing",
+          "status": "cancelled",
           "title": "O lendário escultor do luar",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzMwYTFiYS5qc29u/",
           "type": "manga",
@@ -29197,7 +29197,7 @@
       "chapters": [
         {
           "id": "460",
-          "status": "ongoing",
+          "status": "unknown",
           "title": "Exorcista não Kiyoshi-kun",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzQ2MC5qc29u/",
           "type": "manga",
@@ -29600,7 +29600,7 @@
       "chapters": [
         {
           "id": "146ca6",
-          "status": "ongoing",
+          "status": "cancelled",
           "title": "O Lamento de Um Vilão",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8xNDZjYTYuanNvbg/",
           "type": "manhwa",
@@ -29652,7 +29652,7 @@
       "chapters": [
         {
           "id": "184557",
-          "status": "ongoing",
+          "status": "completed",
           "title": "Eu me tornei a Amiga do Protagonista Masculino (Completo)",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8xODQ1NTcuanNvbg/",
           "type": "manhwa",
@@ -29756,7 +29756,7 @@
       "chapters": [
         {
           "id": "1dfce9",
-          "status": "ongoing",
+          "status": "hiato",
           "title": "Minha Familia é Obecada por Mim",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8xZGZjZTkuanNvbg/",
           "type": "manhwa",
@@ -29821,7 +29821,7 @@
       "chapters": [
         {
           "id": "21417",
-          "status": "ongoing",
+          "status": "hiato",
           "title": "Bastard",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8yMTQxNy5qc29u/",
           "type": "manhwa",
@@ -29847,7 +29847,7 @@
       "chapters": [
         {
           "id": "247ecc",
-          "status": "ongoing",
+          "status": "hiato",
           "title": "Retorno do Imperador Imortal",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8yNDdlY2MuanNvbg/",
           "type": "manhwa",
@@ -30003,7 +30003,7 @@
       "chapters": [
         {
           "id": "2dd168",
-          "status": "ongoing",
+          "status": "completed",
           "title": "Eu não quero ter um Filho do Protagonista Masculino (Completo)",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8yZGQxNjguanNvbg/",
           "type": "manhwa",
@@ -30029,7 +30029,7 @@
       "chapters": [
         {
           "id": "3070",
-          "status": "ongoing",
+          "status": "hiato",
           "title": "I'm Not That Kind of Talent",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8zMDcwLmpzb24/",
           "type": "manhwa",
@@ -30068,7 +30068,7 @@
       "chapters": [
         {
           "id": "31111",
-          "status": "ongoing",
+          "status": "completed",
           "title": "Sua carta",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8zMTExMS5qc29u/",
           "type": "manhwa",
@@ -30081,7 +30081,7 @@
       "chapters": [
         {
           "id": "31921",
-          "status": "ongoing",
+          "status": "completed",
           "title": "Mestre da Dungeon",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8zMTkyMS5qc29u/",
           "type": "manhwa",
@@ -30107,7 +30107,7 @@
       "chapters": [
         {
           "id": "34031",
-          "status": "ongoing",
+          "status": "completed",
           "title": "A Empregada e o Vampiro",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8zNDAzMS5qc29u/",
           "type": "manhwa",
@@ -30120,7 +30120,7 @@
       "chapters": [
         {
           "id": "34940",
-          "status": "ongoing",
+          "status": "completed",
           "title": "Sessão Da Tarde",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8zNDk0MC5qc29u/",
           "type": "manhwa",
@@ -30146,7 +30146,7 @@
       "chapters": [
         {
           "id": "35246",
-          "status": "ongoing",
+          "status": "completed",
           "title": "Como Desejar, Príncipe",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8zNTI0Ni5qc29u/",
           "type": "manhwa",
@@ -30172,7 +30172,7 @@
       "chapters": [
         {
           "id": "355869",
-          "status": "ongoing",
+          "status": "unknown",
           "title": "Guerreiro da Espada Mental",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8zNTU4NjkuanNvbg/",
           "type": "manhwa",
@@ -30198,7 +30198,7 @@
       "chapters": [
         {
           "id": "3589",
-          "status": "ongoing",
+          "status": "completed",
           "title": "Onsaemiro (Completo)",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8zNTg5Lmpzb24/",
           "type": "manhwa",
@@ -30276,7 +30276,7 @@
       "chapters": [
         {
           "id": "3735",
-          "status": "ongoing",
+          "status": "completed",
           "title": "Depths of Malice",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8zNzM1Lmpzb24/",
           "type": "manhwa",
@@ -30302,7 +30302,7 @@
       "chapters": [
         {
           "id": "37880",
-          "status": "ongoing",
+          "status": "completed",
           "title": "O Pedido de Casamento de Priscilla",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8zNzg4MC5qc29u/",
           "type": "manhwa",
@@ -30341,7 +30341,7 @@
       "chapters": [
         {
           "id": "3945",
-          "status": "ongoing",
+          "status": "hiato",
           "title": " Casamento e Espada",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8zOTQ1Lmpzb24/",
           "type": "manhwa",
@@ -30445,7 +30445,7 @@
       "chapters": [
         {
           "id": "4204",
-          "status": "ongoing",
+          "status": "completed",
           "title": " Suas Mentiras Eternas",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl80MjA0Lmpzb24/",
           "type": "manhwa",
@@ -30497,7 +30497,7 @@
       "chapters": [
         {
           "id": "43583",
-          "status": "ongoing",
+          "status": "completed",
           "title": "Depois do ato final",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl80MzU4My5qc29u/",
           "type": "manhwa",
@@ -30523,7 +30523,7 @@
       "chapters": [
         {
           "id": "43749",
-          "status": "ongoing",
+          "status": "completed",
           "title": "The Sultan's Love",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl80Mzc0OS5qc29u/",
           "type": "manhwa",
@@ -30549,7 +30549,7 @@
       "chapters": [
         {
           "id": "442",
-          "status": "ongoing",
+          "status": "completed",
           "title": "Player",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl80NDIuanNvbg/",
           "type": "manhwa",
@@ -30640,7 +30640,7 @@
       "chapters": [
         {
           "id": "4715",
-          "status": "ongoing",
+          "status": "completed",
           "title": "Eu Peguei o Segundo Protagonista Masculino após o Final (Completo)",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl80NzE1Lmpzb24/",
           "type": "manhwa",
@@ -30757,7 +30757,7 @@
       "chapters": [
         {
           "id": "49626",
-          "status": "ongoing",
+          "status": "completed",
           "title": "A Princess's Guide to Saving Dragons",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl80OTYyNi5qc29u/",
           "type": "manhwa",
@@ -30770,7 +30770,7 @@
       "chapters": [
         {
           "id": "4d5c7e",
-          "status": "ongoing",
+          "status": "completed",
           "title": "O Peculiar Hobby da Senhorita",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl80ZDVjN2UuanNvbg/",
           "type": "manhwa",
@@ -30783,7 +30783,7 @@
       "chapters": [
         {
           "id": "50199",
-          "status": "ongoing",
+          "status": "completed",
           "title": "Casando com Meu Marido",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl81MDE5OS5qc29u/",
           "type": "manhwa",
@@ -30809,7 +30809,7 @@
       "chapters": [
         {
           "id": "50858",
-          "status": "ongoing",
+          "status": "hiato",
           "title": " Eu Me Declarei para o Chefe",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl81MDg1OC5qc29u/",
           "type": "manhwa",
@@ -30822,7 +30822,7 @@
       "chapters": [
         {
           "id": "51079",
-          "status": "ongoing",
+          "status": "completed",
           "title": "A Única Perfumista do Tirano",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl81MTA3OS5qc29u/",
           "type": "manhwa",
@@ -30887,7 +30887,7 @@
       "chapters": [
         {
           "id": "52461",
-          "status": "ongoing",
+          "status": "completed",
           "title": "Livre Em Sonhos",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl81MjQ2MS5qc29u/",
           "type": "manhwa",
@@ -30913,7 +30913,7 @@
       "chapters": [
         {
           "id": "53443",
-          "status": "ongoing",
+          "status": "completed",
           "title": "A Rainha dos Beijos",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl81MzQ0My5qc29u/",
           "type": "manhwa",
@@ -30926,7 +30926,7 @@
       "chapters": [
         {
           "id": "5345",
-          "status": "ongoing",
+          "status": "hiato",
           "title": "The Poisonous Healer",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl81MzQ1Lmpzb24/",
           "type": "manhwa",
@@ -30991,7 +30991,7 @@
       "chapters": [
         {
           "id": "54697",
-          "status": "ongoing",
+          "status": "completed",
           "title": "Consultoria sobre direitos de retrato",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl81NDY5Ny5qc29u/",
           "type": "manhwa",
@@ -31056,7 +31056,7 @@
       "chapters": [
         {
           "id": "56342",
-          "status": "ongoing",
+          "status": "hiato",
           "title": "The Duke's Darling Daughter-in-Law",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl81NjM0Mi5qc29u/",
           "type": "manhwa",
@@ -31173,7 +31173,7 @@
       "chapters": [
         {
           "id": "60018",
-          "status": "ongoing",
+          "status": "completed",
           "title": "A Casa Caída de Ardan",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl82MDAxOC5qc29u/",
           "type": "manhwa",
@@ -31303,7 +31303,7 @@
       "chapters": [
         {
           "id": "6482a8",
-          "status": "ongoing",
+          "status": "completed",
           "title": "Eu Fico Mais Forte Ao Comer",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl82NDgyYTguanNvbg/",
           "type": "manhwa",
@@ -31329,7 +31329,7 @@
       "chapters": [
         {
           "id": "6721",
-          "status": "ongoing",
+          "status": "completed",
           "title": "Por Que Você Faz Isso, Duque?",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl82NzIxLmpzb24/",
           "type": "manhwa",
@@ -31394,7 +31394,7 @@
       "chapters": [
         {
           "id": "6cbf5a",
-          "status": "ongoing",
+          "status": "completed",
           "title": "Uma Empregada Capaz",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl82Y2JmNWEuanNvbg/",
           "type": "manhwa",
@@ -31420,7 +31420,7 @@
       "chapters": [
         {
           "id": "6e0204",
-          "status": "ongoing",
+          "status": "completed",
           "title": " Eu Não Quero Atacar Você!",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl82ZTAyMDQuanNvbg/",
           "type": "manhwa",
@@ -31472,7 +31472,7 @@
       "chapters": [
         {
           "id": "72c56f",
-          "status": "ongoing",
+          "status": "completed",
           "title": "Reino da Rainha",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl83MmM1NmYuanNvbg/",
           "type": "manhwa",
@@ -31537,7 +31537,7 @@
       "chapters": [
         {
           "id": "7564b4",
-          "status": "ongoing",
+          "status": "completed",
           "title": "Rosalina Bogarti",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl83NTY0YjQuanNvbg/",
           "type": "manhwa",
@@ -31615,7 +31615,7 @@
       "chapters": [
         {
           "id": "78099",
-          "status": "ongoing",
+          "status": "completed",
           "title": "Tendão de Aquiles",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl83ODA5OS5qc29u/",
           "type": "manhwa",
@@ -31836,7 +31836,7 @@
       "chapters": [
         {
           "id": "2122",
-          "status": "ongoing",
+          "status": "completed",
           "title": " Minha Comida Parece ser Muito Fofa",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF8yMTIyLmpzb24/",
           "type": "manhua",
@@ -31875,7 +31875,7 @@
       "chapters": [
         {
           "id": "27",
-          "status": "ongoing",
+          "status": "hiato",
           "title": "Frenesi de Batalha",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF8yNy5qc29u/",
           "type": "manhua",
@@ -31901,7 +31901,7 @@
       "chapters": [
         {
           "id": "3290",
-          "status": "ongoing",
+          "status": "completed",
           "title": "Marcial Inverso",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF8zMjkwLmpzb24/",
           "type": "manhua",
@@ -31914,7 +31914,7 @@
       "chapters": [
         {
           "id": "33109",
-          "status": "ongoing",
+          "status": "completed",
           "title": "Caçadores de Energia",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF8zMzEwOS5qc29u/",
           "type": "manhua",
@@ -32018,7 +32018,7 @@
       "chapters": [
         {
           "id": "4655",
-          "status": "ongoing",
+          "status": "hiato",
           "title": "Minha Esposa É na Verdade a Imperatriz?",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF80NjU1Lmpzb24/",
           "type": "manhua",
@@ -32174,7 +32174,7 @@
       "chapters": [
         {
           "id": "6a6253",
-          "status": "ongoing",
+          "status": "hiato",
           "title": "Herói com outra opinião",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF82YTYyNTMuanNvbg/",
           "type": "manhua",
@@ -32291,7 +32291,7 @@
       "chapters": [
         {
           "id": "c05d24",
-          "status": "ongoing",
+          "status": "completed",
           "title": "Se Eu Não Morrer Logo, Realmente Me Tornarei Invencível!",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF9jMDVkMjQuanNvbg/",
           "type": "manhua",
@@ -32343,7 +32343,7 @@
       "chapters": [
         {
           "id": "db0226",
-          "status": "ongoing",
+          "status": "completed",
           "title": "Venerável Yuan",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF9kYjAyMjYuanNvbg/",
           "type": "manhua",
@@ -32421,7 +32421,7 @@
       "chapters": [
         {
           "id": "66390",
-          "status": "ongoing",
+          "status": "completed",
           "title": "O mundo à qual pertenço ",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21vZWwvbWFvZWxfNjYzOTAuanNvbg/",
           "type": "oel",
@@ -32460,7 +32460,7 @@
       "chapters": [
         {
           "id": "221335",
-          "status": "ongoing",
+          "status": "completed",
           "title": "Jacinto Púrpura ",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzIyMTMzNS5qc29u/",
           "type": "manga",
@@ -32525,7 +32525,7 @@
       "chapters": [
         {
           "id": "b62d87",
-          "status": "ongoing",
+          "status": "cancelled",
           "title": "Adeus, Meu Rei",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl9iNjJkODcuanNvbg/",
           "type": "manhwa",
@@ -32590,7 +32590,7 @@
       "chapters": [
         {
           "id": "48642",
-          "status": "ongoing",
+          "status": "completed",
           "title": "500CC",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl80ODY0Mi5qc29u/",
           "type": "manhwa",
@@ -32681,7 +32681,7 @@
       "chapters": [
         {
           "id": "df7d9e",
-          "status": "ongoing",
+          "status": "hiato",
           "title": "Vilão inigualável",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl9kZjdkOWUuanNvbg/",
           "type": "manhwa",
@@ -32694,7 +32694,7 @@
       "chapters": [
         {
           "id": "0c3941",
-          "status": "ongoing",
+          "status": "completed",
           "title": "Tanaka-kun é Sempre Tão Preguiçoso.",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzBjMzk0MS5qc29u/",
           "type": "manga",
@@ -32772,7 +32772,7 @@
       "chapters": [
         {
           "id": "1452",
-          "status": "ongoing",
+          "status": "unknown",
           "title": "Memórias vazias",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzE0NTIuanNvbg/",
           "type": "manga",
@@ -32928,7 +32928,7 @@
       "chapters": [
         {
           "id": "3219",
-          "status": "ongoing",
+          "status": "completed",
           "title": "Ressonância",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzMyMTkuanNvbg/",
           "type": "manga",
@@ -32967,7 +32967,7 @@
       "chapters": [
         {
           "id": "3408",
-          "status": "ongoing",
+          "status": "completed",
           "title": "Nossos Momentos de Felicidade",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzM0MDguanNvbg/",
           "type": "manga",
@@ -32993,7 +32993,7 @@
       "chapters": [
         {
           "id": "37481",
-          "status": "ongoing",
+          "status": "completed",
           "title": "30 Minutos",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzM3NDgxLmpzb24/",
           "type": "manga",
@@ -33058,7 +33058,7 @@
       "chapters": [
         {
           "id": "5244",
-          "status": "ongoing",
+          "status": "unknown",
           "title": "Uma história sobre um gato reencarnado em outro mundo",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzUyNDQuanNvbg/",
           "type": "manga",
@@ -33136,7 +33136,7 @@
       "chapters": [
         {
           "id": "679aec",
-          "status": "ongoing",
+          "status": "unknown",
           "title": "12 bestas",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzY3OWFlYy5qc29u/",
           "type": "manga",
@@ -33214,7 +33214,7 @@
       "chapters": [
         {
           "id": "7fbea2",
-          "status": "ongoing",
+          "status": "completed",
           "title": "A Ovelha Dourada",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzdmYmVhMi5qc29u/",
           "type": "manga",
@@ -33344,7 +33344,7 @@
       "chapters": [
         {
           "id": "033f83",
-          "status": "ongoing",
+          "status": "completed",
           "title": "Casamento de Vingança",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8wMzNmODMuanNvbg/",
           "type": "manhwa",
@@ -33682,7 +33682,7 @@
       "chapters": [
         {
           "id": "14621e",
-          "status": "ongoing",
+          "status": "cancelled",
           "title": "Me Disseram para Morrer",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8xNDYyMWUuanNvbg/",
           "type": "manhwa",
@@ -33799,7 +33799,7 @@
       "chapters": [
         {
           "id": "1686d9",
-          "status": "ongoing",
+          "status": "completed",
           "title": "Primavera Em Meio ao Meu Inverno",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8xNjg2ZDkuanNvbg/",
           "type": "manhwa",
@@ -33981,7 +33981,7 @@
       "chapters": [
         {
           "id": "1f2b12",
-          "status": "ongoing",
+          "status": "completed",
           "title": "Irei Seduzir o Duque do Norte",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8xZjJiMTIuanNvbg/",
           "type": "manhwa",
@@ -34020,7 +34020,7 @@
       "chapters": [
         {
           "id": "2059",
-          "status": "ongoing",
+          "status": "cancelled",
           "title": " Uma Existência Amada",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8yMDU5Lmpzb24/",
           "type": "manhwa",
@@ -34124,7 +34124,7 @@
       "chapters": [
         {
           "id": "243555",
-          "status": "ongoing",
+          "status": "completed",
           "title": "A brilhante senhorita Olive",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8yNDM1NTUuanNvbg/",
           "type": "manhwa",
@@ -34293,7 +34293,7 @@
       "chapters": [
         {
           "id": "2871",
-          "status": "ongoing",
+          "status": "hiato",
           "title": "Um Dia Eu Me Tornei Uma Princesa",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8yODcxLmpzb24/",
           "type": "manhwa",
@@ -34436,7 +34436,7 @@
       "chapters": [
         {
           "id": "2f9049",
-          "status": "ongoing",
+          "status": "completed",
           "title": "Mago da Culinária ",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8yZjkwNDkuanNvbg/",
           "type": "manhwa",
@@ -34540,7 +34540,7 @@
       "chapters": [
         {
           "id": "31dae6",
-          "status": "ongoing",
+          "status": "completed",
           "title": "A Preciosa irmã do vilão Grão-Duque (Completo)",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8zMWRhZTYuanNvbg/",
           "type": "manhwa",
@@ -34618,7 +34618,7 @@
       "chapters": [
         {
           "id": "33401",
-          "status": "ongoing",
+          "status": "completed",
           "title": "Wendy, a Florista",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8zMzQwMS5qc29u/",
           "type": "manhwa",
@@ -34657,7 +34657,7 @@
       "chapters": [
         {
           "id": "33572",
-          "status": "ongoing",
+          "status": "completed",
           "title": "A Salvadora do Vilão",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8zMzU3Mi5qc29u/",
           "type": "manhwa",
@@ -34813,7 +34813,7 @@
       "chapters": [
         {
           "id": "37151",
-          "status": "ongoing",
+          "status": "completed",
           "title": "Este é um casamento obviamente fraudulento",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8zNzE1MS5qc29u/",
           "type": "manhwa",
@@ -34878,7 +34878,7 @@
       "chapters": [
         {
           "id": "37897",
-          "status": "ongoing",
+          "status": "hiato",
           "title": "Sangue Profano",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8zNzg5Ny5qc29u/",
           "type": "manhwa",
@@ -34943,7 +34943,7 @@
       "chapters": [
         {
           "id": "38387",
-          "status": "ongoing",
+          "status": "completed",
           "title": "As Cartas de Charlotte",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8zODM4Ny5qc29u/",
           "type": "manhwa",
@@ -35034,7 +35034,7 @@
       "chapters": [
         {
           "id": "39079",
-          "status": "ongoing",
+          "status": "completed",
           "title": "A Common Story of a Lady's New Life",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8zOTA3OS5qc29u/",
           "type": "manhwa",
@@ -35073,7 +35073,7 @@
       "chapters": [
         {
           "id": "3a4706",
-          "status": "ongoing",
+          "status": "completed",
           "title": "Vossa Majestade, Por Favor Não me Mate Novamente (Completo)",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8zYTQ3MDYuanNvbg/",
           "type": "manhwa",
@@ -35203,7 +35203,7 @@
       "chapters": [
         {
           "id": "401c8d",
-          "status": "ongoing",
+          "status": "completed",
           "title": "Apenas um Amanhecer",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl80MDFjOGQuanNvbg/",
           "type": "manhwa",
@@ -35268,7 +35268,7 @@
       "chapters": [
         {
           "id": "41901",
-          "status": "ongoing",
+          "status": "hiato",
           "title": "Não confio na minha irmã gêmea",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl80MTkwMS5qc29u/",
           "type": "manhwa",
@@ -35398,7 +35398,7 @@
       "chapters": [
         {
           "id": "4443b1",
-          "status": "ongoing",
+          "status": "hiato",
           "title": "A Salvadora do Dragão",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl80NDQzYjEuanNvbg/",
           "type": "manhwa",
@@ -35424,7 +35424,7 @@
       "chapters": [
         {
           "id": "45569",
-          "status": "ongoing",
+          "status": "unknown",
           "title": "Trancando x Destravando",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl80NTU2OS5qc29u/",
           "type": "manhwa",
@@ -35476,7 +35476,7 @@
       "chapters": [
         {
           "id": "46235",
-          "status": "ongoing",
+          "status": "cancelled",
           "title": "O Senhor da Grana",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl80NjIzNS5qc29u/",
           "type": "manhwa",
@@ -35541,7 +35541,7 @@
       "chapters": [
         {
           "id": "47590",
-          "status": "ongoing",
+          "status": "completed",
           "title": "Garoto da espingarda",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl80NzU5MC5qc29u/",
           "type": "manhwa",
@@ -35606,7 +35606,7 @@
       "chapters": [
         {
           "id": "48652",
-          "status": "ongoing",
+          "status": "completed",
           "title": "Só Vim Procurar Meu Pai",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl80ODY1Mi5qc29u/",
           "type": "manhwa",
@@ -35671,7 +35671,7 @@
       "chapters": [
         {
           "id": "491510",
-          "status": "ongoing",
+          "status": "hiato",
           "title": "Julieta aqui não é Kansas!",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl80OTE1MTAuanNvbg/",
           "type": "manhwa",
@@ -35684,7 +35684,7 @@
       "chapters": [
         {
           "id": "49449",
-          "status": "ongoing",
+          "status": "completed",
           "title": "Don't Fall In Love!",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl80OTQ0OS5qc29u/",
           "type": "manhwa",
@@ -35723,7 +35723,7 @@
       "chapters": [
         {
           "id": "4afe49",
-          "status": "ongoing",
+          "status": "hiato",
           "title": "Me Tornei a Senhora da Casa",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl80YWZlNDkuanNvbg/",
           "type": "manhwa",
@@ -35775,7 +35775,7 @@
       "chapters": [
         {
           "id": "4f246e",
-          "status": "ongoing",
+          "status": "completed",
           "title": "Ele Despertou Quando Morri (Completo)",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl80ZjI0NmUuanNvbg/",
           "type": "manhwa",
@@ -35788,7 +35788,7 @@
       "chapters": [
         {
           "id": "4f78d2",
-          "status": "ongoing",
+          "status": "cancelled",
           "title": "Construtor de Finais",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl80Zjc4ZDIuanNvbg/",
           "type": "manhwa",
@@ -35814,7 +35814,7 @@
       "chapters": [
         {
           "id": "50160",
-          "status": "ongoing",
+          "status": "hiato",
           "title": "Ajudando o Irmão e Faturando Um Boy",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl81MDE2MC5qc29u/",
           "type": "manhwa",
@@ -35840,7 +35840,7 @@
       "chapters": [
         {
           "id": "506454",
-          "status": "ongoing",
+          "status": "completed",
           "title": "A Princesa Falsa Dominou o Coelho",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl81MDY0NTQuanNvbg/",
           "type": "manhwa",
@@ -35853,7 +35853,7 @@
       "chapters": [
         {
           "id": "50780",
-          "status": "ongoing",
+          "status": "completed",
           "title": "I Failed to Oust the Villain!",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl81MDc4MC5qc29u/",
           "type": "manhwa",
@@ -36048,7 +36048,7 @@
       "chapters": [
         {
           "id": "54b2af",
-          "status": "ongoing",
+          "status": "completed",
           "title": "Faça-me Chorar",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl81NGIyYWYuanNvbg/",
           "type": "manhwa",
@@ -36074,7 +36074,7 @@
       "chapters": [
         {
           "id": "5575",
-          "status": "ongoing",
+          "status": "completed",
           "title": "O Mestre",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl81NTc1Lmpzb24/",
           "type": "manhwa",
@@ -36087,7 +36087,7 @@
       "chapters": [
         {
           "id": "56404",
-          "status": "ongoing",
+          "status": "hiato",
           "title": "Escola de Guerreiros - Departamento de Ataque às Dungeons",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl81NjQwNC5qc29u/",
           "type": "manhwa",
@@ -36100,7 +36100,7 @@
       "chapters": [
         {
           "id": "56406",
-          "status": "ongoing",
+          "status": "cancelled",
           "title": "Não Olhe para Trás, Seisia!",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl81NjQwNi5qc29u/",
           "type": "manhwa",
@@ -36152,7 +36152,7 @@
       "chapters": [
         {
           "id": "5720",
-          "status": "ongoing",
+          "status": "hiato",
           "title": "The Lady of the Devil",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl81NzIwLmpzb24/",
           "type": "manhwa",
@@ -36178,7 +36178,7 @@
       "chapters": [
         {
           "id": "5817",
-          "status": "ongoing",
+          "status": "completed",
           "title": "Esta Vilã Quer o Divórcio",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl81ODE3Lmpzb24/",
           "type": "manhwa",
@@ -36451,7 +36451,7 @@
       "chapters": [
         {
           "id": "6349",
-          "status": "ongoing",
+          "status": "hiato",
           "title": "O Que o Duque Encontrou Na Floresta",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl82MzQ5Lmpzb24/",
           "type": "manhwa",
@@ -36490,7 +36490,7 @@
       "chapters": [
         {
           "id": "6414",
-          "status": "ongoing",
+          "status": "cancelled",
           "title": "O amigo do meu irmão mais novo",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl82NDE0Lmpzb24/",
           "type": "manhwa",
@@ -36594,7 +36594,7 @@
       "chapters": [
         {
           "id": "65a7ea",
-          "status": "ongoing",
+          "status": "hiato",
           "title": "Delinquente",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl82NWE3ZWEuanNvbg/",
           "type": "manhwa",
@@ -36828,7 +36828,7 @@
       "chapters": [
         {
           "id": "6eaa82",
-          "status": "ongoing",
+          "status": "completed",
           "title": "A Canção de Theodor",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl82ZWFhODIuanNvbg/",
           "type": "manhwa",
@@ -36906,7 +36906,7 @@
       "chapters": [
         {
           "id": "715a4e",
-          "status": "ongoing",
+          "status": "completed",
           "title": "A Duquesa da Estufa de Cristal",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl83MTVhNGUuanNvbg/",
           "type": "manhwa",
@@ -36919,7 +36919,7 @@
       "chapters": [
         {
           "id": "7183",
-          "status": "ongoing",
+          "status": "hiato",
           "title": "O Gênio Mágico da Casa Marquês",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl83MTgzLmpzb24/",
           "type": "manhwa",
@@ -36958,7 +36958,7 @@
       "chapters": [
         {
           "id": "72911",
-          "status": "ongoing",
+          "status": "completed",
           "title": "Shall We Bathe, Your Grace?",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl83MjkxMS5qc29u/",
           "type": "manhwa",
@@ -37179,7 +37179,7 @@
       "chapters": [
         {
           "id": "7991dc",
-          "status": "ongoing",
+          "status": "completed",
           "title": "A Cidade do Vento",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl83OTkxZGMuanNvbg/",
           "type": "manhwa",
@@ -37218,7 +37218,7 @@
       "chapters": [
         {
           "id": "7f14c6",
-          "status": "ongoing",
+          "status": "hiato",
           "title": "Lenda de Asura – O Dragão Venenoso",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl83ZjE0YzYuanNvbg/",
           "type": "manhwa",
@@ -37270,7 +37270,7 @@
       "chapters": [
         {
           "id": "80641",
-          "status": "ongoing",
+          "status": "unknown",
           "title": "My Child Will Have a Different Father",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl84MDY0MS5qc29u/",
           "type": "manhwa",
@@ -37374,7 +37374,7 @@
       "chapters": [
         {
           "id": "8287",
-          "status": "ongoing",
+          "status": "completed",
           "title": "Classe dos Heróis Fracos",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl84Mjg3Lmpzb24/",
           "type": "manhwa",
@@ -37504,7 +37504,7 @@
       "chapters": [
         {
           "id": "86850",
-          "status": "ongoing",
+          "status": "completed",
           "title": "[Traditional Erotic Fairy Tales] The Circumstances of Babo Ondal",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl84Njg1MC5qc29u/",
           "type": "manhwa",
@@ -37517,7 +37517,7 @@
       "chapters": [
         {
           "id": "86968",
-          "status": "ongoing",
+          "status": "completed",
           "title": "Qual deles é real?!",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl84Njk2OC5qc29u/",
           "type": "manhwa",
@@ -37725,7 +37725,7 @@
       "chapters": [
         {
           "id": "896377",
-          "status": "ongoing",
+          "status": "completed",
           "title": "Não Vou Aceitar Seu Arrependimento.",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl84OTYzNzcuanNvbg/",
           "type": "manhwa",
@@ -37946,7 +37946,7 @@
       "chapters": [
         {
           "id": "9047",
-          "status": "ongoing",
+          "status": "completed",
           "title": "O Lixo pertence à Lata de Lixo! (Completo)",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl85MDQ3Lmpzb24/",
           "type": "manhwa",
@@ -38271,7 +38271,7 @@
       "chapters": [
         {
           "id": "99074f",
-          "status": "ongoing",
+          "status": "hiato",
           "title": " Lady Krystal é Um Homem",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl85OTA3NGYuanNvbg/",
           "type": "manhwa",
@@ -38297,7 +38297,7 @@
       "chapters": [
         {
           "id": "99a7e7",
-          "status": "ongoing",
+          "status": "completed",
           "title": "Coração de Apolo",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl85OWE3ZTcuanNvbg/",
           "type": "manhwa",
@@ -38557,7 +38557,7 @@
       "chapters": [
         {
           "id": "ac6e97",
-          "status": "ongoing",
+          "status": "completed",
           "title": " A Duquesa Monstro e Princesa Contratada",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl9hYzZlOTcuanNvbg/",
           "type": "manhwa",
@@ -38622,7 +38622,7 @@
       "chapters": [
         {
           "id": "af1103",
-          "status": "ongoing",
+          "status": "completed",
           "title": "A Armadilha da Raposa (Completo)",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl9hZjExMDMuanNvbg/",
           "type": "manhwa",
@@ -38713,7 +38713,7 @@
       "chapters": [
         {
           "id": "b320f9",
-          "status": "ongoing",
+          "status": "completed",
           "title": "O Negócio está fechado por causa dos pais Tirânicos (Completo)",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl9iMzIwZjkuanNvbg/",
           "type": "manhwa",
@@ -39129,7 +39129,7 @@
       "chapters": [
         {
           "id": "ced3f9",
-          "status": "ongoing",
+          "status": "cancelled",
           "title": "Noiva de Asura",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl9jZWQzZjkuanNvbg/",
           "type": "manhwa",
@@ -39311,7 +39311,7 @@
       "chapters": [
         {
           "id": "d7b474",
-          "status": "ongoing",
+          "status": "hiato",
           "title": "Memórias do Futuro",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl9kN2I0NzQuanNvbg/",
           "type": "manhwa",
@@ -39480,7 +39480,7 @@
       "chapters": [
         {
           "id": "e5d650",
-          "status": "ongoing",
+          "status": "completed",
           "title": " Perdi a Coleira do Protagonista Masculino Yandere",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl9lNWQ2NTAuanNvbg/",
           "type": "manhwa",
@@ -39519,7 +39519,7 @@
       "chapters": [
         {
           "id": "e795f5",
-          "status": "ongoing",
+          "status": "completed",
           "title": "O Protagonista Obcecado me tornou a Principal (Completo)",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl9lNzk1ZjUuanNvbg/",
           "type": "manhwa",
@@ -39727,7 +39727,7 @@
       "chapters": [
         {
           "id": "f484db",
-          "status": "ongoing",
+          "status": "completed",
           "title": "A Heroína Teve um Caso Com Meu Noivo",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl9mNDg0ZGIuanNvbg/",
           "type": "manhwa",
@@ -39805,7 +39805,7 @@
       "chapters": [
         {
           "id": "f91965",
-          "status": "ongoing",
+          "status": "completed",
           "title": "Uma estrela que surge durante dia",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl9mOTE5NjUuanNvbg/",
           "type": "manhwa",
@@ -39844,7 +39844,7 @@
       "chapters": [
         {
           "id": "f9dcfe",
-          "status": "ongoing",
+          "status": "completed",
           "title": "Mestre da Transcendência Física",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl9mOWRjZmUuanNvbg/",
           "type": "manhwa",
@@ -39896,7 +39896,7 @@
       "chapters": [
         {
           "id": "fcdd49",
-          "status": "ongoing",
+          "status": "completed",
           "title": "Rei do Gado",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl9mY2RkNDkuanNvbg/",
           "type": "manhwa",
@@ -39961,7 +39961,7 @@
       "chapters": [
         {
           "id": "ff8de6",
-          "status": "ongoing",
+          "status": "completed",
           "title": "A Fúria e a Aurora",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl9mZjhkZTYuanNvbg/",
           "type": "manhwa",
@@ -40039,7 +40039,7 @@
       "chapters": [
         {
           "id": "1370",
-          "status": "ongoing",
+          "status": "hiato",
           "title": "Terra Espiritual (Parte 3): A lenda do rei dragão.",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF8xMzcwLmpzb24/",
           "type": "manhua",
@@ -40299,7 +40299,7 @@
       "chapters": [
         {
           "id": "31776",
-          "status": "ongoing",
+          "status": "hiato",
           "title": "Reverendo Insano",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF8zMTc3Ni5qc29u/",
           "type": "manhua",
@@ -40325,7 +40325,7 @@
       "chapters": [
         {
           "id": "33350",
-          "status": "ongoing",
+          "status": "hiato",
           "title": "Deus da guerra",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF8zMzM1MC5qc29u/",
           "type": "manhua",
@@ -40598,7 +40598,7 @@
       "chapters": [
         {
           "id": "4742",
-          "status": "ongoing",
+          "status": "completed",
           "title": "Saúdem o Rei",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF80NzQyLmpzb24/",
           "type": "manhua",
@@ -40611,7 +40611,7 @@
       "chapters": [
         {
           "id": "48327",
-          "status": "ongoing",
+          "status": "cancelled",
           "title": " Aproveite ao Máximo: Avance ou Fique para Trás",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF80ODMyNy5qc29u/",
           "type": "manhua",
@@ -40676,7 +40676,7 @@
       "chapters": [
         {
           "id": "4c89e0",
-          "status": "ongoing",
+          "status": "completed",
           "title": "Espadachim Imortal no Mundo Reverso",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF80Yzg5ZTAuanNvbg/",
           "type": "manhua",
@@ -40741,7 +40741,7 @@
       "chapters": [
         {
           "id": "52971",
-          "status": "ongoing",
+          "status": "hiato",
           "title": "Mundo Marcial Verdadeiro",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF81Mjk3MS5qc29u/",
           "type": "manhua",
@@ -40767,7 +40767,7 @@
       "chapters": [
         {
           "id": "53548",
-          "status": "ongoing",
+          "status": "hiato",
           "title": "Eterno Genro",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF81MzU0OC5qc29u/",
           "type": "manhua",
@@ -41014,7 +41014,7 @@
       "chapters": [
         {
           "id": "7b18ac",
-          "status": "ongoing",
+          "status": "completed",
           "title": "Mestre da Espada Espiritual",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF83YjE4YWMuanNvbg/",
           "type": "manhua",
@@ -41027,7 +41027,7 @@
       "chapters": [
         {
           "id": "7ec64a",
-          "status": "ongoing",
+          "status": "completed",
           "title": "Imperador da Estrela Negra",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF83ZWM2NGEuanNvbg/",
           "type": "manhua",
@@ -41170,7 +41170,7 @@
       "chapters": [
         {
           "id": "93808",
-          "status": "ongoing",
+          "status": "completed",
           "title": "Sua Maça",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF85MzgwOC5qc29u/",
           "type": "manhua",
@@ -41365,7 +41365,7 @@
       "chapters": [
         {
           "id": "e08bb5",
-          "status": "ongoing",
+          "status": "hiato",
           "title": "Vida eterna",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF9lMDhiYjUuanNvbg/",
           "type": "manhua",
@@ -41391,7 +41391,7 @@
       "chapters": [
         {
           "id": "ea028e",
-          "status": "ongoing",
+          "status": "cancelled",
           "title": "Tudo Começa Levando o Jogo a Sério",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21odWEvbWFjaF9lYTAyOGUuanNvbg/",
           "type": "manhua",
@@ -41469,7 +41469,7 @@
       "chapters": [
         {
           "id": "377647",
-          "status": "ongoing",
+          "status": "cancelled",
           "title": "O Som do Pão",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21vZWwvbWFvZWxfMzc3NjQ3Lmpzb24/",
           "type": "oel",
@@ -41599,7 +41599,7 @@
       "chapters": [
         {
           "id": "318527",
-          "status": "ongoing",
+          "status": "completed",
           "title": "Luu Anh, Seem Like You Still Wants to Have More Husbands!",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21vdC9tYW90XzMxODUyNy5qc29u/",
           "type": "other",
