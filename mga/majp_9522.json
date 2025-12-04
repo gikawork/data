@@ -1,10 +1,10 @@
 {
-  "title": "Lobo Faminto Preto e Azul - Punho da Estrela do Norte: Rei Gaiden",
+  "title": "Soukoku no Garou - Hokuto no Ken Rei Gaiden",
   "author": "Autor não encontrado",
   "artist": "Artista não encontrado",
   "description": "Rei é um homem implacável que viaja pelo mundo em busca de uma certa pessoa. Mas ele nem sempre foi implacável e sem compaixão — tanto sua busca quanto sua raiva são movidas pela vingança.\n\nAquele que tirou a humanidade de Rei dele é aquele que Rei deve encontrar e destruir, apesar de todas e quaisquer barreiras. Rei só se tornará um ser humano normal quando essa vingança for cumprida. Até esse dia, ele só pode vagar pelo mundo como um lobo solitário furioso, um lobo solitário que caça aqueles que se opõem a ele.",
   "cover": "https://cdn.verdinha.wtf/scans/1/obras/10087/67c5afe1a20af.png",
-  "status": null,
+  "status": "completo",
   "chapters": {
     "54": {
       "title": "Capítulo 54",
@@ -1463,5 +1463,8 @@
         ]
       }
     }
-  }
+  },
+  "type": "manga",
+  "id": "majp_9522",
+  "num_id": "9522"
 }
