@@ -1,10 +1,10 @@
 {
-  "title": " Nessa Vida, Irei Criar Você Bem, Sua Majestade!",
+  "title": "I'll Raise You Well in This Life, Your Majesty!",
   "author": "Autor não encontrado",
   "artist": "Artista não encontrado",
   "description": "Quando Ellisa abre os olhos e vê seu filho, Leon, olhando para ela com os olhos cheios de amor e preocupação, ela percebe que, por algum milagre, ela recebeu uma segunda chance. Em sua vida passada, ela pensava que fazer de Leon o imperador era a única maneira de garantir sua segurança. Mas se ela soubesse que Leon nunca quis a coroa, ou que colocar uma coroa encharcada com o sangue de seus inimigos e amados a seus pés significaria que ele tiraria a própria vida diante de seus olhos, ela teria encontrado outro jeito. Nesta vida, Ellisa está determinada a encontrar uma maneira que garanta a sobrevivência e a felicidade de Leon. Desta vez, as coisas serão diferentes.",
   "cover": "https://cdn.verdinha.wtf/scans/1/obras/8867/6795685e27cbe.png",
-  "status": null,
+  "status": "completo",
   "chapters": {
     "41": {
       "title": "Capítulo 41",
@@ -1196,5 +1196,8 @@
         ]
       }
     }
-  }
+  },
+  "type": "manhwa",
+  "id": "makr_6943",
+  "num_id": "6943"
 }
