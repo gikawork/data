@@ -1,10 +1,10 @@
 {
-  "title": "Guerreiro da Espada Mental",
+  "title": "Warrior of The Mind Sword",
   "author": "Autor não encontrado",
   "artist": "Artista não encontrado",
   "description": "Aqueles que conseguem desenhar uma Espada da Mente são chamados de \"Guerreiros\". Ellon parte em uma jornada para se tornar um, mas os guerreiros com quem ele sonhava acabam sendo nada mais do que máquinas de matar brutais. Será que Ellon superará esta dura realidade e se tornará um verdadeiro guerreiro?",
   "cover": "https://cdn.verdinha.wtf/scans/1/obras/12977/68705b2063fb6.png",
-  "status": null,
+  "status": "em lançamento",
   "chapters": {
     "8": {
       "title": "Capítulo 8",
@@ -218,5 +218,8 @@
         ]
       }
     }
-  }
+  },
+  "type": "manhwa",
+  "id": "makr_355869",
+  "num_id": "355869"
 }
