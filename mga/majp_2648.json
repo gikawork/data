@@ -1,10 +1,10 @@
 {
-  "title": "Cavaleiro Esqueleto em Outro Mundo",
+  "title": "Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu",
   "author": "Autor não encontrado",
   "artist": "Artista não encontrado",
   "description": "Arc, um jovem jogador, desmaia durante uma partida online e quando desperta se depara em um mundo estranho, muito semelhante ao do jogo. Chocado com o ocorrido, ele percebe que está neste mundo munido de uma armadura e uma poderosa arma, além de poderes e aparência modificada para a de um [Caveiro]. Arc precisa se manter vivo e, para isso, não deve chamar a atenção. Porém, ele acaba encontrando uma elfa chamada Ariana e aceitando o seu pedido.\n\n",
   "cover": "https://cdn.verdinha.wtf/scans/1/obras/10086/67c5a231d9b6d.png",
-  "status": null,
+  "status": "em lançamento",
   "chapters": {
     "56": {
       "title": "Capítulo 56",
@@ -1961,5 +1961,8 @@
         ]
       }
     }
-  }
+  },
+  "type": "manga",
+  "id": "majp_2648",
+  "num_id": "2648"
 }
