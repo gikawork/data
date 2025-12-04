@@ -1,10 +1,10 @@
 {
-  "title": "Uma história sobre um gato reencarnado em outro mundo",
+  "title": "A Cat Is a Cat in Any Life",
   "author": "Autor não encontrado",
   "artist": "Artista não encontrado",
   "description": "Uma história sobre um gato reencarnado em um mundo diferente onde não há gatos.",
   "cover": "https://cdn.verdinha.wtf/scans/1/obras/9988/67c1b665acf78.png",
-  "status": null,
+  "status": "completo",
   "chapters": {
     "26": {
       "title": "Capítulo 26",
@@ -303,5 +303,8 @@
         ]
       }
     }
-  }
+  },
+  "type": "manga",
+  "id": "majp_5244",
+  "num_id": "5244"
 }
