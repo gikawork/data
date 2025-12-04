@@ -1,10 +1,10 @@
 {
-  "title": "Memórias vazias",
+  "title": "Kara no Kioku",
   "author": "Autor não encontrado",
   "artist": "Artista não encontrado",
   "description": "Entre uma mudança recente para Tóquio e o primeiro dia do ensino médio, Rei começa seu dia cheio de ansiedade e insegurança. Seu nervosismo o acompanha até a sala de aula, onde em meio à conversa da sala, Rei é repentinamente atingido por um sonho estranho, seguido por um sonho estranho. doendo no peito. Assim que ele acorda, Rei é saudado por uma pequena criatura em pé em sua mesa. Fazendo-o passar por seu sonho, Rei vai para casa. No entanto, para sua surpresa, inúmeras outras criaturas estranhas de todas as formas e tamanhos vagam pelas ruas, aparentemente invisível para todos os outros. Com inúmeras perguntas e a pequena criatura de antes atrás dele, a vida de Rei muda para sempre quando ele encontra uma figura alta de um olho só, toda vestida de preto, sorrindo para ele.",
   "cover": "https://cdn.verdinha.wtf/scans/1/obras/9991/67c1bb583d523.png",
-  "status": null,
+  "status": "em lançamento",
   "chapters": {
     "41": {
       "title": "Capítulo 41",
@@ -1020,5 +1020,8 @@
         ]
       }
     }
-  }
+  },
+  "type": "manga",
+  "id": "majp_1452",
+  "num_id": "1452"
 }
