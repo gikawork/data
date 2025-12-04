@@ -1,10 +1,10 @@
 {
-  "title": "Trancando x Destravando",
+  "title": "Locker & Opener",
   "author": "Autor não encontrado",
   "artist": "Artista não encontrado",
   "description": "Não existe fechadura que o Detetive Dobin Kim não consiga abrir. Com sua habilidade única de 'abertura', ele consegue destravar qualquer coisa -- até pessoas -- para conseguir as informações que precisa para caçar criminosos e resolver crimes. Aí entra Locker -- seu oposto polar e sua inimiga. Quando Locker usa sua habilidade de 'trancar' numa testemunha e impede Kim de acessar informações-chave em um caso crucial, eles mergulham em um jogo de gato e rato com a própria justiça em jogo. Quando duas forças iguais colidem, quem sairá vitorioso?",
   "cover": "https://cdn.verdinha.wtf/scans/1/obras/13333/68804927912b6.png",
-  "status": null,
+  "status": "completo",
   "chapters": {
     "2": {
       "title": "Capítulo 2",
@@ -36,5 +36,8 @@
         ]
       }
     }
-  }
+  },
+  "type": "manhwa",
+  "id": "makr_45569",
+  "num_id": "45569"
 }
