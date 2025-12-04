@@ -4,7 +4,7 @@
   "artist": "Tapaha",
   "description": "Princesa Hinael Plake do Reino de Salur.\nEla foi assassinada pelo marido quando estava grávida.\nQuando pensei que minha vida havia terminado...\nAbri meus olhos e me vi de volta dois anos antes do meu casamento.\nDesta vez, não vou acreditar em coisas como o amor.\nPara evitar enfrentar outro futuro infeliz, decidi mudar meu destino e escolher outro homem. Aquele que eles chamam de Herói de Guerra de Trikas, que está destinado a se tornar o Imperador de Trikas, Lutz Viant.\n“Darei à luz seu filho. Por favor, proteja a criança que eu der à luz como seu herdeiro.”\nDesta vez, com certeza protegerei meu filho, aquele que tenho com outro homem.",
   "cover": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx182001-gVkyhuZcSkft.jpg",
-  "status": null,
+  "status": "em lançamento",
   "chapters": {
     "38": {
       "title": "Capítulo 38",
@@ -645,5 +645,8 @@
         ]
       }
     }
-  }
+  },
+  "type": "manhwa",
+  "id": "makr_80641",
+  "num_id": "80641"
 }
