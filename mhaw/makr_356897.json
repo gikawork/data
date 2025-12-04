@@ -1,10 +1,10 @@
 {
-  "title": "O Guerreiro de Sangue Frio",
+  "title": "The Cold-Blooded Warrior",
   "author": "Autor não encontrado",
   "artist": "Artista não encontrado",
   "description": "Han Jaewoo é um viciado no famoso jogo \"Savior Of Humanity\". Antes um jogador hardcore, agora está afundado em dívidas em seu quarto apertado. Seu aguardado confronto com o lorde demônio termina em fracasso, e com os cobradores se aproximando, tudo o que lhe resta é o desespero e a teimosia. É então que Aquila, a administradora, aparece com uma proposta: \"Você não quer ver o verdadeiro final feliz deste jogo...?\" Com um prêmio de 25 milhões de dólares em jogo e o caminho para o final verdadeiro revelado, ele aceita — mas há um porém: ele é jogado de volta ao mundo do jogo com todos os seus status reduzidos ao mínimo. \"Valeu pelo 'realismo', Aquila... Dane-se. Eu vou zerar essa porcaria!\" ",
   "cover": "https://cdn.verdinha.wtf/scans/1/obras/13289/687ee49ae94f1.png",
-  "status": null,
+  "status": "em lançamento",
   "chapters": {
     "10": {
       "title": "Capítulo 10",
@@ -247,5 +247,8 @@
         ]
       }
     }
-  }
+  },
+  "type": "manhwa",
+  "id": "makr_356897",
+  "num_id": "356897"
 }
