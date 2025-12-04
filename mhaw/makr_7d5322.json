@@ -1,10 +1,10 @@
 {
-  "title": "O Florista Mais Forte",
+  "title": "The Strongest Florist",
   "author": "Autor não encontrado",
   "artist": "Artista não encontrado",
   "description": "Apesar de sua aparência de lutador e expressão feroz, Jaeho não deseja nada além de se tornar um florista. No entanto, seu pai autoritário desaprova essa escolha e insiste para que ele siga a carreira de lutador de MMA. Buscando fugir das expectativas do pai, Jaeho entra no jogo de realidade virtual \"New World\", mas será que conseguirá realizar seu verdadeiro sonho?",
   "cover": "https://cdn.verdinha.wtf/scans/1/obras/13175/68771c5ca238b.webp",
-  "status": null,
+  "status": "completo",
   "chapters": {
     "45": {
       "title": "Capítulo 45",
@@ -1988,5 +1988,8 @@
         ]
       }
     }
-  }
+  },
+  "type": "manhwa",
+  "id": "makr_7d5322",
+  "num_id": "39019"
 }
