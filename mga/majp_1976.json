@@ -1,10 +1,10 @@
 {
-  "title": "Nível Mágico 99990000 Grande Sábio de Todos os Atributos",
+  "title": "Maryoku 9999-man: Zen Zokusei Tsukai no Dai Kenja",
   "author": "Autor não encontrado",
   "artist": "Artista não encontrado",
   "description": "Por todo o mundo, monstros começaram a aparecer de repente. A única pessoa que poderia salvar a humanidade da “Calamidade” era “O Grande Sábio”, Ichikami Atsumu. Mas, apesar de estar satisfeito em sua morte, ele foi reencarnado no corpo de um garoto que foi intimidado até se matar, Kusanagi Minato. Atsumu, ao acordar no Japão cinquenta anos no futuro, fica chocado ao ver um mundo pacífico, onde a magia se tornou muito mais fraca em comparação a quando ele estava vivo. Por enquanto, Atsumu decide voltar à Academia de Magia Kamui como Minato, mas descobre que os magos não são mais do que uma relíquia do passado, e em seu lugar existe uma classe de nobres privilegiados. Depois de enfrentar seus valentões de baixo nível, Atsumu ganha o interesse de uma garota nobre maga, Mizuha Yuika, bem como de seus colegas e professores. Além disso, Atsumu encontra um sinal de que a Calamidade, que supostamente havia sido subjugada, retornará–– “Parece que meu poder ainda é necessário”. Dentro da alma do estudante reside o Grande Sábio?! O mais forte Grande Sábio mudará este mundo embriagado pela paz. Com sua reencarnação no futuro definida, a cortina se abre para a história de um novo Herói!",
   "cover": "https://cdn.verdinha.wtf/scans/1/obras/13275/687db381a3e58.webp",
-  "status": null,
+  "status": "em lançamento",
   "chapters": {
     "87": {
       "title": "Capítulo 87",
@@ -5297,5 +5297,8 @@
         ]
       }
     }
-  }
+  },
+  "type": "manga",
+  "id": "majp_1976",
+  "num_id": "1976"
 }
