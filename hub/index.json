@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "lastUpdated": 1766037380,
+    "lastUpdated": 1766038725,
     "totalMangas": 3200,
     "version": "1.1.2",
     "statusAdded": true,
-    "statusUpdatedAt": 1766037380
+    "statusUpdatedAt": 1766038725
   },
   "mangas": {
     "makr_1970": {
@@ -3820,9 +3820,9 @@
       "title": "Hokago wa Kissaten De",
       "chapters": [
         {
-            "id": "7367",
-            "status": "completed",
-            "title": "Hokago wa Kissaten De",
+          "id": "7367",
+          "status": "completed",
+          "title": "Hokago wa Kissaten De",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzczNjcuanNvbg/",
           "type": "manga",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/nx100874-R0tRjl1gkNM3.jpg"
@@ -6040,12 +6040,12 @@
       ]
     },
     "majp_1976": {
-        "title": "Maryoku 9999-man: Zen Zokusei Tsukai no Dai Kenja",
+      "title": "Maryoku 9999-man: Zen Zokusei Tsukai no Dai Kenja",
       "chapters": [
         {
-            "id": "1976",
-            "status": "ongoing",
-            "title": "Maryoku 9999-man: Zen Zokusei Tsukai no Dai Kenja",
+          "id": "1976",
+          "status": "ongoing",
+          "title": "Maryoku 9999-man: Zen Zokusei Tsukai no Dai Kenja",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzE5NzYuanNvbg/",
           "type": "manga",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/13275/687db381a3e58.webp"
@@ -10915,14 +10915,14 @@
       ]
     },
     "makr_7893": {
-        "title": "Blink Master of the Magic Academy",
+      "title": "Blink Master of the Magic Academy",
       "chapters": [
         {
-            "id": "7893",
-            "status": "ongoing",
-            "title": "Blink Master of the Magic Academy",
+          "id": "7893",
+          "status": "ongoing",
+          "title": "Blink Master of the Magic Academy",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl83ODkzLmpzb24/",
-            "type": "manhwa",
+          "type": "manhwa",
           "cover_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx178379-dokda9kEw3Ns.jpg"
         }
       ]
@@ -11530,7 +11530,7 @@
       "chapters": [
         {
           "id": "5",
-            "status": "cancelled",
+          "status": "cancelled",
           "title": "Boku to Gal ga Fuufu ni Naru made",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzUuanNvbg/",
           "type": "manga",
@@ -12141,7 +12141,7 @@
       "chapters": [
         {
           "id": "677",
-            "status": "hiatus",
+          "status": "hiatus",
           "title": "HUNTER x HUNTER",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzY3Ny5qc29u/",
           "type": "manga",
@@ -12410,12 +12410,12 @@
       ]
     },
     "majp_1929": {
-      "title": "A Casca da Reencarnação",
+      "title": "Petals of Reincarnation",
       "chapters": [
         {
           "id": "1929",
           "status": "ongoing",
-          "title": "A Casca da Reencarnação",
+          "title": "Petals of Reincarnation",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzE5MjkuanNvbg/",
           "type": "manga",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/10921/680eb134f2c93.jpg"
@@ -17194,12 +17194,12 @@
       ]
     },
     "makr_356897": {
-        "title": "The Cold-Blooded Warrior",
+      "title": "The Cold-Blooded Warrior",
       "chapters": [
         {
-            "id": "356897",
-            "status": "ongoing",
-            "title": "The Cold-Blooded Warrior",
+          "id": "356897",
+          "status": "ongoing",
+          "title": "The Cold-Blooded Warrior",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8zNTY4OTcuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/13289/687ee49ae94f1.png"
@@ -24331,12 +24331,12 @@
       ]
     },
     "makr_7d5322": {
-        "title": "The Strongest Florist",
+      "title": "The Strongest Florist",
       "chapters": [
         {
-            "id": "39019",
-            "status": "completed",
-            "title": "The Strongest Florist",
+          "id": "39019",
+          "status": "completed",
+          "title": "The Strongest Florist",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl83ZDUzMjIuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/13175/68771c5ca238b.webp"
@@ -24929,14 +24929,14 @@
       ]
     },
     "makr_79b562": {
-        "title": "Cultivation Begins by Raising the Demon Clan’s Empress",
+      "title": "Cultivation Begins by Raising the Demon Clan’s Empress",
       "chapters": [
         {
-            "id": "355807",
-            "status": "ongoing",
-            "title": "Cultivation Begins by Raising the Demon Clan’s Empress",
+          "id": "355807",
+          "status": "ongoing",
+          "title": "Cultivation Begins by Raising the Demon Clan’s Empress",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl83OWI1NjIuanNvbg/",
-            "type": "manhua",
+          "type": "manhua",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/12885/6867505ad6012.webp"
         }
       ]
@@ -25488,12 +25488,12 @@
       ]
     },
     "majp_9522": {
-        "title": "Soukoku no Garou - Hokuto no Ken Rei Gaiden",
+      "title": "Soukoku no Garou - Hokuto no Ken Rei Gaiden",
       "chapters": [
         {
           "id": "9522",
-            "status": "completed",
-            "title": "Soukoku no Garou - Hokuto no Ken Rei Gaiden",
+          "status": "completed",
+          "title": "Soukoku no Garou - Hokuto no Ken Rei Gaiden",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzk1MjIuanNvbg/",
           "type": "manga",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/10087/67c5afe1a20af.png"
@@ -26333,12 +26333,12 @@
       ]
     },
     "makr_6943": {
-        "title": "I'll Raise You Well in This Life, Your Majesty!",
+      "title": "I'll Raise You Well in This Life, Your Majesty!",
       "chapters": [
         {
-            "id": "6943",
-            "status": "completed",
-            "title": "I'll Raise You Well in This Life, Your Majesty!",
+          "id": "6943",
+          "status": "completed",
+          "title": "I'll Raise You Well in This Life, Your Majesty!",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl82OTQzLmpzb24/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/8867/6795685e27cbe.png"
@@ -27113,12 +27113,12 @@
       ]
     },
     "majp_2648": {
-        "title": "Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu",
+      "title": "Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu",
       "chapters": [
         {
           "id": "2648",
-            "status": "ongoing",
-            "title": "Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu",
+          "status": "ongoing",
+          "title": "Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzI2NDguanNvbg/",
           "type": "manga",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/10086/67c5a231d9b6d.png"
@@ -29154,12 +29154,12 @@
       ]
     },
     "majp_460": {
-        "title": "Exorcist no Kiyoshi-kun",
+      "title": "Exorcist no Kiyoshi-kun",
       "chapters": [
         {
           "id": "460",
-            "status": "ongoing",
-            "title": "Exorcist no Kiyoshi-kun",
+          "status": "ongoing",
+          "title": "Exorcist no Kiyoshi-kun",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzQ2MC5qc29u/",
           "type": "manga",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/9987/67c1af4940f2b.png"
@@ -30129,12 +30129,12 @@
       ]
     },
     "makr_355869": {
-        "title": "Warrior of The Mind Sword",
+      "title": "Warrior of The Mind Sword",
       "chapters": [
         {
           "id": "355869",
-            "status": "ongoing",
-            "title": "Warrior of The Mind Sword",
+          "status": "ongoing",
+          "title": "Warrior of The Mind Sword",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl8zNTU4NjkuanNvbg/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/12977/68705b2063fb6.png"
@@ -32729,12 +32729,12 @@
       ]
     },
     "majp_1452": {
-        "title": "Kara no Kioku",
+      "title": "Kara no Kioku",
       "chapters": [
         {
           "id": "1452",
-            "status": "ongoing",
-            "title": "Kara no Kioku",
+          "status": "ongoing",
+          "title": "Kara no Kioku",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzE0NTIuanNvbg/",
           "type": "manga",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/9991/67c1bb583d523.png"
@@ -33015,12 +33015,12 @@
       ]
     },
     "majp_5244": {
-        "title": "A Cat Is a Cat in Any Life",
+      "title": "A Cat Is a Cat in Any Life",
       "chapters": [
         {
           "id": "5244",
-            "status": "completed",
-            "title": "A Cat Is a Cat in Any Life",
+          "status": "completed",
+          "title": "A Cat Is a Cat in Any Life",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzUyNDQuanNvbg/",
           "type": "manga",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/9988/67c1b665acf78.png"
@@ -33093,12 +33093,12 @@
       ]
     },
     "majp_679aec": {
-        "title": "12 Beast",
+      "title": "12 Beast",
       "chapters": [
         {
-            "id": "8042",
-            "status": "cancelled",
-            "title": "12 Beast",
+          "id": "8042",
+          "status": "cancelled",
+          "title": "12 Beast",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21nYS9tYWpwXzY3OWFlYy5qc29u/",
           "type": "manga",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/10088/67c5b89b39220.png"
@@ -35381,12 +35381,12 @@
       ]
     },
     "makr_45569": {
-        "title": "Locker & Opener",
+      "title": "Locker & Opener",
       "chapters": [
         {
           "id": "45569",
-            "status": "completed",
-            "title": "Locker & Opener",
+          "status": "completed",
+          "title": "Locker & Opener",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl80NTU2OS5qc29u/",
           "type": "manhwa",
           "cover_url": "https://cdn.verdinha.wtf/scans/1/obras/13333/68804927912b6.png"
@@ -37231,7 +37231,7 @@
       "chapters": [
         {
           "id": "80641",
-            "status": "ongoing",
+          "status": "ongoing",
           "title": "My Child Will Have a Different Father",
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL2RhdGEvcmVmcy9oZWFkcy9tYWluL21oYXcvbWFrcl84MDY0MS5qc29u/",
           "type": "manhwa",
